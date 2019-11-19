@@ -1,5 +1,4 @@
 office-part: Psalmus;
-initial-style: 1;
 transcriber: Baudouin Chaptal;
 %annotation: 7c;
 %fontsize: 12;
@@ -7,8 +6,6 @@ transcriber: Baudouin Chaptal;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 20;
-%initial-style: 1;
-%%
-(c3) (z)
-1. Mi(hg)se(hi)ré(i)re(i) <b>me</b>(k jr)i,(j) <b>De</b>(i jr)us,(j.) *(:)
+initial-style: 0;%%
+(c3) 1.( ) Mi(hg)se(hi)ré(i)re(i) <b>me</b>(k jr)i,(j) <b>De</b>(i jr)us,(j.) <v>\greheightstar</v>(:)
 se(i)cún(i)dum(i) ma(i)gnam(i) mi(i)se(i)ri(i)<b>cór</b>(j)di(ir)am(i) <b>tu</b>(h hr)am.(gh..) (::)

@@ -8,6 +8,5 @@ transcriber:Andrew Hinkley;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 20;
-%%
-(c4) (z)
-Me(g')mén(h)to(f') me(g)i,(g.) (,) Dó(h')mi(j)ne(i') De(j_)us,(h.) (;) dum(g) vé(hi)ne(hg)ris(h'_) in(f) re(gh)gnum(h) tu(g.)um.(g.) (::)
+initial-style: 0;%%
+(c4) Me(g')mén(h)to(f') me(g)i,(g.) (,) Dó(h')mi(j)ne(i') De(j_)us,(h.) (;) dum(g) vé(hi)ne(hg)ris(h'_) in(f) re(gh)gnum(h) tu(g.)um.(g.) (::)

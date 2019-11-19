@@ -1,5 +1,4 @@
 office-part: Psalmus;
-initial-style: 1;
 transcriber: Baudouin Chaptal;
 %annotation: G;
 %fontsize: 12;
@@ -7,6 +6,5 @@ transcriber: Baudouin Chaptal;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 20;
-%initial-style: 1;
-%%
-(c4) (z) Qua(g)re(h) fre(j)mu(j)é(j)runt(j) <b>gen</b>(k)tes,(j.) *(:) et(j) pó(j)pu(j)li(j) me(j)di(j)tá(j)ti(j) <i>sunt</i>(i) <i>i</i>(j)<b>ná</b>(h)ni(gr)a?(g.) (::)
+initial-style: 0;%%
+(c4) 1.( ) Qua(g)re(h) fre(j)mu(j)é(j)runt(j) <b>gen</b>(k)tes,(j.) <v>\greheightstar</v>(:) et(j) pó(j)pu(j)li(j) me(j)di(j)tá(j)ti(j) <i>sunt</i>(i) <i>i</i>(j)<b>ná</b>(h)ni(gr)a?(g.) (::)

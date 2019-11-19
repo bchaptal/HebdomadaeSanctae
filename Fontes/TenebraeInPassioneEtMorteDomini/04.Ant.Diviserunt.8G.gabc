@@ -7,5 +7,5 @@ transcriber:Andrew Hinkley;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 20;
-%%
-(c4) DI(g)vi(g')sé(h)runt(h') si(g)bi(g'_) *(,) ve(i)sti(h')mén(j)ta(i') me(h)a,(h.) (;) et(h) su(j')per(i) ve(jk)stem(h) mé(h_g)am(g.) (,) mi(g_f)sé(gh)runt(h) sor(g.)tem.(g.) (::)
+initial-style: 1;%%
+(c4) DI(g)vi(g')sé(h)runt(h') si(g)bi(g'_) <v>\greheightstar</v>(,) ve(i)sti(h')mén(j)ta(i') me(h)a,(h.) (;) et(h) su(j')per(i) ve(jk)stem(h) mé(h_g)am(g.) (,) mi(g_f)sé(gh)runt(h) sor(g.)tem.(g.) (::)

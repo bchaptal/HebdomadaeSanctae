@@ -1,8 +1,11 @@
-﻿name: 70-Verses holy week;
-initial-style: 0;
-annotation: Verses;
-user-notes: Psalm 70.;
+﻿%name: 70-Verses holy week;
+%annotation: Verses;
+%user-notes: Psalm 70.;
 centering-scheme: latin;
-%%
-(c4)1. De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)
-2. Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)
+initial-style: 0;%fontsize: 12;
+%spacing: vichi;
+%font: OFLSortsMillGoudy;
+%width: 4.84;
+%height: 20;
+(c4)<sp>V/</sp>( ) De(h)us(h) me(h)us,(h) é(h)ri(h)pe(h) me(h) de(h) ma(h)nu(h) pec(i')ca(h)tó(g.)ris.(g.) (::)
+<sp>R/</sp> Et(h) de(h) ma(h)nu(h) con(h)tra(h) le(h)gem(h) a(h)gén(h)tis(h) et(i') in(h)í(g.)qui.(g.) (::)

@@ -5,7 +5,6 @@ transcriber: Baudouin Chaptal;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 20;
-%%
-(c4) (z)
-<sp>V/</sp> Col(h)lo(h)cá(h)vit(h) me(h) in(i') obs(h)cú(g.)ris.(g.) (::) (Z)
-<sp>R/</sp> Si(h)cut(h) mór(i')tu(h)os(h) sæ(g')cu(g)li.(g.) (::)
+initial-style: 0;%%
+(c4) <sp>V/</sp>( ) Col(h)lo(h)cá(h)vit(h) me(h) in(i') obs(h)cú(g.)ris.(g.) (::) (Z)
+<sp>R/</sp>( ) Si(h)cut(h) mór(i')tu(h)os(h) sæ(g')cu(g)li.(g.) (::)

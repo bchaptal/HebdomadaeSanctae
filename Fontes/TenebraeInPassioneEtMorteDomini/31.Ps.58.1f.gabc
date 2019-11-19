@@ -1,15 +1,13 @@
 office-part: Psalmus;
 initial-style: 1;
 transcriber: Baudouin Chaptal;
-%annotation: 1f;
+mode: 1f;
 %fontsize: 12;
 %spacing: vichi;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 20;
-%initial-style: 1;
-%%
-(c4) (z)
-1. É(f)ri(gh)pe(h) me(h) de(h) in(h)i(h)mí(h)cis(h) me(h)is,(h) <b>De</b>(ixi hr )us(h) <b>me</b>(g hr)us:(h.) *(:)
+initial-style: 0;%%
+(c4) 1.( ) É(f)ri(gh)pe(h) me(h) de(h) in(h)i(h)mí(h)cis(h) me(h)is,(h) <b>De</b>(ixi hr )us(h) <b>me</b>(g hr)us:(h.) <v>\greheightstar</v>(:)
 et(h) ab(h) in(h)sur(h)gén(h)ti(h)bus(h) in(h) me(h) <i>lí</i>(g)<i>be</i>(f)<b>ra</b>(gh gr) me.(gf..) (::)
 <i>Fle</i>()<i>xe</i>() <i>:</i>() ó(h)re(h) su(h gr)o,(g.) †(h h h) (::)
