@@ -1,4 +1,4 @@
-# HebdomadaeSanctae
+﻿# HebdomadaeSanctae
 Cérémonies majeures et Ténèbres de la Semaine Sainte
 
 ## 1. Génération des partitions PDF
@@ -49,7 +49,7 @@ Grâce à la possibilité donée par indesign de garder le lien avec les fichier
 4. Psaumes latins en mono-colonne
 5. Remplacer i par j (diphtongues)
 6. Grasser et italiquer les partoches des psaumes
-7. Omittiur Gloria Patri à la p0fin du psaume 1
+7. Omittiur Gloria Patri à la fin du psaume 1
 8. Ant.8.G en Gras bas de casse
 9. Eviter les retours lignes pour une seule syllabe
 
@@ -58,7 +58,7 @@ Grâce à la possibilité donée par indesign de garder le lien avec les fichier
 * Les fichiers txt doivent être encodés en ANSI, mais le caractère ǽ ne passe pas et est remplacé par un ?. Il faudra donc exécuter une requête Grep, remplaçant \b\?\b par ǽ.
 * En latin, on met des espaces de ponctuation avant :;?!. On remplace donc [:;!?] par ~<$0
 * De même, on met des espaces insécables à chasse fixe avant les astériques et les †, ainsi qu'après les marques de versets et de répons.
-* Enfin, aprè avoir effectué la mise en forme, il faudra supprimer les balises, les liens et les commentaires.
+* Enfin, après avoir effectué la mise en forme, il faudra supprimer les balises, les liens et les commentaires.
 Super outils pour indesign: XStrings.
 http://www.kerntiff.co.uk/free-stuff/xchange-strings-xstrings
 C'est un outil très puissant pour le Rechercher/Remplacer en séries, avec nombre illimité de requêtes enregistrables dans des listes groupées.

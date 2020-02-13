@@ -1,0 +1,295 @@
+/tit/Ad Matutinum
+/tit/Ad Primum Nocturnum
+/lien/Ant. In pace <v>\greheightstar</v> in idípsum, dórmiam et requiéscam.
+/stit/Psalmus 4 
+/ps1/Cum invocárem exaudívit me Deus iustítiæ meæ: <v>\greheightstar</v> in tribulatióne dilatásti mihi.
+/ps/Miserére mei, <v>\greheightstar</v> et exáudi oratiónem meam.
+/ps/Fílii hóminum, úsquequo gravi corde? <v>\greheightstar</v> ut quid dilígitis vanitátem, et quǽritis mendácium?
+/ps/Et scitóte quóniam mirificávit Dóminus sanctum suum: <v>\greheightstar</v> Dóminus exáudiet me cum clamávero ad eum.
+/ps/Irascímini, et nolíte peccáre: <v>\greheightstar</v> quæ dícitis in córdibus vestris, in cubílibus vestris compungímini.
+/ps/Sacrificáte sacrifícium iustítiæ, et speráte in Dómino. <v>\greheightstar</v> Multi dicunt: Quis osténdit nobis bona?
+/ps/Signátum est super nos lumen vultus tui, Dómine: <v>\greheightstar</v> dedísti lætítiam in corde meo.
+/ps/A fructu fruménti, vini, et ólei sui <v>\greheightstar</v> multiplicáti sunt.
+/ps/In pace in idípsum <v>\greheightstar</v> dórmiam, et requiéscam;
+/ps/Quóniam tu, Dómine, singuláriter in spe <v>\greheightstar</v> constituísti me.
+/lien/Ant. In pace in idípsum, dórmiam et requiéscam.
+/lien/Ant. Habitábit <v>\greheightstar</v> in tabernáculo tuo, requiéscet in monte sancto tuo.
+/stit/Psalmus 14 
+/ps1/Dómine, quis habitábit in tabernáculo tuo? <v>\greheightstar</v> aut quis requiéscet in monte sancto tuo?
+/ps/Qui ingréditur sine mácula, <v>\greheightstar</v> et operátur iustítiam:
+/ps/Qui lóquitur veritátem in corde suo, <v>\greheightstar</v> qui non egit dolum in lingua sua:
+/ps/Nec fecit próximo suo malum, <v>\greheightstar</v> et oppróbrium non accépit advérsus próximos suos.
+/ps/Ad níhilum dedúctus est in conspéctu eius malígnus: <v>\greheightstar</v> timéntes autem Dóminum gloríficat:
+/ps/Qui iurat próximo suo, et non décipit, <v>\greheightstar</v> qui pecúniam suam non dedit ad usúram, et múnera super innocéntem non accépit.
+/ps/Qui facit hæc: <v>\greheightstar</v> non movébitur in ætérnum.
+/lien/Ant. Habitábit in tabernáculo tuo, requiéscet in monte sancto tuo.
+/lien/Ant. Caro mea <v>\greheightstar</v> requiéscet in spe.
+/stit/Psalmus 15 
+/ps1/Consérva me, Dómine, quóniam sperávi in te. <v>\greheightstar</v> Dixi Dómino: Deus meus es tu, quóniam bonórum meórum non eges.
+/ps/Sanctis, qui sunt in terra eius, <v>\greheightstar</v> mirificávit omnes voluntátes meas in eis.
+/ps/Multiplicátæ sunt infirmitátes eórum: <v>\greheightstar</v> póstea acceleravérunt.
+/ps/Non congregábo conventícula eórum de sanguínibus, <v>\greheightstar</v> nec memor ero nóminum eórum per lábia mea.
+/ps/Dóminus pars hereditátis meæ, et cálicis mei: <v>\greheightstar</v> tu es, qui restítues hereditátem meam mihi.
+/ps/Funes cecidérunt mihi in præcláris: <v>\greheightstar</v> étenim heréditas mea præclára est mihi.
+/ps/Benedícam Dóminum, qui tríbuit mihi intelléctum: <v>\greheightstar</v> ínsuper et usque ad noctem increpuérunt me renes mei.
+/ps/Providébam Dóminum in conspéctu meo semper: <v>\greheightstar</v> quóniam a dextris est mihi, ne commóvear.
+/ps/Propter hoc lætátum est cor meum, et exsultávit lingua mea: <v>\greheightstar</v> ínsuper et caro mea requiéscet in spe.
+/ps/Quóniam non derelínques ánimam meam in inférno: <v>\greheightstar</v> nec dabis sanctum tuum vidére corruptiónem.
+/ps/Notas mihi fecísti vias vitæ, adimplébis me lætítia cum vultu tuo: <v>\greheightstar</v> delectatiónes in déxtera tua usque in finem.
+/lien/Ant. Caro mea requiéscet in spe.
+/lien/v In pace in idípsum.
+/lien/r Dórmiam et requiéscam.
+/latin/Pater noster =(secreto)=
+/stit/Lectio 1
+/ref/Lam 3:22-30
+/lien/De Lamentatióne Ieremíæ Prophétæ. Heth. Misericórdiæ Dómini quia non sumus consúmpti: quia non defecérunt miseratiónes eius. Heth. Novi dilúculo, multa est fides tua. Heth. Pars mea Dóminus, dixit ánima mea: proptérea exspectábo eum. Teth. Bonus est Dóminus sperántibus in eum, ánimæ quærénti illum. Teth. Bonum est præstolári cum siléntio salutáre Dei. Teth. Bonum est viro cum portáverit iugum ab adulescéntia sua. Iod. Sedébit solitárius, et tacébit: quia levávit super se. Iod. Ponet in púlvere os suum, si forte sit spes. Iod. Dabit percutiénti se maxíllam, saturábitur oppróbriis. Ierúsalem, Ierúsalem, convértere ad Dóminum Deum tuum.
+/lien/r Sicut ovis ad occisiónem ductus est, et dum male tractarétur, non apéruit os suum: tráditus est ad mortem, <v>\greheightstar</v> Ut vivificáret pópulum suum. v Trádidit in mortem ánimam suam, et inter scelerátos reputátus est. r Ut vivificáret pópulum suum.
+/stit/Lectio 2
+/ref/Lam 4:1-6
+/lien/Aleph. Quómodo obscurátum est aurum, mutátus est color óptimus, dispérsi sunt lápides sanctuárii in cápite ómnium plateárum? Beth. Fílii Sion íncliti, et amícti auro primo: quómodo reputáti sunt in vasa téstea, opus mánuum fíguli? Ghimel. Sed et lámiæ nudavérunt mammam, lactavérunt cátulos suos: fília pópuli mei crudélis, quasi strúthio in desérto. Daleth. Adhǽsit lingua lacténtis ad palátum eius in siti: párvuli petiérunt panem, et non erat qui frángeret eis. He. Qui vescebántur voluptuóse, interiérunt in viis: qui nutriebántur in cróceis, amplexáti sunt stércora. Vau. Et maior effécta est iníquitas fíliæ pópuli mei peccáto Sodomórum, quæ subvérsa est in moménto, et non cepérunt in ea manus. Ierúsalem, Ierúsalem, convértere ad Dóminum Deum tuum.
+/lien/r Ierúsalem, surge, et éxue te véstibus iucunditátis: indúere cínere et cilício, <v>\greheightstar</v> Quia in te occísus est Salvátor Israël. v Deduc quasi torréntem lácrimas per diem et noctem, et non táceat pupílla óculi tui. r Quia in te occísus est Salvátor Israël.
+/stit/Lectio 3
+/ref/Lam 5:1-11
+/lien/Incipit Orátio Ieremíæ Prophétæ. Recordáre, Dómine, quid accíderit nobis: intuére, et réspice oppróbrium nostrum. Heréditas nostra versa est ad aliénos: domus nostræ ad extráneos. Pupílli facti sumus absque patre, matres nostræ quasi víduæ. Aquam nostram pecúnia bíbimus: ligna nostra prétio comparávimus. Cervícibus nostris minábamur, lassis non dabátur réquies. Ægýpto dédimus manum, et Assýriis, ut saturarémur pane. Patres nostri peccavérunt, et non sunt: et nos iniquitátes eórum portávimus. Servi domináti sunt nostri: non fuit qui redímeret de manu eórum. In animábus nostris afferebámus panem nobis, a fácie gládii in desérto. Pellis nostra quasi clíbanus exústa est a fácie tempestátum famis. Mulíeres in Sion humiliavérunt, et vírgines in civitátibus Iuda. Ierúsalem, Ierúsalem, convértere ad Dóminum Deum tuum.
+/lien/r Plange quasi virgo, plebs mea: ululáte, pastóres, in cínere et cilício: <v>\greheightstar</v> Quia venit dies Dómini magna, et amára valde. v Accíngite vos, sacerdótes, et plángite, minístri altáris, aspérgite vos cínere. r Quia venit dies Dómini magna, et amára valde. r Plange quasi virgo, plebs mea: ululáte, pastóres, in cínere et cilício: <v>\greheightstar</v> Quia venit dies Dómini magna, et amára valde.
+/tit/Ad Secundum Nocturnum
+/lien/Ant. Elevámini, <v>\greheightstar</v> portæ æternáles, et introíbit Rex glóriæ.
+/stit/Psalmus 23 
+/ps1/Dómini est terra, et plenitúdo eius: <v>\greheightstar</v> orbis terrárum, et univérsi qui hábitant in eo.
+/ps/Quia ipse super mária fundávit eum: <v>\greheightstar</v> et super flúmina præparávit eum.
+/ps/Quis ascéndet in montem Dómini? <v>\greheightstar</v> aut quis stabit in loco sancto eius?
+/ps/Ínnocens mánibus et mundo corde, <v>\greheightstar</v> qui non accépit in vano ánimam suam, nec iurávit in dolo próximo suo.
+/ps/Hic accípiet benedictiónem a Dómino: <v>\greheightstar</v> et misericórdiam a Deo, salutári suo.
+/ps/Hæc est generátio quæréntium eum, <v>\greheightstar</v> quæréntium fáciem Dei Iacob.
+/ps/Attóllite portas, príncipes, vestras, et elevámini, portæ æternáles: <v>\greheightstar</v> et introíbit Rex glóriæ.
+/ps/Quis est iste Rex glóriæ? <v>\greheightstar</v> Dóminus fortis et potens: Dóminus potens in prǽlio.
+/ps/Attóllite portas, príncipes, vestras, et elevámini, portæ æternáles: <v>\greheightstar</v> et introíbit Rex glóriæ.
+/ps/Quis est iste Rex glóriæ? <v>\greheightstar</v> Dóminus virtútum ipse est Rex glóriæ.
+/lien/Ant. Elevámini, portæ æternáles, et introíbit Rex glóriæ.
+/lien/Ant. Credo vidére <v>\greheightstar</v> bona Dómini in terra vivéntium.
+/stit/Psalmus 26 
+/ps1/Dóminus illuminátio mea, et salus mea, <v>\greheightstar</v> quem timébo?
+/ps/Dóminus protéctor vitæ meæ, <v>\greheightstar</v> a quo trepidábo?
+/ps/Dum apprópiant super me nocéntes, <v>\greheightstar</v> ut edant carnes meas:
+/ps/Qui tríbulant me inimíci mei, <v>\greheightstar</v> ipsi infirmáti sunt, et cecidérunt.
+/ps/Si consístant advérsum me castra, <v>\greheightstar</v> non timébit cor meum.
+/ps/Si exsúrgat advérsum me prǽlium, <v>\greheightstar</v> in hoc ego sperábo.
+/ps/Unam pétii a Dómino, hanc requíram, <v>\greheightstar</v> ut inhábitem in domo Dómini ómnibus diébus vitæ meæ:
+/ps/Ut vídeam voluptátem Dómini, <v>\greheightstar</v> et vísitem templum eius.
+/ps/Quóniam abscóndit me in tabernáculo suo: <v>\greheightstar</v> in die malórum protéxit me in abscóndito tabernáculi sui.
+/ps/In petra exaltávit me: <v>\greheightstar</v> et nunc exaltávit caput meum super inimícos meos.
+/ps/Circuívi, et immolávi in tabernáculo eius hóstiam vociferatiónis: <v>\greheightstar</v> cantábo, et psalmum dicam Dómino.
+/ps/Exáudi, Dómine, vocem meam, qua clamávi ad te: <v>\greheightstar</v> miserére mei, et exáudi me.
+/ps/Tibi dixit cor meum, exquisívit te fácies mea: <v>\greheightstar</v> fáciem tuam, Dómine, requíram.
+/ps/Ne avértas fáciem tuam a me: <v>\greheightstar</v> ne declínes in ira a servo tuo.
+/ps/Adiútor meus esto: <v>\greheightstar</v> ne derelínquas me, neque despícias me, Deus, salutáris meus.
+/ps/Quóniam pater meus, et mater mea dereliquérunt me: <v>\greheightstar</v> Dóminus autem assúmpsit me.
+/ps/Legem pone mihi, Dómine, in via tua: <v>\greheightstar</v> et dírige me in sémitam rectam propter inimícos meos.
+/ps/Ne tradíderis me in ánimas tribulántium me: <v>\greheightstar</v> quóniam insurrexérunt in me testes iníqui, et mentíta est iníquitas sibi.
+/ps/Credo vidére bona Dómini <v>\greheightstar</v> in terra vivéntium.
+/ps/Exspécta Dóminum, viríliter age: <v>\greheightstar</v> et confortétur cor tuum, et sústine Dóminum.
+/lien/Ant. Credo vidére bona Dómini in terra vivéntium.
+/lien/Ant. Dómine, <v>\greheightstar</v> abstraxísti ab ínferis ánimam meam.
+/stit/Psalmus 29 
+/ps1/Exaltábo te, Dómine, quóniam suscepísti me: <v>\greheightstar</v> nec delectásti inimícos meos super me.
+/ps/Dómine, Deus meus, clamávi ad te, <v>\greheightstar</v> et sanásti me.
+/ps/Dómine, eduxísti ab inférno ánimam meam: <v>\greheightstar</v> salvásti me a descendéntibus in lacum.
+/ps/Psállite Dómino, sancti eius: <v>\greheightstar</v> et confitémini memóriæ sanctitátis eius.
+/ps/Quóniam ira in indignatióne eius: <v>\greheightstar</v> et vita in voluntáte eius.
+/ps/Ad vésperum demorábitur fletus: <v>\greheightstar</v> et ad matutínum lætítia.
+/ps/Ego autem dixi in abundántia mea: <v>\greheightstar</v> Non movébor in ætérnum.
+/ps/Dómine, in voluntáte tua, <v>\greheightstar</v> præstitísti decóri meo virtútem.
+/ps/Avertísti fáciem tuam a me, <v>\greheightstar</v> et factus sum conturbátus.
+/ps/Ad te, Dómine, clamábo: <v>\greheightstar</v> et ad Deum meum deprecábor.
+/ps/Quæ utílitas in sánguine meo, <v>\greheightstar</v> dum descéndo in corruptiónem?
+/ps/Numquid confitébitur tibi pulvis, <v>\greheightstar</v> aut annuntiábit veritátem tuam?
+/ps/Audívit Dóminus, et misértus est mei: <v>\greheightstar</v> Dóminus factus est adiútor meus.
+/ps/Convertísti planctum meum in gáudium mihi: <v>\greheightstar</v> conscidísti saccum meum, et circumdedísti me lætítia:
+/ps/Ut cantet tibi glória mea, et non compúngar: <v>\greheightstar</v> Dómine, Deus meus, in ætérnum confitébor tibi.
+/lien/Ant. Dómine, abstraxísti ab ínferis ánimam meam.
+/lien/v Tu autem, Dómine, miserére mei.
+/lien/r Et resúscita me, et retríbuam eis.
+/latin/Pater noster =(secreto)=
+/stit/Lectio 4
+/stit/Ex Tractátu sancti Augustíni Epíscopi super Psalmos
+/ref/In Psalmum 63 versum 7
+/lectio/Accédet homo ad cor altum, et exaltábitur Deus. Illi dixérunt: Quis nos vidébit? Defecérunt scrutántes scrutatiónes, consília mala. Accéssit homo ad ipsa consília, passus est se tenéri ut homo. Non enim tenerétur nisi homo, aut viderétur nisi homo, aut cæderétur nisi homo, aut crucifigerétur, aut morerétur nisi homo. Accéssit ergo homo ad illas omnes passiónes, quæ in illo nihil valérent, nisi esset homo. Sed si ille non esset homo, non liberarétur homo. Accéssit homo ad cor altum, id est, cor secrétum, obíciens aspéctibus humánis hóminem, servans intus Deum: celans formam Dei, in qua æquális est Patri, et ófferens formam servi, qua minor est Patre.
+/lien/r Recéssit pastor noster, fons aquæ vivæ, ad cuius tránsitum sol obscurátus est: <v>\greheightstar</v> Nam et ille captus est, qui captívum tenébat primum hóminem: hódie portas mortis et seras páriter Salvátor noster disrúpit. v Destrúxit quidem claustra inférni, et subvértit poténtias diáboli. r Nam et ille captus est, qui captívum tenébat primum hóminem: hódie portas mortis et seras páriter Salvátor noster disrúpit.
+/stit/Lectio 5
+/lectio/Quo perduxérunt illas scrutatiónes suas, quas perscrutántes defecérunt, ut étiam mortuo Dómino et sepúlto, custódes pónerent ad sepúlcrum? Dixérunt enim Piláto: Sedúctor ille: hoc appellabátur nómine Dóminus Iesus Christus, ad solátium servórum suórum, quando dicúntur seductóres: ergo illi Piláto: Sedúctor ille, ínquiunt, dixit adhuc vivens: Post tres dies resúrgam. Iube ítaque custodíri sepúlcrum usque in diem tértium, ne forte véniant discípuli eius, et furéntur eum, et dicant plebi: Surréxit a mórtuis: et erit novíssimus error peior priore. Ait illis Pilátus: Habétis custódiam, ite, custodíte sicut scitis. Illi autem abeúntes, muniérunt sepúlcrum, signántes lápidem cum custódibus.
+/lien/r O vos omnes, qui transítis per viam, atténdite, et vidéte, <v>\greheightstar</v> Si est dolor símilis sicut dolor meus. v Atténdite, univérsi pópuli, et vidéte dolórem meum. r Si est dolor símilis sicut dolor meus.
+/stit/Lectio 6
+/lectio/Posuérunt custódes mílites ad sepúlcrum. Concússa terra Dóminus resurréxit: mirácula facta sunt tália circa sepúlcrum, ut et ipsi milites, qui custódes advénerant, testes fíerent, si vellent vera nuntiáre. Sed avarítia illa, quæ captivávit discípulum cómitem Christi, captivávit et mílitem custódem sepúlcri. Damus, inquíunt, vobis pecúniam: et dícite, quia vobis dormiéntibus venérunt discípuli eius, et abstulérunt eum. Vere defecérunt scrutántes scrutatiónes. Quid est quod dixísti, o infélix astutia? Tantúmne déseris lucem consílii pietátis, et in profúnda versútiæ demérgeris, ut hoc dicas: Dícite quia vobis dormiéntibus venérunt discípuli eius, et abstulérunt eum? Dormiéntes testes ádhibes: vere tu ipse obdormísti, qui scrutándo tália defecísti.
+/lien/r Ecce quómodo móritur iustus, et nemo pércipit corde: et viri iusti tollúntur, et nemo consíderat: a fácie iniquitátis sublátus est iustus: <v>\greheightstar</v> Et erit in pace memória eius. v Tamquam agnus coram tondénte se obmútuit, et non apéruit os suum: de angústia et de iudício sublátus est. r Et erit in pace memória eius. r Ecce quómodo móritur iustus, et nemo pércipit corde: et viri iusti tollúntur, et nemo consíderat: a fácie iniquitátis sublátus est iustus: <v>\greheightstar</v> Et erit in pace memória eius.
+/tit/Ad Tertium Nocturnum
+/lien/Ant. Deus ádiuvat me, <v>\greheightstar</v> et Dóminus suscéptor est ánimæ meæ.
+/stit/Psalmus 53 
+/ps1/Deus, in nómine tuo salvum me fac: <v>\greheightstar</v> et in virtúte tua iúdica me.
+/ps/Deus, exáudi oratiónem meam: <v>\greheightstar</v> áuribus pércipe verba oris mei.
+/ps/Quóniam aliéni insurrexérunt advérsum me, et fortes quæsiérunt ánimam meam: <v>\greheightstar</v> et non proposuérunt Deum ante conspéctum suum.
+/ps/Ecce enim, Deus ádiuvat me: <v>\greheightstar</v> et Dóminus suscéptor est ánimæ meæ.
+/ps/Avérte mala inimícis meis: <v>\greheightstar</v> et in veritáte tua dispérde illos.
+/ps/Voluntárie sacrificábo tibi, <v>\greheightstar</v> et confitébor nómini tuo, Dómine: quóniam bonum est:
+/ps/Quóniam ex omni tribulatióne eripuísti me: <v>\greheightstar</v> et super inimícos meos despéxit óculus meus.
+/lien/Ant. Deus ádiuvat me, et Dóminus suscéptor est ánimæ meæ.
+/lien/Ant. In pace <v>\greheightstar</v> factus est locus eius, et in Sion habitátio eius.
+/stit/Psalmus 75 
+/ps1/Notus in Iudǽa Deus: <v>\greheightstar</v> in Israël magnum nomen eius.
+/ps/Et factus est in pace locus eius: <v>\greheightstar</v> et habitátio eius in Sion.
+/ps/Ibi confrégit poténtias árcuum, <v>\greheightstar</v> scutum, gládium, et bellum.
+/ps/Illúminans tu mirabíliter a móntibus ætérnis: <v>\greheightstar</v> turbáti sunt omnes insipiéntes corde.
+/ps/Dormiérunt somnum suum: <v>\greheightstar</v> et nihil invenérunt omnes viri divitiárum in mánibus suis.
+/ps/Ab increpatióne tua, Deus Iacob, <v>\greheightstar</v> dormitavérunt qui ascendérunt equos.
+/ps/Tu terríbilis es, et quis resístet tibi? <v>\greheightstar</v> ex tunc ira tua.
+/ps/De cælo audítum fecísti iudícium: <v>\greheightstar</v> terra trémuit et quiévit,
+/ps/Cum exsúrgeret in iudícium Deus, <v>\greheightstar</v> ut salvos fáceret omnes mansuétos terræ.
+/ps/Quóniam cogitátio hóminis confitébitur tibi: <v>\greheightstar</v> et relíquiæ cogitatiónis diem festum agent tibi.
+/ps/Vovéte, et réddite Dómino, Deo vestro: <v>\greheightstar</v> omnes, qui in circúitu eius affértis múnera.
+/ps/Terríbili et ei qui aufert spíritum príncipum, <v>\greheightstar</v> terríbili apud reges terræ.
+/lien/Ant. In pace factus est locus eius, et in Sion habitátio eius.
+/lien/Ant. Factus sum <v>\greheightstar</v> sicut homo sine adiutório, inter mórtuos liber.
+/stit/Psalmus 87 
+/ps1/Dómine, Deus salútis meæ: <v>\greheightstar</v> in die clamávi, et nocte coram te.
+/ps/Intret in conspéctu tuo orátio mea: <v>\greheightstar</v> inclína aurem tuam ad precem meam:
+/ps/Quia repléta est malis ánima mea: <v>\greheightstar</v> et vita mea inférno appropinquávit.
+/ps/Æstimátus sum cum descendéntibus in lacum: <v>\greheightstar</v> factus sum sicut homo sine adiutório, inter mórtuos liber.
+/ps/Sicut vulneráti dormiéntes in sepúlcris, quorum non es memor ámplius: <v>\greheightstar</v> et ipsi de manu tua repúlsi sunt.
+/ps/Posuérunt me in lacu inferióri: <v>\greheightstar</v> in tenebrósis, et in umbra mortis.
+/ps/Super me confirmátus est furor tuus: <v>\greheightstar</v> et omnes fluctus tuos induxísti super me.
+/ps/Longe fecísti notos meos a me: <v>\greheightstar</v> posuérunt me abominatiónem sibi.
+/ps/Tráditus sum, et non egrediébar: <v>\greheightstar</v> óculi mei languérunt præ inópia.
+/ps/Clamávi ad te, Dómine, tota die: <v>\greheightstar</v> expándi ad te manus meas.
+/ps/Numquid mórtuis fácies mirabília: <v>\greheightstar</v> aut médici suscitábunt, et confitebúntur tibi?
+/ps/Numquid narrábit áliquis in sepúlcro misericórdiam tuam, <v>\greheightstar</v> et veritátem tuam in perditióne?
+/ps/Numquid cognoscéntur in ténebris mirabília tua, <v>\greheightstar</v> et iustítia tua in terra obliviónis?
+/ps/Et ego ad te, Dómine, clamávi: <v>\greheightstar</v> et mane orátio mea prævéniet te.
+/ps/Ut quid, Dómine, repéllis oratiónem meam: <v>\greheightstar</v> avértis fáciem tuam a me?
+/ps/Pauper sum ego, et in labóribus a iuventúte mea: <v>\greheightstar</v> exaltátus autem, humiliátus sum et conturbátus.
+/ps/In me transiérunt iræ tuæ: <v>\greheightstar</v> et terróres tui conturbavérunt me.
+/ps/Circumdedérunt me sicut aqua tota die: <v>\greheightstar</v> circumdedérunt me simul.
+/ps/Elongásti a me amícum et próximum: <v>\greheightstar</v> et notos meos a miséria.
+/lien/Ant. Factus sum sicut homo sine adiutório, inter mórtuos liber.
+/lien/v In pace factus est locus eius.
+/lien/r Et in Sion habitátio eius.
+/latin/Pater noster =(secreto)=
+/stit/Lectio 7
+/stit/De Epístola beáti Pauli Apóstoli ad Hebrǽos
+/ref/Heb 9:11-14
+/lectio/ Christus assístens Póntifex futurórum bonórum, per ámplius et perféctius tabernáculum non manufáctum, id est, non huius creatiónis: Neque per sánguinem hircórum, aut vitulórum, sed per próprium sánguinem introívit semel in Sancta, ætérna redemptióne invénta. Si enim sanguis hircórum, et taurórum, et cinis vítulæ aspérsus inquinátos sanctíficat ad emundatiónem carnis: Quanto magis sanguis Christi, qui per Spíritum Sanctum semetípsum óbtulit immaculátum Deo, emundábit consciéntiam nostram ab opéribus mórtuis, ad serviéndum Deo vivénti?
+/lien/r Astitérunt reges terræ, et príncipes convenérunt in unum, <v>\greheightstar</v> Advérsus Dóminum, et advérsus Christum eius. v Quare fremuérunt gentes, et pópuli meditáti sunt inánia? r Advérsus Dóminum, et advérsus Christum eius.
+/stit/Lectio 8
+/ref/Heb 9:15-18
+/lectio/Et ídeo novi testaménti mediátor est: ut, morte intercédente, in redemptiónem eárum prævaricatiónum, quæ erant sub prióri testaménto, repromissiónem accípiant, qui vocáti sunt ætérnæ hereditátis. Ubi enim testaméntum est: mors necésse est intercédat testatóris. Testaméntum enim in mórtuis confirmátum est: alióquin nondum valet, dum vivit qui testátus est. Unde nec primum quidem sine sánguine dedicátum est.
+/lien/r Æstimátus sum cum descendéntibus in lacum: <v>\greheightstar</v> Factus sum sicut homo sine adiutório, inter mórtuos liber. v Posuérunt me in lacu inferióri, in tenebrósis, et in umbra mortis. r Factus sum sicut homo sine adiutório, inter mórtuos liber.
+/stit/Lectio 9
+/ref/Heb 9:19-22
+/lectio/Lecto enim omni mandáto legis a Móyse univérso pópulo: accípiens sánguinem vitulórum, et hircórum cum aqua et lana coccínea, et hyssópo: ipsum quoque librum, et omnem pópulum aspérsit, Dicens: Hic sanguis testaménti, quod mandávit ad vos Deus. Etiam tabernáculum, et ómnia vasa ministérii sánguine simíliter aspérsit: Et ómnia pene in sánguine secúndum legem mundántur: et sine sánguinis effusióne non fit remíssio.
+/lien/r Sepúlto Dómino, signátum est monuméntum, volvéntes lápidem ad óstium monuménti <v>\greheightstar</v> Ponéntes mílites, qui custodírent illum. v Accedéntes príncipes sacerdótum ad Pilátum, petiérunt illum. r Ponéntes mílites, qui custodírent illum. r Sepúlto Dómino, signátum est monuméntum, volvéntes lápidem ad óstium monuménti: <v>\greheightstar</v> Ponéntes mílites, qui custodírent illum.
+/tit/Ad Laudes
+/lien/Ant. O mors, <v>\greheightstar</v> ero mors tua, morsus tuus ero, inférne.
+/stit/Psalmus 50 
+/ps1/Miserére mei, Deus, <v>\greheightstar</v> secúndum magnam misericórdiam tuam.
+/ps/Et secúndum multitúdinem miseratiónum tuárum, <v>\greheightstar</v> dele iniquitátem meam.
+/ps/Amplius lava me ab iniquitáte mea: <v>\greheightstar</v> et a peccáto meo munda me.
+/ps/Quóniam iniquitátem meam ego cognósco: <v>\greheightstar</v> et peccátum meum contra me est semper.
+/ps/Tibi soli peccávi, et malum coram te feci: <v>\greheightstar</v> ut iustificéris in sermónibus tuis, et vincas cum iudicáris.
+/ps/Ecce enim, in iniquitátibus concéptus sum: <v>\greheightstar</v> et in peccátis concépit me mater mea.
+/ps/Ecce enim, veritátem dilexísti: <v>\greheightstar</v> incérta et occúlta sapiéntiæ tuæ manifestásti mihi.
+/ps/Aspérges me hyssópo, et mundábor: <v>\greheightstar</v> lavábis me, et super nivem dealbábor.
+/ps/Audítui meo dabis gáudium et lætítiam: <v>\greheightstar</v> et exsultábunt ossa humiliáta.
+/ps/Avérte fáciem tuam a peccátis meis: <v>\greheightstar</v> et omnes iniquitátes meas dele.
+/ps/Cor mundum crea in me, Deus: <v>\greheightstar</v> et spíritum rectum ínnova in viscéribus meis.
+/ps/Ne proícias me a fácie tua: <v>\greheightstar</v> et spíritum sanctum tuum ne áuferas a me.
+/ps/Redde mihi lætítiam salutáris tui: <v>\greheightstar</v> et spíritu principáli confírma me.
+/ps/Docébo iníquos vias tuas: <v>\greheightstar</v> et ímpii ad te converténtur.
+/ps/Líbera me de sanguínibus, Deus, Deus salútis meæ: <v>\greheightstar</v> et exsultábit lingua mea iustítiam tuam.
+/ps/Dómine, lábia mea apéries: <v>\greheightstar</v> et os meum annuntiábit laudem tuam.
+/ps/Quóniam si voluísses sacrifícium, dedíssem útique: <v>\greheightstar</v> holocáustis non delectáberis.
+/ps/Sacrifícium Deo spíritus contribulátus: <v>\greheightstar</v> cor contrítum, et humiliátum, Deus, non despícies.
+/ps/Benígne fac, Dómine, in bona voluntáte tua Sion: <v>\greheightstar</v> ut ædificéntur muri Ierúsalem.
+/ps/Tunc acceptábis sacrifícium iustítiæ, oblatiónes, et holocáusta: <v>\greheightstar</v> tunc impónent super altáre tuum vítulos.
+/lien/Ant. O mors, ero mors tua, morsus tuus ero, inférne.
+/lien/Ant. Plangent eum <v>\greheightstar</v> quasi unigénitum, quia ínnocens Dóminus occísus est.
+/stit/Psalmus 91 
+/ps1/Bonum est confitéri Dómino: <v>\greheightstar</v> et psállere nómini tuo, Altíssime.
+/ps/Ad annuntiándum mane misericórdiam tuam: <v>\greheightstar</v> et veritátem tuam per noctem.
+/ps/In decachórdo, psaltério: <v>\greheightstar</v> cum cántico, in cíthara.
+/ps/Quia delectásti me, Dómine, in factúra tua: <v>\greheightstar</v> et in opéribus mánuum tuárum exsultábo.
+/ps/Quam magnificáta sunt ópera tua, Dómine! <v>\greheightstar</v> nimis profúndæ factæ sunt cogitatiónes tuæ.
+/ps/Vir insípiens non cognóscet: <v>\greheightstar</v> et stultus non intélleget hæc.
+/ps/Cum exórti fúerint peccatóres sicut fænum: <v>\greheightstar</v> et apparúerint omnes, qui operántur iniquitátem:
+/ps/Ut intéreant in sǽculum sǽculi: <v>\greheightstar</v> tu autem Altíssimus in ætérnum, Dómine.
+/ps/Quóniam ecce inimíci tui, Dómine, quóniam ecce inimíci tui períbunt: <v>\greheightstar</v> et dispergéntur omnes, qui operántur iniquitátem.
+/ps/Et exaltábitur sicut unicórnis cornu meum: <v>\greheightstar</v> et senéctus mea in misericórdia úberi.
+/ps/Et despéxit óculus meus inimícos meos: <v>\greheightstar</v> et in insurgéntibus in me malignántibus áudiet auris mea.
+/ps/Iustus, ut palma florébit: <v>\greheightstar</v> sicut cedrus Líbani multiplicábitur.
+/ps/Plantáti in domo Dómini, <v>\greheightstar</v> in átriis domus Dei nostri florébunt.
+/ps/Adhuc multiplicabúntur in senécta úberi: <v>\greheightstar</v> et bene patiéntes erunt, ut annúntient:
+/ps/Quóniam rectus Dóminus, Deus noster: <v>\greheightstar</v> et non est iníquitas in eo.
+/lien/Ant. Plangent eum quasi unigénitum, quia ínnocens Dóminus occísus est.
+/lien/Ant. Atténdite <v>\greheightstar</v> univérsi pópuli, et vidéte dolórem meum.
+/stit/Psalmus 63 
+/ps1/Exáudi, Deus, oratiónem meam cum déprecor: <v>\greheightstar</v> a timóre inimíci éripe ánimam meam.
+/ps/Protexísti me a convéntu malignántium: <v>\greheightstar</v> a multitúdine operántium iniquitátem.
+/ps/Quia exacuérunt ut gládium linguas suas: <v>\greheightstar</v> intendérunt arcum rem amáram, ut sagíttent in occúltis immaculátum.
+/ps/Súbito sagittábunt eum, et non timébunt: <v>\greheightstar</v> firmavérunt sibi sermónem nequam.
+/ps/Narravérunt ut abscónderent láqueos: <v>\greheightstar</v> dixérunt: Quis vidébit eos?
+/ps/Scrutáti sunt iniquitátes: <v>\greheightstar</v> defecérunt scrutántes scrutínio.
+/ps/Accédet homo ad cor altum: <v>\greheightstar</v> et exaltábitur Deus.
+/ps/Sagíttæ parvulórum factæ sunt plagæ eórum: <v>\greheightstar</v> et infirmátæ sunt contra eos linguæ eórum.
+/ps/Conturbáti sunt omnes qui vidébant eos: <v>\greheightstar</v> et tímuit omnis homo.
+/ps/Et annuntiavérunt ópera Dei, <v>\greheightstar</v> et facta eius intellexérunt.
+/ps/Lætábitur iustus in Dómino, et sperábit in eo, <v>\greheightstar</v> et laudabúntur omnes recti corde.
+/lien/Ant. Atténdite univérsi pópuli, et vidéte dolórem meum.
+/lien/Ant. A porta ínferi <v>\greheightstar</v> érue, Dómine, ánimam meam.
+/stit/Canticum Ezechiæ
+/ref/Isa 38:10-24
+/ps1/Ego dixi: In dimídio diérum meórum <v>\greheightstar</v> vadam ad portas ínferi.
+/ps/Quæsívi resíduum annórum meórum. <v>\greheightstar</v> Dixi: Non vidébo Dóminum Deum in terra vivéntium.
+/ps/Non aspíciam hóminem ultra, <v>\greheightstar</v> et habitatórem quiétis.
+/ps/Generátio mea abláta est, et convolúta est a me, <v>\greheightstar</v> quasi tabernáculum pastórum.
+/ps/Præcísa est velut a texénte, vita mea: dum adhuc ordírer, succídit me: <v>\greheightstar</v> de mane usque ad vésperam fínies me.
+/ps/Sperábam usque ad mane, <v>\greheightstar</v> quasi leo sic contrívit ómnia ossa mea:
+/ps/De mane usque ad vésperam fínies me: <v>\greheightstar</v> sicut pullus hirúndinis sic clamábo, meditábor ut colúmba:
+/ps/Attenuáti sunt óculi mei, <v>\greheightstar</v> suspiciéntes in excélsum.
+/ps/Dómine, vim pátior, respónde pro me. <v>\greheightstar</v> Quid dicam, aut quid respondébit mihi, cum ipse fécerit?
+/ps/Recogitábo tibi omnes annos meos <v>\greheightstar</v> in amaritúdine ánimæ meæ.
+/ps/Dómine, si sic vívitur, et in tálibus vita spíritus mei, corrípies me, et vivificábis me. <v>\greheightstar</v> Ecce, in pace amaritúdo mea amaríssima:
+/ps/Tu autem eruísti ánimam meam ut non períret: <v>\greheightstar</v> proiecísti post tergum tuum ómnia peccáta mea.
+/ps/Quia non inférnus confitébitur tibi, neque mors laudábit te: <v>\greheightstar</v> non exspectábunt qui descéndunt in lacum, veritátem tuam.
+/ps/Vivens vivens ipse confitébitur tibi, sicut et ego hódie: <v>\greheightstar</v> pater fíliis notam fáciet veritátem tuam.
+/ps/Dómine, salvum me fac <v>\greheightstar</v> et psalmos nostros cantábimus cunctis diébus vitæ nostræ in domo Dómini.
+/lien/Ant. A porta ínferi érue, Dómine, ánimam meam.
+/lien/Ant. O vos omnes, <v>\greheightstar</v> qui transítis per viam, atténdite et vidéte, si est dolor sicut dolor meus.
+/stit/Psalmus 150 
+/ps1/Laudáte Dóminum in sanctis eius: <v>\greheightstar</v> laudáte eum in firmaménto virtútis eius.
+/ps/Laudáte eum in virtútibus eius: <v>\greheightstar</v> laudáte eum secúndum multitúdinem magnitúdinis eius.
+/ps/Laudáte eum in sono tubæ: <v>\greheightstar</v> laudáte eum in psaltério, et cíthara.
+/ps/Laudáte eum in týmpano, et choro: <v>\greheightstar</v> laudáte eum in chordis, et órgano.
+/ps/Laudáte eum in cýmbalis benesonántibus: laudáte eum in cýmbalis iubilatiónis: <v>\greheightstar</v> omnis spíritus laudet Dóminum.
+/lien/Ant. O vos omnes, qui transítis per viam, atténdite et vidéte, si est dolor sicut dolor meus.
+/lien/v Caro mea requiéscet in spe.
+/lien/r Et non dabis Sanctum tuum vidére corruptiónem.
+/stit/Canticum Zachariæ
+/ref/Luc. 1:68-79
+/lien/Ant. Mulíeres <v>\greheightstar</v> sedéntes ad monuméntum lamentabántur, flentes Dóminum.
+/ps/Benedíctus ✠ Dóminus, Deus Israël: <v>\greheightstar</v> quia visitávit, et fecit redemptiónem plebis suæ:
+/ps/Et eréxit cornu salútis nobis: <v>\greheightstar</v> in domo David, púeri sui.
+/ps/Sicut locútus est per os sanctórum, <v>\greheightstar</v> qui a sǽculo sunt, prophetárum eius:
+/ps/Salútem ex inimícis nostris, <v>\greheightstar</v> et de manu ómnium, qui odérunt nos.
+/ps/Ad faciéndam misericórdiam cum pátribus nostris: <v>\greheightstar</v> et memorári testaménti sui sancti.
+/ps/Iusiurándum, quod iurávit ad Ábraham patrem nostrum, <v>\greheightstar</v> datúrum se nobis:
+/ps/Ut sine timóre, de manu inimicórum nostrórum liberáti, <v>\greheightstar</v> serviámus illi.
+/ps/In sanctitáte, et iustítia coram ipso, <v>\greheightstar</v> ómnibus diébus nostris.
+/ps/Et tu, puer, Prophéta Altíssimi vocáberis: <v>\greheightstar</v> præíbis enim ante fáciem Dómini, paráre vias eius:
+/ps/Ad dandam sciéntiam salútis plebi eius: <v>\greheightstar</v> in remissiónem peccatórum eórum:
+/ps/Per víscera misericórdiæ Dei nostri: <v>\greheightstar</v> in quibus visitávit nos, óriens ex alto:
+/ps/Illumináre his, qui in ténebris, et in umbra mortis sedent: <v>\greheightstar</v> ad dirigéndos pedes nostros in viam pacis.
+/lien/Ant. Mulíeres sedéntes ad monuméntum lamentabántur, flentes Dóminum.
+/stit/Oratio
+/lien/Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis: propter quod et Deus exaltávit illum, et dedit illi nomen, quod est super omne nomen.
+/latin/Pater noster =(secreto)=
+/lectio/Concéde, quǽsumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; eiúsdem resurrectiónis glóriam consequámur.
+/rub/Et sub silentio concluditur:
+/latin/Per eúndem Dóminum nostrum Iesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia sǽcula sæculórum.
+/latin/r Amen.
