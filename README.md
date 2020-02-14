@@ -23,7 +23,7 @@ Pour les gabc des pièces qui ne se trouvent pas sur les sites sus-mentionnés, 
 
 %height: 20 (pour préserver l'unité de fichier en cas de pièce très longue (Credo, Lamentations);
 
-On utilise <v>\greheightstar</v> pour l'astérisque; on met le premier mot de chaque pièce en petites majuscules (<sc></sc>); le gras et l'italique des psaumes doivent être corrigés directement dans les PDF des partitions si nécessaire.
+On utilise <v>\greheightstar</v> pour l'astérisque; le gras et l'italique des psaumes doivent être corrigés directement dans les PDF des partitions si nécessaire.
 
 Les intonations des psaumes sont précédées par le numéro de verset.
 

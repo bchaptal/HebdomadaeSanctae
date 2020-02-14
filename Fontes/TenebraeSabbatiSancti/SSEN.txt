@@ -1,39 +1,39 @@
-/tra/Ant. I will both lay me down in peace, <v>\greheightstar</v> and sleep.
-/sttps/Psalm 4
-/pst1/When I called upon him, the God of my justice heard me: <v>\greheightstar</v> when I was in distress, thou hast enlarged me.
-/pst/Have mercy on me: <v>\greheightstar</v> and hear my prayer.
-/pst/O ye sons of men, how long will you be dull of heart? <v>\greheightstar</v> Why do you love vanity, and seek after lying?
-/pst/Know ye also that the Lord hath made his holy one wonderful: <v>\greheightstar</v> the Lord will hear me when I shall cry unto him.
-/pst/Be ye angry, and sin not: <v>\greheightstar</v> the things you say in your hearts, be sorry for them upon your beds.
-/pst/Offer up the sacrifice of justice, and trust in the Lord: <v>\greheightstar</v> many say, Who sheweth us good things?
-/pst/The light of thy countenance, O Lord, is signed upon us: <v>\greheightstar</v> thou hast given gladness in my heart.
-/pst/By the fruit of their corn, their wine, and oil, <v>\greheightstar</v> they are multiplied.
-/pst/In peace in the selfsame <v>\greheightstar</v> I will sleep, and I will rest:
-/pst/For thou, O Lord, singularly <v>\greheightstar</v> hast settled me in hope.
+/tra/Ant. I will both lay me down in peace, * and sleep.
+/stt/Psalm 4
+/pst1/When I called upon him, the God of my justice heard me: * when I was in distress, thou hast enlarged me.
+/pst/Have mercy on me: * and hear my prayer.
+/pst/O ye sons of men, how long will you be dull of heart? * Why do you love vanity, and seek after lying?
+/pst/Know ye also that the Lord hath made his holy one wonderful: * the Lord will hear me when I shall cry unto him.
+/pst/Be ye angry, and sin not: * the things you say in your hearts, be sorry for them upon your beds.
+/pst/Offer up the sacrifice of justice, and trust in the Lord: * many say, Who sheweth us good things?
+/pst/The light of thy countenance, O Lord, is signed upon us: * thou hast given gladness in my heart.
+/pst/By the fruit of their corn, their wine, and oil, * they are multiplied.
+/pst/In peace in the selfsame * I will sleep, and I will rest:
+/pst/For thou, O Lord, singularly * hast settled me in hope.
 /tra/Ant. I will both lay me down in peace, and sleep.
-/tra/Ant. He shall abide in thy tabernacle: <v>\greheightstar</v> he shall dwell in thy holy hill.
-/sttps/Psalm 14
-/pst1/Lord, who shall dwell in thy tabernacle? <v>\greheightstar</v> or who shall rest in thy holy hill?
-/pst/He that walketh without blemish, <v>\greheightstar</v> and worketh justice:
-/pst/He that speaketh truth in his heart, <v>\greheightstar</v> who hath not used deceit in his tongue:
-/pst/Nor hath done evil to his neighbour: <v>\greheightstar</v> nor taken up a reproach against his neighbours.
-/pst/In his sight the malignant is brought to nothing: <v>\greheightstar</v> but he glorifieth them that fear the Lord:
-/pst/He that sweareth to his neighbour, and deceiveth not; <v>\greheightstar</v> He that hath not put out his money to usury, nor taken bribes against the innocent:
-/pst/He that doth these things, <v>\greheightstar</v> shall not be moved for ever.
+/tra/Ant. He shall abide in thy tabernacle: * he shall dwell in thy holy hill.
+/stt/Psalm 14
+/pst1/Lord, who shall dwell in thy tabernacle? * or who shall rest in thy holy hill?
+/pst/He that walketh without blemish, * and worketh justice:
+/pst/He that speaketh truth in his heart, * who hath not used deceit in his tongue:
+/pst/Nor hath done evil to his neighbour: * nor taken up a reproach against his neighbours.
+/pst/In his sight the malignant is brought to nothing: * but he glorifieth them that fear the Lord:
+/pst/He that sweareth to his neighbour, and deceiveth not; * He that hath not put out his money to usury, nor taken bribes against the innocent:
+/pst/He that doth these things, * shall not be moved for ever.
 /tra/Ant. He shall abide in thy tabernacle: he shall dwell in thy holy hill.
-/tra/Ant. My flesh <v>\greheightstar</v> shall rest in hope.
-/sttps/Psalm 15
-/pst1/Preserve me, O Lord, for I have put my trust in thee. <v>\greheightstar</v> I have said to the Lord, thou art my God, for thou hast no need of my goods.
-/pst/To the saints, who are in his land, <v>\greheightstar</v> he hath made wonderful all my desires in them.
-/pst/Their infirmities were multiplied: <v>\greheightstar</v> afterwards they made haste.
-/pst/I will not gather together their meetings for blood offerings: <v>\greheightstar</v> nor will I be mindful of their names by my lips.
-/pst/The Lord is the portion of my inheritance and of my cup: <v>\greheightstar</v> it is thou that wilt restore my inheritance to me.
-/pst/The lines are fallen unto me in goodly places: <v>\greheightstar</v> for my inheritance is goodly to me.
-/pst/I will bless the Lord, who hath given me understanding: <v>\greheightstar</v> moreover my reins also have corrected me even till night.
-/pst/I set the Lord always in my sight: <v>\greheightstar</v> for he is at my right hand, that I be not moved.
-/pst/Therefore my heart hath been glad, and my tongue hath rejoiced: <v>\greheightstar</v> moreover my flesh also shall rest in hope.
-/pst/Because thou wilt not leave my soul in hell; <v>\greheightstar</v> nor wilt thou give thy holy one to see corruption.
-/pst/Thou hast made known to me the ways of life, thou shalt fill me with joy with thy countenance: <v>\greheightstar</v> at thy right hand are delights even to the end.
+/tra/Ant. My flesh * shall rest in hope.
+/stt/Psalm 15
+/pst1/Preserve me, O Lord, for I have put my trust in thee. * I have said to the Lord, thou art my God, for thou hast no need of my goods.
+/pst/To the saints, who are in his land, * he hath made wonderful all my desires in them.
+/pst/Their infirmities were multiplied: * afterwards they made haste.
+/pst/I will not gather together their meetings for blood offerings: * nor will I be mindful of their names by my lips.
+/pst/The Lord is the portion of my inheritance and of my cup: * it is thou that wilt restore my inheritance to me.
+/pst/The lines are fallen unto me in goodly places: * for my inheritance is goodly to me.
+/pst/I will bless the Lord, who hath given me understanding: * moreover my reins also have corrected me even till night.
+/pst/I set the Lord always in my sight: * for he is at my right hand, that I be not moved.
+/pst/Therefore my heart hath been glad, and my tongue hath rejoiced: * moreover my flesh also shall rest in hope.
+/pst/Because thou wilt not leave my soul in hell; * nor wilt thou give thy holy one to see corruption.
+/pst/Thou hast made known to me the ways of life, thou shalt fill me with joy with thy countenance: * at thy right hand are delights even to the end.
 /tra/Ant. My flesh shall rest in hope.
 /vers/v I will both lay me down in peace.
 /vers/r And sleep.
@@ -42,68 +42,68 @@
 /stt/Lesson from the book of Lamentations
 /ref/Lam 3:22-30
 /tralett/Heth. The mercies of the Lord that we are not consumed: because his commiserations have not failed. Heth. They are new every morning, great is thy faithfulness. Heth. The Lord is my portion, said my soul: therefore will I wait for him. Teth. The Lord is good to them that hope in him, to the soul that seeketh him. Teth. It is good to wait with silence for the salvation of God. Teth. It is good for a man, when he hath borne the yoke from his youth. Jod. He shall sit solitary, and hold his peace: because he hath taken it up upon himself. Jod. He shall put his mouth in the dust, if so be there may be hope. Jod. He shall give his cheek to him that striketh him, he shall be filled with reproaches. Jerusalem! Jerusalem! Return unto the Lord thy God.
-/tra/Resp. He hath been brought as a lamb to the slaughter, and while he was evil entreated he opened not his mouth: he was delivered up to death <v>\greheightstar</v> That he might quicken his people. v He hath poured out his soul unto death, and he was numbered with the transgressors. r That he might quicken his people.
+/tra/Resp. He hath been brought as a lamb to the slaughter, and while he was evil entreated he opened not his mouth: he was delivered up to death * That he might quicken his people. v He hath poured out his soul unto death, and he was numbered with the transgressors. r That he might quicken his people.
 /stt/Reading 2
 /ref/Lam 4:1-8
-/tralett/Aleph. How is the gold become dim, the finest colour is changed, the stones of the sanctuary are scattered in the top of every street? Beth. The noble sons of Sion, and they that were clothed with the best gold: how are they esteemed as earthen vessels, the work of the potter’s hands? Ghimel. Even the sea monsters have drawn out the breast, they have given suck to their young: the daughter of my people is cruel, like the ostrich in the desert. Daleth. The tongue of the sucking child hath stuck to the roof of his mouth for thirst: the little ones have asked for bread, and there was none to break it unto them. He. They that were fed delicately have died in the streets; they that were brought up in scarlet have embraced the dung. Vau. And the iniquity of the daughter of my people is made greater than the sin of Sodom, which was overthrown in a moment, and hands took nothing in her. Jerusalem! Jerusalem! Return unto the Lord thy God.
-/tra/Resp. Arise, O Jerusalem, and put off thy garments of rejoicing: cover thee with sackcloth and ashes <v>\greheightstar</v> For the Saviour of Israel hath been slain in the midst of thee. v Let thy tears run down like a river day and night, and let not the apple of thine eye cease. r For the Saviour of Israel hath been slain in the midst of thee.
+/tralett/Aleph. How is the gold become dim, the finest colour is changed, the stones of the sanctuary are scattered in the top of every street? Beth. The noble sons of Sion, and they that were clothed with the best gold: how are they esteemed as earthen vessels, the work of the potter�s hands? Ghimel. Even the sea monsters have drawn out the breast, they have given suck to their young: the daughter of my people is cruel, like the ostrich in the desert. Daleth. The tongue of the sucking child hath stuck to the roof of his mouth for thirst: the little ones have asked for bread, and there was none to break it unto them. He. They that were fed delicately have died in the streets; they that were brought up in scarlet have embraced the dung. Vau. And the iniquity of the daughter of my people is made greater than the sin of Sodom, which was overthrown in a moment, and hands took nothing in her. Jerusalem! Jerusalem! Return unto the Lord thy God.
+/tra/Resp. Arise, O Jerusalem, and put off thy garments of rejoicing: cover thee with sackcloth and ashes * For the Saviour of Israel hath been slain in the midst of thee. v Let thy tears run down like a river day and night, and let not the apple of thine eye cease. r For the Saviour of Israel hath been slain in the midst of thee.
 /stt/Reading 3
 /ref/Lam 5:1-11
 /tralett/Remember, O Lord, what is come upon us: consider and behold our reproach. Our inheritance is turned to aliens: our houses to strangers. We are become orphans without a father: our mothers are as widows. We have drunk our water for money: we have bought our wood. We were dragged by the necks, we were weary and no rest was given us. We have given our hand to Egypt, and to the Assyrians, that we might be satisfied with bread. Our fathers have sinned, and are not: and we have borne their iniquities. Servants have ruled over us: there was none to redeem us out of their hand. We fetched our bread at the peril of our lives, because of the sword in the desert. Our skin was burnt as an oven, by reason of the violence of the famine. They oppressed the women in Sion, and the virgins in the cities of Juda. Jerusalem! Jerusalem! Return unto the Lord thy God.
-/tra/Resp. O my people! lament, like a virgin girded with sack-cloth for the husband of her youth, howl, ye shepherds, in sack-cloth and ashes <v>\greheightstar</v> For the day of the Lord is at hand, and it is great and very terrible. v Gird yourselves, ye Priests, and howl, ye ministers of the altar: cast up ashes upon you. r For the day of the Lord is at hand, and it is great and very terrible. r O my people! lament, like a virgin, girded with sack-cloth for the husband of her youth, howl, ye shepherds, in sack-cloth and ashes <v>\greheightstar</v> For the day of the Lord is at hand, and it is great and very terrible.
-/tra/Ant. Be ye lift up, <v>\greheightstar</v> ye everlasting doors, and the King of glory shall come in.
-/sttps/Psalm 23
-/pst1/The earth is the Lord’s and the fulness thereof: <v>\greheightstar</v> the world, and all they that dwell therein.
-/pst/For he hath founded it upon the seas; <v>\greheightstar</v> and hath prepared it upon the rivers.
-/pst/Who shall ascend into the mountain of the Lord: <v>\greheightstar</v> or who shall stand in his holy place?
-/pst/The innocent in hands, and clean of heart, <v>\greheightstar</v> who hath not taken his soul in vain, nor sworn deceitfully to his neighbour.
-/pst/He shall receive a blessing from the Lord, <v>\greheightstar</v> and mercy from God his Saviour.
-/pst/This is the generation of them that seek him, <v>\greheightstar</v> of them that seek the face of the God of Jacob.
-/pst/Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: <v>\greheightstar</v> and the King of Glory shall enter in.
-/pst/Who is this King of Glory? <v>\greheightstar</v> the Lord who is strong and mighty: the Lord mighty in battle.
-/pst/Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: <v>\greheightstar</v> and the King of Glory shall enter in.
-/pst/Who is this King of Glory? <v>\greheightstar</v> the Lord of hosts, he is the King of Glory.
+/tra/Resp. O my people! lament, like a virgin girded with sack-cloth for the husband of her youth, howl, ye shepherds, in sack-cloth and ashes * For the day of the Lord is at hand, and it is great and very terrible. v Gird yourselves, ye Priests, and howl, ye ministers of the altar: cast up ashes upon you. r For the day of the Lord is at hand, and it is great and very terrible. r O my people! lament, like a virgin, girded with sack-cloth for the husband of her youth, howl, ye shepherds, in sack-cloth and ashes * For the day of the Lord is at hand, and it is great and very terrible.
+/tra/Ant. Be ye lift up, * ye everlasting doors, and the King of glory shall come in.
+/stt/Psalm 23
+/pst1/The earth is the Lord�s and the fulness thereof: * the world, and all they that dwell therein.
+/pst/For he hath founded it upon the seas; * and hath prepared it upon the rivers.
+/pst/Who shall ascend into the mountain of the Lord: * or who shall stand in his holy place?
+/pst/The innocent in hands, and clean of heart, * who hath not taken his soul in vain, nor sworn deceitfully to his neighbour.
+/pst/He shall receive a blessing from the Lord, * and mercy from God his Saviour.
+/pst/This is the generation of them that seek him, * of them that seek the face of the God of Jacob.
+/pst/Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: * and the King of Glory shall enter in.
+/pst/Who is this King of Glory? * the Lord who is strong and mighty: the Lord mighty in battle.
+/pst/Lift up your gates, O ye princes, and be ye lifted up, O eternal gates: * and the King of Glory shall enter in.
+/pst/Who is this King of Glory? * the Lord of hosts, he is the King of Glory.
 /tra/Ant. Be ye lift up, ye everlasting doors, and the King of glory shall come in.
-/tra/Ant. I believe that I shall yet see <v>\greheightstar</v> the goodness of the Lord in the land of the living.
-/sttps/Psalm 26
-/pst1/The Lord is my light and my salvation, <v>\greheightstar</v> whom shall I fear?
-/pst1/The Lord is the protector of my life: <v>\greheightstar</v> of whom shall I be afraid?
-/pst/Whilst the wicked draw near against me, <v>\greheightstar</v> to eat my flesh.
-/pst/My enemies that trouble me, <v>\greheightstar</v> have themselves been weakened, and have fallen.
-/pst/If armies in camp should stand together against me, <v>\greheightstar</v> my heart shall not fear.
-/pst/If a battle should rise up against me, <v>\greheightstar</v> in this will I be confident.
-/pst/One thing I have asked of the Lord, this will I seek after; <v>\greheightstar</v> that I may dwell in the house of the Lord all the days of my life.
-/pst/That I may see the delight of the Lord, <v>\greheightstar</v> and may visit his temple.
-/pst/For he hath hidden me in his tabernacle; <v>\greheightstar</v> in the day of evils, he hath protected me in the secret place of his tabernacle.
-/pst/He hath exalted me upon a rock: <v>\greheightstar</v> and now he hath lifted up my head above my enemies.
-/pst/I have gone round, and have offered up in his tabernacle a sacrifice of jubilation: <v>\greheightstar</v> I will sing, and recite a psalm to the Lord.
-/pst/Hear, O Lord, my voice, with which I have cried to thee: <v>\greheightstar</v> have mercy on me and hear me.
-/pst/My heart hath said to thee: My face hath sought thee: <v>\greheightstar</v> thy face, O Lord, will I still seek.
-/pst/Turn not away thy face from me; <v>\greheightstar</v> decline not in thy wrath from thy servant.
-/pst/Be thou my helper, <v>\greheightstar</v> forsake me not; do not thou despise me, O God my Saviour.
-/pst/For my father and my mother have left me: <v>\greheightstar</v> but the Lord hath taken me up.
-/pst/Set me, O Lord, a law in thy way, <v>\greheightstar</v> and guide me in the right path, because of my enemies.
-/pst/Deliver me not over to the will of them that trouble me; <v>\greheightstar</v> for unjust witnesses have risen up against me; and iniquity hath lied to itself.
-/pst/I believe to see the good things of the Lord <v>\greheightstar</v> in the land of the living.
-/pst/Expect the Lord, do manfully, <v>\greheightstar</v> and let thy heart take courage, and wait thou for the Lord.
+/tra/Ant. I believe that I shall yet see * the goodness of the Lord in the land of the living.
+/stt/Psalm 26
+/pst1/The Lord is my light and my salvation, * whom shall I fear?
+/pst1/The Lord is the protector of my life: * of whom shall I be afraid?
+/pst/Whilst the wicked draw near against me, * to eat my flesh.
+/pst/My enemies that trouble me, * have themselves been weakened, and have fallen.
+/pst/If armies in camp should stand together against me, * my heart shall not fear.
+/pst/If a battle should rise up against me, * in this will I be confident.
+/pst/One thing I have asked of the Lord, this will I seek after; * that I may dwell in the house of the Lord all the days of my life.
+/pst/That I may see the delight of the Lord, * and may visit his temple.
+/pst/For he hath hidden me in his tabernacle; * in the day of evils, he hath protected me in the secret place of his tabernacle.
+/pst/He hath exalted me upon a rock: * and now he hath lifted up my head above my enemies.
+/pst/I have gone round, and have offered up in his tabernacle a sacrifice of jubilation: * I will sing, and recite a psalm to the Lord.
+/pst/Hear, O Lord, my voice, with which I have cried to thee: * have mercy on me and hear me.
+/pst/My heart hath said to thee: My face hath sought thee: * thy face, O Lord, will I still seek.
+/pst/Turn not away thy face from me; * decline not in thy wrath from thy servant.
+/pst/Be thou my helper, * forsake me not; do not thou despise me, O God my Saviour.
+/pst/For my father and my mother have left me: * but the Lord hath taken me up.
+/pst/Set me, O Lord, a law in thy way, * and guide me in the right path, because of my enemies.
+/pst/Deliver me not over to the will of them that trouble me; * for unjust witnesses have risen up against me; and iniquity hath lied to itself.
+/pst/I believe to see the good things of the Lord * in the land of the living.
+/pst/Expect the Lord, do manfully, * and let thy heart take courage, and wait thou for the Lord.
 /tra/Ant. I believe that I shall yet see the goodness of the Lord in the land of the living.
-/tra/Ant. O Lord, Thou hast brought up <v>\greheightstar</v> my soul from the grave.
-/sttps/Psalm 29
-/pst/I will extol thee, O Lord, for thou hast upheld me: <v>\greheightstar</v> and hast not made my enemies to rejoice over me.
-/pst/O Lord my God, I have cried to thee, <v>\greheightstar</v> and thou hast healed me.
-/pst/Thou hast brought forth, O Lord, my soul from hell: <v>\greheightstar</v> thou hast saved me from them that go down into the pit.
-/pst/Sing to the Lord, O ye his saints: <v>\greheightstar</v> and give praise to the memory of his holiness.
-/pst/For wrath is in his indignation; <v>\greheightstar</v> and life in his good will.
-/pst/In the evening weeping shall have place, <v>\greheightstar</v> and in the morning gladness.
-/pst/And in my abundance I said: <v>\greheightstar</v> I shall never be moved.
-/pst/O Lord, in thy favour, <v>\greheightstar</v> thou gavest strength to my beauty.
-/pst/Thou turnedst away thy face from me, <v>\greheightstar</v> and I became troubled.
-/pst/To thee, O Lord, will I cry: <v>\greheightstar</v> and I will make supplication to my God.
-/pst/What profit is there in my blood, <v>\greheightstar</v> whilst I go down to corruption?
-/pst/Shall dust confess to thee, <v>\greheightstar</v> or declare thy truth?
-/pst/The Lord hath heard, and hath had mercy on me: <v>\greheightstar</v> the Lord became my helper.
-/pst/Thou hast turned for me my mourning into joy: <v>\greheightstar</v> thou hast cut my sackcloth, and hast compassed me with gladness:
-/pst/To the end that my glory may sing to thee, and I may not regret: <v>\greheightstar</v> O Lord my God, I will give praise to thee for ever.
+/tra/Ant. O Lord, Thou hast brought up * my soul from the grave.
+/stt/Psalm 29
+/pst/I will extol thee, O Lord, for thou hast upheld me: * and hast not made my enemies to rejoice over me.
+/pst/O Lord my God, I have cried to thee, * and thou hast healed me.
+/pst/Thou hast brought forth, O Lord, my soul from hell: * thou hast saved me from them that go down into the pit.
+/pst/Sing to the Lord, O ye his saints: * and give praise to the memory of his holiness.
+/pst/For wrath is in his indignation; * and life in his good will.
+/pst/In the evening weeping shall have place, * and in the morning gladness.
+/pst/And in my abundance I said: * I shall never be moved.
+/pst/O Lord, in thy favour, * thou gavest strength to my beauty.
+/pst/Thou turnedst away thy face from me, * and I became troubled.
+/pst/To thee, O Lord, will I cry: * and I will make supplication to my God.
+/pst/What profit is there in my blood, * whilst I go down to corruption?
+/pst/Shall dust confess to thee, * or declare thy truth?
+/pst/The Lord hath heard, and hath had mercy on me: * the Lord became my helper.
+/pst/Thou hast turned for me my mourning into joy: * thou hast cut my sackcloth, and hast compassed me with gladness:
+/pst/To the end that my glory may sing to thee, and I may not regret: * O Lord my God, I will give praise to thee for ever.
 /tra/Ant. O Lord, Thou hast brought up my soul from the grave.
 /vers/v But Thou, O Lord, be merciful unto me.
 /vers/r And raise me up; and I will requite them.
@@ -112,59 +112,59 @@
 /stt/From the Treatise of St. Augustine, Bishop of Hippo, Upon the Psalms
 /ref/On Psalm lxiii, 7
 /tralett/We shall attain to thoughts that are very deep: but God shall still be exalted. The enemies of our Lord had communed of laying snares privily; they had said, Who shall see them? They had searched out iniquities; they had accomplished a diligent search. And Man attained even unto (the realization of) their counsels, for the Lord, as Man, suffered Himself to be taken. For He had not been taken at all, unless He had been a Man, or seen, unless He had been a Man, or smitten, unless He had been a Man, or crucified, unless He had been a Man, or have died, unless He had been a Man. Man therefore, He attained unto all those sufferings, which had had nothing in Him, unless He had been a Man. But if He had not been Man, man had not been redeemed. And the Lord as Man attained to thoughts that were very deep, yea, secret; showing the Manhood to the eyes of men, and keeping the Godhead within Him; veiling the form of God, as touching Which, He is Equal to the Father, and manifesting the form of a servant, as touching which, He is inferior to the Father.
-/tra/Resp. Our Shepherd, even the Fountain of living waters, is gone from us; He passed away, and the sun was darkened. <v>\greheightstar</v> For now hath our Saviour bound him captive, which bound the first man captive; this day hath He burst the gates and bars of death. v The bands of hell He hath utterly abolished, and hath done away the power of the devil. r For now hath our Saviour bound him captive, which bound the first man captive; this day hath He burst the gates and bars of death.
+/tra/Resp. Our Shepherd, even the Fountain of living waters, is gone from us; He passed away, and the sun was darkened. * For now hath our Saviour bound him captive, which bound the first man captive; this day hath He burst the gates and bars of death. v The bands of hell He hath utterly abolished, and hath done away the power of the devil. r For now hath our Saviour bound him captive, which bound the first man captive; this day hath He burst the gates and bars of death.
 /stt/Reading 5
 /tralett/How far did the accomplishment of their diligent search reach? Even to the setting a watch of soldiers at the sepulchre, to guard the Lord, even after He was dead and buried. For they said unto Pilate: Sir, we remember that that deceiver Matth. xxvii. 63. This was the term by which they designated the Lord Jesus Christ, and the remembrance that He was so named is a sweet consolation to us His servants, when we are called impostors. So they said unto Pilate, that deceiver said, while He was yet alive: After three days I will rise again. Command therefore that the sepulchre be made sure until the third day, lest His disciples come and steal Him away, and say unto the people: He is risen again from the dead: so the last error shall be worse than the first. Pilate said unto them: Ye have a watch; go your way; make it as sure as ye can. So they went and made the sepulchre sure, sealing the stone, and setting a watch.
-/tra/Resp. O all ye that pass by, behold and see; <v>\greheightstar</v> If there be any sorrow like unto my sorrow. v O all ye nations, behold, and see my sorrow, r If there be any sorrow like unto my sorrow.
+/tra/Resp. O all ye that pass by, behold and see; * If there be any sorrow like unto my sorrow. v O all ye nations, behold, and see my sorrow, r If there be any sorrow like unto my sorrow.
 /stt/Reading 6
 So they went, and made the sepulchre sure, sealing the stone, and setting a watch and anon, behold, there was a great earthquake, and the Lord arose. So great wonders were wrought about the sepulchre that the very soldiers, which were put to guard it, were witnesses thereto, if only they would have told the truth. But the same love of money which had made a slave of that disciple who was a companion of Christ, made slaves also of the soldiers that were put to watch His sepulchre. Some of the watch came into the city, and showed unto the chief-priests all the things that were done: and when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers, saying: Say ye, His disciples came by night and stole Him away while we slept. In good sooth, their diligent search had been accomplished and ended before this. What didst thou say, O stupid cunning? Wast thou indeed so utterly void of the light of godly wisdom, and confounded in the bottomless pit of thine own falsehood as to tell them to say: His disciples came by night, and stole Him away while we slept? Part of the testimony of thine eye-witnesses was that they were asleep at the time: thou thyself wast asleep not to be able to see that on their own testimony, their testimony must have been worthless.
-/tra/Resp. Behold how the righteous dieth, and no man taketh it to heart; and the just are taken away, and none considereth. From the midst of sinners is the righteous translated; <v>\greheightstar</v> And his memory is in peace. v As a lamb before his shearers is dumb, so He opened not His mouth; He was taken from prison and from judgment. r And his memory is in peace. r Behold how the righteous dieth, and no man taketh it to heart; and the just are taken away, and none considereth. From the midst of sinners is the righteous translated; <v>\greheightstar</v> And his memory is in peace.
-/tra/Ant. God is my helper, <v>\greheightstar</v> and the Lord upholdeth my soul.
-/sttps/Psalm 53
-/pst/Save me, O God, by thy name, <v>\greheightstar</v> and judge me in thy strength.
-/pst/O God, hear my prayer: <v>\greheightstar</v> give ear to the words of my mouth.
-/pst/For strangers have risen up against me; and the mighty have sought after my soul: <v>\greheightstar</v> and they have not set God before their eyes.
-/pst/For behold God is my helper: <v>\greheightstar</v> and the Lord is the protector of my soul.
-/pst/Turn back the evils upon my enemies; <v>\greheightstar</v> and cut them off in thy truth.
-/pst/I will freely sacrifice to thee, <v>\greheightstar</v> and will give praise, O God, to thy name: because it is good:
-/pst/For thou hast delivered me out of all trouble: <v>\greheightstar</v> and my eye hath looked down upon my enemies.
+/tra/Resp. Behold how the righteous dieth, and no man taketh it to heart; and the just are taken away, and none considereth. From the midst of sinners is the righteous translated; * And his memory is in peace. v As a lamb before his shearers is dumb, so He opened not His mouth; He was taken from prison and from judgment. r And his memory is in peace. r Behold how the righteous dieth, and no man taketh it to heart; and the just are taken away, and none considereth. From the midst of sinners is the righteous translated; * And his memory is in peace.
+/tra/Ant. God is my helper, * and the Lord upholdeth my soul.
+/stt/Psalm 53
+/pst/Save me, O God, by thy name, * and judge me in thy strength.
+/pst/O God, hear my prayer: * give ear to the words of my mouth.
+/pst/For strangers have risen up against me; and the mighty have sought after my soul: * and they have not set God before their eyes.
+/pst/For behold God is my helper: * and the Lord is the protector of my soul.
+/pst/Turn back the evils upon my enemies; * and cut them off in thy truth.
+/pst/I will freely sacrifice to thee, * and will give praise, O God, to thy name: because it is good:
+/pst/For thou hast delivered me out of all trouble: * and my eye hath looked down upon my enemies.
 /tra/Ant. God is my helper, and the Lord upholdeth my soul.
-/tra/Ant. His place is in peace <v>\greheightstar</v> and His dwelling-place in Zion.
-/sttps/Psalm 75
-/pst/In Judea God is known: <v>\greheightstar</v> his name is great in Israel.
-/pst/And his place is in peace: <v>\greheightstar</v> and his abode in Sion:
-/pst/There hath he broken the powers of bows, <v>\greheightstar</v> the shield, the sword, and the battle.
-/pst/Thou enlightenest wonderfully from the everlasting hills. <v>\greheightstar</v> All the foolish of heart were troubled.
-/pst/They have slept their sleep; <v>\greheightstar</v> and all the men of riches have found nothing in their hands.
-/pst/At thy rebuke, O God of Jacob, <v>\greheightstar</v> they have all slumbered that mounted on horseback.
-/pst/Thou art terrible, and who shall resist thee? <v>\greheightstar</v> from that time thy wrath.
-/pst/Thou hast caused judgment to be heard from heaven: <v>\greheightstar</v> the earth trembled and was still,
-/pst/When God arose in judgment, <v>\greheightstar</v> to save all the meek of the earth.
-/pst/For the thought of man shall give praise to thee: <v>\greheightstar</v> and the remainders of the thought shall keep holiday to thee.
-/pst/Vow ye, and pay to the Lord your God: <v>\greheightstar</v> all you that are round about him bring presents.
-/pst/To him that is terrible, even to him who taketh away the spirit of princes: <v>\greheightstar</v> to the terrible with the kings of the earth.
+/tra/Ant. His place is in peace * and His dwelling-place in Zion.
+/stt/Psalm 75
+/pst/In Judea God is known: * his name is great in Israel.
+/pst/And his place is in peace: * and his abode in Sion:
+/pst/There hath he broken the powers of bows, * the shield, the sword, and the battle.
+/pst/Thou enlightenest wonderfully from the everlasting hills. * All the foolish of heart were troubled.
+/pst/They have slept their sleep; * and all the men of riches have found nothing in their hands.
+/pst/At thy rebuke, O God of Jacob, * they have all slumbered that mounted on horseback.
+/pst/Thou art terrible, and who shall resist thee? * from that time thy wrath.
+/pst/Thou hast caused judgment to be heard from heaven: * the earth trembled and was still,
+/pst/When God arose in judgment, * to save all the meek of the earth.
+/pst/For the thought of man shall give praise to thee: * and the remainders of the thought shall keep holiday to thee.
+/pst/Vow ye, and pay to the Lord your God: * all you that are round about him bring presents.
+/pst/To him that is terrible, even to him who taketh away the spirit of princes: * to the terrible with the kings of the earth.
 /tra/Ant. His place is in peace and His dwelling-place in Zion.
-/tra/Ant. I am as a man that hath no strength, <v>\greheightstar</v> lying nerveless among the dead.
-/sttps/Psalm 87
-/pst/Lord, the God of my salvation: <v>\greheightstar</v> I have cried in the day, and in the night before thee.
-/pst/Let my prayer come in before thee: <v>\greheightstar</v> incline thy ear to my petition.
-/pst/For my soul is filled with evils: <v>\greheightstar</v> and my life hath drawn nigh to hell.
-/pst/I am counted among them that go down to the pit: <v>\greheightstar</v> I am become as a man without help, free among the dead.
-/pst/Like the slain sleeping in the sepulchres, whom thou rememberest no more: <v>\greheightstar</v> and they are cast off from thy hand.
-/pst/They have laid me in the lower pit: <v>\greheightstar</v> in the dark places, and in the shadow of death.
-/pst/Thy wrath is strong over me: <v>\greheightstar</v> and all thy waves thou hast brought in upon me.
-/pst/Thou hast put away my acquaintance far from me: <v>\greheightstar</v> they have set me an abomination to themselves.
-/pst/I was delivered up, and came not forth: <v>\greheightstar</v> my eyes languished through poverty.
-/pst/All the day I cried to thee, O Lord: <v>\greheightstar</v> I stretched out my hands to thee.
-/pst/Wilt thou shew wonders to the dead? <v>\greheightstar</v> or shall physicians raise to life, and give praise to thee?
-/pst/Shall any one in the sepulchre declare thy mercy: <v>\greheightstar</v> and thy truth in destruction?
-/pst/Shall thy wonders be known in the dark; <v>\greheightstar</v> and thy justice in the land of forgetfulness?
-/pst/But I, O Lord, have cried to thee: <v>\greheightstar</v> and in the morning my prayer shall prevent thee.
-/pst/Lord, why castest thou off my prayer: <v>\greheightstar</v> why turnest thou away thy face from me?
-/pst/I am poor, and in labours from my youth: <v>\greheightstar</v> and being exalted have been humbled and troubled.
-/pst/Thy wrath hath come upon me: <v>\greheightstar</v> and thy terrors have troubled me.
-/pst/They have come round about me like water all the day: <v>\greheightstar</v> they have compassed me about together.
-/pst/Friend and neighbour thou hast put far from me: <v>\greheightstar</v> and my acquaintance, because of misery.
+/tra/Ant. I am as a man that hath no strength, * lying nerveless among the dead.
+/stt/Psalm 87
+/pst/Lord, the God of my salvation: * I have cried in the day, and in the night before thee.
+/pst/Let my prayer come in before thee: * incline thy ear to my petition.
+/pst/For my soul is filled with evils: * and my life hath drawn nigh to hell.
+/pst/I am counted among them that go down to the pit: * I am become as a man without help, free among the dead.
+/pst/Like the slain sleeping in the sepulchres, whom thou rememberest no more: * and they are cast off from thy hand.
+/pst/They have laid me in the lower pit: * in the dark places, and in the shadow of death.
+/pst/Thy wrath is strong over me: * and all thy waves thou hast brought in upon me.
+/pst/Thou hast put away my acquaintance far from me: * they have set me an abomination to themselves.
+/pst/I was delivered up, and came not forth: * my eyes languished through poverty.
+/pst/All the day I cried to thee, O Lord: * I stretched out my hands to thee.
+/pst/Wilt thou shew wonders to the dead? * or shall physicians raise to life, and give praise to thee?
+/pst/Shall any one in the sepulchre declare thy mercy: * and thy truth in destruction?
+/pst/Shall thy wonders be known in the dark; * and thy justice in the land of forgetfulness?
+/pst/But I, O Lord, have cried to thee: * and in the morning my prayer shall prevent thee.
+/pst/Lord, why castest thou off my prayer: * why turnest thou away thy face from me?
+/pst/I am poor, and in labours from my youth: * and being exalted have been humbled and troubled.
+/pst/Thy wrath hath come upon me: * and thy terrors have troubled me.
+/pst/They have come round about me like water all the day: * they have compassed me about together.
+/pst/Friend and neighbour thou hast put far from me: * and my acquaintance, because of misery.
 /tra/Ant. I am as a man that hath no strength, lying nerveless among the dead.
 /vers/v His place is in peace.
 /vers/r And His dwelling-place in Zion.
@@ -173,115 +173,115 @@ So they went, and made the sepulchre sure, sealing the stone, and setting a watc
 /stt/From the letter of blessed Apostle Paul to the Hebrews
 /ref/Heb 9:11-14
 /tralett/But Christ, being come an high priest of the good things to come, by a greater and more perfect tabernacle not made with hand, that is, not of this creation: Neither by the blood of goats, or of calves, but by his own blood, entered once into the holies, having obtained eternal redemption. For if the blood of goats and of oxen, and the ashes of an heifer being sprinkled, sanctify such as are defiled, to the cleansing of the flesh: How much more shall the blood of Christ, who by the Holy Ghost offered himself unspotted unto God, cleanse our conscience from dead works, to serve the living God?
-/tra/Resp. The kings of the earth set themselves, and the rulers take counsel together <v>\greheightstar</v> Against the Lord, and against His Anointed. v Why do the heathen rage? and the people imagine a vain thing, r Against the Lord, and against His Anointed?
+/tra/Resp. The kings of the earth set themselves, and the rulers take counsel together * Against the Lord, and against His Anointed. v Why do the heathen rage? and the people imagine a vain thing, r Against the Lord, and against His Anointed?
 /stt/Reading 8
 /ref/Heb 9:15-18
 /tralett/And therefore he is the mediator of the new testament: that by means of his death, for the redemption of those transgressions, which were under the former testament, they that are called may receive the promise of eternal inheritance. For where there is a testament, the death of the testator must of necessity come in. For a testament is of force, after men are dead: otherwise it is as yet of no strength, whilst the testator liveth. Whereupon neither was the first indeed dedicated without blood.
-/tra/Resp. I am counted with them that go down into the pit. <v>\greheightstar</v> I am as a man that hath no strength, lying nerveless among the dead. v They have laid me in the lowest pit, in darkness, and in the shadow of death. r I am as a man that hath no strength, lying nerveless among the dead.
+/tra/Resp. I am counted with them that go down into the pit. * I am as a man that hath no strength, lying nerveless among the dead. v They have laid me in the lowest pit, in darkness, and in the shadow of death. r I am as a man that hath no strength, lying nerveless among the dead.
 /stt/Reading 9
 /ref/Heb 9:19-22
 /tralett/For when every commandment of the law had been read by Moses to all the people, he took the blood of calves and goats, with water, and scarlet wool and hyssop, and sprinkled both the book itself and all the people, Saying: This is the blood of the testament, which God hath enjoined unto you. The tabernacle also and all the vessels of the ministry, in like manner, he sprinkled with blood. And almost all things, according to the law, are cleansed with blood: and without shedding of blood there is no remission.
-/tra/Resp. After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre <v>\greheightstar</v> Setting a watch to keep Him. v The chief priests came together unto Pilate, and made that request unto him. r Setting a watch to keep Him. /vers/r After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre, <v>\greheightstar</v> Setting a watch to keep Him.
+/tra/Resp. After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre * Setting a watch to keep Him. v The chief priests came together unto Pilate, and made that request unto him. r Setting a watch to keep Him. /vers/r After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre, * Setting a watch to keep Him.
 /tt/At Lauds
-/tra/Ant. O death, I will be thy death; <v>\greheightstar</v> O grave, I will be thy destruction.
-/sttps/Psalm 50
-/pst/Have mercy on me, O God, <v>\greheightstar</v> according to thy great mercy.
-/pst/And according to the multitude of thy tender mercies <v>\greheightstar</v> blot out my iniquity.
-/pst/Wash me yet more from my iniquity, <v>\greheightstar</v> and cleanse me from my sin.
-/pst/For I know my iniquity, <v>\greheightstar</v> and my sin is always before me.
-/pst/To thee only have I sinned, and have done evil before thee: <v>\greheightstar</v> that thou mayst be justified in thy words, and mayst overcome when thou art judged.
-/pst/For behold I was conceived in iniquities; <v>\greheightstar</v> and in sins did my mother conceive me.
-/pst/For behold thou hast loved truth: <v>\greheightstar</v> the uncertain and hidden things of thy wisdom thou hast made manifest to me.
-/pst/Thou shalt sprinkle me with hyssop, and I shall be cleansed: <v>\greheightstar</v> thou shalt wash me, and I shall be made whiter than snow.
-/pst/To my hearing thou shalt give joy and gladness: <v>\greheightstar</v> and the bones that have been humbled shall rejoice.
-/pst/Turn away thy face from my sins, <v>\greheightstar</v> and blot out all my iniquities.
-/pst/Create a clean heart in me, O God: <v>\greheightstar</v> and renew a right spirit within my bowels.
-/pst/Cast me not away from thy face; <v>\greheightstar</v> and take not thy holy spirit from me.
-/pst/Restore unto me the joy of thy salvation, <v>\greheightstar</v> and strengthen me with a perfect spirit.
-/pst/I will teach the unjust thy ways: <v>\greheightstar</v> and the wicked shall be converted to thee.
-/pst/Deliver me from blood, O God, thou God of my salvation: <v>\greheightstar</v> and my tongue shall extol thy justice.
-/pst/O Lord, thou wilt open my lips: <v>\greheightstar</v> and my mouth shall declare thy praise.
-/pst/For if thou hadst desired sacrifice, I would indeed have given it: <v>\greheightstar</v> with burnt offerings thou wilt not be delighted.
-/pst/A sacrifice to God is an afflicted spirit: <v>\greheightstar</v> a contrite and humbled heart, O God, thou wilt not despise.
-/pst/Deal favourably, O Lord, in thy good will with Sion; <v>\greheightstar</v> that the walls of Jerusalem may be built up.
-/pst/Then shalt thou accept the sacrifice of justice, oblations and whole burnt offerings: <v>\greheightstar</v> then shall they lay calves upon thy altar.
+/tra/Ant. O death, I will be thy death; * O grave, I will be thy destruction.
+/stt/Psalm 50
+/pst/Have mercy on me, O God, * according to thy great mercy.
+/pst/And according to the multitude of thy tender mercies * blot out my iniquity.
+/pst/Wash me yet more from my iniquity, * and cleanse me from my sin.
+/pst/For I know my iniquity, * and my sin is always before me.
+/pst/To thee only have I sinned, and have done evil before thee: * that thou mayst be justified in thy words, and mayst overcome when thou art judged.
+/pst/For behold I was conceived in iniquities; * and in sins did my mother conceive me.
+/pst/For behold thou hast loved truth: * the uncertain and hidden things of thy wisdom thou hast made manifest to me.
+/pst/Thou shalt sprinkle me with hyssop, and I shall be cleansed: * thou shalt wash me, and I shall be made whiter than snow.
+/pst/To my hearing thou shalt give joy and gladness: * and the bones that have been humbled shall rejoice.
+/pst/Turn away thy face from my sins, * and blot out all my iniquities.
+/pst/Create a clean heart in me, O God: * and renew a right spirit within my bowels.
+/pst/Cast me not away from thy face; * and take not thy holy spirit from me.
+/pst/Restore unto me the joy of thy salvation, * and strengthen me with a perfect spirit.
+/pst/I will teach the unjust thy ways: * and the wicked shall be converted to thee.
+/pst/Deliver me from blood, O God, thou God of my salvation: * and my tongue shall extol thy justice.
+/pst/O Lord, thou wilt open my lips: * and my mouth shall declare thy praise.
+/pst/For if thou hadst desired sacrifice, I would indeed have given it: * with burnt offerings thou wilt not be delighted.
+/pst/A sacrifice to God is an afflicted spirit: * a contrite and humbled heart, O God, thou wilt not despise.
+/pst/Deal favourably, O Lord, in thy good will with Sion; * that the walls of Jerusalem may be built up.
+/pst/Then shalt thou accept the sacrifice of justice, oblations and whole burnt offerings: * then shall they lay calves upon thy altar.
 /tra/Ant. O death, I will be thy death; O grave, I will be thy destruction.
-/tra/Ant. They shall mourn for Him <v>\greheightstar</v> as one mourneth for his only son, for the innocent Lord hath been put to death.
-/sttps/Psalm 91
-/pst/It is good to give praise to the Lord: <v>\greheightstar</v> and to sing to thy name, O most High.
-/pst/To shew forth thy mercy in the morning, <v>\greheightstar</v> and thy truth in the night:
-/pst/Upon an instrument of ten strings, upon the psaltery: <v>\greheightstar</v> with a canticle upon the harp.
-/pst/For thou hast given me, O Lord, a delight in thy doings: <v>\greheightstar</v> and in the works of thy hands I shall rejoice.
-/pst/O Lord, how great are thy works! <v>\greheightstar</v> thy thoughts are exceeding deep.
-/pst/The senseless man shall not know: <v>\greheightstar</v> nor will the fool understand these things.
-/pst/When the wicked shall spring up as grass: <v>\greheightstar</v> and all the workers of iniquity shall appear:
-/pst/That they may perish for ever and ever: <v>\greheightstar</v> but thou, O Lord, art most high for evermore.
-/pst/For behold thy enemies, O Lord, for behold thy enemies shall perish: <v>\greheightstar</v> and all the workers of iniquity shall be scattered.
-/pst/But my horn shall be exalted like that of the unicorn: <v>\greheightstar</v> and my old age in plentiful mercy.
-/pst/My eye also hath looked down upon my enemies: <v>\greheightstar</v> and my ear shall hear of the downfall of the malignant that rise up against me.
-/pst/The just shall flourish like the palm tree: <v>\greheightstar</v> he shall grow up like the cedar of Libanus.
-/pst/They that are planted in the house of the Lord <v>\greheightstar</v> shall flourish in the courts of the house of our God.
-/pst/They shall still increase in a fruitful old age: <v>\greheightstar</v> and shall be well treated, that they may shew,
-/pst/That the Lord our God is righteous, <v>\greheightstar</v> and there is no iniquity in him.
+/tra/Ant. They shall mourn for Him * as one mourneth for his only son, for the innocent Lord hath been put to death.
+/stt/Psalm 91
+/pst/It is good to give praise to the Lord: * and to sing to thy name, O most High.
+/pst/To shew forth thy mercy in the morning, * and thy truth in the night:
+/pst/Upon an instrument of ten strings, upon the psaltery: * with a canticle upon the harp.
+/pst/For thou hast given me, O Lord, a delight in thy doings: * and in the works of thy hands I shall rejoice.
+/pst/O Lord, how great are thy works! * thy thoughts are exceeding deep.
+/pst/The senseless man shall not know: * nor will the fool understand these things.
+/pst/When the wicked shall spring up as grass: * and all the workers of iniquity shall appear:
+/pst/That they may perish for ever and ever: * but thou, O Lord, art most high for evermore.
+/pst/For behold thy enemies, O Lord, for behold thy enemies shall perish: * and all the workers of iniquity shall be scattered.
+/pst/But my horn shall be exalted like that of the unicorn: * and my old age in plentiful mercy.
+/pst/My eye also hath looked down upon my enemies: * and my ear shall hear of the downfall of the malignant that rise up against me.
+/pst/The just shall flourish like the palm tree: * he shall grow up like the cedar of Libanus.
+/pst/They that are planted in the house of the Lord * shall flourish in the courts of the house of our God.
+/pst/They shall still increase in a fruitful old age: * and shall be well treated, that they may shew,
+/pst/That the Lord our God is righteous, * and there is no iniquity in him.
 /tra/Ant. They shall mourn for Him as one mourneth for his only son, for the innocent Lord hath been put to death.
-/tra/Ant. O all ye nations, behold <v>\greheightstar</v> and see my sorrow.
-/sttps/Psalm 63
-/pst/Hear, O God, my prayer, when I make supplication to thee: <v>\greheightstar</v> deliver my soul from the fear of the enemy.
-/pst/Thou hast protected me from the assembly of the malignant; <v>\greheightstar</v> from the multitude of the workers of iniquity.
-/pst/For they have whetted their tongues like a sword; <v>\greheightstar</v> they have bent their bow a bitter thing, to shoot in secret the undefiled.
-/pst/They will shoot at him on a sudden, and will not fear: <v>\greheightstar</v> they are resolute in wickedness.
-/pst/They have talked of hiding snares; <v>\greheightstar</v> they have said: Who shall see them?
-/pst/They have searched after iniquities: <v>\greheightstar</v> they have failed in their search.
-/pst/Man shall come to a deep heart: <v>\greheightstar</v> and God shall be exalted.
-/pst/The arrows of children are their wounds: <v>\greheightstar</v> and their tongues against them are made weak.
-/pst/All that saw them were troubled; <v>\greheightstar</v> and every man was afraid.
-/pst/And they declared the works of God: <v>\greheightstar</v> and understood his doings.
-/pst/The just shall rejoice in the Lord, and shall hope in him: <v>\greheightstar</v> and all the upright in heart shall be praised.
+/tra/Ant. O all ye nations, behold * and see my sorrow.
+/stt/Psalm 63
+/pst/Hear, O God, my prayer, when I make supplication to thee: * deliver my soul from the fear of the enemy.
+/pst/Thou hast protected me from the assembly of the malignant; * from the multitude of the workers of iniquity.
+/pst/For they have whetted their tongues like a sword; * they have bent their bow a bitter thing, to shoot in secret the undefiled.
+/pst/They will shoot at him on a sudden, and will not fear: * they are resolute in wickedness.
+/pst/They have talked of hiding snares; * they have said: Who shall see them?
+/pst/They have searched after iniquities: * they have failed in their search.
+/pst/Man shall come to a deep heart: * and God shall be exalted.
+/pst/The arrows of children are their wounds: * and their tongues against them are made weak.
+/pst/All that saw them were troubled; * and every man was afraid.
+/pst/And they declared the works of God: * and understood his doings.
+/pst/The just shall rejoice in the Lord, and shall hope in him: * and all the upright in heart shall be praised.
 /tra/Ant. O all ye nations, behold and see my sorrow.
-/tra/Ant. O Lord, deliver my soul <v>\greheightstar</v> from the gates of the grave.
+/tra/Ant. O Lord, deliver my soul * from the gates of the grave.
 /stt/Canticle of Ezechias
 /ref/Isa 38:10-23
-/pst/I said: In the midst of my days <v>\greheightstar</v> I shall go to the gates of hell:
-/pst/I sought for the residue of my years. <v>\greheightstar</v> I said: I shall not see the Lord God in the land of the living.
-/pst/I shall behold man no more, <v>\greheightstar</v> nor the inhabitant of rest.
-/pst/My generation is at an end, and it is rolled away from me, <v>\greheightstar</v> as a shepherd’s tent.
-/pst/My life is cut off, as by a weaver: whilst I was yet but beginning, he cut me off: <v>\greheightstar</v> from morning even to night thou wilt make an end of me.
-/pst/I hoped till morning, <v>\greheightstar</v> as a lion so hath he broken all my bones:
-/pst/From morning even to night thou wilt make an end of me. <v>\greheightstar</v> I will cry like a young swallow, I will meditate like a dove:
-/pst/My eyes are weakened <v>\greheightstar</v> looking upward:
-/pst/Lord, I suffer violence, answer thou for me. <v>\greheightstar</v> What shall I say, or what shall he answer for me, whereas he himself hath done it?
-/pst/I will recount to thee all my years <v>\greheightstar</v> in the bitterness of my soul.
-/pst/O Lord, if man’s life be such, and the life of my spirit be in such things as these, thou shalt correct me, and make me to live. <v>\greheightstar</v> Behold in peace is my bitterness most bitter:
-/pst/But thou hast delivered my soul that it should not perish, <v>\greheightstar</v> thou hast cast all my sins behind thy back.
-/pst/For hell shall not confess to thee, neither shall death praise thee: <v>\greheightstar</v> nor shall they that go down into the pit, look for thy truth.
-/pst/The living, the living, he shall give praise to thee, as I do this day: <v>\greheightstar</v> the father shall make thy truth known to the children.
-/pst/O Lord, save me, and we will sing our psalms all the days of our life <v>\greheightstar</v> in the house of the Lord.
+/pst/I said: In the midst of my days * I shall go to the gates of hell:
+/pst/I sought for the residue of my years. * I said: I shall not see the Lord God in the land of the living.
+/pst/I shall behold man no more, * nor the inhabitant of rest.
+/pst/My generation is at an end, and it is rolled away from me, * as a shepherd�s tent.
+/pst/My life is cut off, as by a weaver: whilst I was yet but beginning, he cut me off: * from morning even to night thou wilt make an end of me.
+/pst/I hoped till morning, * as a lion so hath he broken all my bones:
+/pst/From morning even to night thou wilt make an end of me. * I will cry like a young swallow, I will meditate like a dove:
+/pst/My eyes are weakened * looking upward:
+/pst/Lord, I suffer violence, answer thou for me. * What shall I say, or what shall he answer for me, whereas he himself hath done it?
+/pst/I will recount to thee all my years * in the bitterness of my soul.
+/pst/O Lord, if man�s life be such, and the life of my spirit be in such things as these, thou shalt correct me, and make me to live. * Behold in peace is my bitterness most bitter:
+/pst/But thou hast delivered my soul that it should not perish, * thou hast cast all my sins behind thy back.
+/pst/For hell shall not confess to thee, neither shall death praise thee: * nor shall they that go down into the pit, look for thy truth.
+/pst/The living, the living, he shall give praise to thee, as I do this day: * the father shall make thy truth known to the children.
+/pst/O Lord, save me, and we will sing our psalms all the days of our life * in the house of the Lord.
 /tra/Ant. O Lord, deliver my soul from the gates of the grave.
-/tra/Ant. O all ye that pass by <v>\greheightstar</v> behold, and see if there be any sorrow like unto my sorrow.
-/sttps/Psalm 150
-/pst1/Praise ye the Lord in his holy places: <v>\greheightstar</v> praise ye him in the firmament of his power.
-/pst/Praise ye him for his mighty acts: <v>\greheightstar</v> praise ye him according to the multitude of his greatness.
-/pst/Praise him with sound of trumpet: <v>\greheightstar</v> praise him with psaltery and harp.
-/pst/Praise him with timbrel and choir: <v>\greheightstar</v> praise him with strings and organs.
-/pst/Praise him on high sounding cymbals: praise him on cymbals of joy: <v>\greheightstar</v> let every spirit praise the Lord.
+/tra/Ant. O all ye that pass by * behold, and see if there be any sorrow like unto my sorrow.
+/stt/Psalm 150
+/pst1/Praise ye the Lord in his holy places: * praise ye him in the firmament of his power.
+/pst/Praise ye him for his mighty acts: * praise ye him according to the multitude of his greatness.
+/pst/Praise him with sound of trumpet: * praise him with psaltery and harp.
+/pst/Praise him with timbrel and choir: * praise him with strings and organs.
+/pst/Praise him on high sounding cymbals: praise him on cymbals of joy: * let every spirit praise the Lord.
 /tra/Ant. O all ye that pass by behold, and see if there be any sorrow like unto my sorrow.
 /vers/v My flesh shall rest in hope.
 /vers/r Neither wilt Thou suffer thine Holy One to see corruption.
-/tra/Ant. There were women sitting over against the sepulchre <v>\greheightstar</v> weeping, and making lamentation for the Lord.
+/tra/Ant. There were women sitting over against the sepulchre * weeping, and making lamentation for the Lord.
 /stt/Canticle of Zacharias
 /ref/Luke 1:68-79
-/pst1/Blessed be the Lord ✠ God of Israel; <v>\greheightstar</v> because he hath visited and wrought the redemption of his people:
-/pst/And hath raised up an horn of salvation to us, <v>\greheightstar</v> in the house of David his servant:
-/pst/As he spoke by the mouth of his holy Prophets, <v>\greheightstar</v> who are from the beginning:
-/pst/Salvation from our enemies, <v>\greheightstar</v> and from the hand of all that hate us:
-/pst/To perform mercy to our fathers, <v>\greheightstar</v> and to remember his holy testament,
-/pst/The oath, which he swore to Abraham our father, <v>\greheightstar</v> that he would grant to us,
-/pst/That being delivered from the hand of our enemies, <v>\greheightstar</v> we may serve him without fear,
-/pst/In holiness and justice before him, <v>\greheightstar</v> all our days.
-/pst/And thou, child, shalt be called the prophet of the Highest: <v>\greheightstar</v> for thou shalt go before the face of the Lord to prepare his ways:
-/pst/To give knowledge of salvation to his people, <v>\greheightstar</v> unto the remission of their sins:
-/pst/Through the bowels of the mercy of our God, <v>\greheightstar</v> in which the Orient from on high hath visited us:
-/pst/To enlighten them that sit in darkness, and in the shadow of death: <v>\greheightstar</v> to direct our feet into the way of peace.
+/pst1/Blessed be the Lord ? God of Israel; * because he hath visited and wrought the redemption of his people:
+/pst/And hath raised up an horn of salvation to us, * in the house of David his servant:
+/pst/As he spoke by the mouth of his holy Prophets, * who are from the beginning:
+/pst/Salvation from our enemies, * and from the hand of all that hate us:
+/pst/To perform mercy to our fathers, * and to remember his holy testament,
+/pst/The oath, which he swore to Abraham our father, * that he would grant to us,
+/pst/That being delivered from the hand of our enemies, * we may serve him without fear,
+/pst/In holiness and justice before him, * all our days.
+/pst/And thou, child, shalt be called the prophet of the Highest: * for thou shalt go before the face of the Lord to prepare his ways:
+/pst/To give knowledge of salvation to his people, * unto the remission of their sins:
+/pst/Through the bowels of the mercy of our God, * in which the Orient from on high hath visited us:
+/pst/To enlighten them that sit in darkness, and in the shadow of death: * to direct our feet into the way of peace.
 /tra/Ant. There were women sitting over against the sepulchre weeping, and making lamentation for the Lord.
 /tralett/Christ became obedient for us unto death, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names.
 /tra/Our Father =(secretly)=
