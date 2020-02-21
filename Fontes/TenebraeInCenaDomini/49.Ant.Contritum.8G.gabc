@@ -2,8 +2,7 @@
 office-part:Antiphona;
 mode:8;
 book:The Liber Usualis, 1961, p. 654;
-transcriber:Andrew Hinkley;
-initial-style: 0;%fontsize: 13;
+transcriber:Andrew Hinkley;%fontsize: 13;
 %spacing: vichi;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
