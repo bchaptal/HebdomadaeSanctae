@@ -77,8 +77,8 @@
 /pst/
 /tra/Ant. 
 
-/vers/v 
-/vers/r 
+/tra/v 
+/tra/r 
 
 /tra/Notre Père =(en silence)=
 
@@ -162,8 +162,8 @@
 /pst/
 /tra/Ant. 
 
-/vers/v 
-/vers/r 
+/tra/v 
+/tra/r 
 
 /tra/Notre Père =(en silence)=
 
@@ -253,8 +253,8 @@
 /pst/
 /tra/Ant. 
 
-/vers/v 
-/vers/r 
+/tra/v 
+/tra/r 
 
 /tra/Notre Père =(en silence)=
 
@@ -382,8 +382,8 @@
 /pst/
 /tra/Ant. 
 
-/vers/v 
-/vers/r 
+/tra/v 
+/tra/r 
 
 /stt/Cantique de Zacharie
 /tra/Ant. 
@@ -410,4 +410,4 @@
 /tralett/
 /rub/On conclut en silence
 /tra/Qui vit et règne...
-/vers/r 
+/tra/r 

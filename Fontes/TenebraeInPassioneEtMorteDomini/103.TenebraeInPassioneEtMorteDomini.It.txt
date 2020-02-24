@@ -75,8 +75,8 @@
 /pst/Credo che vedrò i beni del Signore * nella terra dei vivi.
 /pst/Aspetta il Signore, agisci con forza, * e prenda coraggio il tuo cuore, e spera nel Signore.
 /tra/Ant. Sono sorti contro di me testimoni iniqui, e l'iniquità ha mentito contro se stessa.
-/vers/v Si divisero i miei panni.
-/vers/r E sulla mia tunica tirarono la sorte.
+/tra/v Si divisero i miei panni.
+/tra/r E sulla mia tunica tirarono la sorte.
 /tra/Padre nostro =(in silenzio)=
 /stt/Lettura 1
 /stt//stt/Dalle Lamentazioni del Profeta Geremia
@@ -362,8 +362,8 @@
 /pst/Egli annunzia la sua parola a Giacobbe, * e le sue giustizie e i suoi giudizi ad Israele.
 /pst/Non ha fatto cosi a tutte le nazioni, * e non ha loro manifestato i suoi giudizi.
 /tra/Ant. Ricordati di me, o Signore, quando giungerai nel tuo regno.
-/vers/v M'ha confinato nelle tenebre.
-/vers/r Come i morti da secoli.
+/tra/v M'ha confinato nelle tenebre.
+/tra/r Come i morti da secoli.
 /tra/Ant. E gli posero * sopra la testa il titolo della condanna: Gesù di Nazaret, Re dei Giudei.
 /stt/Cantico di Zaccaria
 /ref/Lc. 1, 68-79
@@ -386,4 +386,4 @@
 /tralett/Signore, riguarda su questa tua famiglia, per la quale nostro Signore Gesù Cristo non esitò di darsi nelle mani dei carnefici, e subire il supplizio della croce:
 /rub/E si conclude in silenzio
 /tra/Lui che è Dio, e vive e regna con te, in unità con lo Spirito Santo, per tutti i secoli dei secoli.
-/vers/r Amen
+/tra/r Amen

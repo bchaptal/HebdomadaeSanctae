@@ -252,7 +252,8 @@ Ad Matutinum
 /lien/r Et júdica causam meam.
 /latin/Pater noster =(secreto)=
 /stit/Lectio 7
-/stit/De Epístola prima beáti Pauli Apóstoli ad Corínthios /ref/Cor 11:17-22
+/stit/De Epístola prima beáti Pauli Apóstoli ad Corínthios
+/ref/Cor 11:17-22
 /lectio/Hoc autem præcípio: non laudans quod non in mélius, sed in detérius convenítis.Primum quidem conveniéntibus vobis in Ecclésiam, áudio scissúras esse inter vos, et ex parte credo.Nam opórtet et h?reses esse, ut et qui probáti sunt, manifésti fiant in vobis.Conveniéntibus ergo vobis in unum, jam non est Domínicam cenam manducáre.Unusquísque enim suam cenam præsúmit ad manducándum. Et álius quidem ésurit, álius autem ébrius est.Numquid domos non habétis ad manducándum et bibéndum? aut Ecclésiam Dei contémnitis, et confúnditis eos, qui non habent? Quid dicam vobis? Laúdo vos? In hoc non laudo.
 /lien/r Eram quasi agnus ínnocens: ductus sum ad immolándum, et nesciébam: consílium fecérunt inimíci mei advérsum me, dicéntes: * Veníte, mittámus lignum in panem ejus, et eradámus eum de terra vivéntium. v Omnes inimíci mei advérsum me cogitábant mala mihi: verbum iníquum mandavérunt advérsum me, dicéntes. r Veníte, mittámus lignum in panem ejus, et eradámus eum de terra vivéntium.
 /stit/Lectio 8

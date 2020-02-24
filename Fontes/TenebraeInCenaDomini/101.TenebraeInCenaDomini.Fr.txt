@@ -84,22 +84,22 @@
 /pst/
 /pst/
 /tra/Ant. 
-/vers/v
-/vers/r
+/tra/v
+/tra/r
 /tra/Notre Père =(en silence)=
 /stt/Leçon 1
 /stt/Leçon du livre des Lamentations
 /ref/Lam. 1, 1-5
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 /stt/Leçon 2
 /ref/Lam. 1, 6-9
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 /stt/Leçon 3
 /ref/Lam. 1, 10-14
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 
 /tra/Ant. 
 /stt/Psaume 71
@@ -184,21 +184,21 @@
 /pst/
 /pst/
 /tra/Ant. 
-/vers/v
-/vers/r
+/tra/v
+/tra/r
 /tra/Notre Père =(en silence)=
 
 /stt/Leçon 4
 /stt/Du Traité sur les Psaumes de saint Augustin, évêque d'Hippone
 /ref/Sur le Psaume LIV, 1
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 /stt/Leçon 5
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 /stt/Leçon 6
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 
 /tra/Ant. 
 /stt/Psaume 74
@@ -253,23 +253,23 @@
 /pst/
 /pst/
 /tra/Ant. 
-/vers/v
-/vers/r
+/tra/v
+/tra/r
 /tra/Notre Père =(en silence)=
 
 /stt/Leçon 7
 /stt/De la première épître du bienheureux apôtre Paul aux Corinthiens
 /ref/1 Cor. 11, 17-22
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 /stt/Leçon 8
 /ref/1 Cor. 11, 23-26
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 /stt/Leçon 9
 /ref/1 Cor. 11, 27-34
 /tralett/
-/tra/Rep. 
+/resp/Rep. 
 /tt/À Laudes
 /tra/Ant. 
 /stt/Psaume 50
@@ -377,8 +377,8 @@
 /pst/
 /pst/
 /tra/Ant. 
-/vers/v 
-/vers/r 
+/tra/v 
+/tra/r 
 /stt/Cantique de Zacharie
 /tra/Ant. 
 /ref/Lc 1, 68-79
@@ -401,5 +401,5 @@
 /tralett/
 /rub/On conclut en silence
 /tra/Qui vit et règne...
-/vers/r Amen
+/tra/r Amen
 

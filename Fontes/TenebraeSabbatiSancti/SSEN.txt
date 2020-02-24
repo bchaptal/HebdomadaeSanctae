@@ -35,8 +35,8 @@
 /pst/Because thou wilt not leave my soul in hell; * nor wilt thou give thy holy one to see corruption.
 /pst/Thou hast made known to me the ways of life, thou shalt fill me with joy with thy countenance: * at thy right hand are delights even to the end.
 /tra/Ant. My flesh shall rest in hope.
-/vers/v I will both lay me down in peace.
-/vers/r And sleep.
+/tra/v I will both lay me down in peace.
+/tra/r And sleep.
 /tra/Our Father =(secretly)=
 /stt/Reading 1
 /stt/Lesson from the book of Lamentations
@@ -166,8 +166,8 @@
 /pst/They have come round about me like water all the day: * they have compassed me about together.
 /pst/Friend and neighbour thou hast put far from me: * and my acquaintance, because of misery.
 /tra/Ant. I am as a man that hath no strength, lying nerveless among the dead.
-/vers/v His place is in peace.
-/vers/r And His dwelling-place in Zion.
+/tra/v His place is in peace.
+/tra/r And His dwelling-place in Zion.
 /tra/Our Father =(secretly)=
 /stt/Reading 7
 /stt/From the letter of blessed Apostle Paul to the Hebrews
@@ -181,7 +181,7 @@
 /stt/Reading 9
 /ref/Heb 9:19-22
 /tralett/For when every commandment of the law had been read by Moses to all the people, he took the blood of calves and goats, with water, and scarlet wool and hyssop, and sprinkled both the book itself and all the people, Saying: This is the blood of the testament, which God hath enjoined unto you. The tabernacle also and all the vessels of the ministry, in like manner, he sprinkled with blood. And almost all things, according to the law, are cleansed with blood: and without shedding of blood there is no remission.
-/resp/Resp. After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre * Setting a watch to keep Him. v The chief priests came together unto Pilate, and made that request unto him. r Setting a watch to keep Him. /vers/r After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre, * Setting a watch to keep Him.
+/resp/Resp. After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre * Setting a watch to keep Him. v The chief priests came together unto Pilate, and made that request unto him. r Setting a watch to keep Him. /tra/r After that the Lord was buried, they sealed the sepulchre, rolling a stone to the door of the sepulchre, * Setting a watch to keep Him.
 /tt/At Lauds
 /tra/Ant. O death, I will be thy death; * O grave, I will be thy destruction.
 /stt/Psalm 50
@@ -265,8 +265,8 @@
 /pst/Praise him with timbrel and choir: * praise him with strings and organs.
 /pst/Praise him on high sounding cymbals: praise him on cymbals of joy: * let every spirit praise the Lord.
 /tra/Ant. O all ye that pass by behold, and see if there be any sorrow like unto my sorrow.
-/vers/v My flesh shall rest in hope.
-/vers/r Neither wilt Thou suffer thine Holy One to see corruption.
+/tra/v My flesh shall rest in hope.
+/tra/r Neither wilt Thou suffer thine Holy One to see corruption.
 /tra/Ant. There were women sitting over against the sepulchre * weeping, and making lamentation for the Lord.
 /stt/Canticle of Zacharias
 /ref/Luke 1:68-79

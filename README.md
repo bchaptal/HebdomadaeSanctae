@@ -29,7 +29,7 @@ Les intonations des psaumes sont précédées par le numéro de verset.
 
 Les intonations des psaumes et les reprises d'antiennes n'ont pas de lettrine.
 
-A cause d'un problème de police, le ǽ doit être remplacé par æ, dans le gabc. Il faut faire la correction dans le PDF.
+A cause d'un problème de police, le ǽ doit être remplacé par æ, dans le gabc. Il faut ajouter une rustine dans Indesign. Attention: les quarts et demi barres satent en cas de correction du pdf.
 
 Une petite astuce de lisibilité du fichier GABC : allez à la ligne après chaque incise, la lecture et la modification deviennent tout de suite plus rapide (à défaut d’être à jamais désagréable...)
 
@@ -58,6 +58,7 @@ Grâce à la possibilité donée par indesign de garder le lien avec les fichier
 * Les fichiers txt doivent être encodés en ANSI, mais le caractère ǽ ne passe pas et est remplacé par un ?. Il faudra donc exécuter une requête Grep, remplaçant \b\?\b par ǽ.
 * En latin, on met des espaces de ponctuation avant :;?!. On remplace donc [:;!?] par ~<$0
 * De même, on met des espaces insécables à chasse fixe avant les astériques et les †, ainsi qu'après les marques de versets et de répons.
+* Les marques + et = utilisées pour délimiter les syllabes en gras et celles en italiques ont tendance à induire une césure sans tiret. Il faut donc insérer des traits d'union conditionnels en remplaçant "\+([\u\l]*)\+" et "\=([\u\l ,:\.]*)\=" par "~-$0~-"
 * Enfin, après avoir effectué la mise en forme, il faudra supprimer les balises, les liens et les commentaires.
 Super outils pour indesign: XStrings.
 http://www.kerntiff.co.uk/free-stuff/xchange-strings-xstrings
