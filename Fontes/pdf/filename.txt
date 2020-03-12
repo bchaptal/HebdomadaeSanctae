@@ -1,197 +1,1 @@
- Le volume dans le lecteur C s'appelle OS
- Le num‚ro de s‚rie du volume est 80B8-082B
-
- R‚pertoire de C:\Users\abcha\Documents\HebdomadaeSanctae\Fontes\pdf
-
-28/02/2020  15:45    <DIR>          .
-28/02/2020  15:45    <DIR>          ..
-28/02/2020  15:45                 0 filename.txt
-24/02/2020  21:55            11ÿ041 JS.01.Ant.Zelus.8c.pdf
-21/02/2020  12:32            25ÿ281 JS.02.Ps.68.8c.pdf
-21/02/2020  12:02             9ÿ053 JS.03.Ant.Zelus.Reprise.pdf
-24/02/2020  21:55            11ÿ049 JS.04.Ant.Avertantur.8c.pdf
-21/02/2020  12:32            24ÿ503 JS.05.Ps.69.8c.pdf
-21/02/2020  12:00             9ÿ292 JS.06.Ant.Avertantur.Reprise.pdf
-24/02/2020  21:56             9ÿ759 JS.07.Ant.DeusMeus.8c.pdf
-21/02/2020  12:33            28ÿ031 JS.08.Ps.70.8c.pdf
-21/02/2020  11:49             7ÿ781 JS.09.Ant.DeusMeus.Reprise.pdf
-21/02/2020  11:49            10ÿ272 JS.10.Vers.Avertantur.pdf
-24/02/2020  21:56            20ÿ833 JS.11.Lamentatione.G1.pdf
-24/02/2020  21:57            16ÿ593 JS.12.Rep.InMonte.8.pdf
-24/02/2020  21:57            19ÿ513 JS.13.Lamentatione.G2.pdf
-24/02/2020  21:58            17ÿ734 JS.14.Rep.TrisisEst.8.pdf
-24/02/2020  21:58            18ÿ972 JS.15.Lamentatione.G3.pdf
-24/02/2020  21:58            18ÿ144 JS.16.Rep.EcceVidimus.5.pdf
-24/02/2020  21:59            11ÿ413 JS.17.Ant.Liberavit.7c.pdf
-21/02/2020  12:35            26ÿ204 JS.18.Ps.71.7c.pdf
-21/02/2020  11:02             9ÿ550 JS.19.Ant.Liberavit.Reprise.pdf
-24/02/2020  21:59            11ÿ142 JS.20.Ant.Cogitaverunt.8c.pdf
-21/02/2020  12:36            26ÿ840 JS.21.Ps.72.8c.pdf
-21/02/2020  10:56             9ÿ322 JS.22.Ant.Cogitaverunt.Reprise.pdf
-24/02/2020  22:00             9ÿ987 JS.23.Ant.Exsurge.1g.pdf
-21/02/2020  12:37            25ÿ948 JS.24.Ps.73.1g.pdf
-21/02/2020  10:54             8ÿ273 JS.25.Ant.Exsurge.Reprise.pdf
-21/02/2020  10:53            10ÿ502 JS.26.Vers.DeusMeus.pdf
-24/02/2020  22:00            18ÿ111 JS.27.Rep.Amicus.8.pdf
-24/02/2020  22:01            16ÿ318 JS.28.Rep.JudasMercator.2.pdf
-24/02/2020  22:08            17ÿ409 JS.29.Rep.UnusExDiscipulis.6.pdf
-24/02/2020  22:08            10ÿ618 JS.30.Ant.DixiIniquis.7c.pdf
-26/02/2020  23:57            26ÿ259 JS.31.Ps.74.7c.pdf
-21/02/2020  10:36             8ÿ765 JS.32.Ant.DixiIniquis.Reprise.pdf
-24/02/2020  22:07            11ÿ179 JS.33.Ant.TerraTremuit.8c.pdf
-21/02/2020  12:27            24ÿ672 JS.34.Ps.75.8c.pdf
-21/02/2020  10:31             9ÿ234 JS.35.Ant.TerraTremuit.Reprise.pdf
-26/02/2020  23:44            11ÿ311 JS.36.Ant.InDieTribulationis.7a.pdf
-21/02/2020  12:27            26ÿ348 JS.37.PS.76.7a.pdf
-21/02/2020  10:29             9ÿ262 JS.38.Ant.InDieTribulationis.Reprise.pdf
-26/02/2020  23:50             9ÿ984 JS.39.Vers.Exsurge.pdf
-24/02/2020  22:06            18ÿ218 JS.40.Resp.EramQuasi.7.pdf
-24/02/2020  22:06            18ÿ341 JS.41.Rep.UnaHora.7.pdf
-24/02/2020  22:05            17ÿ288 JS.42.Rep.Seniores.1.pdf
-26/02/2020  23:46            10ÿ681 JS.43.Ant.JustificerisDomine.8G.pdf
-21/02/2020  12:21            24ÿ665 JS.44.Ps.50.8G.pdf
-21/02/2020  10:13             8ÿ674 JS.45.Ant.JustificerisDomine.Reprise.pdf
-24/02/2020  22:04            10ÿ511 JS.46.Ant.DominusTamquam.2D.pdf
-21/02/2020  12:20            25ÿ882 JS.47.Ps.89.2D.pdf
-21/02/2020  10:12             8ÿ698 JS.48.Ant.DominusTamquam.Reprise.pdf
-26/02/2020  23:53            10ÿ021 JS.49.Ant.Contritum.8G.pdf
-21/02/2020  12:18            25ÿ147 JS.50.Ps.35.8G.pdf
-26/02/2020  23:54             8ÿ205 JS.51.Ant.Contritum.Reprise.pdf
-24/02/2020  22:03            10ÿ627 JS.52.Ant.Exhortatus.4Aet.pdf
-21/02/2020  14:36            27ÿ413 JS.53.Cant.Moysis.4E.pdf
-21/02/2020  10:08             8ÿ880 JS.54.Ant.Exhortatus.Reprise.pdf
-24/02/2020  22:02            10ÿ189 JS.55.Ant.OblatusEst.2D.pdf
-21/02/2020  14:35            25ÿ323 JS.56.Ps.146.2D.pdf
-21/02/2020  10:00             8ÿ396 JS.57.Ant.OblatusEst.Reprise.pdf
-21/02/2020  09:59            10ÿ911 JS.58.Vers.HomoPacis.pdf
-24/02/2020  22:02            11ÿ550 JS.59.Ant.Traditor.1g.pdf
-19/11/2019  23:21            28ÿ249 JS.60.Cant.Benedictus.1g.pdf
-21/02/2020  09:55             9ÿ642 JS.61.Ant.Traditor.Reprise.pdf
-24/02/2020  22:01            11ÿ107 JS.62.Ant.ChristusFactusEst.pdf
-25/02/2020  15:33            10ÿ100 SS.01.Ant.InPaceInIdipsum.8G.pdf
-18/02/2020  13:17            26ÿ987 SS.02.Ps.4.8G.pdf
-12/02/2020  13:08             8ÿ055 SS.03.Ant.InPaceInIdipsum.Reprise.pdf
-25/02/2020  09:28            10ÿ245 SS.04.Ant.Habitabit.4E.pdf
-25/02/2020  15:27            25ÿ704 SS.05.Ps.14.4E.pdf
-12/02/2020  13:15             8ÿ344 SS.06.Ant.Habitabit.Reprise.pdf
-25/02/2020  09:29             9ÿ289 SS.07.Ant.CaroMea.7c.pdf
-18/02/2020  13:27            26ÿ930 SS.08.Ps.15.7c.pdf
-12/02/2020  13:18             7ÿ392 SS.09.Ant.CaroMea.Reprise.pdf
-25/02/2020  10:15             9ÿ606 SS.10.Vers.InPaceInIdipsum..pdf
-25/02/2020  09:31            18ÿ176 SS.11.Lamentatio.S1.pdf
-25/02/2020  09:31            16ÿ011 SS.12.RespSicutOvis.4.pdf
-25/02/2020  09:32            19ÿ121 SS.13.Lamentatio.S2.pdf
-25/02/2020  09:35            17ÿ002 SS.14.Resp.Jerusalem.5.pdf
-25/02/2020  10:04            17ÿ619 SS.15.Oratio.Jeremiae.Simplex.pdf
-25/02/2020  10:04            18ÿ989 SS.16.Oratio.Jeremiae.AdLibitum.pdf
-25/02/2020  10:03            16ÿ882 SS.17.Resp.Plange.5.pdf
-25/02/2020  10:03            10ÿ999 SS.18.Ant.Elevamini.5a.pdf
-18/02/2020  13:25            56ÿ387 SS.19.Ps.23.5a.pdf
-13/02/2020  12:18             9ÿ287 SS.20.Ant.Elevamini.Reprise.pdf
-25/02/2020  10:02             9ÿ725 SS.21.Ant.CredoVidere.4E.pdf
-25/02/2020  15:23            24ÿ669 SS.22.Ps.26.4E.pdf
-13/02/2020  12:46             7ÿ666 SS.23.Ant.CredoVidere.Reprise.pdf
-25/02/2020  10:02             9ÿ670 SS.24.Ant.DomineAbstraxisti.8G.pdf
-18/02/2020  13:56            25ÿ587 SS.25.Ps.29.8G.pdf
-13/02/2020  12:49             7ÿ816 SS.26.Ant.DomineAbstraxisti.Reprise.pdf
-13/02/2020  12:53             9ÿ981 SS.27.Vers.TuAutem.pdf
-25/02/2020  10:01            18ÿ605 SS.28.Resp.Recessit.7.pdf
-25/02/2020  10:10            14ÿ756 SS.29.Resp.OVosOmnes.8.pdf
-25/02/2020  10:00            17ÿ788 SS.30.Resp.EcceQuomodo.4.pdf
-25/02/2020  09:59            10ÿ330 SS.31.Ant.DeusAdjuvat.8G.pdf
-19/02/2020  12:54            31ÿ339 SS.32.Ps.53.8G.pdf
-13/02/2020  16:02             8ÿ352 SS.33.Ant.DeusAdjuvat.8G Reprise.pdf
-25/02/2020  09:59            10ÿ270 SS.34.Ant.InPaceFactus.7a.pdf
-18/02/2020  14:08            10ÿ570 SS.35.Ps.75.7a.pdf
-13/02/2020  16:04             8ÿ341 SS.36.Ant.InPaceFactus.Reprise.pdf
-25/02/2020  09:57            10ÿ648 SS.37.Ant.FactusSum.4d.pdf
-25/02/2020  15:26            25ÿ352 SS.38.Ps.87.4d.pdf
-13/02/2020  16:05             8ÿ746 SS.39.Ant.FactusSum.Reprise.pdf
-13/02/2020  16:07             9ÿ757 SS.40.Vers.InPaceFactus.pdf
-25/02/2020  09:45            16ÿ295 SS.41.Resp.Astiterunt.8.pdf
-25/02/2020  09:43            15ÿ912 SS.42.Resp.Aestimatus.4.pdf
-25/02/2020  09:42            16ÿ297 SS.43.Resp.SepultoDomino.2.pdf
-25/02/2020  09:39             9ÿ464 SS.44.ANt.OMors.4c.pdf
-25/02/2020  15:22            24ÿ507 SS.45.Ps.50.4c.pdf
-13/02/2020  16:12             7ÿ630 SS.46.ANt.OMors.Reprise.pdf
-25/02/2020  09:38            10ÿ163 SS.47.Ant.Plangent.4Aet.pdf
-25/02/2020  15:26            26ÿ721 SS.48.Ps.91.4Astar.pdf
-13/02/2020  16:14             8ÿ433 SS.49.Ant.Plangent.Reprise.pdf
-25/02/2020  09:26            10ÿ140 SS.50.Ant.Attendite.7b.pdf
-18/02/2020  13:58            23ÿ226 SS.51.Ps.63.7b.pdf
-13/02/2020  16:16             8ÿ206 SS.52.Ant.Attendite.Reprise.pdf
-25/02/2020  10:06             9ÿ672 SS.53.Ant.APorta.2D.pdf
-18/02/2020  13:59            26ÿ107 SS.54.CanticumEzechiae.2D.pdf
-13/02/2020  16:17             7ÿ838 SS.55.Ant.APorta.Reprise.pdf
-25/02/2020  10:05            10ÿ756 SS.56.Ant.OVosOmnes.8c.pdf
-18/02/2020  13:57            28ÿ258 SS.57.Ps.150.8c.pdf
-13/02/2020  16:20             9ÿ035 SS.58.Ant.OVosOmnes.Reprise.pdf
-13/02/2020  16:22            10ÿ479 SS.59.Vers.CaroMea.pdf
-25/02/2020  10:05            11ÿ238 SS.60.Ant.Mulieres.1g.pdf
-19/11/2019  23:21            28ÿ249 SS.61.Cant.Benedictus.1g.pdf
-13/02/2020  16:24             9ÿ337 SS.62.Ant.Mulieres.Reprise.pdf
-25/02/2020  09:27            14ÿ984 SS.63.Ant.ChristusFactusEst.pdf
-25/02/2020  13:03            11ÿ648 VS.01.Ant.Astiterunt.8G.pdf
-19/11/2019  23:32            24ÿ933 VS.02.Ps.02.8G.pdf
-19/11/2019  18:18             9ÿ692 VS.03.Ant.Astiterunt.Reprise.pdf
-25/02/2020  13:02             9ÿ944 VS.04.Ant.Diviserunt.8G.pdf
-19/11/2019  23:33            18ÿ393 VS.05.Ps.21.8G.pdf
-19/11/2019  18:20             8ÿ063 VS.06.Ant.Diviserunt.Reprise.pdf
-25/02/2020  14:32            10ÿ122 VS.07.Ant.Insurrexerunt.8G.pdf
-19/11/2019  23:32            29ÿ140 VS.08.Ps.26.8G.pdf
-19/11/2019  22:04             8ÿ072 VS.09.Ant.Insurrexerunt.Reprise.pdf
-19/11/2019  22:05             9ÿ780 VS.10.Vers.Diviserunt.pdf
-25/02/2020  13:01            17ÿ803 VS.11.Lamentatione.V1.pdf
-25/02/2020  12:59            17ÿ480 VS.12.Resp.OmnesAmici.pdf
-25/02/2020  12:58            19ÿ135 VS.13.Lamentatione.V2.pdf
-25/02/2020  12:54            17ÿ112 VS.14.Resp.VelumTempli.pdf
-25/02/2020  12:53            18ÿ552 VS.15.Lamentatione.V3.pdf
-25/02/2020  12:53            17ÿ478 VS.16.Resp.VineaMea.pdf
-25/02/2020  12:51            10ÿ017 VS.17.Ant.VimFaciebant.8G.pdf
-19/11/2019  23:33            25ÿ986 VS.18.Ps.37.8G.pdf
-19/11/2019  22:14             7ÿ893 VS.19.Ant.VimFaciebant.Reprise.pdf
-25/02/2020  12:51            10ÿ016 VS.20.Ant.Confundantur.4Aet.pdf
-19/11/2019  23:30            24ÿ737 VS.21.Ps.39.4A.pdf
-19/11/2019  22:17             8ÿ306 VS.22.Ant.Confundantur.Reprise.pdf
-25/02/2020  12:50            10ÿ361 VS.23.Ant.AlieniInsurrexerunt.4Aet.pdf
-19/11/2019  23:31            26ÿ877 VS.24.Ps.53.4A.pdf
-19/11/2019  22:18             8ÿ616 VS.25.Ant.AlieniInsurrexerunt.Reprise.pdf
-19/11/2019  22:19             9ÿ726 VS.26.Vers.Insurrexerunt.pdf
-25/02/2020  12:47            18ÿ311 VS.27.Resp.Tamquam.8.pdf
-25/02/2020  12:38            18ÿ610 VS.28.Resp.Tenebrae.7.pdf
-25/02/2020  12:36            20ÿ160 VS.29.Resp.AnimamMeam.8.pdf
-25/02/2020  12:34            11ÿ323 VS.30.Ant.AbInsurgentibus.1f.pdf
-19/11/2019  23:29            26ÿ769 VS.31.Ps.58.1f.pdf
-19/11/2019  22:58             9ÿ368 VS.32.Ant.AbInsurgentibus.Reprise.pdf
-25/02/2020  12:34            10ÿ275 VS.33.Ant.LongeFecisti.8G.pdf
-19/11/2019  23:30            26ÿ280 VS.34.Ps.87.8G.pdf
-19/11/2019  22:59             8ÿ449 VS.35.Ant.LongeFecisti.Reprise.pdf
-25/02/2020  12:32            10ÿ373 VS.36.Ant.Captabunt.8G.pdf
-19/11/2019  23:26            23ÿ237 VS.37.Ps.93.8G.pdf
-19/11/2019  23:00             8ÿ464 VS.38.Ant.Captabunt.Reprise.pdf
-19/11/2019  23:01            10ÿ916 VS.39.Vers.LocutiSunt.pdf
-25/02/2020  12:31            16ÿ894 VS.40.Resp.Tradiderunt.6.pdf
-25/02/2020  12:30            17ÿ691 VS.41.Resp.JesumTradidit.8.pdf
-25/02/2020  12:29            17ÿ250 VS.42.Resp.Caligaverunt.2.pdf
-25/02/2020  12:28            11ÿ206 VS.43.Ant.Proprio.7c.pdf
-19/11/2019  23:24            22ÿ498 VS.44.Ps.50.7c.pdf
-19/11/2019  23:04             9ÿ301 VS.45.Ant.Proprio.Reprise.pdf
-25/02/2020  12:27            10ÿ421 VS.46.Ant.Anxiatus.4E.pdf
-19/11/2019  23:23            27ÿ695 VS.47.Ps.142.4E.pdf
-19/11/2019  23:05             8ÿ485 VS.48.Ant.Anxiatus.Reprise.pdf
-25/02/2020  12:26            12ÿ990 VS.49.Ant.AitLatro.1f.pdf
-19/11/2019  23:25            25ÿ806 VS.50.Ps.84.1f.pdf
-19/11/2019  23:07            10ÿ964 VS.51.Ant.AitLatro.Reprise.pdf
-25/02/2020  12:26            11ÿ096 VS.52.Ant.DumConturbata.1f.pdf
-19/11/2019  23:22            25ÿ214 VS.53.Cant.Habacuc.1f.pdf
-19/11/2019  23:09             8ÿ918 VS.54.Ant.DumConturbata.Reprise.pdf
-25/02/2020  13:07            10ÿ091 VS.55.Ant.MementoMei.8G.pdf
-19/11/2019  23:23            24ÿ185 VS.56.Ps.147.8G.pdf
-19/11/2019  23:10             8ÿ111 VS.57.Ant.MementoMei.Reprise.pdf
-19/11/2019  23:11             9ÿ672 VS.58.Vers.Collocavit.pdf
-25/02/2020  13:06            11ÿ966 VS.59.Ant.Posuerunt.1g.pdf
-19/11/2019  23:21            28ÿ249 VS.60.Cant.Benedictus.1g.pdf
-25/02/2020  15:17            10ÿ210 VS.61.Ant.Posuerunt.Reprise.pdf
-25/02/2020  13:05            12ÿ241 VS.62.Ant.ChristusFactusEst.pdf
-             188 fichier(s)        2ÿ864ÿ731 octets
-               2 R‚p(s)  42ÿ747ÿ080ÿ704 octets libres
+/lien/JS.01.Ant.Zelus.8c.pdf/lien/JS.02.Ps.68.8c.pdf/lien/JS.03.Ant.Zelus.Reprise.pdf/lien/JS.04.Ant.Avertantur.8c.pdf/lien/JS.05.Ps.69.8c.pdf/lien/JS.06.Ant.Avertantur.Reprise.pdf/lien/JS.07.Ant.DeusMeus.8c.pdf/lien/JS.08.Ps.70.8c.pdf/lien/JS.09.Ant.DeusMeus.Reprise.pdf/lien/JS.10.Vers.Avertantur.pdf/lien/JS.11.Lamentatione.G1.pdf/lien/JS.12.Rep.InMonte.8.pdf/lien/JS.13.Lamentatione.G2.pdf/lien/JS.14.Rep.TrisisEst.8.pdf/lien/JS.15.Lamentatione.G3.pdf/lien/JS.16.Rep.EcceVidimus.5.pdf/lien/JS.17.Ant.Liberavit.7c.pdf/lien/JS.18.Ps.71.7c.pdf/lien/JS.19.Ant.Liberavit.Reprise.pdf/lien/JS.20.Ant.Cogitaverunt.8c.pdf/lien/JS.21.Ps.72.8c.pdf/lien/JS.22.Ant.Cogitaverunt.Reprise.pdf/lien/JS.23.Ant.Exsurge.1g.pdf/lien/JS.24.Ps.73.1g.pdf/lien/JS.25.Ant.Exsurge.Reprise.pdf/lien/JS.26.Vers.DeusMeus.pdf/lien/JS.27.Rep.Amicus.8.pdf/lien/JS.28.Rep.JudasMercator.2.pdf/lien/JS.29.Rep.UnusExDiscipulis.6.pdf/lien/JS.30.Ant.DixiIniquis.7c.pdf/lien/JS.31.Ps.74.7c.pdf/lien/JS.32.Ant.DixiIniquis.Reprise.pdf/lien/JS.33.Ant.TerraTremuit.8c.pdf/lien/JS.34.Ps.75.8c.pdf/lien/JS.35.Ant.TerraTremuit.Reprise.pdf/lien/JS.36.Ant.InDieTribulationis.7a.pdf/lien/JS.37.PS.76.7a.pdf/lien/JS.38.Ant.InDieTribulationis.Reprise.pdf/lien/JS.39.Vers.Exsurge.pdf/lien/JS.40.Resp.EramQuasi.7.pdf/lien/JS.41.Rep.UnaHora.7.pdf/lien/JS.42.Rep.Seniores.1.pdf/lien/JS.43.Ant.JustificerisDomine.8G.pdf/lien/JS.44.Ps.50.8G.pdf/lien/JS.45.Ant.JustificerisDomine.Reprise.pdf/lien/JS.46.Ant.DominusTamquam.2D.pdf/lien/JS.47.Ps.89.2D.pdf/lien/JS.48.Ant.DominusTamquam.Reprise.pdf/lien/JS.49.Ant.Contritum.8G.pdf/lien/JS.50.Ps.35.8G.pdf/lien/JS.51.Ant.Contritum.Reprise.pdf/lien/JS.52.Ant.Exhortatus.4Aet.pdf/lien/JS.53.Cant.Moysis.4E.pdf/lien/JS.54.Ant.Exhortatus.Reprise.pdf/lien/JS.55.Ant.OblatusEst.2D.pdf/lien/JS.56.Ps.146.2D.pdf/lien/JS.57.Ant.OblatusEst.Reprise.pdf/lien/JS.58.Vers.HomoPacis.pdf/lien/JS.59.Ant.Traditor.1g.pdf/lien/JS.60.Cant.Benedictus.1g.pdf/lien/JS.61.Ant.Traditor.Reprise.pdf/lien/JS.62.Ant.ChristusFactusEst.pdf/lien/SS.01.Ant.InPaceInIdipsum.8G.pdf/lien/SS.02.Ps.4.8G.pdf/lien/SS.03.Ant.InPaceInIdipsum.Reprise.pdf/lien/SS.04.Ant.Habitabit.4E.pdf/lien/SS.05.Ps.14.4E.pdf/lien/SS.06.Ant.Habitabit.Reprise.pdf/lien/SS.07.Ant.CaroMea.7c.pdf/lien/SS.08.Ps.15.7c.pdf/lien/SS.09.Ant.CaroMea.Reprise.pdf/lien/SS.10.Vers.InPaceInIdipsum..pdf/lien/SS.11.Lamentatio.S1.pdf/lien/SS.12.RespSicutOvis.4.pdf/lien/SS.13.Lamentatio.S2.pdf/lien/SS.14.Resp.Jerusalem.5.pdf/lien/SS.15.Oratio.Jeremiae.Simplex.pdf/lien/SS.16.Oratio.Jeremiae.AdLibitum.pdf/lien/SS.17.Resp.Plange.5.pdf/lien/SS.18.Ant.Elevamini.5a.pdf/lien/SS.19.Ps.23.5a.pdf/lien/SS.20.Ant.Elevamini.Reprise.pdf/lien/SS.21.Ant.CredoVidere.4E.pdf/lien/SS.22.Ps.26.4E.pdf/lien/SS.23.Ant.CredoVidere.Reprise.pdf/lien/SS.24.Ant.DomineAbstraxisti.8G.pdf/lien/SS.25.Ps.29.8G.pdf/lien/SS.26.Ant.DomineAbstraxisti.Reprise.pdf/lien/SS.27.Vers.TuAutem.pdf/lien/SS.28.Resp.Recessit.7.pdf/lien/SS.29.Resp.OVosOmnes.8.pdf/lien/SS.30.Resp.EcceQuomodo.4.pdf/lien/SS.31.Ant.DeusAdjuvat.8G.pdf/lien/SS.32.Ps.53.8G.pdf/lien/SS.33.Ant.DeusAdjuvat.8G Reprise.pdf/lien/SS.34.Ant.InPaceFactus.7a.pdf/lien/SS.35.Ps.75.7a.pdf/lien/SS.36.Ant.InPaceFactus.Reprise.pdf/lien/SS.37.Ant.FactusSum.4d.pdf/lien/SS.38.Ps.87.4d.pdf/lien/SS.39.Ant.FactusSum.Reprise.pdf/lien/SS.40.Vers.InPaceFactus.pdf/lien/SS.41.Resp.Astiterunt.8.pdf/lien/SS.42.Resp.Aestimatus.4.pdf/lien/SS.43.Resp.SepultoDomino.2.pdf/lien/SS.44.ANt.OMors.4c.pdf/lien/SS.45.Ps.50.4c.pdf/lien/SS.46.ANt.OMors.Reprise.pdf/lien/SS.47.Ant.Plangent.4Aet.pdf/lien/SS.48.Ps.91.4Astar.pdf/lien/SS.49.Ant.Plangent.Reprise.pdf/lien/SS.50.Ant.Attendite.7b.pdf/lien/SS.51.Ps.63.7b.pdf/lien/SS.52.Ant.Attendite.Reprise.pdf/lien/SS.53.Ant.APorta.2D.pdf/lien/SS.54.CanticumEzechiae.2D.pdf/lien/SS.55.Ant.APorta.Reprise.pdf/lien/SS.56.Ant.OVosOmnes.8c.pdf/lien/SS.57.Ps.150.8c.pdf/lien/SS.58.Ant.OVosOmnes.Reprise.pdf/lien/SS.59.Vers.CaroMea.pdf/lien/SS.60.Ant.Mulieres.1g.pdf/lien/SS.61.Cant.Benedictus.1g.pdf/lien/SS.62.Ant.Mulieres.Reprise.pdf/lien/SS.63.Ant.ChristusFactusEst.pdf/lien/VS.01.Ant.Astiterunt.8G.pdf/lien/VS.02.Ps.02.8G.pdf/lien/VS.03.Ant.Astiterunt.Reprise.pdf/lien/VS.04.Ant.Diviserunt.8G.pdf/lien/VS.05.Ps.21.8G.pdf/lien/VS.06.Ant.Diviserunt.Reprise.pdf/lien/VS.07.Ant.Insurrexerunt.8G.pdf/lien/VS.08.Ps.26.8G.pdf/lien/VS.09.Ant.Insurrexerunt.Reprise.pdf/lien/VS.10.Vers.Diviserunt.pdf/lien/VS.11.Lamentatione.V1.pdf/lien/VS.12.Resp.OmnesAmici.pdf/lien/VS.13.Lamentatione.V2.pdf/lien/VS.14.Resp.VelumTempli.pdf/lien/VS.15.Lamentatione.V3.pdf/lien/VS.16.Resp.VineaMea.pdf/lien/VS.17.Ant.VimFaciebant.8G.pdf/lien/VS.18.Ps.37.8G.pdf/lien/VS.19.Ant.VimFaciebant.Reprise.pdf/lien/VS.20.Ant.Confundantur.4Aet.pdf/lien/VS.21.Ps.39.4A.pdf/lien/VS.22.Ant.Confundantur.Reprise.pdf/lien/VS.23.Ant.AlieniInsurrexerunt.4Aet.pdf/lien/VS.24.Ps.53.4A.pdf/lien/VS.25.Ant.AlieniInsurrexerunt.Reprise.pdf/lien/VS.26.Vers.Insurrexerunt.pdf/lien/VS.27.Resp.Tamquam.8.pdf/lien/VS.28.Resp.Tenebrae.7.pdf/lien/VS.29.Resp.AnimamMeam.8.pdf/lien/VS.30.Ant.AbInsurgentibus.1f.pdf/lien/VS.31.Ps.58.1f.pdf/lien/VS.32.Ant.AbInsurgentibus.Reprise.pdf/lien/VS.33.Ant.LongeFecisti.8G.pdf/lien/VS.34.Ps.87.8G.pdf/lien/VS.35.Ant.LongeFecisti.Reprise.pdf/lien/VS.36.Ant.Captabunt.8G.pdf/lien/VS.37.Ps.93.8G.pdf/lien/VS.38.Ant.Captabunt.Reprise.pdf/lien/VS.39.Vers.LocutiSunt.pdf/lien/VS.40.Resp.Tradiderunt.6.pdf/lien/VS.41.Resp.JesumTradidit.8.pdf/lien/VS.42.Resp.Caligaverunt.2.pdf/lien/VS.43.Ant.Proprio.7c.pdf/lien/VS.44.Ps.50.7c.pdf/lien/VS.45.Ant.Proprio.Reprise.pdf/lien/VS.46.Ant.Anxiatus.4E.pdf/lien/VS.47.Ps.142.4E.pdf/lien/VS.48.Ant.Anxiatus.Reprise.pdf/lien/VS.49.Ant.AitLatro.1f.pdf/lien/VS.50.Ps.84.1f.pdf/lien/VS.51.Ant.AitLatro.Reprise.pdf/lien/VS.52.Ant.DumConturbata.1f.pdf/lien/VS.53.Cant.Habacuc.1f.pdf/lien/VS.54.Ant.DumConturbata.Reprise.pdf/lien/VS.55.Ant.MementoMei.8G.pdf/lien/VS.56.Ps.147.8G.pdf/lien/VS.57.Ant.MementoMei.Reprise.pdf/lien/VS.58.Vers.Collocavit.pdf/lien/VS.59.Ant.Posuerunt.1g.pdf/lien/VS.60.Cant.Benedictus.1g.pdf/lien/VS.61.Ant.Posuerunt.Reprise.pdf/lien/VS.62.Ant.ChristusFactusEst.pdf

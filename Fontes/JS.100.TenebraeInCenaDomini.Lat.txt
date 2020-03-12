@@ -1,8 +1,8 @@
 Ad Matutinum
 /tit/Ad Primum Nocturnum
-/lien/Ant. Zelus domus tuæ * comédit me, et oppróbria exprobrántium tibi cecidérunt super me.
+/lien/JS.01.Ant.Zelus.8c.pdf
 /stit/Psalmus 68
-/lien/Salvum me fac, Deus: * quóniam intravérunt aquæ usque ad ánimam meam.
+/lien/JS.02.Ps.68.8c.pdf
 /ps2/Infíxus sum in limo pro+fún+di: * et non est sub+stán+tia.
 /ps/Veni in altitúdinem +ma+ris: * et tempéstas de+mér+sit me.
 /ps/Laborávi clamans, raucæ factæ sunt fauces +me+æ: * defecérunt óculi mei, dum spero in =Deum= +me+um.
@@ -45,20 +45,20 @@ Ad Matutinum
 /ps/Et inhabitábunt +i+bi, * et hereditáte ac=quírent= +e+am.
 /ps/Et semen servórum ejus possidébit +e+am: * et qui díligunt nomen ejus, habitá=bunt in= +e+a.
 /rub/Omittitur Gloria Patri.
-/lien/Ant. Zelus domus tuæ comédit me, et oppróbria exprobrántium tibi cecidérunt super me.
-/lien/Ant. Avertántur retrórsum, * et erubéscant, qui cógitant mihi mala.
+/lien/JS.03.Ant.Zelus.Reprise.pdf
+/lien/JS.04.Ant.Avertantur.8c.pdf
 /stit/Psalmus 69
-/lien/Deus, in adjutórium meum inténde: * Dómine, ad adjuvándum me festína.
+/lien/JS.05.Ps.69.8c.pdf
 /ps2/Confundántur et revere+án+tur, * qui qu?runt á=nimam= +me+am.
 /ps/Avertántur retrórsum, et eru+bés+cant, * qui volunt =mihi= +ma+la.
 /ps/Avertántur statim erube+scén+tes, * qui dicunt mihi: =Euge,= +eu+ge.
 /ps/Exsúltent et læténtur in te omnes qui +qu?+runt te, * et dicant semper: Magnificétur Dóminus: qui díligunt salu=táre= +tu+um.
 /ps/Ego vero egénus, et +pau+per sum: * Deus, =ádju=+va+ me.
 /ps/Adjútor meus, et liberátor meus +es+ tu: * Dómine, =ne mo=+ré+ris.
-/lien/Ant. Avertántur retrórsum, et erubéscant, qui cógitant mihi mala.
-/lien/Ant. Deus meus, * éripe me de manu peccatóris.
+/lien/JS.06.Ant.Avertantur.Reprise.pdf
+/lien/JS.07.Ant.DeusMeus.8c.pdf
 /stit/Psalmus 70
-/lien/In te, Dómine, sperávi, non confúndar in ætérnum: * in justítia tua líbera me, et éripe me.
+/lien/JS.08.Ps.70.8c.pdf
 /ps2/Inclína ad me aurem +tu+am, * =et= +sal+va me.
 /ps/Esto mihi in Deum protectórem, et in locum mu+ní+tum: * ut sal=vum me= +fá+cias,
 /ps/Quóniam firmaméntum +me+um, * et refúgium =meum= +es+ tu.
@@ -84,26 +84,25 @@ Ad Matutinum
 /ps/Nam et ego confitébor tibi in vasis psalmi veritátem +tu+am: * Deus, psallam tibi in cíthara, =Sanctus= +Is+raël.
 /ps/Exsultábunt lábia mea cum cantávero +ti+bi: * et ánima mea, quam =rede=+mís+ti.
 /ps/Sed et lingua mea tota die meditábitur justítiam +tu+am: * cum confúsi et revériti fúerint, qui quærunt =mala= +mi+hi.
-/lien/Ant. Deus meus, éripe me de manu peccatóris.
-/lien/v Avertántur retrórsum, et erubéscant.
-/lien/r Qui cógitant mihi mala.
+/lien/JS.09.Ant.DeusMeus.Reprise.pdf
+/lien/JS.10.Vers.Avertantur.pdf
 /latin/Pater noster =(secreto)=
 /stit/Lectio 1
 /ref/Lam 1:1-5
-/lien/Incipit Lamentátio Jeremíæ Prophétæ. Aleph. Quómodo sedet sola cívitas plena pópulo: facta est quasi vídua dómina géntium: princeps provinciárum facta est sub tribúto. Beth. Plorans plorávit in nocte, et lácrimæ ejus in máxillis ejus: non est qui consolétur eam ex ómnibus caris ejus: omnes amíci ejus sprevérunt eam, et facti sunt ei inimíci. Ghimel. Migrávit Judas propter afflictiónem, et multitúdinem servitútis: habitávit inter gentes, nec invénit réquiem: omnes persecutóres ejus apprehendérunt eam inter angústias. Daleth. Viæ Sion lugent eo quod non sint qui véniant ad solemnitátem: omnes portæ ejus destrúctæ: sacerdótes ejus geméntes: vírgines ejus squálidæ, et ipsa oppréssa amaritúdine. He. Facti sunt hostes ejus in cápite, inimíci ejus locupletáti sunt: quia Dóminus locútus est super eam propter multitúdinem iniquitátum ejus: párvuli ejus ducti sunt in captivitátem, ante fáciem tribulantis. Jerúsalem, Jerúsalem, convértere ad Dóminum Deum tuum.
-/lien/r In monte Olivéti orávit ad Patrem: Pater, si fíeri potest, tránseat a me calix iste: * Spíritus quidem promptus est, caro autem infirma. v Vigiláte, et oráte, ut non intrétis in tentatiónem. r Spíritus quidem promptus est, caro autem infírma.
+/lien/JS.11.Lamentatione.G1.pdf
+/lien/JS.12.Rep.InMonte.8.pdf
 /stit/Lectio 2
 /ref/Lam 1:6-9
-/lien/Vau. Et egréssus est a fília Sion omnis decor ejus: facti sunt príncipes ejus velut aríetes non inveniéntes páscua: et abiérunt absque fortitúdine ante fáciem subsequéntis. Zain. Recordáta est Jerúsalem diérum afflictiónis suæ, et prævaricatiónis ómnium desiderabílium suórum, quæ habúerat a diébus antíquis, cum cáderet pópulus ejus in manu hostíli, et non esset auxiliátor: vidérunt eam hostes, et derisérunt sábbata ejus. Heth. Peccátum peccávit Jerúsalem, proptérea instábilis facta est: omnes, qui glorificábant eam, sprevérunt illam, quia vidérunt ignomíniam ejus: ipsa autem gemens convérsa est retrórsum. Teth. Sordes ejus in pédibus ejus, nec recordáta est finis sui: depósita est veheménter, non habens consolatórem: vide, Dómine, afflictiónem meam, quóniam eréctus est inimícus. Jerúsalem, Jerúsalem, convértere ad Dóminum Deum tuum.
-/lien/r Trístis est ánima mea usque ad mortem: sústinete hic, et vigiláte mecum: nunc vidébitis turbam, quæ circúmdabit me: * Vos fugam capiétis, et ego vadam immolári pro vobis. v Ecce appropínquat hora, et Fílius hóminis tradétur in manus peccatórum. r Vos fugam capiétis, et ego vadam immolári pro vobis.
+/lien/JS.13.Lamentatione.G2.pdf
+/lien/JS.14.Rep.TrisisEst.8.pdf
 /stit/Lectio 3
 /ref/Lam 1:10-14
-/lien/Iod. Manum suam misit hostis ad ómnia desiderabília ejus: quia vidit gentes ingréssas sanctuárium suum, de quibus præcéperas ne intrárent in ecclésiam tuam.Caph. Omnis pópulus ejus gemens, et quærens panem: dedérunt pretiósa quæque pro cibo ad refocillándam ánimam. Vide, Dómine, et consídera, quóniam facta sum vilis.Lamed. O vos omnes, qui transítis per viam, atténdite, et vidéte, si est dolor sicut dolor meus: quóniam vindemiávit me, ut locútus est Dóminus in die iræ furóris sui.Mem. De excélso misit ignem in óssibus meis, et erudívit me: expándit rete pédibus meis, convértit me retrórsum: pósuit me desolátam, tota die mæróre conféctam.Nun. Vigilávit jugum iniquitátum meárum: in manu ejus convolútæ sunt, et impósitæ collo meo: infirmáta est virtus mea: dedit me Dóminus in manu, de qua non pótero súrgere. Jerúsalem, Jerúsalem, convértere ad Dóminum Deum tuum.
-/lien/r Ecce vídimus eum non habéntem spéciem, neque decórem: aspéctus ejus in eo non est: hic peccáta nostra portávit, et pro nobis dolet: ipse autem vulnerátus est propter iniquitátes nostras: * Cujus livóre sanáti sumus. v Vere languóres nostros ipse tulit, et dolóres nostros ipse portávit. r Cujus livóre sanáti sumus. r Ecce vídimus eum non habéntem spéciem, neque decórem: aspéctus ejus in eo non est: hic peccáta nostra portávit, et pro nobis dolet: ipse autem vulnerátus est propter iniquitátes nostras: * Cujus livóre sanáti sumus.
+/lien/JS.15.Lamentatione.G3.pdf
+/lien/JS.16.Rep.EcceVidimus.5.pdf
 /tit/Ad Secundum Nocturnum
-/lien/Ant. Liberávit Dóminus * páuperem a poténte, et ínopem, cui non erat adjútor.
+/lien/JS.17.Ant.Liberavit.7c.pdf
 /stit/Psalmus 71
-/lien/Deus, judícium tuum regi da: * et justítiam tuam fílio regis:
+/lien/JS.18.Ps.71.7c.pdf
 /ps2/Judicáre pópulum tuum +in+ jus+tí+tia, * et páuperes tuos +in+ ju+dí+cio.
 /ps/Suscípiant montes +pa+cem +pó+pulo: * et +col+les jus+tí+tiam.
 /ps/Iudicábit páuperes pópuli, et salvos fáciet +fí+lios +páu+perum: * et humiliábit calum+ni+a+tó+rem.
@@ -123,10 +122,10 @@ Ad Matutinum
 /ps/Et benedicéntur in ipso omnes +tri+bus +ter+ræ: * omnes gentes magnifi+cá+bunt +e+um.
 /ps/Benedíctus Dóminus, +De+us +Is+raël, * qui facit mira+bí+lia +so+lus:
 /ps/Et benedíctum nomen majestátis ejus +in+ æ+tér+num: * et replébitur majestáte ejus omnis terra: +fi+at, +fi+at.
-/lien/Ant. Liberávit Dóminus páuperem a poténte, et ínopem, cui non erat adjútor.
-/lien/Ant. Cogitavérunt ímpii, * et locúti sunt nequítiam: iniquitátem in excélso locúti sunt.
+/lien/JS.19.Ant.Liberavit.Reprise.pdf
+/lien/JS.20.Ant.Cogitaverunt.8c.pdf
 /stit/Psalmus 72
-/lien/Quam bonus Israël Deus, * his, qui recto sunt corde!
+/lien/JS.21.Ps.72.8c.pdf
 /ps2/Mei autem pæne moti sunt +pe+des: * pæne effúsi sunt =gressus= +me+i.
 /ps/Quia zelávi super i+ní+quos, * pacem pecca=tórum= +vi+dens.
 /ps/Quia non est respéctus morti e+ó+rum: * et firmaméntum in =plaga= e+ó+rum.
@@ -154,10 +153,10 @@ Ad Matutinum
 /ps/Quia ecce, qui elóngant se a te, pe+rí+bunt: * perdidísti omnes, qui forni=cántur= +abs+ te.
 /ps/Mihi autem adhærére Deo +bo+num est: * pónere in Dómino De=o spem= +me+am:
 /ps/Ut annúntiem omnes prædicatiónes +tu+as, * in portis fí=liæ= +Si+on.
-/lien/Ant. Cogitavérunt ímpii, et locúti sunt nequítiam: iniquitátem in excélso locúti sunt.
-/lien/Ant. Exsúrge, Dómine, * et júdica causam meam.
+/lien/JS.22.Ant.Cogitaverunt.Reprise.pdf
+/lien/JS.23.Ant.Exsurge.1g.pdf
 /stit/Psalmus 73
-/lien/Ut quid, Deus, repulísti in finem: * irátus est furor tuus super oves páscuæ tuæ?
+/lien/JS.24.Ps.73.1g.pdf
 /ps2/Memor esto congregati+ó+nis +tu+æ, * quam possedísti =ab i=+ní+tio.
 /ps/Redemísti virgam heredi+tá+tis +tu+æ: * mons Sion, in quo habitás=ti in= +e+o.
 /ps/Leva manus tuas in supérbias e+ó+rum in +fi+nem: * quanta malignátus est inimí=cus in= +sanc+to!
@@ -181,25 +180,24 @@ Ad Matutinum
 /ps/Ne avertátur húmilis +fac+tus con+fú+sus: * pauper et inops laudábunt =nomen= +tu+um.
 /ps/Exsúrge, Deus, júdica +cau+sam +tu+am: * memor esto improperiórum tuórum, eórum quæ ab insipiénte sunt =tota= +di+e.
 /ps/Ne obliviscáris voces inimi+có+rum tu+ó+rum: * supérbia eórum, qui te odérunt, a=scéndit= +sem+per.
-/lien/Ant. Exsúrge, Dómine, et júdica causam meam.
-/lien/v Deus meus, éripe me de manu peccatóris.
-/lien/r Et de manu contra legem agéntis et iníqui.
+/lien/JS.25.Ant.Exsurge.Reprise.pdf
+/lien/JS.26.Vers.DeusMeus.pdf
 /latin/Pater noster =(secreto)=
 /stit/Lectio 4
 /stit/Ex tractátu sancti Augustíni Epíscopi super Psalmos
 /ref/In Psalmum 54 ad 1 versum
 /lectio/Exáudi, Deus, oratiónem meam, et ne despéxeris deprecatiónem meam: inténde mihi, et exáudi me. Satagéntis, sollíciti, in tribulatióne pósiti, verba sunt ista. Orat multa pátiens, de malo liberári desiderans. Súperest ut videámus in quo malo sit: et cum dícere cœ´perit, agnoscámus ibi nos esse: ut communicáta tribulatióne, coniungámus oratiónem. Contristátus sum, inquit, in exercitatióne mea, et conturbátus sum. Ubi contristátus? ubi conturbátus? In exercitatióne mea, inquit. Hómines malos, quos pátitur, commemorátus est: eandémque passiónem malórum hóminum exercitatiónem suam dixit. Ne putétis grátis esse malos in hoc mundo, et nihil boni de illis ágere Deum. Omnis malus aut ídeo vivit, ut corrigátur; aut ídeo vivit, ut per illum bonus exerceátur.
-/lien/r Amicus meus ósculi me trádidit signo: Quem osculátus fúero, ipse est, tenéte eum: hoc malum fecit signum, qui per ósculum adimplévit homicídium. * Infélix prætermísit prétium sánguinis, et in fine láqueo se suspéndit. v Bonum erat ei, si natus non fuísset homo ille. r Infélix prætermísit prétium sánguinis, et in fine láqueo se suspéndit.
+/lien/JS.27.Rep.Amicus.8.pdf
 /stit/Lectio 5
 /lectio/Utinam ergo qui nos modo exércent, convertántur, et nobíscum exerceántur: tamen quámdiu ita sunt ut exérceant, non eos odérimus: quia in eo quod malus est quis eórum, utrum usque in finem perseveratúrus sit, ignorámus. Et plerúmque cum tibi vidéris odisse inimícum, fratrem odísti, et nescis. Diábolus, et ángeli ejus in Scripturis sanctis manifestáti sunt nobis, quod ad ignem ætérnum sint destináti. Ipsórum tantum desperánda est corréctio, contra quos habémus occúltam luctam: ad quam luctam nos armat Apóstolus, dicens: Non est nobis colluctátio advérsus carnem et sánguinem: id est, non advérsus hómines, quos vidétis, sed advérsus príncipes, et potestátes, et rectóres mundi, tenebrárum harum. Ne forte cum dixísset, mundi, intellégeres dæmónes esse rectóres cæli et terræ. Mundi dixit, tenebrárum harum: mundi dixit, amatórum mundi: mundi dixit, impiórum et iniquórum: mundi dixit, de quo dicit Evangélium: Et mundus eum non cognóvit.
-/lien/r Judas mercátor péssimus ósculo pétiit Dóminum: ille ut agnus ínnocens non negávit Judæ ósculum: * Denariórum número Christum Jud?is trádidit. v Mélius illi erat, si natus non fuísset. r Denariórum número Christum Jud?is trádidit.
+/lien/JS.28.Rep.JudasMercator.2.pdf
 /stit/Lectio 6
 /lectio/Quóniam vidi iniquitátem, et contradictiónem in civitáte. Atténde glóriam crucis ipsíus. Jam in fronte regum crux illa fixa est, cui inimíci insultavérunt. Efféctus probávit virtútem: dómuit orbem non ferro, sed ligno. Lignum crucis contuméliis dignum visum est inimícis, et ante ipsum lignum stántes caput agitábant, et dicébant: Si Fílius Dei est, descéndat de cruce. Extendébat ille manus suas ad pópulum non credéntem, et contradicéntem. Si enim justus est, qui ex fide vivit; iníquus est, qui non habet fidem. Quod ergo hic ait, iniquitátem: perfidiam intéllege. Vidébat ergo Dóminus in civitáte iniquitátem et contradictiónem, et extendébat manus suas ad pópulum non credéntem et contradicéntem: et tamen et ipsos exspéctans dicébat: Pater, ignósce illis, quia nésciunt quid fáciunt.
-/lien/r Unus ex discípulis meis tradet me hódie: Væ illi per quem tradar ego: * Mélius illi erat, si natus non fuísset. v Qui intíngit mecum manum in parópside, hic me traditúrus est in manus peccatórum. r Mélius illi erat, si natus non fuísset. r Unus ex discípulis meis tradet me hódie: Væ illi per quem tradar ego: * Mélius illi erat, si natus non fuísset.
+/lien/JS.29.Rep.UnusExDiscipulis.6.pdf
 /tit/Ad Tertium Nocturnum
-/lien/Ant. Dixi iníquis: * Nolíte loqui advérsus Deum iniquitátem.
+/lien/JS.30.Ant.DixiIniquis.7c.pdf
 /stit/Psalmus 74
-/lien/Confitébimur tibi, Deus: * confitébimur, et invocábimus nomen tuum.
+/lien/JS.31.Ps.74.7c.pdf
 /ps2/Narrábimus mira+bí+lia +tu+a: * cum accépero tempus, ego justítias +ju+di+cá+bo.
 /ps/Liquefácta est terra, et omnes qui hábi+tant+ in +e+a: * ego confirmávi co+lúm+nas +e+jus.
 /ps/Dixi iníquis: Nolíte i+ní+que +á+gere: * et delinquéntibus: Nolíte exal+tá+re +cor+nu:
@@ -209,10 +207,10 @@ Ad Matutinum
 /ps/Et inclinávit ex hoc in hoc: † verúmtamen fæx ejus non est e+xi+na+ní+ta: * bibent omnes pecca+tó+res +ter+ræ.
 /ps/Ego autem annunti+á+bo in +s?+culum: * cantábo +De+o +Ja+cob.
 /ps/Et ómnia córnua pecca+tó+rum con+frín+gam: * et exaltabúntur +cór+nua +jus+ti.
-/lien/Ant. Dixi iníquis: Nolíte loqui advérsus Deum iniquitátem.
-/lien/Ant. Terra trémuit * et quiévit, dum exsúrgeret in judício Deus.
+/lien/JS.32.Ant.DixiIniquis.Reprise.pdf
+/lien/JS.33.Ant.TerraTremuit.8c.pdf
 /stit/Psalmus 75
-/lien/Notus in Jud?a Deus: * in Israël magnum nomen ejus.
+/lien/JS.34.Ps.75.8c.pdf
 /ps2/Et factus est in pace locus +e+jus: * et habitátio e=jus in= +Si+on.
 /ps/Ibi confrégit poténtias +ár+cuum, * scutum, gládi=um, et= +bel+lum.
 /ps/Illúminans tu mirabíliter a móntibus æ+tér+nis: * turbáti sunt omnes insipi=éntes= +cor+de.
@@ -224,10 +222,10 @@ Ad Matutinum
 /ps/Quóniam cogitátio hóminis confitébitur +ti+bi: * et relíquiæ cogitatiónis diem festum =agent= +ti+bi.
 /ps/Vovéte, et réddite Dómino, Deo +ves+tro: * omnes, qui in circúitu ejus af=fértis= +mú+nera.
 /ps/Terríbili et ei qui aufert spíritum +prín+cipum, * terríbili apud =reges= +ter+ræ.
-/lien/Ant. Terra trémuit et quiévit, dum exsúrgeret in judício Deus.
-/lien/Ant. In die tribulatiónis * meæ Deum exquisívi mánibus meis.
+/lien/JS.35.Ant.TerraTremuit.Reprise.pdf
+/lien/JS.36.Ant.InDieTribulationis.7a.pdf
 /stit/Psalmus 76
-/lien/Voce mea ad Dóminum clamávi: * voce mea ad Deum, et inténdit mihi.
+/lien/JS.37.PS.76.7a.pdf
 /ps2/In die tribulatiónis meæ Deum exquisívi, † mánibus meis nocte +con+tra +e+um: * et non +sum+ de+cép+tus.
 /ps/Rénuit consolári +á+nima +me+a, * memor fui Dei, et delectátus sum, et exercitátus sum: et defécit +spí+ritus +me+us.
 /ps/Anticipavérunt vigílias +ó+culi +me+i: * turbátus sum, et non +sum+ lo+cú+tus.
@@ -247,27 +245,26 @@ Ad Matutinum
 /ps/Illuxérunt coruscatiónes tuæ +or+bi +ter+ræ: * commóta est, et con+tré+muit +ter+ra.
 /ps/In mari via tua, et sémitæ tuæ in +a+quis +mul+tis: * et vestígia tua non +co+gno+scén+tur.
 /ps/Deduxísti sicut oves +pó+pulum +tu+um, * in manu Móy+si+ et +A+aron.
-/lien/Ant. In die tribulatiónis meæ Deum exquisívi mánibus meis.
-/lien/v Exsúrge, Dómine.
-/lien/r Et júdica causam meam.
+/lien/JS.38.Ant.InDieTribulationis.Reprise.pdf
+/lien/JS.39.Vers.Exsurge.pdf
 /latin/Pater noster =(secreto)=
 /stit/Lectio 7
 /stit/De Epístola prima beáti Pauli Apóstoli ad Corínthios
 /ref/Cor 11:17-22
 /lectio/Hoc autem præcípio: non laudans quod non in mélius, sed in detérius convenítis.Primum quidem conveniéntibus vobis in Ecclésiam, áudio scissúras esse inter vos, et ex parte credo.Nam opórtet et h?reses esse, ut et qui probáti sunt, manifésti fiant in vobis.Conveniéntibus ergo vobis in unum, jam non est Domínicam cenam manducáre.Unusquísque enim suam cenam præsúmit ad manducándum. Et álius quidem ésurit, álius autem ébrius est.Numquid domos non habétis ad manducándum et bibéndum? aut Ecclésiam Dei contémnitis, et confúnditis eos, qui non habent? Quid dicam vobis? Laúdo vos? In hoc non laudo.
-/lien/r Eram quasi agnus ínnocens: ductus sum ad immolándum, et nesciébam: consílium fecérunt inimíci mei advérsum me, dicéntes: * Veníte, mittámus lignum in panem ejus, et eradámus eum de terra vivéntium. v Omnes inimíci mei advérsum me cogitábant mala mihi: verbum iníquum mandavérunt advérsum me, dicéntes. r Veníte, mittámus lignum in panem ejus, et eradámus eum de terra vivéntium.
+/lien/JS.40.Resp.EramQuasi.7.pdf
 /stit/Lectio 8
 /ref/Cor 11:23-26
 /lectio/Ego enim accépi a Dómino quod et trádidi vobis, quóniam Dóminus Jesus, in qua nocte tradebátur, accépit panem,Et grátias agens fregit, et dixit: Accípite, et manducáte: hoc est corpus meum, quod pro vobis tradétur: hoc fácite in meam commemoratiónem.Simíliter et cálicem, postquam cœnávit, dicens: Hic calix novum testaméntum est in meo sánguine: hoc fácite, quotiescúmque bibétis, in meam commemoratiónem.Quótiescumque enim manducábitis panem hunc, et cálicem bibétis, mortem Dómini annuntiábitis donec véniat.
-/lien/r Una hora non potuístis vigiláre mecum, qui exhortabámini mori pro me? * Vel Judam non vidétis, quómodo non dormit, sed festínat trádere me Jud?is. v Quid dormítis? súrgite, et oráte, ne intrétis in tentatiónem. r Vel Judam non vidétis, quómodo non dormit, sed festínat trádere me Jud?is.
+/lien/JS.41.Rep.UnaHora.7.pdf
 /stit/Lectio 9
 /ref/Cor 11:27-34
 /lectio/Itaque quicúmque manducáverit panem hunc, vel bíberit cálicem Dómini indígne, reus erit córporis et sánguinis Dómini.Probet autem seípsum homo: et sic de pane illo edat, et de cálice bibat.Qui enim mandúcat et bibit indígne, judícium sibi mandúcat et bibit, non diiúdicans corpus Dómini.Ideo inter vos multi infírmi et imbecílles, et dórmiunt multi.Quod, si nosmetípsos dijudicarémus, non útique judicarémur.Dum judicámur autem, a Dómino corrípimur, ut non cum hoc mundo damnémur.Itaque, fratres mei, cum convenítis ad manducándum, ínvicem exspectáte.Si quis ésurit, domi mandúcet: ut non in judícium convéniatis. Cétera autem, cum vénero, dispónam.
-/lien/r Senióres pópuli consílium fecérunt, * Ut Jesum dolo tenérent, et occíderent: cum gládiis et fústibus exiérunt tamquam ad latrónem. v Collegérunt pontífices et pharis?i concílium. r Ut Jesum dolo tenérent, et occíderent: cum gládiis et fústibus exiérunt tamquam ad latrónem. r Senióres pópuli consílium fecérunt, * Ut Jesum dolo tenérent, et occíderent: cum gládiis et fústibus exiérunt tamquam ad latrónem.
+/lien/JS.42.Rep.Seniores.1.pdf
 /tit/Ad Laudes
-/lien/Ant. Justifíceris, Dómine, * in sermónibus tuis, et vincas cum judicáris.
+/lien/JS.43.Ant.JustificerisDomine.8G.pdf
 /stit/Psalmus 50
-/lien/Miserére mei, Deus, * secúndum magnam misericórdiam tuam.
+/lien/JS.44.Ps.50.8G.pdf
 /ps2/Et secúndum multitúdinem miseratiónum tu+á+rum, * dele iniqui=tátem= +me+am.
 /ps/Amplius lava me ab iniquitáte +me+a: * et a peccáto =meo= +mun+da me.
 /ps/Quóniam iniquitátem meam ego co+gnós+co: * et peccátum meum contra =me est= +sem+per.
@@ -287,10 +284,10 @@ Ad Matutinum
 /ps/Sacrifícium Deo spíritus contribu+lá+tus: * cor contrítum, et humiliátum, Deus, =non des=+pí+cies.
 /ps/Benígne fac, Dómine, in bona voluntáte tua +Si+on: * ut ædificéntur mu=ri Je=+rú+salem.
 /ps/Tunc acceptábis sacrifícium justítiæ, oblatiónes, et holo+cáus+ta: * tunc impónent super altáre =tuum= +ví+tulos.
-/lien/Ant. Justifíceris, Dómine, in sermónibus tuis, et vincas cum judicáris.
-/lien/Ant. Dóminus * tamquam ovis ad víctimam ductus est, et non apéruit os suum.
+/lien/JS.45.Ant.JustificerisDomine.Reprise.pdf
+/lien/JS.46.Ant.DominusTamquam.2D.pdf
 /stit/Psalmus 89
-/lien/Dómine, refúgium factus es nobis: * a generatióne in generatiónem.
+/lien/JS.47.Ps.89.2D.pdf
 /ps2/Priúsquam montes fíerent, aut formarétur terra et +or+bis: * a s?culo et usque in s?culum tu =es,= +De+us.
 /ps/Ne avértas hóminem in humili+tá+tem: * et dixísti: Convertímini, fíli=i= +hó+minum.
 /ps/Quóniam mille anni ante óculos +tu+os, * tamquam dies hestérna, quæ =præ=+té+riit,
@@ -309,10 +306,10 @@ Ad Matutinum
 /ps/Lætáti sumus pro diébus, quibus nos humili+ás+ti: * annis, quibus vídi=mus= +ma+la.
 /ps/Réspice in servos tuos, et in ópera +tu+a: * et dírige fílios =e=+ó+rum.
 /ps/Et sit splendor Dómini, Dei nostri, super nos, et ópera mánuum nostrárum dírige +su+per nos: * et opus mánuum nostrá=rum= +dí+rige.
-/lien/Ant. Dóminus tamquam ovis ad víctimam ductus est, et non apéruit os suum.
-/lien/Ant. Contrítum est * cor meum in médio mei, contremuérunt ómnia ossa mea.
+/lien/JS.48.Ant.DominusTamquam.Reprise.pdf
+/lien/JS.49.Ant.Contritum.8G.pdf
 /stit/Psalmus 35
-/lien/Dixit iniústus ut delínquat in semetípso: * non est timor Dei ante óculos ejus.
+/lien/JS.50.Ps.35.8G.pdf
 /ps2/Quóniam dolóse egit in conspéctu +e+jus: * ut inveniátur iníquitas e=jus ad= +ó+dium.
 /ps/Verba oris ejus iníquitas, et +do+lus: * nóluit intellégere ut =bene= +á+geret.
 /ps/Iniquitátem meditátus est in cubíli +su+o: * ástitit omni viæ non bonæ, malítiam autem =non o=+dí+vit.
@@ -325,11 +322,11 @@ Ad Matutinum
 /ps/Præténde misericórdiam tuam sciénti+bus+ te, * et justítiam tuam his, qui rec=to sunt= +cor+de.
 /ps/Non véniat mihi pes su+pér+biæ: * et manus peccatóris non =móve=+at+ me.
 /ps/Ibi cecidérunt qui operántur iniqui+tá+tem: * expúlsi sunt, nec potu=érunt= +sta+re.
-/lien/Ant. Contrítum est cor meum in médio mei, contremuérunt ómnia ossa mea.
-/lien/Ant. Exhortátus es * in virtúte tua, et in refectióne sancta tua, Dómine.
+/lien/JS.51.Ant.Contritum.Reprise.pdf
+/lien/JS.52.Ant.Exhortatus.4Aet.pdf
 /stit/Canticum Moysis
 /ref/Exod. 15:1-22
-/ps2/Cantémus Dómino: glorióse enim magnificátus est, * equum et ascensórem dejécit in mare.
+/lien/JS.53.Cant.Moysis.4E.pdf
 /ps/Fortitúdo mea, et laus =mea= +Dó+minus, * et factus est mi=hi in sa=+lú+tem.
 /ps/Iste Deus meus, et glorifi=cábo= +e+um: * Deus patris mei, et e=xaltábo= +e+um.
 /ps/Dóminus quasi vir pugnátor, † Omnípotens =nomen= +e+jus. * Currus Pharaónis et exércitum ejus pro=jécit in= +ma+re.
@@ -351,10 +348,10 @@ Ad Matutinum
 /ps/Sanctuárium tuum, Dómine, quod firmavérunt =manus= +tu+æ. * Dóminus regnábit in æ=térnum et= +ul+tra.
 /ps/Ingréssus est enim eques Phárao cum cúrribus et equítibus e=jus in= +ma+re: * et redúxit super eos Dómi=nus aquas= +ma+ris:
 /ps/Fílii autem Israël ambulavé=runt per= +sic+cum * in =médio= +e+jus.
-/lien/Ant. Exhortátus es in virtúte tua, et in refectióne sancta tua, Dómine.
-/lien/Ant. Oblátus est * quia ipse vóluit, et peccáta nostra ipse portávit.
+/lien/JS.54.Ant.Exhortatus.Reprise.pdf
+/lien/JS.55.Ant.OblatusEst.2D.pdf
 /stit/Psalmus 146
-/lien/Laudáte Dóminum quóniam bonus est psalmus: * Deo nostro sit jucúnda, decóraque laudátio.
+/lien/JS.56.Ps.146.2D.pdf
 /ps2/Ædíficans Jerúsalem +Dó+minus: * dispersiónes Israélis con=gre=+gá+bit.
 /ps/Qui sanat contrítos +cor+de: * et álligat contritiónes =e=+ó+rum.
 /ps/Qui númerat multitúdinem stel+lá+rum: * et ómnibus eis nómi=na= +vo+cat.
@@ -366,13 +363,12 @@ Ad Matutinum
 /ps/Qui dat juméntis escam ip+só+rum: * et pullis corvórum invocánti=bus= +e+um.
 /ps/Non in fortitúdine equi voluntátem ha+bé+bit: * nec in tíbiis viri beneplácitum e=rit= +e+i.
 /ps/Beneplácitum est Dómino super timéntes +e+um: * et in eis, qui sperant super misericórdi=a= +e+jus.
-/lien/Ant. Oblátus est quia ipse vóluit, et peccáta nostra ipse portávit.
-/lien/v Homo pacis meæ, in quo sperávi.
-/lien/r Qui edébat panes meos, ampliávit advérsum me supplantatiónem.
+/lien/JS.57.Ant.OblatusEst.Reprise.pdf
+/lien/JS.58.Vers.HomoPacis.pdf
 /stit/Canticum Zachariæ
-/lien/Ant. Tráditor autem * dedit eis signum, dicens: Quem osculátus fúero, ipse est, tenéte eum.
+/lien/JS.59.Ant.Traditor.1g.pdf
 /ref/Luc. 1:68-79
-/lien/Benedíctus ? Dóminus, Deus Israël: * quia visitávit, et fecit redemptiónem plebis suæ:
+/lien/JS.60.Cant.Benedictus.1g.pdf
 /ps2/Et eréxit cornu =salútis= +no+bis: * in domo David, pú=eri= +su+i.
 /ps/Sicut locútus est =per os sanc=+tó+rum, * qui a saéculo sunt, prophe=tárum= +e+jus:
 /ps/Salútem ex i=nimícis= +nos+tris, * et de manu ómnium, =qui o=+dé+runt nos.
@@ -384,8 +380,8 @@ Ad Matutinum
 /ps/Ad dandam sciéntiam salú=tis plebi= +e+jus: * in remissiónem peccatórum =eó=+rum:
 /ps/Per víscera misericórdi=æ Dei= +nos+tri: * in quibus visitávit nos, óri=ens ex= +al+to:
 /ps/Illumináre his, qui in ténebris, et in um=bra mortis= +se+dent: * ad dirigéndos pedes nostros in =viam= +pa+cis.
-/lien/Ant. Tráditor autem dedit eis signum, dicens: Quem osculátus fúero, ipse est, tenéte eum.
-/lien/Christus factus est pro nobis obédiens usque ad mortem.
+/lien/JS.61.Ant.Traditor.Reprise.pdf
+/lien/JS.62.Ant.ChristusFactusEst.pdf
 /latin/Pater noster =(secreto)=
 /stit/Oratio
 /lectio/Réspice, qu?sumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
