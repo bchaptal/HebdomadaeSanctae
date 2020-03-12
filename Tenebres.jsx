@@ -1,0 +1,395 @@
+﻿
+main();
+
+function main(){
+    parametrerLangues();
+    creationLivre(langue, nomDocument, bibliotheque);
+}
+function mySetup(){
+    myDocument = app.documents.add();
+    //Set the measurement units on mm
+    with(myDocument.viewPreferences){
+    	horizontalMeasurementUnits = MeasurementUnits.millimeters;
+    	verticalMeasurementUnits = MeasurementUnits.millimeters;
+        rulerOrigin = RulerOrigin.pageOrigin;
+    }
+    //Setup the document
+    with(myDocument.documentPreferences){
+    	pageHeight = 210
+    	pageWidth = 148
+    	facingPages = true;
+    	pageOrientation = PageOrientation.portrait;
+    }
+    with(myDocument.textPreferences){
+    	linkTextFilesWhenImporting = true;
+        smartTextReflow = false;
+    }
+    with(myDocument.gridPreferences){
+    	baselineDivision = "1pt";
+        baselineStart = 0;
+    }
+}
+function parametrerLangues(){//sort nombreDocuments (integer), nombrLangues (integer), langue (array de strings), bibliotheque (array d'arrays de fichiers txt)
+    var myDialog = app.dialogs.add({name:"Paramètres généraux",canCancel:true});
+	with(myDialog){
+		with(dialogColumns.add()){
+			with(borderPanels.add()){
+				with(dialogColumns.add()){
+					staticTexts.add({staticLabel:"Nb langues:"});
+				}
+				with(dialogColumns.add()){
+					var champNombreLangues = integerEditboxes.add({editValue:2});
+				}
+			}
+            with(borderPanels.add()){
+				with(dialogColumns.add()){
+					staticTexts.add({staticLabel:"Nb docs:"});
+				}
+				with(dialogColumns.add()){
+					var champNombreDocuments = integerEditboxes.add({editValue:1});
+				}
+			}
+		}
+	}
+	//Display the dialog box.
+	var myResult = myDialog.show();
+	if(myResult == true){//Get the values from the dialog box controls.
+		nombreLangues = champNombreLangues.editValue;
+        nombreDocuments = champNombreDocuments.editValue;
+		//Remove the dialog box from memory.
+		myDialog.destroy();
+	}
+	else{
+		myDialog.destroy();
+         exit();
+	}
+    //:::::::::::::::::::::::::::::::::::::::::::::
+    var myDialog2 = app.dialogs.add({name:"Paramétres noms",canCancel:true});
+	with(myDialog2){
+        with(dialogColumns.add()){
+            with(borderPanels.add()){
+                with(dialogColumns.add()){
+                    champsLangues = [];
+                    staticTexts.add({staticLabel:"Nom des langues"});
+                    for (var i = 0; i<nombreLangues; i++){
+                       var etiquetteLangue = i+"";
+                      etiquetteLangue = "Langue "+etiquetteLangue;
+                        champsLangues[i] = textEditboxes.add({editContents:etiquetteLangue, minWidth:80});
+                    }
+                }
+            }
+            with(dialogColumns.add()){
+                with(borderPanels.add()){
+                    with(dialogColumns.add()){
+                        champsDocuments = [];
+                        staticTexts.add({staticLabel:"Nom des documents"});
+                        for (var k = 1; k<=nombreDocuments; k++){
+                            var etiquetteDocument = k+"";
+                            etiquetteDocument = "Document "+etiquetteDocument;
+                            champsDocuments[k] = textEditboxes.add({editContents:etiquetteDocument, minWidth:280});
+                        }
+                    }
+                }
+            }
+		}
+	}
+	//Display the dialog box.
+	var myResult2 = myDialog2.show();
+	if(myResult2 == true){
+		//Get the values from the dialog box controls.
+        langue = [];
+        for (var j = 0; j<nombreLangues; j++){// création de l'array langue
+                langue[j] = champsLangues[j].editContents;
+        }
+        bibliotheque = []
+        fichierTexte = [];
+        nomDocument = ["Initium"];
+        for (k = 1; k<=nombreDocuments;k++){
+            nomDocument[k] = champsDocuments[k].editContents;
+            for (var j = 0; j<nombreLangues; j++){
+                    var test = true;
+                    while (test) {//vérification de l'envoi d'un fichier txt
+                        fichierTexte[j] = File.openDialog(nomDocument[k]+": Fichier texte "+langue[j]);
+                        if (fichierTexte[j] instanceof File && fichierTexte[j].name.match(/\.txt$/i)) {test = false;}
+                    }
+            }
+            bibliotheque[k] = fichierTexte;
+            fichierTexte = [];
+        }
+		//Remove the dialog box from memory.
+		myDialog2.destroy();
+	} else {myDialog2.destroy();exit();}
+    SourceStyles = File.openDialog("Indiquez la source des styles");
+}
+function creerCalques(myDocument, langues){//ajout d'un calque par langue
+    nombreLangues = langues.length;
+    mesBlocs = [];
+    for(langue in langues){//langue est ici un integer
+        var myLayer = myDocument.layers.add();
+        myLayer.name = langues[langue];
+        mesBlocs[langue]=[];
+	}
+}
+function importerStyles(SourceStyles){//Importation des styles
+    try {
+        app.activeDocument.importStyles(ImportFormat.PARAGRAPH_STYLES_FORMAT, File(SourceStyles));
+        app.activeDocument.importStyles(ImportFormat.CHARACTER_STYLES_FORMAT, File(SourceStyles));
+        app.activeDocument.importStyles(ImportFormat.OBJECT_STYLES_FORMAT, File(SourceStyles));
+    } catch (e){alert(e);exit();}
+}
+function creerGabarits(myDocument){//Creation des gabarits
+//definition des deux variables de titres utilisées dans les en-têtes
+// a faire: gérer les erreurs lors de la définition du style de paragraphe
+        enormeTitre = myDocument.textVariables.add();
+        enormeTitre.variableType = VariableTypes.MATCH_PARAGRAPH_STYLE_TYPE;
+        enormeTitre.name = "Enorme Titre";
+        enormeTitre.variableOptions.deleteEndPunctuation = true;
+        enormeTitre.variableOptions.changeCase = ChangeCaseOptions.LOWERCASE;
+        enormeTitre.variableOptions.appliedParagraphStyle = "09_ENORME_TIT";
+        enormeTitre.variableOptions.searchStrategy = SearchStrategies.LAST_ON_PAGE;
+        //:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+        titreCourant = myDocument.textVariables.add();
+        titreCourant.variableType = VariableTypes.MATCH_PARAGRAPH_STYLE_TYPE;
+        titreCourant.name = "Titre Courant";
+        titreCourant.variableOptions.deleteEndPunctuation = true;
+        titreCourant.variableOptions.changeCase = ChangeCaseOptions.LOWERCASE;
+        titreCourant.variableOptions.appliedParagraphStyle = "19_TIT";
+        titreCourant.variableOptions.searchStrategy = SearchStrategies.LAST_ON_PAGE;
+        titreCourant.variableOptions.textBefore = " \u2022 ";
+        //::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+        titreFichier = app.activeDocument.textVariables.item("Nom de fichier"); 
+ //fin définition variables   
+     //Création des gabarits
+    //Create a new master spread.
+    var GabMatines = myDocument.masterSpreads.add();
+    GabMatines.namePrefix = "M";
+    GabMatines.baseName = "Matines";
+    GabLaudes = myDocument.masterSpreads.add();
+    GabLaudes.namePrefix = "L";
+    GabLaudes.baseName = "Laudes";
+    //Fin de création des gabarits
+    with(GabMatines){
+    	//Set up the left page (verso).
+    	with(pages.item(0)){
+    		with(marginPreferences){
+    			columnCount = 1;
+    			columnGutter = "0";
+    			bottom = 15
+    			//"left" means inside; "right" means outside.
+    			left = 10
+    			right = 15
+    			top = 15
+    		}
+
+    		with(textFrames.add(myDocument.layers.item("Calque 1"))){//Add page number.
+    			geometricBounds = [10,15,5,25];
+    			insertionPoints.item(0).contents = SpecialCharacters.autoPageNumber;
+    			paragraphs.item(0).justification = Justification.leftAlign;
+    		}
+            with(textFrames.add(myDocument.layers.item("Calque 1"))){//en-tête gauche
+                // a faire: gérer les erreurs lors de la définition du style de paragraphe
+                    geometricBounds = [5,15,10,138];
+                    insertionPoints.item(0).textVariableInstances.add({associatedTextVariable:titreFichier});
+                    myParagraphStyle = myDocument.paragraphStyles.item("00_Gabarit");
+                    insertionPoints.item(0).applyParagraphStyle(myParagraphStyle, true);
+    		}
+            with(graphicLines.add(myDocument.layers.item("Calque 1"))){//ligne en-tête
+                    geometricBounds = [12,15,12,138];
+                    appliedObjectStyle = myDocument.objectStyles.item("98_ligne_fine");
+             }
+            }
+    	with(pages.item(1)){//Set up the right page (recto)
+    		with(marginPreferences){
+    			columnCount = 1;
+    			columnGutter = "0";
+    			bottom = 15
+    			//"left" means inside; "right" means outside.
+    			left = 10
+    			right = 15
+    			top = 15
+    		}		
+    		with(textFrames.add(myDocument.layers.item("Calque 1"))){//Add page number.
+    			geometricBounds = [5,123,10,133];
+    			insertionPoints.item(0).contents = SpecialCharacters.autoPageNumber;
+    			paragraphs.item(0).justification = Justification.rightAlign;
+    		}
+            with(textFrames.add(myDocument.layers.item("Calque 1"))){//en-tête droit
+                    geometricBounds = [5,10,10,133];
+                    insertionPoints.item(0).textVariableInstances.add({associatedTextVariable:titreCourant});
+                    insertionPoints.item(0).textVariableInstances.add({associatedTextVariable:enormeTitre});
+                    myParagraphStyle = myDocument.paragraphStyles.item("00_Gabarit");
+                    insertionPoints.item(0).applyParagraphStyle(myParagraphStyle, true);
+    		}
+            with(graphicLines.add(myDocument.layers.item("Calque 1"))){//ligne en-tête
+                    geometricBounds = [12,10,12,133];
+                    appliedObjectStyle = myDocument.objectStyles.item("98_ligne_fine");
+             }
+    	}
+    	}
+    
+    with(GabLaudes){
+    	with(pages.item(0)){//Set up the left page (verso).
+    		appliedMaster = myDocument.masterSpreads.item("M-Matines");
+    	}
+    	with(pages.item(1)){//Set up the right page (recto).
+    		appliedMaster = myDocument.masterSpreads.item("M-Matines");
+            myDocument.activeLayer = myDocument.layers.item("Calque 1");
+            var blocIndesirable = myDocument.masterSpreads.item("M-Matines").pages.item(1).textFrames.item(0).override(myDocument.masterSpreads.item("L-Laudes").pages.item(1));
+            blocIndesirable.texts.item(0).remove();
+            blocIndesirable.insertionPoints.item(0).textVariableInstances.add({associatedTextVariable:enormeTitre});
+    	}
+    }
+
+//fin des gabarits
+}
+function creationLivre(langue, nomDocument, bibliotheque){//crée le nombre de documents réclamés en dupliquant le document de base et en fait un livre
+        var myFolder = Folder.selectDialog( "Choisissez le dossier d'enregistrement" ); 
+        var myBookFileName = myFolder + "/Tenebres.indb";
+        myBookFile = new File( myBookFileName );
+        if ( myBookFile.exists ) {alert("Un livre portant ce nom existe déjà à cet emplacement. Annulation du processus.");exit();}
+        myBook = app.books.add( myBookFile );
+        var mesDocuments = [];
+        for (var i = 0; i < nomDocument.length; i++){
+            mySetup();
+            var myFile = new File(myFolder + "/" + nomDocument[i] + ".indd");
+            if ( myFile.exists ) {alert("Un fichier portant ce nom existe déjà à cet emplacement. Annulation du processus.");exit();}
+            monDocumentActif = app.activeDocument.save(myFile);
+            myBook.bookContents.add(myFile);
+            mesDocuments[i] = myFile;
+            monDocumentActif.save();
+            monDocumentActif.close();
+        }
+        for (var j = 1; j < nomDocument.length; j++){
+            monDocumentActif = app.open(mesDocuments[j]);
+            importerStyles (SourceStyles);
+            creerGabarits (monDocumentActif);
+            creerCalques (monDocumentActif,langue);
+            importerTexte(monDocumentActif,langue, bibliotheque[j]);
+            mettreEnFormeTexte (monDocumentActif);
+            placerImages (monDocumentActif, "^(.*___.*___\\u@)*([\\u\\l\\d\\.])+\\.pdf");
+            monDocumentActif.save();
+            //monDocumentActif.close();
+        }
+        myBook.save();
+        //myBook.exportFile(ExportFormat.pdfType, File(myFolder + "/ExportPDF.pdf"), false);
+}
+function importerTexte(myDocument,langues,fichierTexte){//importation et placement des fichiers texte pour chaque langue
+    //deux tableaux de même longueur, l'un avec les noms des langues (correspondant aux noms des calques, l'autre avec les fichiers txt de chaque langue
+    //la page 1 est la couverture, donc on importe le texte à la page 2.
+    maPage = [];
+    for (var p = 0; p < 70; p++){
+        maPage[p] = myDocument.pages.add();//ajout massif de pages au document; seul moyen trouvé jusqu'à présent pour éviter les problèmes d'owerflowing liés au déclage de la mise en page à mesure qu'on ajustera la taille des blocs
+        for (langue in langues){
+            mesBlocs[langue][p] = maPage[p].textFrames.add(myDocument.layers.item(langues[langue]))
+            mesBlocs[langue][p].geometricBounds = [15,15,195,133];
+            if (p > 0){mesBlocs[langue][p].previousTextFrame = mesBlocs[langue][p-1];}
+        }
+    }
+    myDocument.pages.everyItem().appliedMaster = myDocument.masterSpreads.item("M-Matines");//application du gabarit Matines
+    //::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+    for (var i in langues){
+        mesBlocs[i][1].place(fichierTexte[i]);
+        if (i == 0) {//cas du latin
+            myObjectStyle = myDocument.objectStyles.item("91_latin");
+        } else {//cas vernaculaires
+            myObjectStyle = myDocument.objectStyles.item("92_vernaculaire");
+        }
+        mesBlocs[i][1].applyObjectStyle(myObjectStyle, true, true);
+        myCounter = 0;
+        mySelection = mesBlocs[i][1];
+        while (mySelection = mySelection.nextTextFrame){
+           myCounter++;
+           mySelection.applyObjectStyle(myObjectStyle, true, true);
+        }
+    }
+    //on supprime les remplacements dans le style de bloc (surtout à cause du décalage)
+    var  O = myDocument.pageItems.everyItem().getElements(),
+        S = myDocument.objectStyles.item("91_latin"),
+        P = O.length;
+        while (P--){
+            if (O[P].appliedObjectStyle == S)
+                O[P].applyObjectStyle(S);
+        }
+}
+function mettreEnFormeTexte(myDocument){//applique les styles de paragraphes idoines; supprime le texte parasite, applique kerning aux lettrines;
+    app.findGrepPreferences = app.findChangeGrepOptions = app.changeGrepPreferences= null;
+    app.findGrepPreferences.findWhat = "^/\\l+\\d*/";
+    toutesBalises = myDocument.findGrep();
+    for (var i=0; i<= toutesBalises.length; i++){//application des styles de paragraphe
+        try {
+            maBalise = toutesBalises[i].contents;
+            monStyle = maBalise.slice(1,-1);
+            toutesBalises[i].appliedParagraphStyle = myDocument.paragraphStyles.item(monStyle);
+        }
+        catch (e) {}
+    }
+    myDocument.changeGrep();//supression des balises
+    //remplacer les choses à remplacer
+    //faire le kerning des lettrines
+     //myPairs[i].insertionPoints[1].kerningValue = -100;
+}
+function placerImages(myDocument,balise){
+        myDocument = app.documents[0];
+        app.findGrepPreferences = app.findChangeGrepOptions = app.changeGrepPreferences = app.findTextPreferences = app.findChangeTextOptions = app.changeTextPreferences= null;
+        app.findGrepPreferences.findWhat = balise;
+        //app.findTextPreferences.appliedParagraphStyle = myDocument.paragraphStyles.item("lien");
+        mesBalisesImages = myDocument.findGrep();
+        maLongueurdeBoucle = mesBalisesImages.length;
+        //mesEmplacements = myDocument.findText();
+        //myInlineFrame = [];
+       var myCounter = 0;
+        for (var i=0; i < maLongueurdeBoucle; i++){//application des styles de paragraphe
+            //var j = i + myCounter;
+            var maRecherche = mesBalisesImages[i].contents;
+            //maRecherche = maRecherche.slice(0,-1);
+            //maRecherche = maRecherche.split('\r');
+            //if (maRecherche.length > 1) {maRecherche.shift();}
+            maRecherche = maRecherche.split('@');
+            monMode = maRecherche[0];
+            monMode = monMode.split("___");
+            monMode = monMode.join("\r");
+            var k = maRecherche.length - 1;
+            monFichierImage = "~/Desktop/testSS/pdf/"+maRecherche[k];
+            alert ("monMode:"+monMode+"\rmonFichier:"+monFichierImage);
+                    var myInsertionPoint = mesBalisesImages[i].insertionPoints[0];
+                    
+                    //:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+                    //Insertion des partitions
+                   myCounter = 1;
+                    var myBreak = false;
+                    try {
+                        while(myBreak == false){
+                            if(myCounter >= 1){myInsertionPoint.contents = myInsertionPoint.contents+"\r";myInsertionPoint.appliedParagraphStyle = myDocument.paragraphStyles.item("lien");}
+                            app.pdfPlacePreferences.pageNumber = myCounter;
+                            myInlineFrame = myInsertionPoint.textFrames.add();
+                            myInlineFrame.appliedObjectStyle = myDocument.objectStyles.item("95_part");
+                            maPagePdfActive = myInlineFrame.place(File(monFichierImage))[0];
+                            myInlineFrame.fit(FitOptions.FILL_PROPORTIONALLY);
+                            myInlineFrame.fit(FitOptions.FRAME_TO_CONTENT); 
+                            if(myCounter == 1){
+                                var numeroPageActive = maPagePdfActive.pdfAttributes.pageNumber;
+                                if (k > 0){
+                                    monCadreMode = myInsertionPoint.textFrames.add();
+                                    monCadreMode.appliedObjectStyle = myDocument.objectStyles.item("97_mode_lettrine");
+                                    monCadreMode.contents = monMode;
+                                }
+                            }
+                            else{
+                                if(maPagePdfActive.pdfAttributes.pageNumber == numeroPageActive){
+                                    //app.selection[0].paragraphs[0].remove();
+                                    myInlineFrame.remove();
+                                    myBreak = true;
+                                }
+                                
+                            }
+                            myCounter = myCounter + 1;
+                        }                
+                                        
+                    }
+                    catch(e){}
+                    mesBalisesImages = myDocument.findGrep();                
+        }
+        app.findGrepPreferences = app.findChangeGrepOptions = app.changeGrepPreferences = app.findTextPreferences = app.findChangeTextOptions = app.changeTextPreferences= null;
+        app.findGrepPreferences.findWhat = "\\r\\r"+balise;
+        myDocument.changeGrep();
+}
