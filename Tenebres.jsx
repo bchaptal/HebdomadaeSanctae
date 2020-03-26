@@ -324,9 +324,23 @@ function mettreEnFormeTexte(myDocument){//applique les styles de paragraphes ido
         catch (e) {}
     }
     myDocument.changeGrep();//supression des balises
-    //remplacer les choses à remplacer
-    //faire le kerning des lettrines
-     //myPairs[i].insertionPoints[1].kerningValue = -100;
+    //kearning
+     app.findGrepPreferences = app.findChangeGrepOptions = app.changeGrepPreferences= null;
+     app.findTextPreferences = app.findChangeTextOptions = app.changeTextPreferences= null;
+     app.findTextPreferences.findWhat = "[NJ]";
+     app.changeTextPreferences.changeTo = "‌^j";
+     myDocument.changeText();
+    function kearning(recherche, valeur){    
+        app.findGrepPreferences.findWhat = "^["+recherche+"]~j";
+        myPairs = myDocument.findGrep();
+         for (var i=0; i< myPairs.length; i++){
+                myPairs[i].insertionPoints[2].kerningValue = valeur;
+        }
+    }
+    kearning ("CDEFHMNOPSVWY", -300);
+    kearning ("ABGIJKQRTUXZ", -400);
+    kearning ("L", -900);
+    //fin kearning
 }
 function placerImages(myDocument,balise){
         myDocument = app.documents[0];
