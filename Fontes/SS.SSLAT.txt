@@ -114,13 +114,13 @@
 /stit/Lectio 4
 /stit/Ex Tractátu sancti Augustíni Epíscopi super Psalmos
 /ref/In Psalmum 63 versum 7
-/lectio/Accédet homo ad cor altum, et exaltábitur Deus. Illi dixérunt: Quis nos vidébit? Defecérunt scrutántes scrutatiónes, consília mala. Accéssit homo ad ipsa consília, passus est se tenéri ut homo. Non enim tenerétur nisi homo, aut viderétur nisi homo, aut cæderétur nisi homo, aut crucifigerétur, aut morerétur nisi homo. Accéssit ergo homo ad illas omnes passiónes, quæ in illo nihil valérent, nisi esset homo. Sed si ille non esset homo, non liberarétur homo. Accéssit homo ad cor altum, id est, cor secrétum, obíciens aspéctibus humánis hóminem, servans intus Deum: celans formam Dei, in qua æquális est Patri, et ófferens formam servi, qua minor est Patre.
+/lectio/A[NJ]ccédet homo ad cor altum, et exaltábitur Deus. Illi dixérunt: Quis nos vidébit? Defecérunt scrutántes scrutatiónes, consília mala. Accéssit homo ad ipsa consília, passus est se tenéri ut homo. Non enim tenerétur nisi homo, aut viderétur nisi homo, aut cæderétur nisi homo, aut crucifigerétur, aut morerétur nisi homo. Accéssit ergo homo ad illas omnes passiónes, quæ in illo nihil valérent, nisi esset homo. Sed si ille non esset homo, non liberarétur homo. Accéssit homo ad cor altum, id est, cor secrétum, obíciens aspéctibus humánis hóminem, servans intus Deum: celans formam Dei, in qua æquális est Patri, et ófferens formam servi, qua minor est Patre.
 /lien/partition@Resp.___7.___R@SS.28.Resp.Recessit.7.pdf
 /stit/Lectio 5
-/lectio/Quo perduxérunt illas scrutatiónes suas, quas perscrutántes defecérunt, ut étiam mortuo Dómino et sepúlto, custódes pónerent ad sepúlcrum? Dixérunt enim Piláto: Sedúctor ille: hoc appellabátur nómine Dóminus Jesus Christus, ad solátium servórum suórum, quando dicúntur seductóres: ergo illi Piláto: Sedúctor ille, ínquiunt, dixit adhuc vivens: Post tres dies resúrgam. Jube ítaque custodíri sepúlcrum usque in diem tértium, ne forte véniant discípuli ejus, et furéntur eum, et dicant plebi: Surréxit a mórtuis: et erit novíssimus error pejor priore. Ait illis Pilátus: Habétis custódiam, ite, custodíte sicut scitis. Illi autem abeúntes, muniérunt sepúlcrum, signántes lápidem cum custódibus.
+/lectio/Q[NJ]uo perduxérunt illas scrutatiónes suas, quas perscrutántes defecérunt, ut étiam mortuo Dómino et sepúlto, custódes pónerent ad sepúlcrum? Dixérunt enim Piláto: Sedúctor ille: hoc appellabátur nómine Dóminus Jesus Christus, ad solátium servórum suórum, quando dicúntur seductóres: ergo illi Piláto: Sedúctor ille, ínquiunt, dixit adhuc vivens: Post tres dies resúrgam. Jube ítaque custodíri sepúlcrum usque in diem tértium, ne forte véniant discípuli ejus, et furéntur eum, et dicant plebi: Surréxit a mórtuis: et erit novíssimus error pejor priore. Ait illis Pilátus: Habétis custódiam, ite, custodíte sicut scitis. Illi autem abeúntes, muniérunt sepúlcrum, signántes lápidem cum custódibus.
 /lien/partition@Resp.___8.___O@SS.29.Resp.OVosOmnes.8.pdf
 /stit/Lectio 6
-/lectio/Posuérunt custódes mílites ad sepúlcrum. Concússa terra Dóminus resurréxit: mirácula facta sunt tália circa sepúlcrum, ut et ipsi milites, qui custódes advénerant, testes fíerent, si vellent vera nuntiáre. Sed avarítia illa, quæ captivávit discípulum cómitem Christi, captivávit et mílitem custódem sepúlcri. Damus, inquíunt, vobis pecúniam: et dícite, quia vobis dormiéntibus venérunt discípuli ejus, et abstulérunt eum. Vere defecérunt scrutántes scrutatiónes. Quid est quod dixísti, o infélix astutia? Tantúmne déseris lucem consílii pietátis, et in profúnda versútiæ demérgeris, ut hoc dicas: Dícite quia vobis dormiéntibus venérunt discípuli ejus, et abstulérunt eum? Dormiéntes testes ádhibes: vere tu ipse obdormísti, qui scrutándo tália defecísti.
+/lectio/P[NJ]osuérunt custódes mílites ad sepúlcrum. Concússa terra Dóminus resurréxit: mirácula facta sunt tália circa sepúlcrum, ut et ipsi milites, qui custódes advénerant, testes fíerent, si vellent vera nuntiáre. Sed avarítia illa, quæ captivávit discípulum cómitem Christi, captivávit et mílitem custódem sepúlcri. Damus, inquíunt, vobis pecúniam: et dícite, quia vobis dormiéntibus venérunt discípuli ejus, et abstulérunt eum. Vere defecérunt scrutántes scrutatiónes. Quid est quod dixísti, o infélix astutia? Tantúmne déseris lucem consílii pietátis, et in profúnda versútiæ demérgeris, ut hoc dicas: Dícite quia vobis dormiéntibus venérunt discípuli ejus, et abstulérunt eum? Dormiéntes testes ádhibes: vere tu ipse obdormísti, qui scrutándo tália defecísti.
 /lien/partition@Resp.___4.___E@SS.30.Resp.EcceQuomodo.4.pdf
 /tit/Ad Tertium Nocturnum
 /lien/partition@Ant. 1___8. G___D@SS.31.Ant.DeusAdjuvat.8G.pdf
@@ -179,11 +179,11 @@
 /lien/partition@Resp.___8.___A@SS.41.Resp.Astiterunt.8.pdf
 /stit/Lectio 8
 /ref/Heb 9:15-18
-/lectio/Et ídeo novi testaménti mediátor est: ut, morte intercédente, in redemptiónem eárum prævaricatiónum, quæ erant sub prióri testaménto, repromissiónem accípiant, qui vocáti sunt ætérnæ hereditátis. Ubi enim testaméntum est: mors necésse est intercédat testatóris. Testaméntum enim in mórtuis confirmátum est: alióquin nondum valet, dum vivit qui testátus est. Unde nec primum quidem sine sánguine dedicátum est.
+/lectio/E[NJ]t ídeo novi testaménti mediátor est: ut, morte intercédente, in redemptiónem eárum prævaricatiónum, quæ erant sub prióri testaménto, repromissiónem accípiant, qui vocáti sunt ætérnæ hereditátis. Ubi enim testaméntum est: mors necésse est intercédat testatóris. Testaméntum enim in mórtuis confirmátum est: alióquin nondum valet, dum vivit qui testátus est. Unde nec primum quidem sine sánguine dedicátum est.
 /lien/partition@Resp.___4.___A@SS.42.Resp.Aestimatus.4.pdf
 /stit/Lectio 9
 /ref/Heb 9:19-22
-/lectio/Lecto enim omni mandáto legis a Móyse univérso pópulo: accípiens sánguinem vitulórum, et hircórum cum aqua et lana coccínea, et hyssópo: ipsum quoque librum, et omnem pópulum aspérsit, Dicens: Hic sanguis testaménti, quod mandávit ad vos Deus. Etiam tabernáculum, et ómnia vasa ministérii sánguine simíliter aspérsit: Et ómnia pene in sánguine secúndum legem mundántur: et sine sánguinis effusióne non fit remíssio.
+/lectio/L[NJ]ecto enim omni mandáto legis a Móyse univérso pópulo: accípiens sánguinem vitulórum, et hircórum cum aqua et lana coccínea, et hyssópo: ipsum quoque librum, et omnem pópulum aspérsit, Dicens: Hic sanguis testaménti, quod mandávit ad vos Deus. Etiam tabernáculum, et ómnia vasa ministérii sánguine simíliter aspérsit: Et ómnia pene in sánguine secúndum legem mundántur: et sine sánguinis effusióne non fit remíssio.
 /lien/partition@Resp.___2.___S@SS.43.Resp.SepultoDomino.2.pdf
 /tit/Ad Laudes
 /lien/partition@Ant. 1___4. c___O@SS.44.ANt.OMors.4c.pdf
@@ -288,7 +288,7 @@
 /stit/Oratio
 /lien/partition@Ant.___5.___C@SS.63.Ant.ChristusFactusEst.pdf
 /latin/Pater noster =(secreto)=
-/lectio/Concéde, qu?sumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; eiúsdem resurrectiónis glóriam consequámur.
+/lectio/C[NJ]oncéde, qu?sumus, omnípotens Deus: ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus; eiúsdem resurrectiónis glóriam consequámur.
 /rub/Et sub silentio concluditur:
 /latin/Per eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia s?cula sæculórum.
 /latin/r Amen.
