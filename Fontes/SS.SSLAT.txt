@@ -4,7 +4,7 @@
 /stit/Psalmus 4 
 /lien/partition@SS.02.Ps.4.8G.pdf
 /ps2/Miserére +mé+i, * et exáudi orati=ónem= +mé+am.
-/ps/Fílii hóminum, úsquequo gravi +cór+de ? * ut quid dilígitis vanitátem, et qu?ri=tis men=+dá+cium ?
+/ps/Fílii hóminum, úsquequo gravi +cór+de ? * ut quid dilígitis vanitátem, et qu[ae]ri=tis men=+dá+cium ?
 /ps/Et scitóte quóniam mirificávit Dóminus sanctum +sú+um : * Dóminus exáudiet me cum clamáve=ro ad= +é+um.
 /ps/Irascímini, et nolíte peccáre : † quæ dícitis in córdibus +vés+tris, * in cubílibus vestris =compun=+gí+mini.
 /ps/Sacrificáte sacrifícium justítiæ, † et speráte in +Dó+mino. * Multi dicunt : Quis osténdit =nobis= +bó+na ?
