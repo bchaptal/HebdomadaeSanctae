@@ -388,8 +388,8 @@
 /tra/Ant. Le traître leur donne un signe en disant : « Celui que j’embrasserai, c’est lui, saisissez-le… ».
 /com/Après cette Antienne, le chœur chante sur un mode touchant les paroles suivantes que l’Église, en ces trois jours, a sans cesse à la bouche : « Le Christ s’est fait obéissant pour nous jusqu’à la mort. »
 /tralett/L[NJ]E Christ s’est fait pour nous obéissant jusqu’à la mort.
-/tra/Notre Père [(en silence)]
-/rub/En certains lieux, on récite ici le =Miserere=.
+/tra/Notre Père =(en silence)=
+/rub/En certains lieux, on récite ici le [Miserere].
 /stt/Oraison
 /tralett/D[NJ]Aignez, Seigneur, jeter un regard sur votre famille ici présente, pour laquelle notre Seigneur Jésus-Christ a bien voulu être livré aux mains des méchants, et souffrir le supplice de la croix. 
 /rub/On conclut en silence

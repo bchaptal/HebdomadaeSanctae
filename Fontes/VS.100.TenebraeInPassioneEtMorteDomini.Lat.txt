@@ -90,7 +90,7 @@
 /ref/Lam 3 :1-9
 /lien/partition@ ___ ___A@VS.15.Lamentatione.V3.pdf
 /lien/partition@Resp.___8.___V@VS.16.Resp.VineaMea.8.pdf
-/tit/Ad Secundum Nocturnum.
+/tit/Ad Secundum Nocturnum
 /lien/partition@Ant. 1___8. G___V@VS.17.Ant.VimFaciebant.8G.pdf
 /stit/Psalmus 37
 /lien/partition@VS.18.Ps.37.8G.pdf
