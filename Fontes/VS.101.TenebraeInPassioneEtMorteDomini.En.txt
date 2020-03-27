@@ -8,7 +8,7 @@
 /pst/But I am appointed king by him over Sion his holy mountain, * preaching his commandment.
 /pst/The Lord hath said to me: * Thou art my son, this day have I begotten thee.
 /pst/Ask of me, and I will give thee the Gentiles for thy inheritance, * and the utmost parts of the earth for thy possession.
-/pst/Thou shalt rule them with a rod of iron, * and shalt break them in pieces like a potter’s vessel.
+/pst/Thou shalt rule them with a rod of iron, * and shalt break them in pieces like a potterâ€™s vessel.
 /pst/And now, O ye kings, understand: * receive instruction, you that judge the earth.
 /pst/Serve ye the Lord with fear: * and rejoice unto him with trembling.
 /pst/Embrace discipline, lest at any time the Lord be angry, * and you perish from the just way.
@@ -26,7 +26,7 @@
 /pst/All they that saw me have laughed me to scorn: * they have spoken with the lips, and wagged the head.
 /pst/He hoped in the Lord, let him deliver him: * let him save him, seeing he delighteth in him.
 /pst/For thou art he that hast drawn me out of the womb: * my hope from the breasts of my mother. I was cast upon thee from the womb.
-/pst/From my mother’s womb thou art my God, * depart not from me.
+/pst/From my motherâ€™s womb thou art my God, * depart not from me.
 /pst/For tribulation is very near: * for there is none to help me.
 /pst/Many calves have surrounded me: * fat bulls have besieged me.
 /pst/They have opened their mouths against me, * as a lion ravening and roaring.
@@ -38,7 +38,7 @@
 /pst/And they have looked and stared upon me. * They parted my garments amongst them; and upon my vesture they cast lots.
 /pst/But thou, O Lord, remove not thy help to a distance from me; * look towards my defence.
 /pst/Deliver, O God, my soul from the sword: * my only one from the hand of the dog.
-/pst/Save me from the lion’s mouth; * and my lowness from the horns of the unicorns.
+/pst/Save me from the lionâ€™s mouth; * and my lowness from the horns of the unicorns.
 /pst/I will declare thy name to my brethren: * in the midst of the church will I praise thee.
 /pst/Ye that fear the Lord, praise him: * all ye the seed of Jacob, glorify him.
 /pst/Let all the seed of Israel fear him: * because he hath not slighted nor despised the supplication of the poor man.
@@ -47,7 +47,7 @@
 /pst/The poor shall eat and shall be filled: and they shall praise the Lord that seek him: * their hearts shall live for ever and ever.
 /pst/All the ends of the earth * shall remember, and shall be converted to the Lord:
 /pst/And all the kindreds of the Gentiles * shall adore in his sight.
-/pst/For the kingdom is the Lord’s; * and he shall have dominion over the nations.
+/pst/For the kingdom is the Lordâ€™s; * and he shall have dominion over the nations.
 /pst/All the fat ones of the earth have eaten and have adored: * all they that go down to the earth shall fall before him.
 /pst/And to him my soul shall live: * and my seed shall serve him.
 /pst/There shall be declared to the Lord a generation to come: * and the heavens shall shew forth his justice to a people that shall be born, which the Lord hath made.
@@ -145,7 +145,7 @@
 /pst/Be pleased, O Lord to deliver me: * look down, O Lord, to help me.
 /pst/Let them be confounded and ashamed together, that seek after my soul * to take it away.
 /pst/Let them be turned backward and be ashamed * that desire evils to me.
-/pst/Let them immediately bear their confusion, * that say to me: ’T is well, ’t is well.
+/pst/Let them immediately bear their confusion, * that say to me: â€™T is well, â€™t is well.
 /pst/Let all that seek thee rejoice and be glad in thee: * and let such as love thy salvation say always: The Lord be magnified.
 /pst/But I am a beggar and poor: * the Lord is careful for me.
 /pst/Thou art my helper and my protector: * O my God, be not slack.
@@ -170,13 +170,13 @@
 /stt/Reading 4
 /stt/From the Treatise of St. Augustine, Bishop, Upon the Psalms
 /ref/On Psalm LXIII, 2
-/tralett/T[NJ]hou hast hidden me from the secret counsel of the wicked, from the insurrection of the workers of iniquity. Now let us fix our eyes upon our Head. Many martyrs have. suffered such things as He suffered, but God’s hiding of His suffering servants is not so well seen in the Martyrs, as it is in the Captain of the Martyrs. And it is in Him that we best see how it fared with them. He was hidden from the secret counsel of the wicked; hidden by God, being Himself God; hidden, as touching the Manhood, by God the Son, and the very Manhood, Which is taken into God the Son; because He is the Son of man, and He is the Son of God; Son of God, as being in the form of God; Son of man, as having taken upon Him the form of a servant. Whose life no man taketh from Him, but Who layeth it down of Himself. He hath power to lay it down, and He hath power to take it again. What then was all that they which hated Him could do? They could kill the Body, but they were not able to kill the Soul. Consider this very earnestly. It had been a small thing for the Lord to preach to the Martyrs by His word, if He had not also nerved them by His example.
+/tralett/T[NJ]hou hast hidden me from the secret counsel of the wicked, from the insurrection of the workers of iniquity. Now let us fix our eyes upon our Head. Many martyrs have. suffered such things as He suffered, but Godâ€™s hiding of His suffering servants is not so well seen in the Martyrs, as it is in the Captain of the Martyrs. And it is in Him that we best see how it fared with them. He was hidden from the secret counsel of the wicked; hidden by God, being Himself God; hidden, as touching the Manhood, by God the Son, and the very Manhood, Which is taken into God the Son; because He is the Son of man, and He is the Son of God; Son of God, as being in the form of God; Son of man, as having taken upon Him the form of a servant. Whose life no man taketh from Him, but Who layeth it down of Himself. He hath power to lay it down, and He hath power to take it again. What then was all that they which hated Him could do? They could kill the Body, but they were not able to kill the Soul. Consider this very earnestly. It had been a small thing for the Lord to preach to the Martyrs by His word, if He had not also nerved them by His example.
 /resp/Rep. Are ye come out, as against a thief, with swords and staves, for to take Me? * I sat daily with you, teaching in the Temple, and ye laid no hold on Me; and, now when ye have scourged Me, ye lead Me away to crucify Me! v And when they had laid hands on Jesus, and taken Him, He said unto them: r I sat daily with you, teaching in the Temple, and ye laid no hold on Me; and now, when ye have scourged Me, ye lead Me away to crucify Me!
 /stt/Reading 5
 /tralett/W[NJ]e know what secret counsel was that of the wicked Jews, and what insurrection was that of the workers of iniquity. Of what iniquity were they the workers? The murder of our Lord Jesus Christ. Many good works, saith He, have I showed you for which of those works go ye about to kill Me? He had borne with all their weaknesses: He had healed all their diseases: He had preached unto them the kingdom of heaven: He had discovered to them their iniquities, that they might rather hate them, than the Physician That came to cure them. And now at last, without gratitude for all the tenderness of His healing love, like men raging in an high delirium, throwing themselves madly on the Physician, Who had come to cure them, they took counsel together how they might kill Him, as if to see if He were a Man and could die, or Something more than a man, and That would not let Himself die. In the Wisdom of Solomon we recognize their words, ii. 18, 19, 20, Let us condemn Him with a shameful death. Let us examine Him; for, by His own saying, He shall be respected. If He be the Son of God, let Him help Him.
 /resp/Rep. The Jews crucified Jesus: and there was darkness (over all the land, unto the ninth hour): and about the ninth hour Jesus cried with a loud voice, (saying): My God, (My God,) why hast Thou forsaken Me? * And He bowed His Head, and gave up the Ghost. v When Jesus had cried with a loud voice, He said: Father, into thy hands I commend My Spirit. r And He bowed His Head, and gave up the Ghost.
 /stt/Reading 6
-/tralett/T[NJ]hey whetted their tongue like a sword. The Jews cannot say: We did not murder Christ, albeit they gave Him over to Pilate His judge, that they themselves might seem free of His death. For when Pilate said unto them, Take ye Him: and kill Him, they answered, It is not lawful for us to put any man to death. They could throw the blame of their sin upon a human judge: but did they deceive God, the Great Judge? In that which Pilate did, he was their accomplice, but in comparison with them, he had far the lesser sin. Pilate strove as far as he could, to deliver Him out of their hands; for the which reason also he scourged Him, and brought Him forth to them He scourged not the Lord for cruelty’s sake, but in the hope that; he might so slake their wild thirst for blood: that, perchance, even they might be touched with compassion, and cease to lust for His death, when they saw What He was after the flagellation. Even this effort he made! But when Pilate saw that he could not prevail, but that rather a tumult was made, ye know how that he took water, and washed his hands before the multitude, saying: I am innocent of the blood of this Just Person. And yet he delivered Him to be crucified! But if he were guilty who did it against his will, were they innocent; who goaded him on to it? No. Pilate gave sentence against Him. and commanded Him to be crucified. But ye, O ye Jews, ye also are His murderers! Wherewith? With your tongue, whetted like a sword. And when? But when ye cried, Crucify Him! Crucify Him!
+/tralett/T[NJ]hey whetted their tongue like a sword. The Jews cannot say: We did not murder Christ, albeit they gave Him over to Pilate His judge, that they themselves might seem free of His death. For when Pilate said unto them, Take ye Him: and kill Him, they answered, It is not lawful for us to put any man to death. They could throw the blame of their sin upon a human judge: but did they deceive God, the Great Judge? In that which Pilate did, he was their accomplice, but in comparison with them, he had far the lesser sin. Pilate strove as far as he could, to deliver Him out of their hands; for the which reason also he scourged Him, and brought Him forth to them He scourged not the Lord for crueltyâ€™s sake, but in the hope that; he might so slake their wild thirst for blood: that, perchance, even they might be touched with compassion, and cease to lust for His death, when they saw What He was after the flagellation. Even this effort he made! But when Pilate saw that he could not prevail, but that rather a tumult was made, ye know how that he took water, and washed his hands before the multitude, saying: I am innocent of the blood of this Just Person. And yet he delivered Him to be crucified! But if he were guilty who did it against his will, were they innocent; who goaded him on to it? No. Pilate gave sentence against Him. and commanded Him to be crucified. But ye, O ye Jews, ye also are His murderers! Wherewith? With your tongue, whetted like a sword. And when? But when ye cried, Crucify Him! Crucify Him!
 /resp/Rep. I have given the dearly-beloved of My soul into the hand of her enemies and Mine heritage is become unto Me as a lion in the forest; the enemy crieth out against Me, saying: Assemble yourselves together, hasten to devour Him: they have made My portion a desolate wilderness, and the whole land mourneth unto Me: * Because there is none found that will know Me, nor do well. v There be risen up against me such as breathe out cruelty, and they have not spared my soul. r Because there is none found that will know Me, nor do well. r I have given the dearly-beloved of My soul into the hand of her enemies, and Mine heritage is become unto Me as a lion in the forest: the enemy crieth out against Me, saying: Assemble yourselves together, hasten to devour Him: they have made My portion a desolate wilderness, and the whole land mourneth unto me: * Because there is none found that will know Me, nor do well.
 
 /tra/Ant. O Lord, defend me from them that rise up against me, * for they lie in wait for my life.
@@ -309,7 +309,7 @@
 /pst/Cause me to hear thy mercy in the morning; * for in thee have I hoped.
 /pst/Make the way known to me, wherein I should walk: * for I have lifted up my soul to thee.
 /pst/Deliver me from my enemies, O Lord, to thee have I fled: * teach me to do thy will, for thou art my God.
-/pst/Thy good spirit shall lead me into the right land: * for thy name’s sake, O Lord, thou wilt quicken me in thy justice.
+/pst/Thy good spirit shall lead me into the right land: * for thy nameâ€™s sake, O Lord, thou wilt quicken me in thy justice.
 /pst/Thou wilt bring my soul out of trouble: * and in thy mercy thou wilt destroy my enemies.
 /pst/And thou wilt cut off all them that afflict my soul: * for I am thy servant.
 /tra/Ant. My spirit is overwhelmed within me; my heart within me is troubled.

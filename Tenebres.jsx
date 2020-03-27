@@ -243,7 +243,7 @@ function creerGabarits(myDocument){//Creation des gabarits
 //fin des gabarits
 }
 function creationLivre(langue, nomDocument, bibliotheque){//crée le nombre de documents réclamés en dupliquant le document de base et en fait un livre
-        var myFolder = Folder.selectDialog( "Choisissez le dossier d'enregistrement" ); 
+        myFolder = Folder.selectDialog( "Choisissez le dossier d'enregistrement" ); 
         var myBookFileName = myFolder + "/Tenebres.indb";
         myBookFile = new File( myBookFileName );
         if ( myBookFile.exists ) {alert("Un livre portant ce nom existe déjà à cet emplacement. Annulation du processus.");exit();}
@@ -266,7 +266,7 @@ function creationLivre(langue, nomDocument, bibliotheque){//crée le nombre de d
             creerCalques (monDocumentActif,langue);
             importerTexte(monDocumentActif,langue, bibliotheque[j]);
             mettreEnFormeTexte (monDocumentActif);
-            placerImages (monDocumentActif, "^(.*___.*___\\u@)*([\\u\\l\\d\\.])+\\.pdf");
+            placerImages (monDocumentActif, "^\\l*@(.*___.*___\\u@)*([\\u\\l\\d\\.])+\\.pdf");
             monDocumentActif.save();
             //monDocumentActif.close();
         }
@@ -337,36 +337,40 @@ function mettreEnFormeTexte(myDocument){//applique les styles de paragraphes ido
                 myPairs[i].insertionPoints[2].kerningValue = valeur;
         }
     }
-    kearning ("CDEFHMNOPSVWY", -300);
-    kearning ("ABGIJKQRTUXZ", -400);
-    kearning ("L", -900);
+    kearning ("CDEFHMNOPSVWY", -250);
+    kearning ("ABGIJKQRTUXZ", -350);
+    kearning ("L", -800);
     //fin kearning
+    function remplacementGrep (recherche, remplace){
+        app.findGrepPreferences = app.findChangeGrepOptions = app.changeGrepPreferences= null;
+        app.findGrepPreferences.findWhat = recherche;
+        app.changeGrepPreferences.changeTo = remplace;
+        myDocument.changeGrep();
+    }
+    remplacementGrep(" ([:;»!\\?])","~.$1");
+    remplacementGrep("(?<=\\b[vr]) ","~s");
+    remplacementGrep(" (?=[\\*|†])","~s");
+    remplacementGrep("\\[ae\\]","ǽ");
+    remplacementGrep("\\[break\\]","\\n");
+    remplacementGrep("\+([\u\l]*)\+","~-$0~-");
+    remplacementGrep("\=([\u\l ,:\.]*)\=","~-$0~-");  
 }
 function placerImages(myDocument,balise){
         myDocument = app.documents[0];
         app.findGrepPreferences = app.findChangeGrepOptions = app.changeGrepPreferences = app.findTextPreferences = app.findChangeTextOptions = app.changeTextPreferences= null;
         app.findGrepPreferences.findWhat = balise;
-        //app.findTextPreferences.appliedParagraphStyle = myDocument.paragraphStyles.item("lien");
         mesBalisesImages = myDocument.findGrep();
         maLongueurdeBoucle = mesBalisesImages.length;
-        //mesEmplacements = myDocument.findText();
-        //myInlineFrame = [];
        var myCounter = 0;
-        for (var i=0; i < maLongueurdeBoucle; i++){//application des styles de paragraphe
-            //var j = i + myCounter;
+        for (var i=0; i < maLongueurdeBoucle; i++){
             var maRecherche = mesBalisesImages[i].contents;
-            //maRecherche = maRecherche.slice(0,-1);
-            //maRecherche = maRecherche.split('\r');
-            //if (maRecherche.length > 1) {maRecherche.shift();}
             maRecherche = maRecherche.split('@');
-            monMode = maRecherche[0];
+            var k = maRecherche.length - 1;
+            monMode = maRecherche[k-1];
             monMode = monMode.split("___");
             monMode = monMode.join("\r");
-            var k = maRecherche.length - 1;
-            monFichierImage = "~/Desktop/testSS/pdf/"+maRecherche[k];
-            alert ("monMode:"+monMode+"\rmonFichier:"+monFichierImage);
-                    var myInsertionPoint = mesBalisesImages[i].insertionPoints[0];
-                    
+            monFichierImage = myFolder+"/Fontes/pdf/"+maRecherche[k];
+            var myInsertionPoint = mesBalisesImages[i].insertionPoints[0];
                     //:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
                     //Insertion des partitions
                    myCounter = 1;
@@ -382,7 +386,7 @@ function placerImages(myDocument,balise){
                             myInlineFrame.fit(FitOptions.FRAME_TO_CONTENT); 
                             if(myCounter == 1){
                                 var numeroPageActive = maPagePdfActive.pdfAttributes.pageNumber;
-                                if (k > 0){
+                                if (k > 1){
                                     monCadreMode = myInsertionPoint.textFrames.add();
                                     monCadreMode.appliedObjectStyle = myDocument.objectStyles.item("97_mode_lettrine");
                                     monCadreMode.contents = monMode;
@@ -390,7 +394,6 @@ function placerImages(myDocument,balise){
                             }
                             else{
                                 if(maPagePdfActive.pdfAttributes.pageNumber == numeroPageActive){
-                                    //app.selection[0].paragraphs[0].remove();
                                     myInlineFrame.remove();
                                     myBreak = true;
                                 }
