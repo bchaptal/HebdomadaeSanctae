@@ -44,7 +44,7 @@ Ad Matutinum
 /ps/Quóniam Deus salvam fáciet +Si+on: * et ædificabúntur civi=tátes= +Ju+da.
 /ps/Et inhabitábunt +i+bi, * et hereditáte ac=quírent= +e+am.
 /ps/Et semen servórum ejus possidébit +e+am: * et qui díligunt nomen ejus, habitá=bunt in= +e+a.
-/rub/Omittitur Gloria Patri.
+/rub/A Matutino Feriæ V. in Cena Domini usque ad Nonam Sabbati Sancti, in fine psalmorum, ad omnes Horas, omittitur [Gloria Patri].
 /lien/partition@JS.03.Ant.Zelus.Reprise.pdf
 /lien/partition@Ant. 2___8. c___A@JS.04.Ant.Avertantur.8c.pdf
 /stit/Psalmus 69
@@ -86,7 +86,7 @@ Ad Matutinum
 /ps/Sed et lingua mea tota die meditábitur justítiam +tu+am: * cum confúsi et revériti fúerint, qui quærunt =mala= +mi+hi.
 /lien/partition@JS.09.Ant.DeusMeus.Reprise.pdf
 /lien/partition@JS.10.Vers.Avertantur.pdf
-/latin/Pater noster =(secreto)=
+/latin/Pater noster =secreto=.
 /stit/Lectio 1
 /ref/Lam 1:1-5
 /lien/partition@ ___ ___I@JS.11.Lamentatione.G1.pdf
@@ -182,7 +182,7 @@ Ad Matutinum
 /ps/Ne obliviscáris voces inimi+có+rum tu+ó+rum: * supérbia eórum, qui te odérunt, a=scéndit= +sem+per.
 /lien/partition@JS.25.Ant.Exsurge.Reprise.pdf
 /lien/partition@JS.26.Vers.DeusMeus.pdf
-/latin/Pater noster =(secreto)=
+/latin/Pater noster =secreto=.
 /stit/Lectio 4
 /stit/Ex tractátu sancti Augustíni Epíscopi super Psalmos
 /ref/In Psalmum 54 ad 1 versum
@@ -247,7 +247,7 @@ Ad Matutinum
 /ps/Deduxísti sicut oves +pó+pulum +tu+um, * in manu Móy+si+ et +A+aron.
 /lien/partition@JS.38.Ant.InDieTribulationis.Reprise.pdf
 /lien/partition@JS.39.Vers.Exsurge.pdf
-/latin/Pater noster =(secreto)=
+/latin/Pater noster =secreto=.
 /stit/Lectio 7
 /stit/De Epístola prima beáti Pauli Apóstoli ad Corínthios
 /ref/Cor 11:17-22
@@ -382,7 +382,7 @@ Ad Matutinum
 /ps/Illumináre his, qui in ténebris, et in um=bra mortis= +se+dent: * ad dirigéndos pedes nostros in =viam= +pa+cis.
 /lien/partition@JS.61.Ant.Traditor.Reprise.pdf
 /lien/partition@Ant.___5.___C@JS.62.Ant.ChristusFactusEst.pdf
-/latin/Pater noster =(secreto)=
+/latin/Pater noster =secreto=.
 /stit/Oratio
 /lectio/R[NJ]Espice, qu[ae]sumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
 /rub/Et sub silentio concluditur:

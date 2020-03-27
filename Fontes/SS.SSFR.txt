@@ -40,7 +40,7 @@
 /tra/Notre Père =(en silence)=
 /com/Les Leçons du premier Nocturne continuent d’être empruntées aux Lamentations de Jérémie.
 /com/La première a rapport au Christ. Elle exprime sa fidélité à Dieu et sa touchante résignation. Les soufflets qu’il reçut durant sa Passion, y sont prédits.
-/stt/Leçon 1\nLeçon du livre des Lamentations
+/stt/Leçon 1[break]Leçon du livre des Lamentations
 /ref/Lam. 3, 22-30
 /tralett/H[NJ]ETH C’est grâce aux miséricordes du Seigneur que nous n’avons pas été perdus entièrement, parce que ses compassions ne sont pas épuisées. HETH Elles se renouvellent chaque matin ; votre fidélité est grande. HETH Le Seigneur est mon partage, a dit mon âme ; c’est pour cela que je l’attendrai. TETH Le Seigneur est bon pour ceux qui espèrent en lui, pour l’âme qui le cherche. TETH Il est bon d’attendre en silence le salut de Dieu. TETH Il est bon à l’homme de porter le joug dès sa jeunesse. IOD Il s’asseyera solitaire, et il se taira, parce que Dieu a mis ce joug sur lui. IOD Il mettra sa bouche dans la poussière, pour voir s’il y a quelque espérance. IOD Il tendra la joue à celui qui le frappera, il se rassasiera d’opprobres.
 /com/Si les répons du Samedi Saint ressemblent à ceux des jours précédents par leur contexture générale, la délicatesse et l’infinie variété de leurs nuances, ils n’en diffèrent pas moins, comme d’ailleurs tout l’Office des Ténèbres, par leur ethos particulier. Les coeurs ne sont plus oppressés ; le ton s’est singulièrement adouci. C’est une sorte de veillée funèbre autour d’un tombeau, où l’on se remémore, dans une atmosphère de détente et de douceur, certains aspects de la Passion, sa portée, avec même quelques allusions à la gloire qui va en résulter.
@@ -110,7 +110,7 @@
 /tra/r Relève-moi, je leur ferai justice.
 /tra/Notre Père =(en silence)=
 /com/L’Église continue de lire, au deuxième Nocturne, les Enarrations de saint Augustin sur les Psaumes prophétiques de la Passion du Sauveur.
-/stt/Leçon 4\nDu traité de saint Augustin, évêque, sur les Psaumes
+/stt/Leçon 4[break]Du traité de saint Augustin, évêque, sur les Psaumes
 /ref/Sur le Psaume LXIII, 7
 /tralett/L[NJ]'homme descendra au tréfonds de son coeur, et Dieu sera glorifié"-"Qui nous verra?" avaient dit les Juifs. Ils n'ont pas réussi à faire aboutir leurs machinations, leurs desseins pervers. L'homme-Dieu s'est plié à ses desseins;  il a souffert qu'on l'emprisonnât, comme un homme ordinaire. S'il n'eût point été homme, jamais on n'eût pu le prendre, le voir, le battre, le crucifier, le mettre à mort. Cet homme est donc venu au-devant de toutes ces souffrances, qui eussent perdu leur pouvoir sur lui s'il n'eût point été homme. Mais s'il n'eût point été homme, l'homme n'aurait pas été libéré. Cet homme est descendu au tréfonds de son coeur, c'est à dire au plus secret de son coeur, aux regards humains offrant l'homme, gardant le Dieu tout au fond, cachant sa nature divine, en laquelle il est égal au Père, et montrant sa nature servile, par laquelle il lui est inférieur. 
 /com/Avec le Recéssit pastor, nous revenons à la note de contemplation sereine qui est celle de cet office. Suite de formules classiques, également tranquilles et enveloppées, à la manière d’une longue méditation très aimante, annoncent les effets, bienfaisants et tout proches, de la Passion.
@@ -138,7 +138,7 @@
 /tra/r Sa demeure en Sion.
 /tra/Notre Père =(en silence)=
 /com/Au troisième Nocturne, la sainte Église continue de lire, dans l’Épître aux Hébreux, la doctrine de saint Paul sur la vertu du sang divin. L’Apôtre explique comment le Testament du Christ en notre laveur n’a pu avoir d’effet que par sa mort.
-/stt/Leçon 7\nDe l'épître du bienheureux apôtre Paul aux Hébreux
+/stt/Leçon 7[break]De l'épître du bienheureux apôtre Paul aux Hébreux
 /ref/Hb. 9, 11-14
 /tralett/M[NJ]Ais le Christ étant venu comme pontife des biens futurs, a traversé un tabernacle plus grand et plus parfait, qui n’a pas été fait de main d’homme, c’est-à-dire, qui n’appartient point à cette création, et il est entré une fois pour toutes dans le sanctuaire, non avec le sang des boucs ou des veaux, mais avec son propre sang, ayant obtenu une rédemption éternelle. Car si le sang des boucs et des taureaux, et l’aspersion faite avec la cendre d’une génisse, sanctifient ceux qui sont souillés, de manière à procurer la pureté de la chair, combien plus le sang du Christ, qui par l’Esprit-Saint s’est offert lui-même sans tache à Dieu, purifiera-t-il notre conscience des œuvres mortes, pour que nous servions le Dieu vivant ?
 /com/Par exception en cet office du Samedi Saint, ce répons n’a trait qu’aux complots des méchants ; la mélodie y emprunte leur violence. Tout est fort, dans un mouvement décidé, sans grandes nuances, sur les formules ordinaires du 8e mode, sans que rien soit spécialement mis en relief.

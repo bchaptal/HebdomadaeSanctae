@@ -14,7 +14,7 @@
 /ps/Servíte Dómino in ti+mó+re : * et exsultáte ei =cum tre=+mó+re.
 /ps/Apprehéndite disciplínam, nequándo irascátur +Dó+minus, * et pereátis de =via= +jús+ta.
 /ps/Cum exárserit in brevi ira +é+jus : * beáti omnes qui confí=dunt in= +é+o.
-/rub/Omittitur Gloria Patri.
+/rub/A Matutino Feriæ V. in Cena Domini usque ad Nonam Sabbati Sancti, in fine psalmorum, ad omnes Horas, omittitur [Gloria Patri].
 /lien/partition@VS.03.Ant.Astiterunt.Reprise.pdf
 /lien/partition@Ant. 2___8. G___D@VS.04.Ant.Diviserunt.8G.pdf
 /stit/Psalmus 21
@@ -77,7 +77,7 @@
 /ps/Exspécta Dóminum, viríliter +a+ge : * et confortétur cor tuum, et sús=tine= +Dó+minum.
 /lien/partition@VS.09.Ant.Insurrexerunt.Reprise.pdf
 /lien/partition@VS.10.Vers.Diviserunt.pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /stit/Lectio 1
 /ref/Lam II, 8-11
 /lien/partition@ ___ ___D@VS.11.Lamentatione.V1.pdf
@@ -155,7 +155,7 @@
 /ps/Quóniam ex omni tribulatióne e=ripu=+í+sti me : * et super inimícos meos despéxit =óculus= +mé+us.
 /lien/partition@VS.25.Ant.AlieniInsurrexerunt.Reprise.pdf
 /lien/partition@VS.26.Vers.Insurrexerunt.pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /stit/Lectio 4
 /stit/Ex tractátu sancti Augustíni Epíscopi super Psalmos
 /ref/In Psalm 63 ad versum 2
@@ -240,7 +240,7 @@
 /ps/Et reddet illis iniquitátem ipsórum : et in malítia eórum dispérdet +é+os : * dispérdet illos Dóminus, =Deus= +nós+ter.
 /lien/partition@VS.38.Ant.Captabunt.Reprise.pdf
 /lien/partition@VS.39.Vers.LocutiSunt.pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /stit/Lectio 7
 /stit/De Epístola beáti Pauli Apóstoli ad Hebr[ae]os
 /ref/Heb. IV, 11-15
@@ -378,7 +378,7 @@
 /ps/Illumináre his, qui in ténebris, et in um=bra mortis= +sé+dent : * ad dirigéndos pedes nostros in =viam= +pá+cis.
 /lien/partition@VS.61.Ant.Posuerunt.Reprise.pdf
 /lien/partition@Ant.___5.___C@VS.62.Ant.ChristusFactusEst.pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /stit/Oratio
 /lectio/R[NJ]Espice, qu[ae]sumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum :
 /rub/Et sub silentio concluditur :

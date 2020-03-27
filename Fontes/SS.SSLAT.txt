@@ -12,7 +12,7 @@
 /ps/A fructu fruménti, vini, et ólei +sú+i * mul=tipli=+cá+ti sunt.
 /ps/In pace in i+dí+psum * dórmiam, et =requi=+és+cam ;
 /ps/Quóniam tu, Dómine, singuláriter +in+ spe * con=stitu=+ís+ti me.
-/rub/[Glória Patri] omíttitur in fine ómnium psalmórum et canticórum.
+/rub/A Matutino Feriæ V. in Cena Domini usque ad Nonam Sabbati Sancti, in fine psalmorum, ad omnes Horas, omittitur [Gloria Patri].
 /lien/partition@SS.03.Ant.InPaceInIdipsum.Reprise.pdf
 /lien/partition@Ant. 2___4. E___H@SS.04.Ant.Habitabit.4E.pdf
 /stit/Psalmus 14 
@@ -39,7 +39,7 @@
 /ps/Notas mihi fecísti vias vitæ, † adimplébis me lætítia cum +vúl+tu +tú+o : * delectatiónes in déxtera tua +ús+que in +fí+nem.
 /lien/partition@SS.09.Ant.CaroMea.Reprise.pdf
 /lien/partition@SS.10.Vers.InPaceInIdipsum..pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /stit/Lectio 1
 /ref/Lam 3 :22-30
 /lien/partition@ ___ ___D@SS.11.Lamentatio.S1.pdf
@@ -110,7 +110,7 @@
 /ps/Ut cantet tibi glória mea, et non com+pún+gar : * Dómine, Deus meus, in ætérnum confi=tébor= +tí+bi.
 /lien/partition@SS.26.Ant.DomineAbstraxisti.Reprise.pdf
 /lien/partition@SS.27.Vers.TuAutem.pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /stit/Lectio 4
 /stit/Ex Tractátu sancti Augustíni Epíscopi super Psalmos
 /ref/In Psalmum 63 versum 7
@@ -171,7 +171,7 @@
 /ps/Elongásti a me amí=cum et= +pró+ximum : * et notos me=os a mi=+sé+ria.
 /lien/partition@SS.39.Ant.FactusSum.Reprise.pdf
 /lien/partition@SS.40.Vers.InPaceFactus.pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /stit/Lectio 7
 /stit/De Epístola beáti Pauli Apóstoli ad Hebr[ae]os
 /ref/Heb 9 :11-14
@@ -287,7 +287,7 @@
 /lien/partition@SS.62.Ant.Mulieres.Reprise.pdf
 /stit/Oratio
 /lien/partition@Ant.___5.___C@SS.63.Ant.ChristusFactusEst.pdf
-/latin/Pater noster, =quod dicitur totum secreto.=
+/latin/Pater noster =secreto=.
 /lectio/C[NJ]Oncéde, qu[ae]sumus, omnípotens Deus : ut, qui Fílii tui resurrectiónem devóta exspectatióne prævenímus ; eiúsdem resurrectiónis glóriam consequámur.
 /rub/Et sub silentio concluditur :
 /latin/Per eúndem Dóminum nostrum Jesum Christum Fílium tuum, qui tecum vivit et regnat in unitáte Spíritus Sancti, Deus, per ómnia s[ae]cula sæculórum.
