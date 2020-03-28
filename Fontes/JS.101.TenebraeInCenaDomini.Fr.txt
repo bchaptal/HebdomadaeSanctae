@@ -2,29 +2,34 @@
 /com/On donne vulgairement le nom de Ténèbres à l’Office des Matines et des Laudes des trois derniers jours de la Semaine sainte, parce que cet Office se célébrait autrefois la nuit, comme dans les autres jours de l’année. Ce nom lui appartient encore pour une autre raison ; c’est qu’on le commence à la lumière du jour, et qu’il ne se termine qu’après le coucher du soleil.
 /com/Un rite imposant et mystérieux, propre seulement à ces Offices, vient aussi confirmer cette appellation. On place dans le sanctuaire, près de l’autel, un vaste chandelier triangulaire, sur lequel sont disposés quinze cierges. Ces cierges, ainsi que les six de l’autel, sont en cire jaune, comme à l’Office des Défunts. A la fin de chaque Psaume ou Cantique, on éteint successivement un des cierges du grand chandelier ; un seul, celui qui est placé à l’extrémité supérieure du triangle, reste allumé. Pendant le Cantique [Benedictus], à Laudes, les six cierges qui brûlaient sur l’autel sont pareillement éteints. Alors le Cérémoniaire prend l’unique cierge qui était demeuré allumé sur le chandelier, et il le tient appuyé sur l’autel durant le chant de l’Antienne qui se répète après le Cantique. Puis il part et va cacher ce cierge, sans l’éteindre, derrière l’autel. Il le maintient ainsi loin de tous les regards pendant la récitation du [Miserere] et de l’Oraison de conclusion qui suit ce Psaume. Cette Oraison étant achevée, on frappe avec bruit sur les sièges du chœur, jusqu’à ce que le cierge qui avait été caché derrière l’autel reparaisse et annonce par sa lumière toujours conservée que l’Office des Ténèbres est terminé.
 /com/Expliquons maintenant le sens de ces diverses cérémonies. Nous sommes dans les jours où la gloire du Fils de Dieu est éclipsée sous les ignominies de sa Passion. Il était « la lumière du monde », puissant en œuvres et en paroles, accueilli naguère par les acclamations de tout un peuple ; maintenant le voilà déchu de toutes ses grandeurs, « l’homme de douleurs, un lépreux », dit Isaïe ; « un ver de terre, et non un homme », dit le Roi-Prophète ; « un sujet de scandale pour ses disciples », dit-il lui-même. Chacun s’éloigne de lui : Pierre même nie l’avoir connu. Cet abandon, cette défection presque générale sont figurés par l’extinction successive des cierges sur le chandelier triangulaire, même jusque sur l’autel. Cependant la lumière méconnue de notre Christ n’est pas éteinte, quoiqu’elle ne lance plus ses feux, et que les ombres se soient épaissies autour d’elle. On pose un moment le cierge mystérieux sur l’autel. Il est là comme le Rédempteur sur le Calvaire, où il souffre et meurt. Pour exprimer la sépulture de Jésus, on cache le cierge derrière l’autel ; sa lumière ne paraît plus. Alors un bruit confus se fait entendre dans le sanctuaire, que l’absence de ce dernier flambeau a plongé dans l’obscurité. Ce bruit, joint aux ténèbres, exprime les convulsions de la nature, au moment où le Sauveur ayant expiré sur la croix, la terre trembla, les rochers se fendirent, les sépulcres furent ouverts. Mais tout à coup le cierge reparaît sans avoir rien perdu de sa lumière ; le bruit cesse, et chacun rend hommage au vainqueur de la mort.
-/tra/Ant. L’amour jaloux de ta maison me dévore, et les outrages de ceux qui t’insultent retombent sur moi.
+/tra/Ant. Le zèle de votre maison m’a dévoré, et les outrages de ceux qui vous insultaient sont tombés sur moi.
 /com/Le premier Psaume (68) fut inspiré à David lorsqu’il fuyait devant les poursuites parricides de son fils Absalon. Il se rapporte au Christ, dont il décrit les douleurs et l’abandon aux jours de sa Passion. Le fiel pour nourriture et le vinaigre pour breuvage offerts à celui qui se plaint dans ce Psaume montrent suffisamment qu’il est prophétique, puisque l’on sait que David n’a jamais éprouvé ce traitement.
 /stt/Psaume 68
 /pst1/Sauvez-moi, ô Dieu, * car les eaux sont entrées jusqu’à mon âme.
-/pst/Je suis enfoncé dans une boue profonde, * où il n’y a pas de consistance. Je suis descendu au fond de la mer, * et la tempête m’a submergé.
+/pst/Je suis enfoncé dans une boue profonde, * où il n’y a pas de consistance.
+/pst/Je suis descendu au fond de la mer, * et la tempête m’a submergé.
 /pst/Je me suis fatigué à crier, ma gorge en a été enrouée ; * mes yeux se sont épuisés, tandis que j’attends mon Dieu.
-/pst/Ils sont devenus plus nombreux que les cheveux de ma tête, * ceux qui me haïssent sans cause. Ils sont devenus forts, mes ennemis qui me persécutent injustement ; * j’ai dû payer ce que je n’avais pas pris.
+/pst/Ils sont devenus plus nombreux que les cheveux de ma tête, * ceux qui me haïssent sans cause.
+/pst/Ils sont devenus forts, mes ennemis qui me persécutent injustement ; * j’ai dû payer ce que je n’avais pas pris.
 /pst/Ô Dieu, vous connaissez ma folie, * et mes péchés ne vous sont point cachés.
-/pst/Que ceux qui espèrent en vous ne rougissent pas à cause de moi, Seigneur, * Seigneur des armées. Qu’ils ne soient pas confondus à mon sujet, * ceux qui vous cherchent, Dieu d’Israël.
+/pst/Que ceux qui espèrent en vous ne rougissent pas à cause de moi, Seigneur, * Seigneur des armées.
+/pst/Qu’ils ne soient pas confondus à mon sujet, * ceux qui vous cherchent, Dieu d’Israël.
 /pst/Car c’est à cause de vous que j’ai souffert l’opprobre, * et que la confusion a couvert mon visage.
 /pst/Je suis devenu un étranger pour mes frères, * et un inconnu pour les fils de ma mère.
 /pst/Car le zèle de votre maison m’a dévoré, * et les outrages de ceux qui vous insultaient sont tombés sur moi.
 /pst/J’ai affligé mon âme par le jeûne, * et l’on m’en a fait un sujet d’opprobre.
 /pst/J’ai pris pour vêtement un cilice, * et je suis devenu leur fable.
 /pst/Ceux qui étaient assis à la porte parlaient contre moi, * et ceux qui buvaient du vin me raillaient par leurs chansons.
-/pst/Mais moi je vous adresse, Seigneur, ma prière. * Voici le temps favorable, ô Dieu. Selon la grandeur de votre miséricorde exaucez-moi, * selon la vérité de vos promesses de salut.
+/pst/Mais moi je vous adresse, Seigneur, ma prière. * Voici le temps favorable, ô Dieu.
+/pst/Selon la grandeur de votre miséricorde exaucez-moi, * selon la vérité de vos promesses de salut.
 /pst/Retirez-moi de la boue, afin que je n’y enfonce pas ; * délivrez-moi de ceux qui me haïssent et des eaux profondes.
 /pst/Que les flots en fureur ne me submergent point ; que l’abîme ne m’engloutisse pas, * et que le puits ne ferme pas sa bouche sur moi.
 /pst/Exaucez-moi, Seigneur, car votre miséricorde est toute suave ; * regardez- moi selon l’abondance de vos bontés.
 /pst/Et ne détournez pas votre visage de votre serviteur ; * parce que je suis dans l’angoisse, exaucez-moi promptement.
 /pst/Soyez attentif sur mon âme, et délivrez-la * à cause de mes ennemis.
 /pst/Vous connaissez mon opprobre, et ma confusion, * et ma honte.
-/pst/Tous ceux qui me persécutent sont devant vous ; * mon cœur s’attend à l’insulte et à la misère. Et j’ai attendu que quelqu’un s’attristât avec moi, mais nul ne l’a fait ; * et que quelqu’un me consolât, mais je n’ai trouvé personne.
+/pst/Tous ceux qui me persécutent sont devant vous ; * mon cœur s’attend à l’insulte et à la misère.
+/pst/Et j’ai attendu que quelqu’un s’attristât avec moi, mais nul ne l’a fait ; * et que quelqu’un me consolât, mais je n’ai trouvé personne.
 /pst/Et ils m’ont donné du fiel pour nourriture, * et dans ma soif ils m’ont abreuvé de vinaigre.
 /pst/Que leur table soit devant eux comme un filet, * un juste châtiment et une pierre de scandale.
 /pst/Que leurs yeux soient obscurcis, pour qu’ils cessent de voir, * et courbez à jamais leur dos.
@@ -33,53 +38,56 @@
 /pst/Parce qu’ils ont persécuté celui que vous avez frappé, * et qu’ils ont ajouté à la douleur de mes blessures.
 /pst/Ajoutez l’iniquité à leur iniquité, * et qu’ils n’entrent pas dans votre justice.
 /pst/Qu’ils soient effacés du livre des vivants, * et qu’ils ne soient point inscrits avec les justes.
-/pst/Pour moi, je suis pauvre et dans la douleur ; * Votre salut, ô Dieu, m’a relevé.
+/pst/Pour moi, je suis pauvre et dans la douleur ; * votre salut, ô Dieu, m’a relevé.
 /pst/Je louerai le Nom de Dieu par des cantiques, * et je le glorifierai par des louanges ;
-/pst/et ce sera plus agréable à Dieu que le jeune veau, * à qui poussent les cornes et les ongles.
-/pst/Que les pauvres le voient et se réjouissent. * Cherchez Dieu, et votre âme vivra ;
-/pst/car le Seigneur a exaucé les pauvres, * et il n’a pas méprisé ses captifs.
+/pst/Et ce sera plus agréable à Dieu que le jeune veau, * à qui poussent les cornes et les ongles.
+/pst/Que les pauvres le voient et se réjouissent ; * cherchez Dieu, et votre âme vivra.
+/pst/Car le Seigneur a exaucé les pauvres, * et il n’a pas méprisé ses captifs.
 /pst/Que les cieux et la terre le louent ; * la mer, et tout ce qui s’y meut.
-/pst/Car Dieu sauvera Sion, * et les villes de Juda seront bâties. Ils y habiteront, * et ils l’acquerront en héritage.
+/pst/Car Dieu sauvera Sion, * et les villes de Juda seront bâties.
+/pst/Ils y habiteront, * et ils l’acquerront en héritage.
 /pst/Et la race de ses serviteurs la possédera, * et ceux qui aiment son Nom y habiteront.
-/tra/Ant. L’amour jaloux de ta maison me dévore, et les outrages de ceux qui t’insultent retombent sur moi.
+/tra/Ant. Le zèle de votre maison m’a dévoré, et les outrages de ceux qui vous insultaient sont tombés sur moi.
 /tra/Ant. Qu’ils retournent en arrière et soient couverts de honte, ceux qui me veulent du mal !
-/com/Le deuxième Psaume (69) fut composé par David dans les mêmes circonstances. Il y implore le secours de Dieu contre ses ennemis qui le cherchent pour le faire mourir. Ce Psaume est une annonce prophétique du sort réservé au Messie
+/com/Le deuxième Psaume (69) fut composé par David dans les mêmes circonstances. Il y implore le secours de Dieu contre ses ennemis qui le cherchent pour le faire mourir. Ce Psaume est une annonce prophétique du sort réservé au Messie.
 /stt/Psaume 69
 /pst1/Ô Dieu, venez à mon aide ; * Seigneur, hâtez-vous de me secourir.
 /pst/Qu’ils soient confondus et couverts de honte, * ceux qui cherchent à m’ôter la vie.
 /pst/Qu’ils reculent en arrière et soient dans la confusion, * ceux qui me veulent du mal.
 /pst/Qu’ils reculent aussitôt, rougissant de honte, * ceux qui me disent : Va ! va !
 /pst/Mais que tous ceux qui vous cherchent tressaillent d’allégresse et de joie ; * et que ceux qui aiment votre salut disent sans cesse : Que le Seigneur soit glorifié !
-/pst/Pour moi, je suis pauvre et indigent ; * ô Dieu, aidez-moi. Vous êtes mon aide et mon libérateur. * Seigneur, ne tardez pas.
+/pst/Pour moi, je suis pauvre et indigent ; * ô Dieu, aidez-moi.
+/pst/Vous êtes mon aide et mon libérateur. * Seigneur, ne tardez pas.
 /tra/Ant. Qu’ils retournent en arrière et soient couverts de honte, ceux qui me veulent du mal !
-/tra/Ant. Mon Dieu, arrache-moi des mains des pécheurs.
+/tra/Ant. Mon Dieu, arrachez-moi des mains des pécheurs.
 /com/Le troisième Psaume (70) se rapporte à la même époque de la vie de David ; mais s’il exprime les périls au milieu desquels se trouvait ce saint roi, il est remarquable aussi par les sentiments d’une confiance invincible en Dieu qui lui donnera à la fin la victoire. Dans son sens prophétique, ce Psaume nous montre l’espérance que l’Homme-Dieu conserva dans le secours de son Père, au fort même de ses angoisses.
 /stt/Psaume 70
-/pst1/C’est en vous, Seigneur, que j’ai espéré ; que je sois pas à jamais confondu.*
-/pst/Dans votre justice, délivrez-moi et secourez-moi Inclinez vers moi votre oreille, * et sauvez-moi.
-/pst/Soyez-moi un Dieu protecteur et un asile fortifié, * afin de me sauver ; car vous êtes ma force et mon refuge.
+/pst1/C’est en vous, Seigneur, que j’ai espéré ; que je sois pas à jamais confondu ; * dans votre justice, délivrez-moi et secourez-moi.
+/pst/Inclinez vers moi votre oreille, * et sauvez-moi.
+/pst/Soyez-moi un Dieu protecteur et un asile fortifié, * afin de me sauver.
+/pst/Car vous êtes ma force * et mon refuge.
 /pst/Mon Dieu, tirez-moi de la main du pécheur, * et de la main de celui qui agit contre la loi, et du pervers ;
-/pst/car vous êtes mon attente, Seigneur ; * Seigneur, vous êtes mon espérance depuis ma jeunesse.
-/pst/Sur vous je me suis appuyé dès ma naissance ; * dès le sein de ma mère vous êtes mon protecteur. Vous serez toujours le sujet de mes chants. *
-/pst/Je suis devenu pour beaucoup comme un prodige ; et vous, vous êtes un puissant secours.
+/pst/Car vous êtes mon attente, Seigneur ; * Seigneur, vous êtes mon espérance depuis ma jeunesse.
+/pst/Sur vous je me suis appuyé dès ma naissance ; * dès le sein de ma mère vous êtes mon protecteur.
+/pst/Vous serez toujours le sujet de mes chants. * je suis devenu pour beaucoup comme un prodige ; et vous, vous êtes un puissant secours.
 /pst/Que ma bouche soit remplie de louanges, pour que je chante votre gloire, * et chaque jour votre grandeur.
 /pst/Ne me rejetez pas au temps de la vieillesse ; * lorsque ma force se sera épuisée, ne m’abandonnez pas.
 /pst/Car mes ennemis ont parlé contre moi, * et ceux qui épiaient ma vie ont tenu conseil ensemble,
-/pst/disant : Dieu l’a abandonné ; poursuivez-le et saisissez-le ; * il n’y a personne pour le délivrer.
+/pst/Disant : Dieu l’a abandonné ; poursuivez-le et saisissez-le ; * il n’y a personne pour le délivrer.
 /pst/Ô Dieu, ne vous éloignez pas de moi ; * mon Dieu, voyez à me secourir.
 /pst/Qu’ils soient confondus et réduits à néant, ceux qui en veulent à ma vie ;* qu’ils soient couverts de confusion et de honte, ceux qui cherchent mon mal.
 /pst/Mais moi, j’espérerai toujours, * et j’ajouterai à toutes vos louanges.
-/pst/Ma bouche publiera votre justice, * et tout le jour votre assistance salutaire. Ne connaissant pas la science humaine,
-/pst/je contemplerai les œuvres puissantes du Seigneur ; * Seigneur, je me rappellerai votre justice, la Vôtre seule.
+/pst/Ma bouche publiera votre justice, * et tout le jour votre assistance salutaire.
+/pst/Ne connaissant pas la science humaine, je contemplerai les œuvres puissantes du Seigneur ; * Seigneur, je me rappellerai votre justice, la Vôtre seule.
 /pst/Ô Dieu, vous m’avez instruit dès ma jeunesse, * et je publierai vos merveilles que j’ai éprouvées jusqu’à présent.
-/pst/Et jusqu’à la vieillesse et aux cheveux blancs, * ô Dieu, ne m’abandonnez pas, jusqu’à ce que j’aie annoncé la force de votre bras * à toutes les générations à venir ; votre puissance
-/pst/et votre justice qui atteint, ô Dieu, jusqu’aux cieux. * Dans les grandes choses que vous avez faites, ô Dieu, qui est semblable à vous ?
+/pst/Et jusqu’à la vieillesse et aux cheveux blancs, * ô Dieu, ne m’abandonnez pas, /pst/Jusqu’à ce que j’aie annoncé la force de votre bras * à toutes les générations à venir ;
+/pst/Votre puissance et votre justice qui atteint, ô Dieu, jusqu’aux cieux. Dans les grandes choses que vous avez faites, * ô Dieu, qui est semblable à vous ?
 /pst/Que de tribulations nombreuses et cruelles vous m’avez fait éprouver ! Et vous retournant, vous m’avez rendu la vie, * et vous m’avez retiré des abîmes de la terre.
 /pst/Vous avez fait éclater votre magnificence, * et, vous retournant, vous m’avez consolé.
 /pst/Car je célébrerai encore, ô Dieu, votre vérité au son des instruments ; * je vous chanterai sur la harpe, ô Saint d’Israël.
 /pst/L’allégresse sera sur mes lèvres lorsque je vous chanterai, * et dans mon âme, que vous avez rachetée.
 /pst/Et ma langue annoncera tout le jour votre justice, * lorsque ceux qui cherchent mon mal seront couverts de confusion et de honte.
-/tra/Ant. Mon Dieu, arrache-moi des mains des pécheurs.
+/tra/Ant. Mon Dieu, arrachez-moi des mains des pécheurs.
 /tra/v Qu'ils reculent abreuvés d'ignominie.
 /tra/r Ceux qui souhaitent ma ruine.
 /tra/Notre Père =(en silence)=
@@ -88,12 +96,12 @@
 /ref/Lam. 1, 1-5
 /tralett/A[NJ]LETH. Comment est-elle assise solitaire, cette ville pleine de peuple ? Elle est devenue comme veuve, la maîtresse des nations ; la souveraine des provinces est devenue tributaire. BETH. Elle n’a pas cessé de pleurer pendant la nuit, et ses larmes coulent sur ses joues ; il n’y a personne qui la console parmi tous ceux qui lui étaient chers ; tous ses amis l’ont méprisée et sont devenus ses ennemis. GHIMEL Juda est allé en exil, à cause de l’affliction et de la grande servitude ; il a habité parmi les nations, et il n’a pas trouvé de repos ; tous ses persécuteurs l’ont saisi dans ses angoisses. DALETH Les chemins de Sion sont en deuil, parce qu’il n’y a plus personne qui vienne aux solennités ; toutes ses portes sont détruites, ses prêtres gémissent ; ses vierges sont défigurées, et elle est elle-même accablée d’amertume. HE Ses ennemis sont devenus les maîtres, ses adversaires se sont enrichis, car le Seigneur a parlé contre elle, à cause de la multitude de ses iniquités ; ses petits enfants ont été conduits en captivité devant l’oppresseur.
 /com/Tandis que la psalmodie est simplement celle d’un jeudi ordinaire avec des antiennes apparentées à celles du temps de la Passion, la grande beauté des répons des Ténèbres, si justement célèbres, tient surtout à ce qu’ils cherchent - et réussissent - à traduire, avec des nuances d’une délicatesse infinie, les sentiments qui remplissaient l’âme du Seigneur durant sa Passion douloureuse. C’est toujours de lui qu’il est question, de sa souffrance, de sa détresse, de son abandon, de sa douceur, de son amour, parfois aussi de sa plainte devant les traitements qui lui ont été infligés et l’abandon de ses amis.
-/com/Prière du Seigneur à son Père durant son agonie. Grande atmosphère de douceur. Remarquer l’insistance, si aimante, si instante, si humble aussi et si abandonnée, du si fíeri potest, succédant à l’appel à la fois pressant et si tendre du mot Pater, et le crescendo, accompagné d’un léger accelerando, qui s’étend tout au long du tránseat a me, pour s’achever dans la même note d’exquise douceur.
-/resp/Rep. Au Mont des Oliviers, Jésus pria (ainsi) son Père : « Père, si cela est possible, que ce calice s’éloigne de moi ! ». L’esprit est ardent, mais la chair est faible. v Veillez et priez pour ne pas entrer en tentation.
+/com/Prière du Seigneur à son Père durant son agonie. Grande atmosphère de douceur. Remarquer l’insistance, si aimante, si instante, si humble aussi et si abandonnée, du [si fíeri potest], succédant à l’appel à la fois pressant et si tendre du mot [Pater], et le crescendo, accompagné d’un léger accelerando, qui s’étend tout au long du [tránseat a me], pour s’achever dans la même note d’exquise douceur.
+/resp/Rep. Au Mont des Oliviers, Jésus pria ainsi son Père : « Père, si cela est possible, que ce calice s’éloigne de moi ! ». L’esprit est ardent, mais la chair est faible. v Veillez et priez pour ne pas entrer en tentation.
 /stt/Leçon 2
 /ref/Lam. 1, 6-9
 /tralett/V[NJ]AU La fille de Sion a perdu toute sa beauté : ses princes sont devenus comme des béliers qui ne trouvent point de pâturages, et ils sont allés sans force devant celui qui les poursuivait. ZAÏN Jérusalem s’est souvenue des jours de son affliction et de sa prévarication, de tous les objets désirables qu’elle avait eus depuis les jours anciens, lorsque son peuple tombait sous la main de l’ennemi, sans qu’il y eût personne pour le secourir. Ses ennemis l’ont vue, et ils se sont moqués de ses sabbats. HETH Jérusalem a grandement péché, c’est pourquoi elle est devenue chancelante ; tous ceux qui l’honoraient l’ont méprisée, parce qu’ils ont vu son ignominie ; elle-même, gémissante, s’est tournée en arrière. TETH Ses souillures sont sur ses pieds, et elle ne s’est pas souvenue de sa fin ; elle a été étonnamment abaissée, et elle n’a pas eu de consolateur. Voyez, Seigneur, mon affliction, parce que l’ennemi s’est élevé avec orgueil.
-/com/Répons tout plein de la grande tristesse du Christ à la pensée de la Passion qui s’approche et de l’abandon de ses disciples. Peu à peu, le ton, d’abord très doux, se fait plus impératif et l’allure légèrement plus rapide : =sustinéte hic, nunc vidébitis… vos fugam capiétis=. Puis, pour finir, la mélodie redevient plus serrée et méditative, plus douloureuse aussi.
+/com/Répons tout plein de la grande tristesse du Christ à la pensée de la Passion qui s’approche et de l’abandon de ses disciples. Peu à peu, le ton, d’abord très doux, se fait plus impératif et l’allure légèrement plus rapide : [sustinéte hic, nunc vidébitis… vos fugam capiétis]. Puis, pour finir, la mélodie redevient plus serrée et méditative, plus douloureuse aussi.
 /resp/Rep. Mon âme est triste à en mourir. Restez ici et veillez avec moi : Vous allez voir la foule m’entourer. Vous, vous prendrez la fuite, et moi, j’irai me sacrifier pour vous. v Voici l’heure qui approche où le Fils de l’homme sera livré aux mains des pécheurs.
 /stt/Leçon 3
 /ref/Lam. 1, 10-14
@@ -103,7 +111,8 @@
 /tra/Ant. Le Seigneur a libéré le pauvre de l’oppresseur, et le malheureux sans secours.
 /com/Le quatrième Psaume (71), qui célèbre avec tant de pompe les grandeurs du fils de David, semble, au premier abord, déplacé dans cet Office, où il ne s’agit que de ses humiliations. Nous avons chanté ce beau cantique avec triomphe dans la nuit de la naissance de l’Emmanuel, et nous le retrouvons aujourd’hui mêlé à des chants de deuil. La sainte Église l’a choisi parce que, au milieu des splendeurs qu’il prophétise notre libérateur, il annonce que ce Fils du Roi « arrachera le pauvre des mains du puissant, le pauvre qui n’avait point d’appui ». Le genre humain est ce pauvre ; le puissant est Satan ; Jésus va nous soustraire à son pouvoir, en souffrant en notre place la peine que nous avions méritée.
 /stt/Psaume 71
-/pst1/02 Ô Dieu, donnez au Roi votre jugement, * et au Fils du roi votre justice ; pour qu’il juge votre peuple avec justice, * et vos pauvres selon l’équité.
+/pst1/Ô Dieu, donnez au Roi votre jugement, * et au Fils du roi votre justice ;
+/pst/Pour qu’il juge votre peuple avec justice, * et vos pauvres selon l’équité.
 /pst/Que les montagnes reçoivent la paix pour le peuple, * et les collines la justice !
 /pst/Il jugera les pauvres du peuple, et sauvera les enfants des pauvres, * et humiliera le calomniateur.
 /pst/Et il durera autant que le soleil et que la lune, * de génération en génération.
@@ -112,13 +121,14 @@
 /pst/Et il dominera de la mer à la mer, * et depuis le fleuve jusqu’aux extrémités de la terre.
 /pst/Devant lui se prosterneront les Éthiopiens, * et ses ennemis lécheront la terre.
 /pst/Les rois de Tharsis et les îles lui offriront des présents ; * les rois d’Arabie et de Saba apporteront des dons ;
-/pst/et tous les rois de la terre l’adoreront, * toutes les nations lui seront assujetties.
+/pst/Et tous les rois de la terre l’adoreront, * toutes les nations lui seront assujetties.
 /pst/Car il délivrera le pauvre des mains du puissant, * et l’indigent qui n’avait personne pour l’assister.
 /pst/Il aura compassion du pauvre et de l’indigent, * et il sauvera les âmes des pauvres.
 /pst/Il affranchira leurs âmes de l’usure et de l’iniquité, * et leur nom sera en honneur devant lui.
 /pst/Et il vivra, et on lui donnera de l’or d’Arabie ; on l’adorera sans cesse, * tout le jour on le bénira.
 /pst/Et le blé sera sur la terre au sommet des montagnes ; son fruit s’élèvera plus haut que le Liban, * et on fleurira dans la cité comme l’herbe des champs.
-/pst/Que son Nom soit béni dans tous les siècles : * Son Nom durera autant que le soleil. Et toutes les tribus de la terre seront bénies en lui ; * toutes les nations le glorifieront.
+/pst/Que son Nom soit béni dans tous les siècles : * son Nom durera autant que le soleil.
+/pst/Et toutes les tribus de la terre seront bénies en lui ; * toutes les nations le glorifieront.
 /pst/Béni soit le Seigneur, Dieu d’Israël, * qui opère seul des merveilles.
 /pst/Et béni soit éternellement le Nom de sa majesté, * et que toute la terre soit remplie de sa majesté. Ainsi soit-il, ainsi soit-il.
 /tra/Ant. Le Seigneur a libéré le pauvre de l’oppresseur, et le malheureux sans secours.
@@ -127,7 +137,7 @@
 /stt/Psaume 72
 /pst1/Que Dieu est bon pour Israël, * pour ceux qui ont le cœur droit !
 /pst/Mes pieds ont été presque ébranlés, * mes pas presque renversés,
-/pst/parce que j’ai porté envie aux méchants, * en voyant la paix des pécheurs.
+/pst/Parce que j’ai porté envie aux méchants, * en voyant la paix des pécheurs.
 /pst/Car la mort paraît les oublier, * et leurs blessures ne durent pas.
 /pst/Ils n’ont point de part au labeur des mortels, * et ils ne sont pas frappés comme les autres hommes.
 /pst/Aussi l’orgueil les a-t-il saisis ; * ils sont couverts de leur iniquité et de leur impiété.
@@ -135,63 +145,65 @@
 /pst/Leurs pensées et leurs paroles n’ont été que malice ; * ils ont proféré hautement l’iniquité.
 /pst/Ils ont ouvert leur bouche contre le Ciel, * et leur langue a parcouru la terre.
 /pst/C’est pourquoi mon peuple se tourne de ce côté, * et on trouve en eux des jours pleins.
-/pst/Et ils ont dit : Comment Dieu le sait-il ? * et le Très-Haut en a-t-il connaissance ?
+/pst/Et ils ont dit : comment Dieu le sait-il ? * et le Très-Haut en a-t-il connaissance ?
 /pst/Voyez ces pécheurs qui abondent en tout en ce monde : * ils ont acquis de nouvelles richesses.
-/pst/Et j’ai dit : C’est en vain que j’ai purifié mon cœur, * et que j’ai lavé mes mains parmi les innocents,
-/pst/puisque j’ai été affligé tout le jour, * et châtié dès le matin.
-/pst/Si j’avais dit : Je parlerai en ce sens, * j’aurais condamné la race de vos enfants.
+/pst/Et j’ai dit : c’est en vain que j’ai purifié mon cœur, * et que j’ai lavé mes mains parmi les innocents,
+/pst/Puisque j’ai été affligé tout le jour, * et châtié dès le matin.
+/pst/Si j’avais dit : je parlerai en ce sens, * j’aurais condamné la race de vos enfants.
 /pst/Je songeais à pénétrer ce secret ; * la difficulté fut grande devant moi,
-/pst/jusqu’à ce que je fusse entré dans le sanctuaire de Dieu, * et que j’eusse compris ce que sera leur fin.
+/pst/Jusqu’à ce que je fusse entré dans le sanctuaire de Dieu, * et que j’eusse compris ce que sera leur fin.
 /pst/En vérité, ce sont des pièges que vous avez placés devant eux ; * Vous les avez renversés au moment même où ils s’élevaient.
 /pst/Comment sont-ils tombés dans la désolation ? * Ils ont disparu soudain ; ils ont péri à cause de leur iniquité.
-/pst/Comme le songe de ceux qui s’éveillent, Seigneur, * Vous réduirez au néant dans votre cité leur image.
-/pst/Parce que mon cœur s’est enflammé, et que mes reins ont été altérés, *
-/pst/j’ai été réduit au néant, et plongé dans l’ignorance.
+/pst/Comme le songe de ceux qui s’éveillent, Seigneur, * vous réduirez au néant dans votre cité leur image.
+/pst/Parce que mon cœur s’est enflammé, et que mes reins ont été altérés, * j’ai été réduit au néant, et plongé dans l’ignorance.
 /pst/Je suis devenu devant vous comme une bête de somme, * et cependant je suis toujours avec vous.
 /pst/Vous avez tenu ma main droite, et vous m’avez conduit selon votre volonté, * et vous m’avez reçu avec gloire.
 /pst/Car qu’y a-t-il pour moi dans le Ciel ? * et qu’ai-je désiré de vous sur la terre ?
 /pst/Ma chair et mon cœur ont défailli, * ô Dieu, qui êtes le Dieu de mon cœur, et mon partage pour l’éternité.
-/pst/Car voici que ceux qui s’éloignent de vous périront ; * Vous avez résolu de perdre tous ceux qui se prostituent en s’éloignant de vous.
-/pst/Pour moi, c’est mon bonheur de m’attacher à Dieu, * de mettre mon espérance dans le Seigneur Dieu ; afin de publier toutes vos louanges * aux portes de la fille de Sion.
+/pst/Car voici que ceux qui s’éloignent de vous périront ; * vous avez résolu de perdre tous ceux qui se prostituent en s’éloignant de vous.
+/pst/Pour moi, c’est mon bonheur de m’attacher à Dieu, * de mettre mon espérance dans le Seigneur Dieu ;
+/pst/Afin de publier toutes vos louanges * aux portes de la fille de Sion.
 /tra/Ant. Les impies ont conçu et exprimé leur méchanceté, ils ont crié leur péché vers les cieux.
-/tra/Ant. Lève-toi, Seigneur, et défends ma cause ! 
+/tra/Ant. Levez-vous, Seigneur, et défendez ma cause ! 
 /com/Le sixième Psaume (73) s’élève contre un peuple ennemi du culte de Dieu. Israël le chanta longtemps contre les Gentils ; le peuple chrétien l’applique à la Synagogue qui, après avoir crucifié le Messie, employa tous ses efforts pour renverser son Église, immola les premiers martyrs, et voulut contraindre les Apôtres à ne plus prononcer le nom de Jésus-Christ.
 /stt/Psaume 73
 /pst1/Pourquoi, ô Dieu, nous avez-vous rejetés pour toujours ? * pourquoi votre fureur s’est-elle allumée contre les brebis de votre pâturage ?
-/pst/Souvenez-vous de votre famille, * que vous avez possédé dès le commencement. Vous avez racheté le sceptre de votre héritage : * c’est le mont Sion, où vous avez habité.
+/pst/Souvenez-vous de votre famille, * que vous avez possédé dès le commencement.
+/pst/Vous avez racheté le sceptre de votre héritage : * c’est le mont Sion, où vous avez habité.
 /pst/Levez vos mains contre leur insolence sans bornes. * Que de forfaits l’ennemi a commis dans le sanctuaire !
-/pst/Ceux qui vous haïssent ont fait leur gloire * de vous insulter au milieu de votre solennité. Ils ont placé leurs étendards comme étendards, *
-/pst/et ils n’ont pas plus respecté le sommet que les issues. Comme dans une forêt d’arbres, à coups de hache,
-/pst/ils ont brisé les portes à l’envi. * Avec la hache et la cognée ils ont tout renversé.
+/pst/Ceux qui vous haïssent ont fait leur gloire * de vous insulter au milieu de votre solennité.
+/pst/Ils ont placé leurs étendards comme étendards, * et ils n’ont pas plus respecté le sommet que les issues.
+/pst/Comme dans une forêt d’arbres, à coups de hache, ils ont brisé les portes à l’envi. * Avec la hache et la cognée ils ont tout renversé.
 /pst/Ils ont mis le feu à votre sanctuaire ; * ils ont renversé et profané le tabernacle de votre Nom.
-/pst/Ils ont dit dans leur cœur, eux et toute leur bande : * Faisons cesser dans le pays tous les jours de fête consacrés à Dieu.
+/pst/Ils ont dit dans leur cœur, eux et toute leur bande : * faisons cesser dans le pays tous les jours de fête consacrés à Dieu.
 /pst/Nous ne voyons plus nos étendards ; * il n’y a plus de prophète, et on ne nous connaîtra plus.
-/pst/Jusques à quand, ô Dieu, l’ennemi insultera-t-il ? * L’adversaire outragera-t-il sans fin votre Nom ?
+/pst/Jusques à quand, ô Dieu, l’ennemi insultera-t-il, * l’adversaire outragera-t-il sans fin votre Nom ?
 /pst/Pourquoi retirez-vous sans cesse votre main et votre droite * de votre sein ?
-/pst/Cependant Dieu est notre Roi depuis des siècles ; * Il a opéré notre salut au milieu de la terre.
+/pst/Cependant Dieu est notre Roi depuis des siècles ; * il a opéré notre salut au milieu de la terre.
 /pst/C’est vous qui avez affermi la mer par votre puissance, * qui avez brisé les têtes des dragons dans les eaux.
 /pst/C’est vous qui avez écrasé les têtes du dragon, * qui l’avez donné en nourriture aux peuples d’Éthiopie.
 /pst/C’est vous qui avez fait jaillir des fontaines et des torrents, * qui avez desséché les fleuves intarissables.
 /pst/À vous est le jour, et à vous est la nuit ; * c’est vous qui avez créé l’aurore et le soleil.
-/pst/C’est vous qui avez établi toutes les limites de la terre, * Vous qui avez formé l’été et le printemps.
+/pst/C’est vous qui avez établi toutes les limites de la terre, * vous qui avez formé l’été et le printemps.
 /pst/Souvenez-vous-en : l’ennemi a outragé le Seigneur, * et un peuple insensé a irrité votre Nom.
 /pst/Ne livrez pas aux bêtes les âmes qui vous louent, * et n’oubliez pas pour toujours les âmes de vos pauvres.
 /pst/Ayez égard à votre alliance, * car les lieux sombres du pays sont remplis de repaires d’iniquité.
 /pst/Que l’humble ne s’en retourne pas couvert de confusion ; * le pauvre et l’indigent loueront votre Nom.
 /pst/Levez-vous, ô Dieu, jugez votre cause ; * souvenez-vous des outrages qui vous viennent tout le jour de l’insensé.
 /pst/N’oubliez pas les clameurs de vos ennemis. * L’orgueil de ceux qui vous haïssent monte toujours.
-/tra/Ant. Lève-toi, Seigneur, et défends ma cause ! 
-/tra/v Mon Dieu, délivre-moi de la main du méchant.
+/tra/Ant. Levez-vous, Seigneur, et défendez ma cause ! 
+/tra/v Mon Dieu, délivrez-moi de la main du méchant.
 /tra/r De la main de l'impie, violateur de la loi.
 /tra/Notre Père =(en silence)=
-/com/L’Église lit, au second Nocturne, un passage des Enarrations de saint Augustin sur les Psaumes prophétiques de la Passion du Sauveur.
+/com/L’Église lit, au second Nocturne, un passage des Énarrations de saint Augustin sur les Psaumes prophétiques de la Passion du Sauveur.
 /stt/Leçon 4[break]Du Traité sur les Psaumes de saint Augustin, évêque d'Hippone
 /ref/Sur le Psaume LIV, 1
-/tralett/ Mon Dieu, accueille ma prière, ne rejette point ma supplique: abaisse sur moi ton regard; exauce-moi. »- Qui parle ainsi? Un homme affligé, soucieux, accablé de chagrin. Du fond de sa peine immense, il exhale dans la prière son désir d'être libéré du malheur. De quel malheur? C'est ce qu'il nous reste à voir. Et lorsqu'il aura commencé à le dire, nous constaterons que nous y sommes plongés, nous aussi. Unis donc dans une commune détresse, unissons-nous dans une même prière. « Je suis tourmenté, dit-il, par l'épreuve qui me travaille, et je suis bourrelé d'inquiétude. » Où donc est son tourment? Où est son tracas? «Dans l'épreuve, dit-il, qui me travaille. » Les méchants qui le font souffrir, il vient de les citer: et ce qu'ils lui font endurer, il l'appelle une épreuve qui le travaille. Ne vous figurez donc pas que ce soit sans raison qu'il y a des méchants dans ce monde, et que Dieu n'en tire aucun bien! Un méchant, il ne vit que pour se corriger, ou pour exercer la patience des bons. 
-/com/Répons consacré, comme les deux suivants, au baiser homicide de Judas. Plainte du Seigneur, d’abord très douce, puis s’animant peu à peu, quand il rapporte les paroles du traître (ipse est, tenéte eum). Alors, à la constatation douloureuse que c’est par un baiser que s’est consommée la trahison, la mélodie descend progressivement, dans un decrescendo très marqué, jusqu’aux degrés les plus graves de l’échelle modale, et reste méditative jusqu’à la fin, à l’évocation du suicide du traître.
-/resp/Rep. Mon ami me trahit par un baiser. « Celui que j’embrasserai, avait-il dit, c’est lui ! Saisissez-vous de lui ». Voilà le signe funeste de Judas qui accomplit un meurtre par un baiser. Le malheureux refusa le prix du sang, et, pour finir, il alla se pendre. V/ Il eût mieux valu pour cet homme qu’il ne fût pas né !
+/tralett/Mon Dieu, accueillez ma prière, ne rejetez point ma supplique: abaissez sur moi votre regard; exaucez-moi. » [-] Qui parle ainsi? Un homme affligé, soucieux, accablé de chagrin. Du fond de sa peine immense, il exhale dans la prière son désir d'être libéré du malheur. De quel malheur? C'est ce qu'il nous reste à voir. Et lorsqu'il aura commencé à le dire, nous constaterons que nous y sommes plongés, nous aussi. Unis donc dans une commune détresse, unissons-nous dans une même prière. « Je suis tourmenté, dit-il, par l'épreuve qui me travaille, et je suis bourrelé d'inquiétude. » Où donc est son tourment? Où est son tracas? « Dans l'épreuve, dit-il, qui me travaille. » Les méchants qui le font souffrir, il vient de les citer : et ce qu'ils lui font endurer, il l'appelle une épreuve qui le travaille. Ne vous figurez donc pas que ce soit sans raison qu'il y a des méchants dans ce monde, et que Dieu n'en tire aucun bien ! Un méchant, il ne vit que pour se corriger, ou pour exercer la patience des bons. 
+/com/Répons consacré, comme les deux suivants, au baiser homicide de Judas. Plainte du Seigneur, d’abord très douce, puis s’animant peu à peu, quand il rapporte les paroles du traître ([ipse est, tenéte eum]). Alors, à la constatation douloureuse que c’est par un baiser que s’est consommée la trahison, la mélodie descend progressivement, dans un decrescendo très marqué, jusqu’aux degrés les plus graves de l’échelle modale, et reste méditative jusqu’à la fin, à l’évocation du suicide du traître.
+/resp/Rep. Mon ami me trahit par un baiser. « Celui que j’embrasserai, avait-il dit, c’est lui ! Saisissez-vous de lui ». Voilà le signe funeste de Judas qui accomplit un meurtre par un baiser. Le malheureux refusa le prix du sang, et, pour finir, il alla se pendre. v Il eût mieux valu pour cet homme qu’il ne fût pas né !
 /stt/Leçon 5
-/tralett/ Fasse donc le ciel qu'ils reviennent au bien, ceux qui nous éprouvent, et qu'à leur tour ils soient éprouvés avec nous! Pourtant, aussi longtemps qu'ils servent à nous éprouver, ne les haïssons pas: car si parmi eux il est un méchant, le restera-t-il à jamais? C'est ce que nous ignorons. Et le plus souvent, lorsque tu crois hair un ennemi, c'est un frère que tu hais, sans le savoir. Le démon et ses anges, dans la sainte Écriture, sont clairement destinés au feu éternel. Ce sont les seuls dont on ne puisse espérer le redressement, ces ennemis contre qui nous luttons dans l'ombre. C'est à ce combat que nous entraînel'apôtre Paul lorsqu'il dit: « Cen'est pas contre la chair et le sang que nous avons à lutter (c'est-à-dire contre des hommes qu'on voit), mais contre les principautés, contre les dominations, contre les souverains de ce monde de ténèbres. » N'imagine pas, surtout, quand on parle du monde, que les démons soient les maîtres du ciel et de la terre. « De ce monde, dit-il, de ténèbres. » Ce monde, c'est-à-dire ceux qui l'adorent; ce monde, c'est-à-dire les impies et les pécheurs; ce monde dont l'evangile dit : " Et le monde ne l'a point reconnu. "/com/Simples formules habituelles du 2e mode, mais qui soulignent bien tout de même la douceur de « l’Agneau innocent », et, d’autre part, la tristesse profonde d’une trahison, par un baiser, pour de l’argent ; remarquer la montée lourde de denariórum número, et cette espèce de lassitude dans le Judæis…
+/tralett/ Fasse donc le ciel qu'ils reviennent au bien, ceux qui nous éprouvent, et qu'à leur tour ils soient éprouvés avec nous ! Pourtant, aussi longtemps qu'ils servent à nous éprouver, ne les haïssons pas : car si parmi eux il est un méchant, le restera-t-il à jamais ? C'est ce que nous ignorons. Et le plus souvent, lorsque tu crois haïr un ennemi, c'est un frère que tu hais, sans le savoir. Le démon et ses anges, dans la sainte Écriture, sont clairement destinés au feu éternel. Ce sont les seuls dont on ne puisse espérer le redressement, ces ennemis contre qui nous luttons dans l'ombre. C'est à ce combat que nous entraîne l'apôtre Paul lorsqu'il dit : « Ce n'est pas contre la chair et le sang que nous avons à lutter (c'est-à-dire contre des hommes qu'on voit), mais contre les principautés, contre les dominations, contre les souverains de ce monde de ténèbres. » N'imagine pas, surtout, quand on parle du monde, que les démons soient les maîtres du ciel et de la terre. « De ce monde, dit-il, de ténèbres. » Ce monde, c'est-à-dire ceux qui l'adorent ; ce monde, c'est-à-dire les impies et les pécheurs ; ce monde dont l’Évangile dit : « Et le monde ne l'a point reconnu. »
+/com/Simples formules habituelles du deuxième mode, mais qui soulignent bien tout de même la douceur de « l’Agneau innocent », et, d’autre part, la tristesse profonde d’une trahison, par un baiser, pour de l’argent ; remarquer la montée lourde de [denariórum número], et cette espèce de lassitude dans le [Judæis]…
 /resp/Rep. Judas, ce mercenaire infâme, s’approcha du Seigneur pour lui donner un baiser : et comme un agneau innocent, le Seigneur n’a pas repoussé le baiser de Judas. Pour quelques deniers il a livré le Christ aux Juifs. V/ Il eût mieux valu pour lui qu’il ne fût pas né !
 /stt/Leçon 6
 /tralett/C[NJ]AR j'ai vu dans la cité injustice et révolte," Contemple la gloire de la croix! Voici que déjà elle orne le diadème des rois, cette croix que ses ennemis couvraient d'insultes! C'est la preuve de sa puissance: il s'est rendu maître de l'univers, non par le fer, mais par le bois. Le bois de la croix, mais il semblait ignominieux à ses ennemis! Se campant en face d'elle, ils branlaient la tête en disant:"S'il est le Fils de Dieu, qu'il descende de la croix!" Et lui, il étendait les mains vers ce peuple de révoltés sans foi. Et s'il est juste celui qui vit de la foi, celui qui n'a pas la foi est donc injuste. Et l'injuste dont il est parlé, c'est d'être parjure à la foi. Le Seigneur voyait donc dans la cité injustice et révolte,il étendit les mains vers ce peuple de révoltés sans foi. Et malgré tout il en espérait le retour, et disait:  " Mon Père, pardonne-leur: ils ne savent pas ce qu'ils font."

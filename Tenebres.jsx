@@ -352,6 +352,7 @@ function mettreEnFormeTexte(myDocument){//applique les styles de paragraphes ido
     remplacementGrep(" (?=[\\*|†])","~s");
     remplacementGrep("\\[ae\\]","ǽ");
     remplacementGrep("\\[break\\]","\\n");
+    remplacementGrep("\\[-\\]","tiretcadratin");
     remplacementGrep("\+([\u\l]*)\+","~-$0~-");
     remplacementGrep("\=([\u\l ,:\.]*)\=","~-$0~-");  
 }
