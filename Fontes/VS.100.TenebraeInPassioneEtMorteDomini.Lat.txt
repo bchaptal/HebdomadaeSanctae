@@ -1,5 +1,5 @@
 /tit/Ad Matutinum 
-/tit/Ad Primum Nocturnum
+/tit/In Primo Nocturno
 /lien/partition@Ant. 1___8. G___A@VS.01.Ant.Astiterunt.8G.pdf
 /stit/Psalmus 2
 /lien/partition@VS.02.Ps.02.8G.pdf
@@ -12,7 +12,7 @@
 /ps/Reges eos in virga +fér+rea, * et tamquam vas fíguli con=frínges= +é+os.
 /ps/Et nunc, reges, intel+lé+gite : * erudímini, qui judi=cátis= +tér+ram.
 /ps/Servíte Dómino in ti+mó+re : * et exsultáte ei =cum tre=+mó+re.
-/ps/Apprehéndite disciplínam, nequándo irascátur +Dó+minus, * et pereátis de =via= +jús+ta.
+/ps/Apprehéndite disciplínam, nequándo irascátur +Dó+minus, * et pereátis de =via= +jú+sta.
 /ps/Cum exárserit in brevi ira +é+jus : * beáti omnes qui confí=dunt in= +é+o.
 /rub/A Matutino Feriæ V. in Cena Domini usque ad Nonam Sabbati Sancti, in fine psalmorum, ad omnes Horas, omittitur [Gloria Patri].
 /lien/partition@VS.03.Ant.Astiterunt.Reprise.pdf
@@ -21,7 +21,7 @@
 /lien/partition@VS.05.Ps.21.8G.pdf
 /ps2/Deus meus, clamábo per diem, et non ex+áu+dies : * et nocte, et non ad insipién=tiam= +mí+hi.
 /ps/Tu autem in sancto +há+bitas, * =laus= +Is+raël.
-/ps/In te speravérunt patres +nós+tri : * speravérunt, et libe=rásti= +é+os.
+/ps/In te speravérunt patres +nó+stri : * speravérunt, et libe=rásti= +é+os.
 /ps/Ad te clamavérunt, et salvi +fác+ti sunt : * in te speravérunt, et non =sunt con=+fú+si.
 /ps/Ego autem sum vermis, et non +hó+mo : * oppróbrium hóminum, et abiéc=tio= +plé+bis.
 /ps/Omnes vidéntes me, deri+sé+runt me : * locúti sunt lábiis, et mo=vérunt= +cá+put.
@@ -33,7 +33,7 @@
 /ps/Aperuérunt super me os +sú+um, * sicut leo rápi=ens et= +rú+giens.
 /ps/Sicut aqua ef+fú+sus sum : * et dispérsa sunt ómnia =ossa= +mé+a.
 /ps/Factum est cor meum tamquam cera li+qué+scens * in médio =ventris= +mé+i.
-/ps/Aruit tamquam testa virtus mea, † et lingua mea adh[ae]sit fáucibus +mé+is : * et in púlverem mortis =dedu=+xís+ti me.
+/ps/Aruit tamquam testa virtus mea, † et lingua mea adh[ae]sit fáucibus +mé+is : * et in púlverem mortis =dedu=+xí+sti me.
 /ps/Quóniam circumdedérunt me canes +múl+ti : * concílium malignánti=um ob=+sé+dit me.
 /ps/Fodérunt manus meas et pedes +mé+os : * dinumeravérunt ómnia =ossa= +mé+a.
 /ps/Ipsi vero consideravérunt et inspe+xé+runt me : * divisérunt sibi vestiménta mea, et super vestem meam mi=sérunt= +sór+tem.
@@ -59,7 +59,7 @@
 /ps2/Dóminus protéctor vitæ +mé+æ, * a quo =trepi=+dá+bo ?
 /ps/Dum apprópiant super me no+cén+tes, * ut edant =carnes= +mé+as :
 /ps/Qui tríbulant me inimíci +mé+i, * ipsi infirmáti sunt, et =ceci=+dé+runt.
-/ps/Si consístant advérsum me +cás+tra, * non timé=bit cor= +mé+um.
+/ps/Si consístant advérsum me +cá+stra, * non timé=bit cor= +mé+um.
 /ps/Si exsúrgat advérsum me +pr[ae]+lium, * in hoc e=go spe=+rá+bo.
 /ps/Unam pétii a Dómino, hanc re+quí+ram, * ut inhábitem in domo Dómini ómnibus diébus =vitæ= +mé+æ :
 /ps/Ut vídeam voluptátem +Dó+mini, * et vísitem =templum= +é+jus.
@@ -69,7 +69,7 @@
 /ps/Exáudi, Dómine, vocem meam, qua clamávi +ad+ te : * miserére mei, =et ex=+áu+di me.
 /ps/Tibi dixit cor meum, exquisívit te fácies +mé+a : * fáciem tuam, Dómi=ne, re=+quí+ram.
 /ps/Ne avértas fáciem tuam +a+ me : * ne declínes in ira a =servo= +tú+o.
-/ps/Adiútor meus +és+to : * ne derelínquas me, neque despícias me, Deus, salu=táris= +mé+us.
+/ps/Adiútor meus +é+sto : * ne derelínquas me, neque despícias me, Deus, salu=táris= +mé+us.
 /ps/Quóniam pater meus, et mater mea dereli+qué+runt me : * Dóminus au=tem as=+súmp+sit me.
 /ps/Legem pone mihi, Dómine, in via +tú+a : * et dírige me in sémitam rectam propter ini=mícos= +mé+os.
 /ps/Ne tradíderis me in ánimas tribulánti+um+ me : * quóniam insurrexérunt in me testes iníqui, et mentíta est iní=quitas= +sí+bi.
@@ -77,7 +77,7 @@
 /ps/Exspécta Dóminum, viríliter +a+ge : * et confortétur cor tuum, et sús=tine= +Dó+minum.
 /lien/partition@VS.09.Ant.Insurrexerunt.Reprise.pdf
 /lien/partition@VS.10.Vers.Diviserunt.pdf
-/latin/Pater noster =secreto=.
+/latin/Pater noster =totum secreto=.
 /stit/Lectio 1
 /ref/Lam II, 8-11
 /lien/partition@ ___ ___D@VS.11.Lamentatione.V1.pdf
@@ -90,7 +90,7 @@
 /ref/Lam 3 :1-9
 /lien/partition@ ___ ___A@VS.15.Lamentatione.V3.pdf
 /lien/partition@Resp.___8.___V@VS.16.Resp.VineaMea.8.pdf
-/tit/Ad Secundum Nocturnum
+/tit/In Secundo Nocturno
 /lien/partition@Ant. 1___8. G___V@VS.17.Ant.VimFaciebant.8G.pdf
 /stit/Psalmus 37
 /lien/partition@VS.18.Ps.37.8G.pdf
@@ -122,15 +122,15 @@
 /lien/partition@VS.21.Ps.39.4A.pdf
 /ps2/Et exaudívit =preces= +mé+as : * et edúxit me de lacu misériæ, et =de luto= +fæ+cis.
 /ps/Et státuit super petram =pedes= +mé+os : * et diréxit =gressus= +mé+os.
-/ps/Et immísit in os meum cán=ticum= +nó+vum, * car=men Deo= +nós+tro.
+/ps/Et immísit in os meum cán=ticum= +nó+vum, * car=men Deo= +nó+stro.
 /ps/Vidébunt multi, =et ti=+mé+bunt : * et spe=rábunt in= +Dó+mino.
 /ps/Beátus vir, cujus est nomen Dómi=ni spes= +é+jus : * et non respéxit in vanitátes et in=sánias= +fál+sas.
 /ps/Multa fecísti tu, Dómine, Deus meus, mirabí=lia= +tú+a : * et cogitatiónibus tuis non est qui sí=milis sit= +tí+bi.
 /ps/Annuntiávi =et lo=+cú+tus sum : * multiplicáti =sunt super= +nú+merum.
-/ps/Sacrifícium et oblatiónem =nolu=+ís+ti : * aures autem per=fecísti= +mí+hi.
-/ps/Holocáustum et pro peccáto non =postu=+lás+ti : * tunc di=xi : Ecce,= +vé+nio.
+/ps/Sacrifícium et oblatiónem =nolu=+í+sti : * aures autem per=fecísti= +mí+hi.
+/ps/Holocáustum et pro peccáto non =postu=+lá+sti : * tunc di=xi : Ecce,= +vé+nio.
 /ps/In cápite libri scriptum est de me ut fácerem volun=tátem= +tú+am : * Deus meus, vólui, et legem tuam in médi=o cordis= +mé+i.
-/ps/Annuntiávi justítiam tuam in ecclé=sia= +má+gna, * ecce, lábia mea non prohibébo : Dó=mine, tu= +scís+ti.
+/ps/Annuntiávi justítiam tuam in ecclé=sia= +má+gna, * ecce, lábia mea non prohibébo : Dó=mine, tu= +scí+sti.
 /ps/Justítiam tuam non abscóndi in =corde= +mé+o : * veritátem tuam et salutá=re tuum= +dí+xi.
 /ps/Non abscóndi misericórdiam tuam et veri=tátem= +tú+am * a con=cílio= +múl+to.
 /ps/Tu autem, Dómine, ne longe fácias miseratiónes =tuas= +a+ me : * misericórdia tua et véritas tua sem=per susce=+pé+runt me.
@@ -155,7 +155,7 @@
 /ps/Quóniam ex omni tribulatióne e=ripu=+í+sti me : * et super inimícos meos despéxit =óculus= +mé+us.
 /lien/partition@VS.25.Ant.AlieniInsurrexerunt.Reprise.pdf
 /lien/partition@VS.26.Vers.Insurrexerunt.pdf
-/latin/Pater noster =secreto=.
+/latin/Pater noster =totum secreto=.
 /stit/Lectio 4
 /stit/Ex tractátu sancti Augustíni Epíscopi super Psalmos
 /ref/In Psalm 63 ad versum 2
@@ -167,7 +167,7 @@
 /stit/Lectio 6
 /lectio/E[NJ]Xacuérunt tamquam gládjum linguas suas. Non dicant Jud[ae]i : Non occídimus Christum. Etenim proptérea eum dedérunt iúdici Piláto, ut quasi ipsi a morte ejus videréntur immúnes. Nam cum dixísset eis Pilátus : Vos eum occídite : respondérunt, Nobis non licet occídere quemquam. Iniquitátem facínoris sui in judicem hóminem refúndere volébant : sed numquid Deum judicem fallébant ? Quod fecit Pilátus, in eo ipso quod fecit, aliquántum párticeps fuit : sed in comparatióne illórum multo ipse innocéntior. Instítit enim quantum pótuit, ut illum ex eórum mánibus liberáret : nam proptérea flagellátum prodúxit ad eos. Non persequéndo Dóminum flagellávit, sed eórum furóri satisfácere volens : ut vel sic jam mitéscerent, et desínerent velle occídere, cum flagellátum víderent. Fecit et hoc. At ubi perseveravérunt, nostis illum lavísse manus, et dixísse, quod ipse non fecísset, mundum se esse a morte illíus. Fecit tamen. Sed si reus, quia fecit vel invítus : illi innocéntes, qui coëgérunt ut fáceret ? Nullo modo. Sed ille dixit in eum senténtiam, et jussit eum crucifígi, et quasi ipse occídit : et vos, o Jud[ae]i, occídistis. Unde occídistis ? Gládio linguæ : acuístis enim linguas vestras. Et quando percússistis, nisi quando clamástis : Crucifíge, crucifíge ?
 /lien/partition@Resp.___8.___A@VS.29.Resp.AnimamMeam.8.pdf
-/tit/Ad Tertium Nocturnum
+/tit/In Tertio Nocturno
 /lien/partition@Ant. 1___1. f___A@VS.30.Ant.AbInsurgentibus.1f.pdf
 /stit/Psalmus 58
 /lien/partition@VS.30.Ant.AbInsurgentibus.1f.pdf
@@ -237,10 +237,10 @@
 /ps/Numquid adh[ae]ret tibi sedes iniqui+tá+tis : * qui fingis labórem =in præ=+cé+pto ?
 /ps/Captábunt in ánimam +jú+sti : * et sánguinem innocéntem =condem=+ná+bunt.
 /ps/Et factus est mihi Dóminus in re+fú+gium : * et Deus meus in adjutórium =spei= +mé+æ.
-/ps/Et reddet illis iniquitátem ipsórum : et in malítia eórum dispérdet +é+os : * dispérdet illos Dóminus, =Deus= +nós+ter.
+/ps/Et reddet illis iniquitátem ipsórum : et in malítia eórum dispérdet +é+os : * dispérdet illos Dóminus, =Deus= +nó+ster.
 /lien/partition@VS.38.Ant.Captabunt.Reprise.pdf
 /lien/partition@VS.39.Vers.LocutiSunt.pdf
-/latin/Pater noster =secreto=.
+/latin/Pater noster =totum secreto=.
 /stit/Lectio 7
 /stit/De Epístola beáti Pauli Apóstoli ad Hebr[ae]os
 /ref/Heb. IV, 11-15
@@ -263,7 +263,7 @@
 /ps/Quóniam iniquitátem meam +é+go co+gnós+co : * et peccátum meum contra +me+ est +sém+per.
 /ps/Tibi soli peccávi, et malum +có+ram te +fé+ci : * ut justificéris in sermónibus tuis, et vincas cum +jú+di+cá+ris.
 /ps/Ecce enim, in iniquitáti+bus+ con+cép+tus sum : * et in peccátis concépit me +má+ter +mé+a.
-/ps/Ecce enim, veritátem +di+le+xís+ti : * incérta et occúlta sapiéntiæ tuæ manifes+tás+ti +mí+hi.
+/ps/Ecce enim, veritátem +di+le+xí+sti : * incérta et occúlta sapiéntiæ tuæ manife+stá+sti +mí+hi.
 /ps/Aspérges me hyssópo, +et+ mun+dá+bor : * lavábis me, et super nivem +de+al+bá+bor.
 /ps/Audítui meo dabis gáudjum +et+ læ+tí+tiam : * et exsultábunt ossa hu+mí+li+á+ta.
 /ps/Avérte fáciem tuam a pec+cá+tis +mé+is : * et omnes iniquitátes +mé+as +dé+le.
@@ -271,12 +271,12 @@
 /ps/Ne proícias me a +fá+cie +tú+a : * et spíritum sanctum tuum ne +áu+feras +a+ me.
 /ps/Redde mihi lætítiam salu+tá+ris +tú+i : * et spíritu princi+pá+li con+fír+ma me.
 /ps/Docébo iníquos +ví+as +tú+as : * et ímpii ad te +cón+ver+tén+tur.
-/ps/Líbera me de sanguínibus, Deus, Deus sa+lú+tis +mé+æ : * et exsultábit lingua mea jus+tí+tiam +tú+am.
+/ps/Líbera me de sanguínibus, Deus, Deus sa+lú+tis +mé+æ : * et exsultábit lingua mea ju+stí+tiam +tú+am.
 /ps/Dómine, lábia +mé+a a+pé+ries : * et os meum annuntiábit +láu+dem +tú+am.
 /ps/Quóniam si voluísses sacrifícium, de+dís+sem +ú+tique : * holocáustis non +de+lec+tá+beris.
 /ps/Sacrifícium Deo spíritus con+tri+bu+lá+tus : * cor contrítum, et humiliátum, Deus, +non+ des+pí+cies.
 /ps/Benígne fac, Dómine, in bona voluntáte +tú+a +Sí+on : * ut ædificéntur +mú+ri Je+rú+salem.
-/ps/Tunc acceptábis sacrifícium justítiæ, oblatiónes, et +ho+lo+cáus+ta : * tunc impónent super altáre +tú+um +ví+tulos.
+/ps/Tunc acceptábis sacrifícium justítiæ, oblatiónes, et +ho+lo+cáu+sta : * tunc impónent super altáre +tú+um +ví+tulos.
 /lien/partition@VS.45.Ant.Proprio.Reprise.pdf
 /lien/partition@Ant. 2___4. E___A@VS.46.Ant.Anxiatus.4E.pdf
 /stit/Psalmus 142
@@ -300,13 +300,13 @@
 /lien/partition@VS.50.Ps.84.1f.pdf
 /ps2/Remisísti iniquitátem +plé+bis +tú+æ : * operuísti ómnia peccá=ta e=+ó+rum.
 /ps/Mitigásti omnem +í+ram +tú+am : * avertísti ab ira indignati=ónis= +tú+æ.
-/ps/Convérte nos, Deus, salu+tá+ris +nós+ter : * et avérte iram tu=am a= +nó+bis.
+/ps/Convérte nos, Deus, salu+tá+ris +nó+ster : * et avérte iram tu=am a= +nó+bis.
 /ps/Numquid in ætérnum ira+scé+ris +nó+bis ? * aut exténdes iram tuam a generatióne in gene=rati=+ó+nem ?
 /ps/Deus, tu convérsus vi+vi+fi+cá+bis nos : * et plebs tua lætá=bitur= +in+ te.
 /ps/Osténde nobis, Dómine, miseri+cór+diam +tú+am : * et salutáre tu=um da= +nó+bis.
 /ps/Audiam quid loquátur in me +Dó+minus +Dé+us : * quóniam loquétur pacem in =plebem= +sú+am.
 /ps/Et super +sánc+tos +sú+os : * et in eos, qui conver=túntur= +ad+ cor.
-/ps/Verúmtamen prope timéntes eum salu+tá+re ip+sí+us : * ut inhábitet glória in =terra= +nós+tra.
+/ps/Verúmtamen prope timéntes eum salu+tá+re ip+sí+us : * ut inhábitet glória in =terra= +nó+stra.
 /ps/Misericórdia, et véritas obvia+vé+runt +sí+bi : * justítia, et pax =oscu=+lá+tæ sunt.
 /ps/Véritas de +tér+ra +ór+ta est : * et justítia de cæ=lo pros=+pé+xit.
 /ps/Étenim Dóminus dabit be+ni+gni+tá+tem : * et terra nostra dabit =fructum= +sú+um.
@@ -318,7 +318,7 @@
 /lien/partition@VS.53.Cant.Habacuc.1f.pdf
 /ps2/Dómine, +ó+pus +tú+um, * in médio annórum vivífica +íl+lud :
 /ps/In médio annórum +nó+tum +fá+cies : * cum irátus fúeris, misericórdiæ recor+dá+beris.
-/ps/Deus ab +Aus+tro +vé+niet, * et sanctus de monte +Phá+ran :
+/ps/Deus ab +Au+stro +vé+niet, * et sanctus de monte +Phá+ran :
 /ps/Opéruit cælos +gló+ria +é+jus : * et laudis ejus plena est +tér+ra.
 /ps/Splendor ejus +ut+ lux +é+rit : * córnua in mánibus +é+jus :
 /ps/Ibi abscóndita est forti+tú+do +é+jus : * ante fáciem ejus +í+bit mors.
@@ -340,7 +340,7 @@
 /ps/Viam fecísti in mari +é+quis +tú+is, * in luto aquárum mul+tá+rum.
 /ps/Audívi, et conturbátus est +vén+ter +mé+us : * a voce contremuérunt lábia +mé+a.
 /ps/Ingrediátur putrédo in +ós+sibus +mé+is, * et subter me +scá+teat.
-/ps/Ut requiéscam in die tribu+la+ti+ó+nis : * ut ascéndam ad pópulum accínctum +nós+trum.
+/ps/Ut requiéscam in die tribu+la+ti+ó+nis : * ut ascéndam ad pópulum accínctum +nó+strum.
 /ps/Ficus enim +non+ flo+ré+bit : * et non erit germen in +ví+neis.
 /ps/Mentiétur +ó+pus o+lí+væ : * et arva non áfferent +cí+bum.
 /ps/Abscindétur de o+ví+li +pé+cus : * et non erit arméntum in præ+sé+pibus.
@@ -367,18 +367,18 @@
 /lien/partition@VS.60.Cant.Benedictus.1g.pdf
 /ps2/Et eréxit cornu =salútis= +nó+bis : * in domo David, pú=eri= +sú+i.
 /ps/Sicut locútus est =per os sanc=+tó+rum, * qui a s[ae]culo sunt, prophe=tárum= +é+jus :
-/ps/Salútem ex i=nimícis= +nós+tris, * et de manu ómnium, =qui o=+dé+runt nos.
-/ps/Ad faciéndam misericórdiam cum =pátribus= +nós+tris : * et memorári testaménti =sui= +sánc+ti.
-/ps/Jusiurándum, quod jurávit ad Ábra=ham patrem= +nós+trum, * datú=rum se= +nó+bis :
+/ps/Salútem ex i=nimícis= +nó+stris, * et de manu ómnium, =qui o=+dé+runt nos.
+/ps/Ad faciéndam misericórdiam cum =pátribus= +nó+stris : * et memorári testaménti =sui= +sánc+ti.
+/ps/Jusiurándum, quod jurávit ad Ábra=ham patrem= +nó+strum, * datú=rum se= +nó+bis :
 /ps/Ut sine timóre, de manu inimicórum nostró=rum libe=+rá+ti, * servi=ámus= +íl+li.
-/ps/In sanctitáte, et justíti=a coram= +íp+so, * ómnibus di=ébus= +nós+tris.
+/ps/In sanctitáte, et justíti=a coram= +íp+so, * ómnibus di=ébus= +nó+stris.
 /ps/Et tu, puer, Prophéta Altís=simi vo=+cá+beris : * præíbis enim ante fáciem Dómini, paráre =vias= +é+jus :
 /ps/Ad dandam sciéntiam salú=tis plebi= +é+jus : * in remissiónem peccatórum =eó=+rum :
-/ps/Per víscera misericórdi=æ Dei= +nós+tri : * in quibus visitávit nos, óri=ens ex= +ál+to :
+/ps/Per víscera misericórdi=æ Dei= +nó+stri : * in quibus visitávit nos, óri=ens ex= +ál+to :
 /ps/Illumináre his, qui in ténebris, et in um=bra mortis= +sé+dent : * ad dirigéndos pedes nostros in =viam= +pá+cis.
 /lien/partition@VS.61.Ant.Posuerunt.Reprise.pdf
 /lien/partition@Ant.___5.___C@VS.62.Ant.ChristusFactusEst.pdf
-/latin/Pater noster =secreto=.
+/latin/Pater noster =totum secreto=.
 /stit/Oratio
 /lectio/R[NJ]Espice, qu[ae]sumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum :
 /rub/Et sub silentio concluditur :
