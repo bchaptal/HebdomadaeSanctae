@@ -8,4 +8,9 @@ centering-scheme: latin;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 2;%%
-(c4)1.( ) Dó(h)mi(gh)nus(h) il(h)lu(h)mi(h)ná(h)ti(h)o(h) mé(h)a,(h) et(h) <i>sa</i>(g)<i>lus</i>(h) <b>me</b>(i hr)a,(h.) <v>\greheightstar</v>(:) quem(h) <i>ti</i>(ih gr)<b>mé</b>(gf)bo ?(e.) (::)
+(c4)
+1.( )Dó(h)mi(gh)nus(h) il(h)lu(h)mi(h)ná(h)ti(h)o(h) mé(h)a,(h) et(h) <i>sá</i>(g)<i>lus</i>(h) <b>mé</b>(i hr)a,(h.) <v>\greheightstar</v>(:)quem(h) <i>ti</i>(ih gr[ocb:1{])<b>mé</b>(gf[ocb:0}])bo ?(e.)
+<sp>V/</sp>(::)
+2.()
+<v>\greheightstar</v>()
+a(h) <i>quo</i>(g) <i>tre</i>(h)<i>pi</i>(ih gr[ocb:1{])<b>dá</b>(gf[ocb:0}])bo ?(e.) (::)

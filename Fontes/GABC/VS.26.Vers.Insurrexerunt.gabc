@@ -1,9 +1,15 @@
 office-part: Versus;
 transcriber: Baudouin Chaptal;
+initial-style: 0;
 %fontsize: 12;
 %spacing: vichi;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 2;
-initial-style: 0;%%
-(c4) <sp>V/</sp>( ) In(h)sur(h)re(h)xé(h)runt(h) in(h) me(h) tés(i)tes(h) in(h)í(g.)qui.(g.) (::) (Z) <sp>R/</sp>( ) Et(h) men(h)tí(h)ta(h) est(h) in(h)í(i)qui(h)tas(h) sí(g.)bi.(g.) (::)
+%%
+(c4)
+<sp>V/</sp>( )
+In(h)sur(h)re(h)xé(h)runt(h) in(h) me(h) tés(i)tes(h) in(h)í(g.)qui.(g.) (::)
+(Z)
+<sp>R/</sp>( )
+Et(h) men(h)tí(h)ta(h) est(h) in(h)í(i)qui(h)tas(h) sí(g.)bi.(g.) (::)

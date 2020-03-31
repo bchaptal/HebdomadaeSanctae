@@ -9,14 +9,14 @@ function mySetup(){
     myDocument = app.documents.add();
     //Set the measurement units on mm
     with(myDocument.viewPreferences){
-    	horizontalMeasurementUnits = MeasurementUnits.millimeters;
-    	verticalMeasurementUnits = MeasurementUnits.millimeters;
+    	horizontalMeasurementUnits = MeasurementUnits.inches;
+    	verticalMeasurementUnits = MeasurementUnits.inches;
         rulerOrigin = RulerOrigin.pageOrigin;
     }
     //Setup the document
     with(myDocument.documentPreferences){
-    	pageHeight = 210
-    	pageWidth = 148
+    	pageHeight = 5.5
+    	pageWidth = 7.1875
     	facingPages = true;
     	pageOrientation = PageOrientation.portrait;
     }
@@ -145,7 +145,7 @@ function creerGabarits(myDocument){//Creation des gabarits
         enormeTitre.name = "Enorme Titre";
         enormeTitre.variableOptions.deleteEndPunctuation = true;
         enormeTitre.variableOptions.changeCase = ChangeCaseOptions.LOWERCASE;
-        enormeTitre.variableOptions.appliedParagraphStyle = "09_ENORME_TIT";
+        enormeTitre.variableOptions.appliedParagraphStyle = "enrmtit";
         enormeTitre.variableOptions.searchStrategy = SearchStrategies.LAST_ON_PAGE;
         //:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
         titreCourant = myDocument.textVariables.add();
@@ -153,7 +153,7 @@ function creerGabarits(myDocument){//Creation des gabarits
         titreCourant.name = "Titre Courant";
         titreCourant.variableOptions.deleteEndPunctuation = true;
         titreCourant.variableOptions.changeCase = ChangeCaseOptions.LOWERCASE;
-        titreCourant.variableOptions.appliedParagraphStyle = "19_TIT";
+        titreCourant.variableOptions.appliedParagraphStyle = "tit";
         titreCourant.variableOptions.searchStrategy = SearchStrategies.LAST_ON_PAGE;
         titreCourant.variableOptions.textBefore = " \u2022 ";
         //::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -174,27 +174,27 @@ function creerGabarits(myDocument){//Creation des gabarits
     		with(marginPreferences){
     			columnCount = 1;
     			columnGutter = "0";
-    			bottom = 15
+    			bottom = 0.625
     			//"left" means inside; "right" means outside.
-    			left = 10
-    			right = 15
-    			top = 15
+    			left = 0.5
+    			right = 0.75
+    			top = 0.5625
     		}
 
     		with(textFrames.add(myDocument.layers.item("Calque 1"))){//Add page number.
-    			geometricBounds = [10,15,5,25];
+    			geometricBounds = [0.25,0.75,0.4,1.25];
     			insertionPoints.item(0).contents = SpecialCharacters.autoPageNumber;
-    			paragraphs.item(0).justification = Justification.leftAlign;
+    			paragraphs.item(0).appliedParagraphStyle = myDocument.paragraphStyles.item("numleft");
     		}
             with(textFrames.add(myDocument.layers.item("Calque 1"))){//en-tête gauche
                 // a faire: gérer les erreurs lors de la définition du style de paragraphe
-                    geometricBounds = [5,15,10,138];
+                    geometricBounds = [0.25,0.75,0.4,5];
                     insertionPoints.item(0).textVariableInstances.add({associatedTextVariable:titreFichier});
                     myParagraphStyle = myDocument.paragraphStyles.item("00_Gabarit");
                     insertionPoints.item(0).applyParagraphStyle(myParagraphStyle, true);
     		}
             with(graphicLines.add(myDocument.layers.item("Calque 1"))){//ligne en-tête
-                    geometricBounds = [12,15,12,138];
+                    geometricBounds = [0.45,0.75,0.45,5];
                     appliedObjectStyle = myDocument.objectStyles.item("98_ligne_fine");
              }
             }
@@ -202,26 +202,26 @@ function creerGabarits(myDocument){//Creation des gabarits
     		with(marginPreferences){
     			columnCount = 1;
     			columnGutter = "0";
-    			bottom = 15
+    			bottom = 0.625
     			//"left" means inside; "right" means outside.
-    			left = 10
-    			right = 15
-    			top = 15
+    			left = 0.5
+    			right = 0.75
+    			top = 0.5625
     		}		
     		with(textFrames.add(myDocument.layers.item("Calque 1"))){//Add page number.
-    			geometricBounds = [5,123,10,133];
+    			geometricBounds = [0.25,4.25,0.4,4.75];
     			insertionPoints.item(0).contents = SpecialCharacters.autoPageNumber;
-    			paragraphs.item(0).justification = Justification.rightAlign;
+    			paragraphs.item(0).appliedParagraphStyle = myDocument.paragraphStyles.item("numright");
     		}
             with(textFrames.add(myDocument.layers.item("Calque 1"))){//en-tête droit
-                    geometricBounds = [5,10,10,133];
+                    geometricBounds = [0.25,0.5,0.4,4.75];
                     insertionPoints.item(0).textVariableInstances.add({associatedTextVariable:titreCourant});
                     insertionPoints.item(0).textVariableInstances.add({associatedTextVariable:enormeTitre});
                     myParagraphStyle = myDocument.paragraphStyles.item("00_Gabarit");
                     insertionPoints.item(0).applyParagraphStyle(myParagraphStyle, true);
     		}
             with(graphicLines.add(myDocument.layers.item("Calque 1"))){//ligne en-tête
-                    geometricBounds = [12,10,12,133];
+                    geometricBounds = [0.45,0.5,0.45,4.75];
                     appliedObjectStyle = myDocument.objectStyles.item("98_ligne_fine");
              }
     	}
@@ -244,17 +244,17 @@ function creerGabarits(myDocument){//Creation des gabarits
 }
 function creationLivre(langue, nomDocument, bibliotheque){//crée le nombre de documents réclamés en dupliquant le document de base et en fait un livre
         myFolder = Folder.selectDialog( "Choisissez le dossier d'enregistrement" ); 
-        var myBookFileName = myFolder + "/Tenebres.indb";
-        myBookFile = new File( myBookFileName );
-        if ( myBookFile.exists ) {alert("Un livre portant ce nom existe déjà à cet emplacement. Annulation du processus.");exit();}
-        myBook = app.books.add( myBookFile );
+        //var myBookFileName = myFolder + "/Tenebres.indb";
+        //myBookFile = new File( myBookFileName );
+        //if ( myBookFile.exists ) {alert("Un livre portant ce nom existe déjà à cet emplacement. Annulation du processus.");exit();}
+        //myBook = app.books.add( myBookFile );
         var mesDocuments = [];
         for (var i = 0; i < nomDocument.length; i++){
             mySetup();
             var myFile = new File(myFolder + "/" + nomDocument[i] + ".indd");
             if ( myFile.exists ) {alert("Un fichier portant ce nom existe déjà à cet emplacement. Annulation du processus.");exit();}
             monDocumentActif = app.activeDocument.save(myFile);
-            myBook.bookContents.add(myFile);
+            //myBook.bookContents.add(myFile);
             mesDocuments[i] = myFile;
             monDocumentActif.save();
             monDocumentActif.close();
@@ -270,7 +270,7 @@ function creationLivre(langue, nomDocument, bibliotheque){//crée le nombre de d
             monDocumentActif.save();
             //monDocumentActif.close();
         }
-        myBook.save();
+        //myBook.save();
         //myBook.exportFile(ExportFormat.pdfType, File(myFolder + "/ExportPDF.pdf"), false);
 }
 function importerTexte(myDocument,langues,fichierTexte){//importation et placement des fichiers texte pour chaque langue
@@ -281,7 +281,7 @@ function importerTexte(myDocument,langues,fichierTexte){//importation et placeme
         maPage[p] = myDocument.pages.add();//ajout massif de pages au document; seul moyen trouvé jusqu'à présent pour éviter les problèmes d'owerflowing liés au déclage de la mise en page à mesure qu'on ajustera la taille des blocs
         for (langue in langues){
             mesBlocs[langue][p] = maPage[p].textFrames.add(myDocument.layers.item(langues[langue]))
-            mesBlocs[langue][p].geometricBounds = [15,15,195,133];
+            mesBlocs[langue][p].geometricBounds = [0.5625,0.75,6.5625,5];
             if (p > 0){mesBlocs[langue][p].previousTextFrame = mesBlocs[langue][p-1];}
         }
     }
@@ -347,12 +347,13 @@ function mettreEnFormeTexte(myDocument){//applique les styles de paragraphes ido
         app.changeGrepPreferences.changeTo = remplace;
         myDocument.changeGrep();
     }
-    remplacementGrep(" ([:;»!\\?])","~.$1");
+    remplacementGrep("\\[-\\]","~_");
+    remplacementGrep(" ([:;»!\\?~_])","~.$1");
+    remplacementGrep("([«~_]) ","$1~.");
     remplacementGrep("(?<=\\b[vr]) ","~s");
     remplacementGrep(" (?=[\\*|†])","~s");
     remplacementGrep("\\[ae\\]","ǽ");
     remplacementGrep("\\[break\\]","\\n");
-    remplacementGrep("\\[-\\]","tiretcadratin");
     remplacementGrep("\+([\u\l]*)\+","~-$0~-");
     remplacementGrep("\=([\u\l ,:\.]*)\=","~-$0~-");  
 }

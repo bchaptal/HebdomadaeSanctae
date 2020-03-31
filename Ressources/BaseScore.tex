@@ -1,0 +1,150 @@
+% !TEX program = LuaLaTeX+se
+
+% This document produces a pdf containing the score with no margin.
+% It is based on this solution:
+% http://tex.stackexchange.com/questions/291630/best-way-to-know-bottom-line-height-of-a-pdf/291664#291664
+%
+% It contains advanced commands quite difficult to understand, but should be straightforward
+% to adapt to your needs.
+%
+\documentclass[11pt]{article}
+
+\usepackage{gregoriotex}
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+
+
+% COLOR
+
+%\definecolor{myRed}{rgb}{0.8,0.09,0.1} % darker red
+\definecolor{myRed}{rgb}{0.898,0.209,0.173} % same as gregoriocolor (liturgic red)
+% \definecolor{gregoriocolor}{rgb}{0.8,0.09,0.1} % sets another \gregoriocolor value
+
+
+% FONTS
+
+\setmainfont[
+    Ligatures={Common, Rare}, % enables the common and rare ligatures, like ct, st ones.
+    BoldFont=LTCGoudyOldstylePro Bold, % sets default bold
+    BoldItalicFont=LTCGoudyOldstylePro Italic, % sets default italics
+    SmallCapsFont=LTCGoudyOldstylePro, % sets small caps. Here is the same font, because OpenType small caps are used further.
+    SmallCapsFeatures={Letters=SmallCaps}, % sets OpenType small caps
+]{LTCGoudyOldstylePro} % sets Goudy OldStyle by LTC as mainfont
+\newfontfamily\annotation{Fanwood} % rubrics and informations Fanwood style, defined as \annotation for calling.
+\newfontfamily\abovelinetext{Fanwood Italic} % for the text above staff, sets Fanwood style, defined as \abovelinetext for calling.
+\newfontfamily\dropCap{LTC Goudy Initials} % dropcap ornated style, defined as \dropCap for calling. Use this for emphasis score, eg. Introït of class I. day.
+\newfontfamily\dropCapSimple{LTCGoudyOldstylePro Bold} % common dropcap style. Use for other scores.
+\newfontfamily\firstWord[Letters=SmallCaps]{LTCGoudyOldstylePro} % smallcap style
+\newfontfamily\versicle{Versiculum} % versicle custom style
+% \fontspec[Ligatures={Common, Rare}, Numbers={OldStyle}]{LTC Goudy OldStyle Pro} % elzevirian numbers. Don't use in Hymns numbering. Elzevirian is better for inline text, proportionnal is usually the best for counting.
+
+
+% STYLING SCORE
+% default numbers given in this file are set to approach the Liber Usualis formatting. You might use other combinations for other purpose. If you decide to get rid of this, and revert to Gregorio default, you will be back to their own basis, aka Antiphonale Monasticum, which is larger and higher.
+% some parameters may be quite different as Liber Usualis by choice. This is done in order to give a breath to the score, as it is generally not necessary to compact as hard as the latter.
+
+% General
+\grechangestafflinethickness{26} % fontsize*2*scaleFactor (see WIDTH. scaleFactor may be used for next operations. NB: Those are experimentations and not deeply tested). Use 26 by default.
+\grechangestaffsize{15} % fontsize*1.45 to 1.6. Use 15 by default.
+\gresetlyriccentering{#1} % places the syllable at the beginning of its neume {#1} (default) or centers it {syllable} (litany style)
+\gresetlinecolor{myRed} % colors the staff lines. Comment to revert to black.
+\grechangedim{baselineskip}{48pt}{scalable} % staffsize*3.2 space between staffs. Use 48pt by default.
+% \grechangedim{spacelinestext}{15pt}{scalable} % fontsize*1.33 space between the lines and the bottom of the text. This is for special purpose, usually you don't need it.
+
+\grechangestyle{highchoralsign}{\cminfamily\small} % You may never use it.
+\grechangestyle{lowchoralsign}{\cminfamily\small} % Neither this one.
+\grechangestyle{abovelinestext}{\color{myRed}\abovelinetext\fontsize{10pt}{10pt}\selectfont} % Styles the rubrics anchored above the staff
+\grechangedim{abovelinestextheight}{6mm}{scalable} % increases the space between above line text and staff above. Use 6mm by default.
+\grechangedim{abovelinestextraise}{-2mm}{scalable} % places the above line text a little behind the normal position. Use -2mm by default.
+% You might change these 2 values if the notes come too high in the staff.
+
+
+
+% Little automation for custom inline rubrics. Use the characters in the first braces in your GABC, inside <sp></sp> tag.
+\gresetspecial{v.}{{\color{myRed}\versicle\selectfont v}} % versicle
+\gresetspecial{r.}{{\color{myRed}\versicle\selectfont r}} % reponse
+\gresetspecial{a.}{{\color{myRed}\versicle\selectfont a}} % all
+\gresetspecial{ps.}{{\color{myRed}\itshape Ps.}} % psalm
+\gresetspecial{tp.}{{\color{myRed}\itshape T.\,P.}} % easter time
+\gresetspecial{ij.}{{\color{myRed}\itshape ij.}} % repeat twice
+\gresetspecial{iij.}{{\color{myRed}\itshape iij.}} % repeat three times
+\gresetspecial{tsp}{\,} % thin space for two elements punctuation
+\gresetspecial{flx}{{\color{myRed}\itshape Flexa}} % flex
+\def\GreStar{\greheightstar} % star with 8 branches. Would you really want a 6 one? Comment to avoid.
+\def\GreCross{\grealtcross} % alternative cross (nicer). Yes. Really. But if you don't agree, comment.
+
+
+% INITIALS
+% Comment initial styles to have a regular, simple, basic, with no charm score. I'm kidding, this is very useful for repeated Antiphon, or psalmody.
+
+% Ornated initial. Use for emphasis.
+% \grechangestyle{initial}{\color{myRed}\dropCap\fontsize{52pt}{52pt}\selectfont} % fontsize*4.7. Use 52pt by default.
+% \grechangedim{initialraise}{3mm}{scalable} % Places the initial with nice precision for the Goudy Initial font. Use 3mm by default.
+% \grechangedim{beforeinitialshift}{-0.35mm}{fixed} % Avoid little blank before the grand initial. Use -0.35mm by default.
+
+% Common initial. Use for everyday score.
+% Switch with Ornated initial or comment both to not have any dropcap.
+\grechangestyle{initial}{\color{myRed}\dropCapSimple\fontsize{32pt}{32pt}\selectfont} % staffsize*2.1. Use 32pt by default.
+
+% Compose first word in small caps
+\grechangestyle{firstword}{\firstWord}
+
+
+% HEADERS of GABC
+
+% Uncomment to print.
+\gresetheadercapture{date}{grecommentary}{string} % date printed in upper right corner
+\gresetheadercapture{annotation1}{greannotation}{string} % upper line above dropcap
+\gresetheadercapture{annotation2}{greannotation}{string} % lower line above dropcap
+% Well, if you want more, it may be better to do it later in the file, not in the GABC. Keep in mind that the GABC must be shared and read by anyone.
+
+
+% FINE TUNING SCORE
+% These are the parameters you always need to know, and usually want to change. They allow you to adjust the formatting with 3 main parameters. Use in priority \intersyllablespacenotes, then \interwordspacetext. Modifying all this will affect the number of staff, the auto line breaks, use it to afford the best result for your book design.
+
+\grechangedim{maximumspacewithoutdash}{0.2mm}{fixed} % min distance between syllables when a dash is required. Use 0.2mm by default. This is usually not necessary to modify, however, if you need a very slight adjustment, it can help.
+% \grechangedim{interwordspacetext}{1mm}{scalable} % space between words. Comment by default. 1mm is narrow, 2mm is wide. Use steps of 0.1mm.
+\grechangedim{intersyllablespacenotes}{3mm}{scalable} % fontsize*0.15 to 0.3. Space between notes on distincts syllables. It may be used to get a similar result of the original book score or adjust auto hyphenation. Use 3mm by default. Steps of 0.25mm or 0.1mm for finer results.
+
+% Annotation
+\grechangestyle{annotation}{\annotation\bfseries\fontsize{10pt}{10pt}\selectfont} % fontsize*0.8 to 1
+% Change here the position of office part and mode in height, over the initial
+\grechangedim{annotationraise}{0mm}{scalable} % Use 0mm by default for 2 lines annotation, and -2mm for just a versicle sign.
+
+
+% SCORE FRAME
+
+% Do not load geometry, fullpage, or any package changing width or margins. These parameters will allow to get a score with no margin, by defining the page attributes on the score ones.
+\hoffset-1in
+\voffset-1in
+\newbox\scorebox
+
+
+% DOCUMENT
+% You get it. Here is where the score really begins.
+
+\begin{document}
+
+
+% WIDTH
+% Use scaleFactor = 1.1 for a Liber Usualis alike score, based on the other default settings given above. If you change the scaleFactor, you may change the STYLING SCORE values and others. Happy nightmare ;)
+% Use your actual size*scaleFactor to set \hsize
+
+% Printing is traditionnally set in inches.
+\setbox\scorebox=\vbox{\hsize=3.6in\relax % change the width of the score here.
+% Change the width in order to scale the score.
+% Memo. Real width needed for nested booklet in Liber Usualis: 3.25in. Factor 1.1
+	
+	% \greannotation{{\color{myRed}\versicle\selectfont v}} % custom annotation above initial. This one is for red versicle sign.
+	\greannotation{Ad Magnif.} % custom annotation. Don't forget to comment the GABC ones (See HEADERS of GABC)
+	\greannotation{Ant. 1. D\textsuperscript{2}} % custom annotation. Awesome superscript enabled.
+	\gregorioscore[a]{JS.11.Lamentatione.G1} % place GABC score name here. Yes. You did it. Finally. Congrats. Place to the fight. Or not.
+}
+
+% Set page dimensions
+\pagewidth\wd\scorebox
+\pageheight\dimexpr\ht\scorebox+\dp\scorebox\relax
+\shipout\box\scorebox
+
+% This is the end. Hold your breath and... wait.
+\end{document}

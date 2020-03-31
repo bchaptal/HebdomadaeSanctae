@@ -1,12 +1,16 @@
 ﻿office-part: Psalmus;
 transcriber: Baudouin Chaptal;
+initial-style: 0;
 %annotation: 8G;
 %fontsize: 12;
 %spacing: vichi;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
 %height: 2;
-initial-style: 0;%%
-(c4) 1.( ) Dó(g)mi(h)ne,(j) ne(j) in(j) fu(j)ró(j)re(j) tú(j)o(j) ár(j)gu(j)<b>as</b>(k jr) me,(j.) <v>\greheightstar</v>(:)
-né(j)que(j) in(j) í(j)ra(j) tú(j)a(j) cor(j)<i>rí</i>(i)<i>pi</i>(j)<b>as</b>(h) me.(g.) (::)
-<i>Fle</i>()<i>xa</i>() :() con(j)tur(j)bá(j)tum(hr) est,(h.) +(j j j) (::)
+%%
+(c4)
+1.( )
+Dó(g)mi(h)ne,(j) ne(j//) in(j) fu(j)ró(j)re(j) tú(j)o(j//) ár(j)gu(j)<b>as</b>(k jr) me,(j.) <v>\greheightstar</v>(:)
+né(j)que(j//) in(j) í(j)ra(j) tú(j)a(j) cor(j)<i>rí</i>(i)<i>pi</i>(j)<b>as</b>(h gr) me.(g.) (::)
+<i>Flexa :</i>()
+con(j)tur(j)bá(j)tum(hr) est,(h. ) +(j j j) (::)
