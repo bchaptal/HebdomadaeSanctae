@@ -1,223 +1,318 @@
-ï»¿/tra/Ant. Dans la paix tout aussitÃ´t, je me couche et je mâ€™endors.
-/com/Le premier Psaume (4) est un de ceux que lâ€™Ã‰glise emploie chaque jour dans lâ€™Office des Complies, parce quâ€™il exprime la confiance avec laquelle Le chrÃ©tien se livre au sommeil. Aujourdâ€™hui il est destinÃ© Ã  rappeler le repos du Christ dans le sÃ©pulcre, oÃ¹ il dort assurÃ© de son prochain rÃ©veil.
+/tra/Ant. Dans la paix tout aussitôt, je me couche et je m’endors.
+/com/Le premier Psaume (4) est un de ceux que l’Église emploie chaque jour dans l’Office des Complies, parce qu’il exprime la confiance avec laquelle Le chrétien se livre au sommeil. Aujourd’hui il est destiné à rappeler le repos du Christ dans le sépulcre, où il dort assuré de son prochain réveil.
 /sttps/Psaume 4
-/pst1/Lorsque je lâ€™ai invoquÃ©, le Dieu de ma justice mâ€™a exaucÃ© ; * Vous mâ€™avez mis au large dans la tribulation. Ayez pitiÃ© de moi, * et exaucez ma priÃ¨re.
-/pst/Enfants des hommes, jusques Ã  quand aurez-vous le cÅ“ur appesanti ? * Pourquoi aimez-vous la vanitÃ©, et cherchez-vous le mensonge ?
-/pst/Sachez donc que le Seigneur a merveilleusement glorifiÃ© son Saint. * Le Seigneur mâ€™exaucera quand jâ€™aurai criÃ© vers lui.
-/pst/Irritez-vous, mais ne pÃ©chez point. * Ce que vous dites contre moi au fond de vos cÅ“urs, rÃ©pÃ©tez-le avec componction sur vos couches.
-/pst/Offrez un sacrifice de justice, et espÃ©rez au Seigneur. * Beaucoup disent : Qui nous fera voir le bonheur ?
-/pst/La lumiÃ¨re de votre visage est gravÃ©e sur nous, Seigneur ; * Vous avez mis la joie dans mon cÅ“ur.
-/pst/Ils se sont multipliÃ©s * par lâ€™abondance de leur froment, de leur vin et de leur huile.
-/pst/Et moi je dormirai et me reposerai en paix ;*
-/pst/parce que vous, Seigneur, * mâ€™avez affermi dans une espÃ©rance singuliÃ¨re.
-/tra/Ant. Dans la paix tout aussitÃ´t, je me couche et je mâ€™endors.
-/tra/Ant. Il sÃ©journera sous ta tente, il reposera sur ta sainte montagne.
-/com/Le deuxiÃ¨me Psaume (14) cÃ©lÃ¨bre le bonheur rÃ©servÃ© Ã  lâ€™homme juste, et le repos qui sera sa rÃ©compense, aprÃ¨s son labeur. Lâ€™Ã‰glise en fait lâ€™application au Christ, le Juste par excellence, qui a passÃ© en faisant le bien.
+/pst1/Lorsque je l’ai invoqué, le Dieu de ma justice m’a exaucé ; * vous m’avez mis au large dans la tribulation.
+/pst/Ayez pitié de moi, * et exaucez ma prière.
+/pst/Enfants des hommes, jusques à quand aurez-vous le cœur appesanti ? * Pourquoi aimez-vous la vanité, et cherchez-vous le mensonge ?
+/pst/Sachez donc que le Seigneur a merveilleusement glorifié son Saint. * Le Seigneur m’exaucera quand j’aurai crié vers lui.
+/pst/Irritez-vous, mais ne péchez point. * Ce que vous dites contre moi au fond de vos cœurs, répétez-le avec componction sur vos couches.
+/pst/Offrez un sacrifice de justice, et espérez au Seigneur. * Beaucoup disent : Qui nous fera voir le bonheur ?
+/pst/La lumière de votre visage est gravée sur nous, Seigneur ; * vous avez mis la joie dans mon cœur.
+/pst/Ils se sont multipliés * par l’abondance de leur froment, de leur vin et de leur huile.
+/pst/Et moi je dormirai * et me reposerai en paix.
+/pst/Parce que vous, Seigneur, * m’avez affermi dans une espérance singulière.
+/tra/Ant. Dans la paix tout aussitôt, je me couche et je m’endors.
+/tra/Ant. Il séjournera sous votre tente, il reposera sur votre sainte montagne.
+/com/Le deuxième Psaume (14) célèbre le bonheur réservé à l’homme juste, et le repos qui sera sa récompense, après son labeur. L’Église en fait l’application au Christ, le Juste par excellence, qui a passé en faisant le bien.
 /sttps/Psaume 14
 /pst1/Seigneur, qui habitera dans votre tabernacle ? * ou qui reposera sur votre montagne sainte ?
 /pst/Celui qui vit sans tache, * et qui pratique la justice ;
-/pst/qui dit la vÃ©ritÃ© dans son cÅ“ur ; * qui nâ€™a point usÃ© de tromperie dans ses paroles ; qui nâ€™a pas fait de mal Ã  son prochain, * et qui nâ€™a point accueilli de calomnie contre ses frÃ¨res.
-/pst/Le mÃ©chant est comptÃ© pour rien Ã  ses yeux ; * mais il honore ceux qui craignent le Seigneur. Il fait serment Ã  son prochain et ne le trompe pas ;*
-/pst/il ne donne point son argent Ã  usure, et ne reÃ§oit pas de prÃ©sents contre lâ€™innocent. Celui qui se conduit ainsi * ne sera jamais Ã©branlÃ©.
-/tra/Ant. Il sÃ©journera sous ta tente, il reposera sur ta sainte montagne.
-/tra/Ant. Ma chair reposera dans lâ€™espÃ©rance.
-/com/Le troisiÃ¨me Psaume (15), composÃ© par David, durant son exil, au temps de Saul, est une prophÃ©tie de la rÃ©surrection du Messie ; et il fut citÃ©, en cette qualitÃ©, aux Juifs par saint Pierre, le jour de la PentecÃ´te. Celui qui parle dans ce divin Cantique dit que sa chair reposera dans lâ€™espÃ©rance, et que le Seigneur ne lui laissera point Ã©prouver la corruption du tombeau. Ces circonstances, qui ne se vÃ©rifient pas en David, nâ€™ont rapport quâ€™au Christ.
+/pst/Qui dit la vérité dans son cœur ; * qui n’a point usé de tromperie dans ses paroles ;
+/pst/Qui n’a pas fait de mal à son prochain, * et qui n’a point accueilli de calomnie contre ses frères.
+/pst/Le méchant est compté pour rien à ses yeux ; * mais il honore ceux qui craignent le Seigneur.
+/pst/Il fait serment à son prochain et ne le trompe pas ; * il ne donne point son argent à usure, et ne reçoit pas de présents contre l’innocent.
+/pst/Celui qui se conduit ainsi * ne sera jamais ébranlé.
+/tra/Ant. Il séjournera sous votre tente, il reposera sur votre sainte montagne.
+/tra/Ant. Ma chair reposera dans l’espérance.
+/com/Le troisième Psaume (15), composé par David, durant son exil, au temps de Saul, est une prophétie de la résurrection du Messie ; et il fut cité, en cette qualité, aux Juifs par saint Pierre, le jour de la Pentecôte. Celui qui parle dans ce divin Cantique dit que sa chair reposera dans l’espérance, et que le Seigneur ne lui laissera point éprouver la corruption du tombeau. Ces circonstances, qui ne se vérifient pas en David, n’ont rapport qu’au Christ.
 /sttps/Psaume 15
-/pst1/Conservez-moi, Seigneur, car jâ€™ai espÃ©rÃ© en vous.*
-/pst/Jâ€™ai dit au Seigneur : Vous Ãªtes mon Dieu, et vous nâ€™avez nul besoin de mes biens.
-/pst/Il a fait Ã©clater toutes mes dispositions bienveillantes envers les Saints * qui sont sur sa terre.
-/pst/Leurs infirmitÃ©s se sont multipliÃ©es, * et ensuite ils ont couru avec vitesse. Je ne les rÃ©unirai point dans des assemblÃ©es de sang, * et je ne me souviendrai plus de leurs noms pour les prononcer.
-/pst/Le Seigneur est la part de mon hÃ©ritage et de ma coupe ; * câ€™est vous, Seigneur, qui me rendrez mon hÃ©ritage.
-/pst/Le cordeau est tombÃ© pour moi en des lieux magnifiques, * car mon hÃ©ritage est excellent.
-/pst/Je bÃ©nirai le Seigneur qui mâ€™a donnÃ© lâ€™intelligence ; * de plus, jusque dans la nuit mÃªme mes reins mâ€™y ont excitÃ©.
-/pst/Je prenais soin dâ€™avoir toujours le Seigneur devant mes yeux ; * car il est Ã  ma droite, pour que je ne sois pas Ã©branlÃ©.
-/pst/Câ€™est pourquoi mon cÅ“ur sâ€™est rÃ©joui, et ma langue a tressailli dâ€™allÃ©gresse ; * de plus, ma chair mÃªme se reposera dans lâ€™espÃ©rance.
-/pst/Car vous nâ€™abandonnerez pas mon Ã¢me dans lâ€™enfer, * et vous ne souffrirez pas que votre Saint voie la corruption.
-/pst/Vous mâ€™avez fait connaÃ®tre les voies de la vie ; vous me comblerez de joie par votre visage : * il y a des dÃ©lices sans fin Ã  votre droite.
-/tra/Ant. Ma chair reposera dans lâ€™espÃ©rance.
+/pst1/Conservez-moi, Seigneur, car j’ai espéré en vous. J’ai dit au Seigneur : Vous êtes mon Dieu, * et vous n’avez nul besoin de mes biens.
+/pst/Il a fait éclater toutes mes dispositions bienveillantes envers les Saints * qui sont sur sa terre.
+/pst/Leurs infirmités se sont multipliées, * et ensuite ils ont couru avec vitesse.
+/pst/Je ne les réunirai point dans des assemblées de sang, * et je ne me souviendrai plus de leurs noms pour les prononcer.
+/pst/Le Seigneur est la part de mon héritage et de ma coupe ; * c’est vous, Seigneur, qui me rendrez mon héritage.
+/pst/Le cordeau est tombé pour moi en des lieux magnifiques, * car mon héritage est excellent.
+/pst/Je bénirai le Seigneur qui m’a donné l’intelligence ; * de plus, jusque dans la nuit même mes reins m’y ont excité.
+/pst/Je prenais soin d’avoir toujours le Seigneur devant mes yeux ; * car il est à ma droite, pour que je ne sois pas ébranlé.
+/pst/C’est pourquoi mon cœur s’est réjoui, et ma langue a tressailli d’allégresse ; * de plus, ma chair même se reposera dans l’espérance.
+/pst/Car vous n’abandonnerez pas mon âme dans l’enfer, * et vous ne souffrirez pas que votre Saint voie la corruption.
+/pst/Vous m’avez fait connaître les voies de la vie ; vous me comblerez de joie par votre visage : * il y a des délices sans fin à votre droite.
+/tra/Ant. Ma chair reposera dans l’espérance.
 /tra/v En lui dans la paix.
 /tra/r Je m'endors et je me repose.
-/tra/Notre PÃ¨re =(en silence)=
-/com/Les LeÃ§ons du premier Nocturne continuent dâ€™Ãªtre empruntÃ©es aux Lamentations de JÃ©rÃ©mie.
-/com/La premiÃ¨re a rapport au Christ. Elle exprime sa fidÃ©litÃ© Ã  Dieu et sa touchante rÃ©signation. Les soufflets quâ€™il reÃ§ut durant sa Passion, y sont prÃ©dits.
-/stt/LeÃ§on 1[break]LeÃ§on du livre des Lamentations
-/ref/Lam. 3, 22-30
-/tralett/H[NJ]ETH Câ€™est grÃ¢ce aux misÃ©ricordes du Seigneur que nous nâ€™avons pas Ã©tÃ© perdus entiÃ¨rement, parce que ses compassions ne sont pas Ã©puisÃ©es. HETH Elles se renouvellent chaque matin ; votre fidÃ©litÃ© est grande. HETH Le Seigneur est mon partage, a dit mon Ã¢me ; câ€™est pour cela que je lâ€™attendrai. TETH Le Seigneur est bon pour ceux qui espÃ¨rent en lui, pour lâ€™Ã¢me qui le cherche. TETH Il est bon dâ€™attendre en silence le salut de Dieu. TETH Il est bon Ã  lâ€™homme de porter le joug dÃ¨s sa jeunesse. IOD Il sâ€™asseyera solitaire, et il se taira, parce que Dieu a mis ce joug sur lui. IOD Il mettra sa bouche dans la poussiÃ¨re, pour voir sâ€™il y a quelque espÃ©rance. IOD Il tendra la joue Ã  celui qui le frappera, il se rassasiera dâ€™opprobres.
-/com/Si les rÃ©pons du Samedi Saint ressemblent Ã  ceux des jours prÃ©cÃ©dents par leur contexture gÃ©nÃ©rale, la dÃ©licatesse et lâ€™infinie variÃ©tÃ© de leurs nuances, ils nâ€™en diffÃ¨rent pas moins, comme dâ€™ailleurs tout lâ€™Office des TÃ©nÃ¨bres, par leur ethos particulier. Les coeurs ne sont plus oppressÃ©s ; le ton sâ€™est singuliÃ¨rement adouci. Câ€™est une sorte de veillÃ©e funÃ¨bre autour dâ€™un tombeau, oÃ¹ lâ€™on se remÃ©more, dans une atmosphÃ¨re de dÃ©tente et de douceur, certains aspects de la Passion, sa portÃ©e, avec mÃªme quelques allusions Ã  la gloire qui va en rÃ©sulter.
-/com/Câ€™est dans un climat de contemplation trÃ¨s douce et aimante que se dÃ©roule le Sicut ovis, 4e mode dâ€™une ligne simple et sans grand mouvement, en dehors de la montÃ©e mÃ©lodique de la deuxiÃ¨me phrase (et dum male tractarÃ©turâ€¦).
-/tra/Resp. Comme une brebis, on lâ€™a conduit Ã  la mort, et tandis quâ€™on le maltraitait, il nâ€™a pas ouvert la bouche. Il a Ã©tÃ© livrÃ© Ã  la mort pour rendre la vie Ã  son peuple. V/ Il sâ€™est livrÃ© Ã  la mort et on lâ€™a mis au rang des scÃ©lÃ©rats.
-/com/La deuxiÃ¨me LeÃ§on reprend le ton de lâ€™Ã©lÃ©gie sur les malheurs de JÃ©rusalem. La gravitÃ© des crimes de cette citÃ© ingrate y est exprimÃ©e dans les termes les plus Ã©nergiques.
-/stt/LeÃ§on 2
-/ref/Lam. 4, 1-8
-/tralett/A[NJ]LEPH  Comment lâ€™or sâ€™est-il obscurci ? comment sa belle couleur a-t-elle Ã©tÃ© changÃ©e ? comment les pierres du sanctuaire ont-elles Ã©tÃ© dispersÃ©es aux coins de toutes les rues ? BETH  Comment les nobles fils de Sion, couverts de lâ€™or le plus pur, ont-ils Ã©tÃ© regardÃ©s comme des vases de terre, ouvrage des mains du potier ? GHIMEL  Les lamies elles-mÃªmes ont dÃ©couvert leur mamelle, et allaitÃ© leurs petits ; la fille de mon peuple est cruelle comme lâ€™autruche du dÃ©sert. DALETH  La langue du nourrisson sâ€™est attachÃ©e Ã  son palais dans sa soif ; les petits enfants ont demandÃ© du pain, et il nâ€™y avait personne pour leur en donner. HE  Ceux qui se nourrissaient dÃ©licatement sont morts dans les ruues ; ceux qui Ã©taient Ã©levÃ©s dans la pourpre ont embrassÃ© les fumiers. VAU  Lâ€™iniquitÃ© de la fille de mon peuple est devenue plus grande que le pÃ©chÃ© de Sodome, qui fut renversÃ© en un moment, sans que les hommes aient portÃ© la main sur elle. ZAÃ¯N  Ses nazarÃ©ens Ã©taient plus blancs que la neige, plus purs que le lait, plus rouges que lâ€™ivoire antique, plus beaux que le saphir. HETH  Leur visage est plus noir que les charbons, et on ne les a pas reconnus dans les rues ; leur peau est collÃ©e sur leurs os, elle sâ€™est dessÃ©chÃ©e, et elle est devenue comme du bois. 
-/com/Le rÃ©pons Jerusalem surge est un chant de deuil sur la mort du Christ. Lâ€™Ã©lan initial de surge, et le caractÃ¨re un peu tourmentÃ© de in te occÃ­sus, qui est comme un reproche adressÃ© Ã  la ville de JÃ©rusalem, la ville aimÃ©e qui a mis Ã  mort le Sauveur, ne suffisent pas Ã  altÃ©rer la physionomie vraie de cette Ã©lÃ©gie, si angoissÃ©e et si tendre, quasi silencieuse, avec la retenue de ses courbes mÃ©lodiques, lâ€™enveloppement de ses cadences, et jusquâ€™Ã  la duretÃ© apparente du in te occÃ­sus est.
-/tra/Resp. Debout, JÃ©rusalem ! DÃ©pouille tes vÃªtements de fÃªte ; couvre-toi de cendre et dâ€™un cilice ; * Car câ€™est en toi quâ€™a Ã©tÃ© mis Ã  mort le Sauveur dâ€™IsraÃ«l. - Que tes larmes coulent comme un torrent jour et nuit, que la prunelle de ton oeil ne reste pas muette. * Car.
-/com/La troisiÃ¨me LeÃ§on est formÃ©e dâ€™une partie de la priÃ¨re que JÃ©rÃ©mie adresse Ã  Dieu pour le peuple Juif, aprÃ¨s lâ€™avoir vu emmener en captivitÃ©. Rien nâ€™Ã©gale la dÃ©solation du tableau quâ€™elle retrace des infortunes auxquelles est en proie la nation dÃ©icide.
-/stt/LeÃ§on 3
-/ref/Lam. 5, 1-11
-/tralett/S[NJ]Ouvenez-vous, Seigneur, de ce qui nous est arrivÃ© ; regardez et voyez notre opprobre.  Notre hÃ©ritage a passÃ© Ã  des Ã©trangers, nos maisons Ã  des gens du dehors.  Nous sommes des orphelins qui nâ€™ont plus de pÃ¨re ; nos mÃ¨res sont comme des veuves.  Nous avons bu notre eau Ã  prix dâ€™argent, nous avons achetÃ© chÃ¨rement notre bois.  On nous a entraÃ®nÃ©s la corde au cou, on ne donnait aucun repos Ã  ceux qui Ã©taient las.  Nous avons tendu la main Ã  lâ€™Ã‰gypte et aux Assyriens, pour nous rassasier de pain.  Nos pÃ¨res ont pÃ©chÃ©, et ils ne sont plus, et nous avons portÃ© leurs iniquitÃ©s.  Des esclaves ont dominÃ© sur nous, personne ne nous a dÃ©livrÃ©s de leurs mains.  Nous allions chercher du pain, au pÃ©ril de notre vie, devant le glaive du dÃ©sert.  Notre peau a Ã©tÃ© brÃ»lÃ©e comme un four, Ã  cause des tempÃªtes de la faim.  Ils ont dÃ©shonorÃ© les femmes dans Sion, et les vierges dans les villes de Juda.
-/com/Le Plange, lui aussi chant de deuil, est beaucoup plus vif et tourmentÃ© (sauf au tout dÃ©but, qui rappelle le Ecce vidimus du Jeudi Saint et qui conserve la note de tendresse et de calme de la plupart des rÃ©pons). Lâ€™ululÃ¡te Ã©clate comme un cri poignant, un appel pathÃ©tique au deuil et Ã  la tristesse, suivi du quia venit, large et fort dâ€™une douleur presque dÃ©chirante, et qui sâ€™affirme encore dans la vigueur du magna et toute lâ€™angoisse si prenante de lâ€™admirable amÃ¡ra valde.
-/tra/Resp. Pleure comme une vierge, Ã´ mon peuple ; gÃ©missez, pasteurs, dans la cendre et le cilice ; * Car il vient, le jour du Seigneur, grand et redoutable. - PrÃªtres, revÃªtez le sac et pleurez ; ministres de lâ€™autel, couvrez vos tÃªtes de cendre. * Car. 
-/tra/Ant. Ã‰levez-vous, portes Ã©ternelles, et le roi de gloire entrera.
-/com/Le quatriÃ¨me Psaume (23) annonce dÃ©jÃ  lâ€™entrÃ©e triomphante que doit faire au ciel le Fils de Dieu, lorsquâ€™il se sera rÃ©veillÃ© du sommeil de la tombe.
+/tra/Notre Père =(en silence).=
+/com/Les Leçons du premier Nocturne continuent d’être empruntées aux Lamentations de Jérémie. La première a rapport au Christ. Elle exprime sa fidélité à Dieu et sa touchante résignation. Les soufflets qu’il reçut durant sa Passion, y sont prédits.
+/stt/Leçon 1[break]Leçon du livre des Lamentations
+/ref/Lam. III. 22-30
+/tralett/H[NJ]ETH. C’est grâce aux miséricordes du Seigneur que nous n’avons pas été perdus entièrement, parce que ses compassions ne sont pas épuisées. HETH. Elles se renouvellent chaque matin ; votre fidélité est grande. HETH. Le Seigneur est mon partage, a dit mon âme ; c’est pour cela que je l’attendrai. TETH. Le Seigneur est bon pour ceux qui espèrent en lui, pour l’âme qui le cherche. TETH. Il est bon d’attendre en silence le salut de Dieu. TETH. Il est bon à l’homme de porter le joug dès sa jeunesse. IOD. Il s’asseyera solitaire, et il se taira, parce que Dieu a mis ce joug sur lui. IOD. Il mettra sa bouche dans la poussière, pour voir s’il y a quelque espérance. IOD. Il tendra la joue à celui qui le frappera, il se rassasiera d’opprobres.
+/com/Si les répons du Samedi Saint ressemblent à ceux des jours précédents par leur contexture générale, la délicatesse et l’infinie variété de leurs nuances, ils n’en diffèrent pas moins, comme d’ailleurs tout l’Office des Ténèbres, par leur ethos particulier. Les cœurs ne sont plus oppressés ; le ton s’est singulièrement adouci. C’est une sorte de veillée funèbre autour d’un tombeau, où l’on se remémore, dans une atmosphère de détente et de douceur, certains aspects de la Passion, sa portée, avec même quelques allusions à la gloire qui va en résulter.
+/com/C’est dans un climat de contemplation très douce et aimante que se déroule le [Sicut ovis], 4e mode d’une ligne simple et sans grand mouvement, en dehors de la montée mélodique de la deuxième phrase ([et dum male tractarétur…]).
+/tra/Rep. Comme une brebis, on l’a conduit à la mort, et tandis qu’on le maltraitait, il n’a pas ouvert la bouche. Il a été livré à la mort pour rendre la vie à son peuple. v Il s’est livré à la mort et on l’a mis au rang des scélérats.
+/com/La deuxième Leçon reprend le ton de l’élégie sur les malheurs de Jérusalem. La gravité des crimes de cette cité ingrate y est exprimée dans les termes les plus énergiques.
+/stt/Leçon 2
+/ref/Lam. IV. 1-8
+/tralett/A[NJ]LEPH. Comment l’or s’est-il obscurci ? comment sa belle couleur a-t-elle été changée ? Comment les pierres du sanctuaire ont-elles été dispersées aux coins de toutes les rues ? BETH. Comment les nobles fils de Sion, couverts de l’or le plus pur, ont-ils été regardés comme des vases de terre, ouvrage des mains du potier ? GHIMEL Les lamies elles-mêmes ont découvert leur mamelle, et allaité leurs petits ; la fille de mon peuple est cruelle comme l’autruche du désert. DALETH  La langue du nourrisson s’est attachée à son palais dans sa soif ; les petits enfants ont demandé du pain, et il n’y avait personne pour leur en donner. HE. Ceux qui se nourrissaient délicatement sont morts dans les rues ; ceux qui étaient élevés dans la pourpre ont embrassé les fumiers. VAU. L’iniquité de la fille de mon peuple est devenue plus grande que le péché de Sodome, qui fut renversé en un moment, sans que les hommes aient porté la main sur elle. ZAïN Ses nazaréens étaient plus blancs que la neige, plus purs que le lait, plus rouges que l’ivoire antique, plus beaux que le saphir. HETH. Leur visage est plus noir que les charbons, et on ne les a pas reconnus dans les rues ; leur peau est collée sur leurs os, elle s’est desséchée, et elle est devenue comme du bois. 
+/com/Le répons [Jerusalem surge] est un chant de deuil sur la mort du Christ. L’élan initial de [surge], et le caractère un peu tourmenté de [in te occísus], qui est comme un reproche adressé à la ville de Jérusalem, la ville aimée qui a mis à mort le Sauveur, ne suffisent pas à altérer la physionomie vraie de cette élégie, si angoissée et si tendre, quasi silencieuse, avec la retenue de ses courbes mélodiques, l’enveloppement de ses cadences, et jusqu’à la dureté apparente du [in te occísus est].
+/tra/Rep. Debout, Jérusalem ! Dépouille tes vêtements de fête ; couvre-toi de cendre et d’un cilice ; * car c’est en toi qu’a été mis à mort le Sauveur d’Israël. v Que tes larmes coulent comme un torrent jour et nuit, que la prunelle de ton œil ne reste pas muette. * Car.
+/com/La troisième Leçon est formée d’une partie de la prière que Jérémie adresse à Dieu pour le peuple Juif, après l’avoir vu emmener en captivité. Rien n’égale la désolation du tableau qu’elle retrace des infortunes auxquelles est en proie la nation déicide.
+/stt/Leçon 3
+/ref/Lam. V. 1-11
+/tralett/S[NJ]Ouvenez-vous, Seigneur, de ce qui nous est arrivé ; regardez et voyez notre opprobre. Notre héritage a passé à des étrangers, nos maisons à des gens du dehors. Nous sommes des orphelins qui n’ont plus de père ; nos mères sont comme des veuves. Nous avons bu notre eau à prix d’argent, nous avons acheté chèrement notre bois. On nous a entraînés la corde au cou, on ne donnait aucun repos à ceux qui étaient las. Nous avons tendu la main à l’Égypte et aux Assyriens, pour nous rassasier de pain. Nos pères ont péché, et ils ne sont plus, et nous avons porté leurs iniquités. Des esclaves ont dominé sur nous, personne ne nous a délivrés de leurs mains. Nous allions chercher du pain, au péril de notre vie, devant le glaive du désert. Notre peau a été brûlée comme un four, à cause des tempêtes de la faim. Ils ont déshonoré les femmes dans Sion, et les vierges dans les villes de Juda.
+/com/Le [Plange], lui aussi chant de deuil, est beaucoup plus vif et tourmenté (sauf au tout début, qui rappelle le [Ecce vidimus] du Jeudi Saint et qui conserve la note de tendresse et de calme de la plupart des répons). L’[ululáte] éclate comme un cri poignant, un appel pathétique au deuil et à la tristesse, suivi du [quia venit], large et fort d’une douleur presque déchirante, et qui s’affirme encore dans la vigueur du [magna] et toute l’angoisse si prenante de l’admirable [amára valde].
+/tra/Rep. Pleure comme une vierge, ô mon peuple ; gémissez, pasteurs, dans la cendre et le cilice ; * car il vient, le jour du Seigneur, grand et redoutable. v Prêtres, revêtez le sac et pleurez ; ministres de l’autel, couvrez vos têtes de cendre. * Car. 
+/tra/Ant. Élevez-vous, portes éternelles, et le roi de gloire entrera.
+/com/Le quatrième Psaume (23) annonce déjà l’entrée triomphante que doit faire au ciel le Fils de Dieu, lorsqu’il se sera réveillé du sommeil de la tombe.
 /sttps/Psaume 23
-/pst1/Au Seigneur est la terre et tout ce quâ€™elle renferme, * le monde et tous ceux qui lâ€™habitent.
-/pst/Car câ€™est lui qui lâ€™a fondÃ© sur les mers, * et qui lâ€™a Ã©tabli sur les fleuves.
+/pst1/Au Seigneur est la terre et tout ce qu’elle renferme, * le monde et tous ceux qui l’habitent.
+/pst/Car c’est lui qui l’a fondé sur les mers, * et qui l’a établi sur les fleuves.
 /pst/Qui montera sur la montagne du Seigneur ? * ou qui se tiendra dans son lieu saint ?
-/pst/Celui qui a les mains innocentes et le cÅ“ur pur, * qui nâ€™a pas livrÃ© son Ã¢me Ã  la vanitÃ©, ni fait Ã  son prochain un serment trompeur.
-/pst/Celui-lÃ  recevra la bÃ©nÃ©diction du Seigneur, * et la misÃ©ricorde de Dieu, son Sauveur.
+/pst/Celui qui a les mains innocentes et le cœur pur, * qui n’a pas livré son âme à la vanité, ni fait à son prochain un serment trompeur.
+/pst/Celui-là recevra la bénédiction du Seigneur, * et la miséricorde de Dieu, son Sauveur.
 /pst/Telle est la race de ceux qui le cherchent, * de ceux qui cherchent la face du Dieu de Jacob.
-/pst/Levez vos portes, Ã´ princes, et Ã©levez-vous, portes Ã©ternelles, * et le roi de gloire entrera.
-/pst/Qui est ce roi de gloire ? * Câ€™est le Seigneur fort et puissant, le Seigneur puissant dans les combats.
-/pst/Levez vos portes, Ã´ princes, et Ã©levez-vous, portes Ã©ternelles, * et le roi de gloire entrera.
-/pst/Quel est ce roi de gloire ? * Le Seigneur des armÃ©es est lui-mÃªme ce roi de gloire.
-/tra/Ant. Ã‰levez-vous, portes Ã©ternelles, et le roi de gloire entrera.
-/tra/Ant. Je le crois, je verrai les bontÃ©s du Seigneur sur la terre des vivants.
-/com/Le cinquiÃ¨me Psaume (26) que lâ€™Ã‰glise a chantÃ© hier pour exprimer le sentiment de confiance qui nâ€™a point abandonnÃ© le Messie, durant les Ã©preuves de sa Passion, revient aujourdâ€™hui pour annoncer sa prochaine dÃ©livrance. Lâ€™Ã‰glise ne choisit plus pour Antienne le Verset oÃ¹ le Christ se plaint des faux tÃ©moins qui ont dÃ©posÃ© contre lui ; elle insiste sur celui oÃ¹ il montre lâ€™espÃ©rance dâ€™Ãªtre bientÃ´t arrivÃ© dans la terre des vivants.
+/pst/Levez vos portes, ô princes, et élevez-vous, portes éternelles, * et le roi de gloire entrera.
+/pst/Qui est ce roi de gloire ? * C’est le Seigneur fort et puissant, le Seigneur puissant dans les combats.
+/pst/Levez vos portes, ô princes, et élevez-vous, portes éternelles, * et le roi de gloire entrera.
+/pst/Quel est ce roi de gloire ? * Le Seigneur des armées est lui-même ce roi de gloire.
+/tra/Ant. Élevez-vous, portes éternelles, et le roi de gloire entrera.
+/tra/Ant. Je le crois, je verrai les bontés du Seigneur sur la terre des vivants.
+/com/Le cinquième Psaume (26) que l’Église a chanté hier pour exprimer le sentiment de confiance qui n’a point abandonné le Messie, durant les épreuves de sa Passion, revient aujourd’hui pour annoncer sa prochaine délivrance. L’Église ne choisit plus pour Antienne le verset où le Christ se plaint des faux témoins qui ont déposé contre lui ; elle insiste sur celui où il montre l’espérance d’être bientôt arrivé dans la terre des vivants.
 /sttps/Psaume 26
-/pst1/Le Seigneur est ma lumiÃ¨re et mon salut ; * qui craindrai-je ? Le Seigneur est le dÃ©fenser de ma vie ; * devant qui tremblerai-je ?
-/pst/Lorsque les mÃ©chants sâ€™approchent de moi * pour dÃ©vorer ma chair, ces ennemis qui me persÃ©cutent * ont Ã©tÃ© eux-mÃªmes affaiblis et sont tombÃ©s.
-/pst/Quâ€™une armÃ©e campe contre moi, * mon cÅ“ur ne craindra pas. Que le combat sâ€™engage contre moi, * câ€™est alors mÃªme que jâ€™espÃ©rerai.
-/pst/Il est une chose que jâ€™ai demandÃ©e au Seigneur, et je la rechercherai uniquement ; * câ€™est dâ€™habiter dans la maison du Seigneur tous les jours de ma vie, pour contempler les dÃ©lices du Seigneur * et visiter son temple.
-/pst/Car il mâ€™a cachÃ© dans son tabernacle ; * au jour de lâ€™affliction il mâ€™a protÃ©gÃ© dans le secret de son tabernacle.
-/pst/Il mâ€™a Ã©levÃ© sur la pierre, * et maintenant il a Ã©levÃ© ma tÃªte au-dessus de mes ennemis. Jâ€™ai entourÃ© lâ€™autel et jâ€™ai immolÃ© dans son tabernacle une victime avec des cris de joie ; * je chanterai et je dirai une hymne au Seigneur.
-/pst/Exaucez, Seigneur, ma voix, qui a criÃ© vers vous ; * ayez pitiÃ© de moi, et exaucez-moi.
-/pst/Mon cÅ“ur vous a dit : Mes yeux vous ont cherchÃ© ; * Votre visage, Seigneur, je le chercherai.
-/pst/Ne dÃ©tournez pas de moi votre face ; * ne vous retirez pas de votre serviteur, dans votre colÃ¨re. Soyez mon aide ; * ne mâ€™abandonnez pas, et ne me mÃ©prisez pas, Ã´ Dieu mon Sauveur.
-/pst/Car mon pÃ¨re et ma mÃ¨re mâ€™ont abandonnÃ© ; * mais le Seigneur mâ€™a recueilli.
-/pst/Seigneur, enseignez-moi votre voie, * et conduisez-moi dans le droit sentier Ã  cause de mes ennemis.
-/pst/Ne me livrez pas Ã  la merci de ceux qui me persÃ©cutent ; * des tÃ©moins iniques se sont Ã©levÃ©s contre moi, et lâ€™iniquitÃ© a menti contre elle-mÃªme.
+/pst1/Le Seigneur est ma lumière et mon salut ; * qui craindrai-je ?
+/pst/Le Seigneur est le défenseur de ma vie ; * devant qui tremblerai-je ?
+/pst/Lorsque les méchants s’approchent de moi * pour dévorer ma chair,
+/pst/Ces ennemis qui me persécutent * ont été eux-mêmes affaiblis et sont tombés.
+/pst/Qu’une armée campe contre moi, * mon cœur ne craindra pas.
+/pst/Que le combat s’engage contre moi, * c’est alors même que j’espérerai.
+/pst/Il est une chose que j’ai demandée au Seigneur, et je la rechercherai uniquement ; * c’est d’habiter dans la maison du Seigneur tous les jours de ma vie,
+/pst/Pour contempler les délices du Seigneur * et visiter son temple.
+/pst/Car il m’a caché dans son tabernacle ; * au jour de l’affliction il m’a protégé dans le secret de son tabernacle.
+/pst/Il m’a élevé sur la pierre, * et maintenant il a élevé ma tête au-dessus de mes ennemis.
+/pst/J’ai entouré l’autel et j’ai immolé dans son tabernacle une victime avec des cris de joie ; * je chanterai et je dirai une hymne au Seigneur.
+/pst/Exaucez, Seigneur, ma voix, qui a crié vers vous ; * ayez pitié de moi, et exaucez-moi.
+/pst/Mon cœur vous a dit : mes yeux vous ont cherché ; * votre visage, Seigneur, je le chercherai.
+/pst/Ne détournez pas de moi votre face ; * ne vous retirez pas de votre serviteur, dans votre colère.
+/pst/Soyez mon aide ; * ne m’abandonnez pas, et ne me méprisez pas, ô Dieu mon Sauveur.
+/pst/Car mon père et ma mère m’ont abandonné ; * mais le Seigneur m’a recueilli.
+/pst/Seigneur, enseignez-moi votre voie, * et conduisez-moi dans le droit sentier à cause de mes ennemis.
+/pst/Ne me livrez pas à la merci de ceux qui me persécutent ; * des témoins iniques se sont élevés contre moi, et l’iniquité a menti contre elle-même.
 /pst/Je crois que je verrai les biens du Seigneur * dans la terre des vivants.
-/pst/Attends le Seigneur, agis avec courage ; * que ton cÅ“ur soit ferme, et espÃ¨re au Seigneur.
-/tra/Ant. Je le crois, je verrai les bontÃ©s du Seigneur sur la terre des vivants.
-/tra/Ant. Seigneur, tu as fait remonter mon Ã¢me de lâ€™abÃ®me.
-/com/Le sixiÃ¨me Psaume (29) annonce que le divin captif de la mort ne tardera pas Ã  sortir des lieux sombres. Le ProphÃ¨te nous montre le deuil se prolongeant encore jusquâ€™au soir, et lâ€™allÃ©gresse qui doit Ã©clater au matin.
+/pst/Attends le Seigneur, agis avec courage ; * que ton cœur soit ferme, et espère dans le Seigneur.
+/tra/Ant. Je le crois, je verrai les bontés du Seigneur sur la terre des vivants.
+/tra/Ant. Seigneur, vous avez fait remonter mon âme de l’abîme.
+/com/Le sixième Psaume (29) annonce que le divin captif de la mort ne tardera pas à sortir des lieux sombres. Le Prophète nous montre le deuil se prolongeant encore jusqu’au soir, et l’allégresse qui doit éclater au matin.
 /sttps/Psaume 29
-/pst1/Je vous exalterai, Seigneur, parce que vous mâ€™avez relevÃ©, * et que vous nâ€™avez pas rÃ©joui mes ennemis Ã  mon sujet.
-/pst/Seigneur mon Dieu, jâ€™ai criÃ© vers vous, * et vous mâ€™avez guÃ©ri.
-/pst/Seigneur, vous avez retirÃ© mon Ã¢me du sÃ©jour des morts ; * Vous mâ€™avez sauvÃ© du milieu de ceux qui descendent dans la fosse.
-/pst/Chantez au Seigneur, vous qui Ãªtes ses saints, * et cÃ©lÃ©brez sa sainte mÃ©moire.
-/pst/Car le chÃ¢timent provient de son indignation, * et la vie de sa bienveillance. Les pleurs se rÃ©pandent le soir, * et le matin viendra la joie.
-/pst/Pour moi jâ€™ai dit dans ma prospÃ©ritÃ© : * Je ne serai jamais Ã©branlÃ©.
-/pst/Seigneur, câ€™est par votre volontÃ© * que vous mâ€™avez affermi dans ma gloire. Vous avez dÃ©tournÃ© de moi votre visage, * et jâ€™ai Ã©tÃ© tout troublÃ©.
-/pst/Je crierai vers vous, Seigneur, * et jâ€™implorerai mon Dieu.
-/pst/Quelle utilitÃ© retirerez-vous de ma mort, * lorsque je descendrai dans la pourriture ? Est-ce que la poussiÃ¨re chantera vos louanges ? * ou publiera-t-elle votre vÃ©ritÃ© ?
-/pst/Le Seigneur a entendu, et il a eu pitiÃ© de moi ; * le Seigneur sâ€™est fait mon protecteur.
-/pst/Vous avez changÃ© mes lamentations en allÃ©gresse ; * Vous avez dÃ©chirÃ© mon sac, et vous mâ€™avez environnÃ© de joie,
-/pst/afin que mon Ã¢me vous chante, et que je ne ressente plus la douleur. * Seigneur mon Dieu, je vous louerai Ã©ternellement.
-/tra/Ant. Seigneur, tu as fait remonter mon Ã¢me de lâ€™abÃ®me.
-/tra/v Seigneur, pitiÃ© pour moi.
-/tra/r RelÃ¨ve-moi, je leur ferai justice.
-/tra/Notre PÃ¨re =(en silence)=
-/com/Lâ€™Ã‰glise continue de lire, au deuxiÃ¨me Nocturne, les Enarrations de saint Augustin sur les Psaumes prophÃ©tiques de la Passion du Sauveur.
-/stt/LeÃ§on 4[break]Du traitÃ© de saint Augustin, Ã©vÃªque, sur les Psaumes
+/pst1/Je vous exalterai, Seigneur, parce que vous m’avez relevé, * et que vous n’avez pas réjoui mes ennemis à mon sujet.
+/pst/Seigneur mon Dieu, j’ai crié vers vous, * et vous m’avez guéri.
+/pst/Seigneur, vous avez retiré mon âme du séjour des morts ; * vous m’avez sauvé du milieu de ceux qui descendent dans la fosse.
+/pst/Chantez au Seigneur, vous qui êtes ses saints, * et célébrez sa sainte mémoire.
+/pst/Car le châtiment provient de son indignation, * et la vie de sa bienveillance.
+/pst/Les pleurs se répandent le soir, * et le matin viendra la joie.
+/pst/Pour moi j’ai dit dans ma prospérité : * je ne serai jamais ébranlé.
+/pst/Seigneur, c’est par votre volonté * que vous m’avez affermi dans ma gloire.
+/pst/Vous avez détourné de moi votre visage, * et j’ai été tout troublé.
+/pst/Je crierai vers vous, Seigneur, * et j’implorerai mon Dieu.
+/pst/Quelle utilité retirerez-vous de ma mort, * lorsque je descendrai dans la pourriture ?
+/pst/Est-ce que la poussière chantera vos louanges ? * ou publiera-t-elle votre vérité ?
+/pst/Le Seigneur a entendu, et il a eu pitié de moi ; * le Seigneur s’est fait mon protecteur.
+/pst/Vous avez changé mes lamentations en allégresse ; * vous avez déchiré mon sac, et vous m’avez environné de joie,
+/pst/Afin que mon âme vous chante, et que je ne ressente plus la douleur. * Seigneur mon Dieu, je vous louerai éternellement.
+/tra/Ant. Seigneur, vous avez fait remonter mon âme de l’abîme.
+/tra/v Seigneur, pitié pour moi.
+/tra/r Relevez-moi, je leur ferai justice.
+/tra/Notre Père =(en silence).=
+/com/L’Église continue de lire, au deuxième Nocturne, les [Énarrations] de saint Augustin sur les Psaumes prophétiques de la Passion du Sauveur.
+/stt/Leçon 4[break]Du Traité sur les Psaumes de saint Augustin, évêque d'Hippone
 /ref/Sur le Psaume LXIII, 7
-/tralett/L[NJ]'homme descendra au trÃ©fonds de son coeur, et Dieu sera glorifiÃ©"-"Qui nous verra?" avaient dit les Juifs. Ils n'ont pas rÃ©ussi Ã  faire aboutir leurs machinations, leurs desseins pervers. L'homme-Dieu s'est pliÃ© Ã  ses desseins;  il a souffert qu'on l'emprisonnÃ¢t, comme un homme ordinaire. S'il n'eÃ»t point Ã©tÃ© homme, jamais on n'eÃ»t pu le prendre, le voir, le battre, le crucifier, le mettre Ã  mort. Cet homme est donc venu au-devant de toutes ces souffrances, qui eussent perdu leur pouvoir sur lui s'il n'eÃ»t point Ã©tÃ© homme. Mais s'il n'eÃ»t point Ã©tÃ© homme, l'homme n'aurait pas Ã©tÃ© libÃ©rÃ©. Cet homme est descendu au trÃ©fonds de son coeur, c'est Ã  dire au plus secret de son coeur, aux regards humains offrant l'homme, gardant le Dieu tout au fond, cachant sa nature divine, en laquelle il est Ã©gal au PÃ¨re, et montrant sa nature servile, par laquelle il lui est infÃ©rieur. 
-/com/Avec le RecÃ©ssit pastor, nous revenons Ã  la note de contemplation sereine qui est celle de cet office. Suite de formules classiques, Ã©galement tranquilles et enveloppÃ©es, Ã  la maniÃ¨re dâ€™une longue mÃ©ditation trÃ¨s aimante, annoncent les effets, bienfaisants et tout proches, de la Passion.
-/tra/Resp. Notre pasteur, source dâ€™eau vive, sâ€™en est allÃ©. Et le soleil sâ€™est obscurci au moment de son dÃ©part. Celui qui tenait captif le premier homme, devint lui-mÃªme captif. Aujourdâ€™hui notre Sauveur a dÃ©truit le portes de la mort et brisÃ© leurs charniÃ¨res. V/ Il a dÃ©truit les prisons de lâ€™enfer et renversÃ© les puissances du dÃ©mon.
-/stt/LeÃ§on 5
-/tralett/J[NJ]Usqu'oÃ¹ n'ont-ils pas tramÃ© ces machinations que leurs intrigues n'ont pu faire aboutir? Jusqu'Ã  mettre, mÃªme aprÃ¨s la mort du Seigneur et son ensevelissement, des sentinelles Ã  son tombeau. C'est ainsi qu'ils dirent Ã  Pilate :"Cet imposteur (C'est le nom qu'ils donnaient au Seigneur JÃ©sus-Christ. Puisse ceci encourager ses disciples quand on les appelle imposteurs!)cet imposteur, dirent-ils donc Ã  Pilate, a dit de son vivant: Dans trois jours je ressusciterai. Ordonne donc que le sÃ©pulcre soit gardÃ© sÃ»rement jusqu'au troisiÃ¨me jour, de peur que ses disciples ne viennent le dÃ©rober et ne disent au peuple : Il est ressucitÃ© de chez les morts; derniÃ¨re imposture qui serait pire que la premiÃ¨re!"-"Vous avez une garde, leur rÃ©pondit Pilate; allez, prenez vos sÃ»retÃ©s comme vous l'entendrez." Ils partirent donc et s'assurÃ¨rent du sÃ©pulcre, en scellant la pierre et en y plaÃ§ant une garde./com/Le O vos omnes est une invitation Ã  sâ€™arrÃªter devant la croix, et Ã  prendre conscience de tout lâ€™amour qui est impliquÃ©.
-/tra/Resp. Ã” vous tous qui passez par le chemin, arrÃªtez-vous et voyez ! Est-il une douleur comparable Ã  la mienne ? V/ Peuples de lâ€™univers, regardez avec attention, et voyez ma douleur.
-/stt/LeÃ§on 6
-/tralett/I[NJ]LS postÃ¨rent des soldats de garde au sÃ©pulcre. Dans un grand tremblement de terre, le Seigneur ressucita. tels furent les prodiges autour du tombeau que les factionnaires eux-mÃªmes, de gardiens fussent devenus tÃ©moins, pour peu qu'ils eussent voulu avouer la vÃ©ritÃ©. Mais cette vile cupiditÃ©, qui sÃ©duisit le disciple qui vivait avec le Christ, sÃ©duisit aussi les soldats qui gardaient la tombe. " Voici de l'argent, leur dit-on. Dites que ce sont ses disciples qui sont venus pendant que vous dormiez, et quil'ont dÃ©robÃ©." Vraiment, ils ont Ã©chouÃ© dans leurs machinations! Que racontes-tu lÃ , misÃ©rable astuce? Ne faut-il pas que tu fuies la clartÃ© d'une saine rÃ©flexion, et que tu t'enfonces dans des abÃ®mes de fourberie, pour parler ainsi: " Dites que ce sont ses disciples qui sont venus pendant que vous dormiez et qui l'ont dÃ©robÃ©?" Ils dormaient, les tÃ©moins que tu cites!...Et vraiment toi aussi tu dormais, toi qui dans tes intrigues essuyas de tels Ã©checs!
-/com/Comme le O vos omnes, Ecce quÃ³modo compte parmi les plus belles piÃ¨ces du rÃ©pertoire et les plus Ã©mouvantes. Contemplation attendrie sur la mort du Christ, sur lâ€™indiffÃ©rence de tous devant une telle extrÃ©mitÃ© dâ€™amour, et sur la paix qui entoure le grand sommeil du Juste.
-/tra/Resp. Voici comment meurt le Juste, sans que personne sâ€™Ã©meuve. Les hommes justes sont enlevÃ©s et nul nâ€™y prend garde. Le Juste est enlevÃ© du monde pÃ©cheur. Mais son souvenir est gardÃ© dans la paix. V/ Comme un agneau devant celui qui le tond, il a gardÃ© le silence et nâ€™a pas ouvert la bouche. Il a Ã©tÃ© enlevÃ© au milieu des tourments et de lâ€™injustice.
-/tra/Ant. Dieu vient Ã  mon aide, et le Seigneur est le soutien de mon Ã¢me.
-/com/Le septiÃ¨me Psaume (53) que lâ€™Ã‰glise chantait hier, en songeant aux poursuites des Juifs contre le Messie, revient aujourdâ€™hui pour annoncer que le triomphe du Fils de David ne tardera pas Ã  Ã©clater, parce que Dieu a pris en main sa cause.
+/tralett/L[NJ]'homme descendra au tréfonds de son cœur, et Dieu sera glorifié [-] « Qui nous verra ? » avaient dit les Juifs. Ils n'ont pas réussi à faire aboutir leurs machinations, leurs desseins pervers. L'homme-Dieu s'est plié à ses desseins ;  il a souffert qu'on l'emprisonnât, comme un homme ordinaire. S'il n'eût point été homme, jamais on n'eût pu le prendre, le voir, le battre, le crucifier, le mettre à mort. Cet homme est donc venu au-devant de toutes ces souffrances, qui eussent perdu leur pouvoir sur lui s'il n'eût point été homme. Mais s'il n'eût point été homme, l'homme n'aurait pas été libéré. Cet homme est descendu au tréfonds de son cœur, c'est à dire au plus secret de son cœur, aux regards humains offrant l'homme, gardant le Dieu tout au fond, cachant sa nature divine, en laquelle il est égal au Père, et montrant sa nature servile, par laquelle il lui est inférieur. 
+/com/Avec le [Recéssit pastor], nous revenons à la note de contemplation sereine qui est celle de cet office. Suite de formules classiques, également tranquilles et enveloppées, à la manière d’une longue méditation très aimante, annonçant les effets, bienfaisants et tout proches, de la Passion.
+/tra/Rep. Notre pasteur, source d’eau vive, s’en est allé. Et le soleil s’est obscurci au moment de son départ. Celui qui tenait captif le premier homme, devint lui-même captif. Aujourd’hui notre Sauveur a détruit le portes de la mort et brisé leurs charnières. v Il a détruit les prisons de l’enfer et renversé les puissances du démon.
+/stt/Leçon 5
+/tralett/J[NJ]Usqu'où n'ont-ils pas tramé ces machinations que leurs intrigues n'ont pu faire aboutir? Jusqu'à mettre, même après la mort du Seigneur et son ensevelissement, des sentinelles à son tombeau. C'est ainsi qu'ils dirent à Pilate : « Cet imposteur (C'est le nom qu'ils donnaient au Seigneur Jésus-Christ. Puisse ceci encourager ses disciples quand on les appelle imposteurs!)cet imposteur, dirent-ils donc à Pilate, a dit de son vivant : Dans trois jours je ressusciterai. Ordonne donc que le sépulcre soit gardé sûrement jusqu'au troisième jour, de peur que ses disciples ne viennent le dérober et ne disent au peuple : il est ressuscité de chez les morts; dernière imposture qui serait pire que la première ! » [-] « Vous avez une garde, leur répondit Pilate; allez, prenez vos sûretés comme vous l'entendrez. » Ils partirent donc et s'assurèrent du sépulcre, en scellant la pierre et en y plaçant une garde.
+/com/Le [O vos omnes] est une invitation à s’arrêter devant la croix, et à prendre conscience de tout l’amour qui est impliqué.
+/tra/Rep. Ô vous tous qui passez par le chemin, arrêtez-vous et voyez ! Est-il une douleur comparable à la mienne ? v Peuples de l’univers, regardez avec attention, et voyez ma douleur.
+/stt/Leçon 6
+/tralett/I[NJ]LS postèrent des soldats de garde au sépulcre. Dans un grand tremblement de terre, le Seigneur ressuscita. tels furent les prodiges autour du tombeau que les factionnaires eux-mêmes, de gardiens fussent devenus témoins, pour peu qu'ils eussent voulu avouer la vérité. Mais cette vile cupidité, qui séduisit le disciple qui vivait avec le Christ, séduisit aussi les soldats qui gardaient la tombe. « Voici de l'argent, leur dit-on. Dites que ce sont ses disciples qui sont venus pendant que vous dormiez, et qui l'ont dérobé. » Vraiment, ils ont échoué dans leurs machinations ! Que racontes-tu là, misérable astuce ? Ne faut-il pas que tu fuies la clarté d'une saine réflexion, et que tu t'enfonces dans des abîmes de fourberie, pour parler ainsi: « Dites que ce sont ses disciples qui sont venus pendant que vous dormiez et qui l'ont dérobé ? » Ils dormaient, les témoins que tu cites ! Et vraiment toi aussi tu dormais, toi qui dans tes intrigues essuyas de tels échecs !
+/com/Comme le [O vos omnes], [Ecce quómodo] compte parmi les plus belles pièces du répertoire et les plus émouvantes. Contemplation attendrie sur la mort du Christ, sur l’indifférence de tous devant une telle extrémité d’amour, et sur la paix qui entoure le grand sommeil du Juste.
+/tra/Rep. Voici comment meurt le Juste, sans que personne ne s’émeuve. Les hommes justes sont enlevés et nul n’y prend garde. Le Juste est enlevé du monde pécheur. Mais son souvenir est gardé dans la paix. v Comme un agneau devant celui qui le tond, il a gardé le silence et n’a pas ouvert la bouche. Il a été enlevé au milieu des tourments et de l’injustice.
+/tra/Ant. Dieu vient à mon aide, et le Seigneur est le soutien de mon âme.
+/com/Le septième Psaume (53) que l’Église chantait hier, en songeant aux poursuites des Juifs contre le Messie, revient aujourd’hui pour annoncer que le triomphe du Fils de David ne tardera pas à éclater, parce que Dieu a pris en main sa cause.
 /sttps/Psaume 53
-/tra/Ant. Dieu vient Ã  mon aide, et le Seigneur est le soutien de mon Ã¢me.
-/tra/Ant. Dans la paix il a fixÃ© son sÃ©jour, et Ã  Sion sa demeure.
-/com/Le huitiÃ¨me Psaume (75) a Ã©tÃ© employÃ© par lâ€™Ã‰glise le Jeudi saint ; il exprimait la prochaine vengeance de Dieu sur les ennemis de son Fils. Il reparaÃ®t aujourdâ€™hui, et nous montre le Messie endormi dâ€™un sommeil de paix en Sion. Tout Ã  lâ€™heure il va sortir du tombeau. A leur rÃ©veil, ses adversaires qui croyaient le tenir en leur puissance, vont se trouver les mains vides. La terre tremblera, et le Seigneur se lÃ¨vera pour Ãªtre la terreur de ses adversaires et le salut des humbles, qui reconnaÃ®tront sa fidÃ©litÃ© Ã  ses paroles.
+/pst1/Ô Dieu, sauvez-moi par votre Nom, * et rendez-moi justice par votre puissance.
+/pst/Ô Dieu, exaucez ma prière ; * prêtez l’oreille aux paroles de ma bouche.
+/pst/Car des étrangers se sont élevés contre moi, et des hommes puissants ont cherché à m’ôter la vie ; * et ils n’ont point placé Dieu devant leurs yeux.
+/pst/Mais voici que Dieu vient à mon aide, * et que le Seigneur est le protecteur de ma vie.
+/pst/Faites retomber les maux sur mes ennemis, * et exterminez-les dans votre vérité.
+/pst/Je vous offrirai volontairement des sacrifices ; * et je célébrerai votre Nom, Seigneur, parce qu’il est bon.
+/pst/Car vous m’avez délivré de toute affliction, * et mon œil a regardé mes ennemis avec assurance.
+/tra/Ant. Dieu vient à mon aide, et le Seigneur est le soutien de mon âme.
+/tra/Ant. Dans la paix il a fixé son séjour, et à Sion sa demeure.
+/com/Le huitième Psaume (75) a été employé par l’Église le Jeudi saint ; il exprimait la prochaine vengeance de Dieu sur les ennemis de son Fils. Il reparaît aujourd’hui, et nous montre le Messie endormi d’un sommeil de paix en Sion. Tout à l’heure il va sortir du tombeau. A leur réveil, ses adversaires qui croyaient le tenir en leur puissance, vont se trouver les mains vides. La terre tremblera, et le Seigneur se lèvera pour être la terreur de ses adversaires et le salut des humbles, qui reconnaîtront sa fidélité à ses paroles.
 /sttps/Psaume 75
-/tra/Ant. Dans la paix il a fixÃ© son sÃ©jour, et Ã  Sion sa demeure.
+/pst1/Dieu s’est fait connaître en Judée ; * son Nom est grand dans Israël.
+/pst/Il a fixé son séjour dans la ville de paix, * et sa demeure dans Sion.
+/pst/C’est là qu’il a brisé toute la force des arcs, * le bouclier, le glaive et la guerre.
+/pst/Vous projetez un merveilleux éclat du haut des montagnes éternelles ; * tous ceux dont le cœur était rempli de folie ont été consternés.
+/pst/Ils ont dormi leur sommeil, * et tous ces hommes de richesses n’ont rien trouvé dans leurs mains.
+/pst/À votre menace, ô Dieu de Jacob, * se sont endormis ceux qui étaient montés sur des chevaux.
+/pst/Vous êtes terrible, et qui pourra vous résister * au moment de votre colère ? 
+/pst/Du Ciel, vous avez fait entendre la sentence ; * la terre a tremblé et s’est tue,
+/pst/Lorsque Dieu s’est levé pour rendre justice, * afin de sauver tous ceux qui sont doux sur la terre.
+/pst/Aussi la pensée de l’homme vous louera, * et le souvenir qui lui restera vous fera fête.
+/pst/Faites des vœux, et acquittez-les au Seigneur votre Dieu, * vous tous qui des alentours apportez des présents
+/pst/A ce Dieu terrible, qui ôte la vie aux princes, * qui est terrible aux rois de la terre.
+/tra/Ant. Dans la paix il a fixé son séjour, et à Sion sa demeure.
 /tra/Ant. Je suis comme un homme fini, libre parmi les morts.
-/com/Le neuviÃ¨me Psaume (87), qui hier faisait partie de lâ€™Office de la nuit, est employÃ© de nouveau aujourdâ€™hui. On y entend le Christ demander Ã  son PÃ¨re quâ€™il daigne le retirer dâ€™entre les morts. Assez longtemps il a Ã©tÃ© plongÃ© dans les tÃ©nÃ¨bres du tombeau ; il est temps quâ€™il revienne Ã  la vie.
+/com/Le neuvième Psaume (87), qui hier faisait partie de l’Office de la nuit, est employé de nouveau aujourd’hui. On y entend le Christ demander à son Père qu’il daigne le retirer d’entre les morts. Assez longtemps il a été plongé dans les ténèbres du tombeau ; il est temps qu’il revienne à la vie.
 /sttps/Psaume 87
+/pst1/Seigneur, Dieu de mon salut, * devant vous, la nuit, j’ai crié.
+/pst/Que ma prière pénètre jusqu’à vous ; * prêtez l’oreille à ma supplication.
+/pst/Car mon âme est remplie de maux, * et ma vie s’approche du séjour des morts.
+/pst/On me compte parmi ceux qui descendent dans la fosse ; * je suis devenu comme un homme dénué de tout secours, abandonné parmi les morts ;
+/pst/Comme les blessés qui dorment dans les sépulcres, dont vous ne vous souvenez plus, * et qui ont été repoussés de votre main.
+/pst/Ils m’ont mis dans une fosse profonde, * dans des lieux ténébreux et à l’ombre de la mort.
+/pst/Votre fureur s’est appesantie sur moi, * et vous avez fait passer sur moi tous vos flots.
+/pst/Vous avez éloigné de moi ceux qui me connaissaient ; * ils ont fait de moi l’objet de leur abomination.
+/pst/J’ai été livré, et sans pouvoir sortir ; * mes yeux se sont affaiblis par l’affliction.
+/pst/J’ai crié vers vous, Seigneur, tout le jour ; * j’ai étendu vers vous mes mains.
+/pst/Ferez-vous des miracles pour les morts ? * Ou les médecins les ressusciteront-ils, afin qu’ils vous louent ?
+/pst/Quelqu’un racontera-t-il dans le sépulcre votre miséricorde, * et votre vérité dans le tombeau ?
+/pst/Vos merveilles seront-elles connues dans les ténèbres, * et votre justice dans la terre de l’oubli ?
+/pst/Et moi, Seigneur, je crie vers vous, * et le matin ma prière va au-devant de vous.
+/pst/Pourquoi, Seigneur, rejetez-vous ma prière, * et détournez-vous de moi votre visage ?
+/pst/Je suis pauvre et dans les travaux depuis ma jeunesse ; * et, après avoir été exalté, j’ai été humilié et troublé.
+/pst/Votre colère a passé sur moi, * et vos terreurs m’ont épouvanté.
+/pst/Elles m’ont environné comme l’eau tout le jour ; * elles m’ont environné toutes ensemble.
+/pst/Vous avez éloigné de moi mes amis et mes proches, * et ceux qui me connaissaient, à cause de ma misère.
 /tra/Ant. Je suis comme un homme fini, libre parmi les morts.
-/tra/v Sa tente est Ã  JÃ©rusalem.
+/tra/v Sa tente est à Jérusalem.
 /tra/r Sa demeure en Sion.
-/tra/Notre PÃ¨re =(en silence)=
-/com/Au troisiÃ¨me Nocturne, la sainte Ã‰glise continue de lire, dans lâ€™Ã‰pÃ®tre aux HÃ©breux, la doctrine de saint Paul sur la vertu du sang divin. Lâ€™ApÃ´tre explique comment le Testament du Christ en notre laveur nâ€™a pu avoir dâ€™effet que par sa mort.
-/stt/LeÃ§on 7[break]De l'Ã©pÃ®tre du bienheureux apÃ´tre Paul aux HÃ©breux
-/ref/Hb. 9, 11-14
-/tralett/M[NJ]Ais le Christ Ã©tant venu comme pontife des biens futurs, a traversÃ© un tabernacle plus grand et plus parfait, qui nâ€™a pas Ã©tÃ© fait de main dâ€™homme, câ€™est-Ã -dire, qui nâ€™appartient point Ã  cette crÃ©ation, et il est entrÃ© une fois pour toutes dans le sanctuaire, non avec le sang des boucs ou des veaux, mais avec son propre sang, ayant obtenu une rÃ©demption Ã©ternelle. Car si le sang des boucs et des taureaux, et lâ€™aspersion faite avec la cendre dâ€™une gÃ©nisse, sanctifient ceux qui sont souillÃ©s, de maniÃ¨re Ã  procurer la puretÃ© de la chair, combien plus le sang du Christ, qui par lâ€™Esprit-Saint sâ€™est offert lui-mÃªme sans tache Ã  Dieu, purifiera-t-il notre conscience des Å“uvres mortes, pour que nous servions le Dieu vivant ?
-/com/Par exception en cet office du Samedi Saint, ce rÃ©pons nâ€™a trait quâ€™aux complots des mÃ©chants ; la mÃ©lodie y emprunte leur violence. Tout est fort, dans un mouvement dÃ©cidÃ©, sans grandes nuances, sur les formules ordinaires du 8e mode, sans que rien soit spÃ©cialement mis en relief.
-/tra/Resp. Les rois de la terre se sont dressÃ©s et les chefs ont complotÃ© contre le Seigneur et contre son Christ. V/ Pourquoi les nations ont-elles frÃ©mi ? Pourquoi les peuples ont-ils tramÃ© de vains complots ?
-/stt/LeÃ§on 8
-/ref/Hb. 9, 15-18
-/tralett/C[NJ]â€™est pourquoi il est le mÃ©diateur dâ€™un nouveau testament, afin que, la mort Ã©tant intervenue pour le rachat des iniquitÃ©s commises sous le premier testament, ceux qui sont appelÃ©s reÃ§oivent la promesse de lâ€™hÃ©ritage Ã©ternel. Car, lÃ  oÃ¹ il y a un testament, il est nÃ©cessaire que la mort du testateur intervienne. En effet, un testament nâ€™est valable que par la mort, puisquâ€™il nâ€™a point de force tant que le testateur est vivant. Câ€™est pourquoi le premier testament nâ€™a pas Ã©tÃ© inaugurÃ© sans effusion de sang.
-/com/Le rÃ©pons Ã†stimÃ¡tus sum est de nouveau un 4e mode, avec peut-Ãªtre encore une nuance plus accentuÃ©e de douceur et dâ€™intÃ©rioritÃ©. Mis sur les lÃ¨vres du Seigneur durant son sÃ©jour dans les limbes, il Ã©voque pour la derniÃ¨re fois dans les rÃ©pons et de maniÃ¨re Ã©mouvante toute la suavitÃ© et lâ€™inaltÃ©rable paix de son Ã¢me, qui lâ€™accompagnÃ¨rent jusque dans la tombe.
-/tra/Resp. DÃ©jÃ  lâ€™on me met au rang de ceux qui descendent dans la fosse. Je suis devenu un homme abandonnÃ©, sans secours au milieu des morts. V/ Ils mâ€™ont prÃ©cipitÃ© au fond de la fosse, dans les tÃ©nÃ¨bres et les ombres de la mort.
-/stt/LeÃ§on 9
-/ref/Hb. 9, 19-22
-/tralett/E[NJ]N effet MoÃ¯se, aprÃ¨s avoir proclamÃ© devant tout le peuple tous les commandements de la loi, prit le sang des veaux et des boucs, avec de lâ€™eau, de la laine Ã©carlate et de lâ€™hysope, et il en aspergea le livre mÃªme et tout le peuple, en disant : Ceci est le sang de lâ€™alliance que Dieu a ordonnÃ©e pour vous. Il aspergea aussi de sang le tabernacle et tous les ustensiles du culte : et, selon la loi, presque tout est purifiÃ© avec du sang, et sans effusion de sang il nâ€™y a pas de pardon
-/com/SepÃºlto DÃ³mino, le dernier rÃ©pons, est, il faut le reconnaÃ®tre, le moins intÃ©ressant des rÃ©pons de ces trois jours saints. Câ€™est un simple rappel des derniers Ã©vÃ©nements de la Passion : la fermeture du sÃ©pulcre, et la garde de soldats qui y a Ã©tÃ© mise.
-/tra/Resp. AprÃ¨s quâ€™on eut enseveli le Seigneur, le tombeau fut scellÃ©, et lâ€™on roula une pierre pour fermer lâ€™entrÃ©e du sÃ©pulcre. On y plaÃ§a des soldats pour le garder. V/ Les chefs des prÃªtres allÃ¨rent trouver Pilate et leur demandÃ¨rent de placer des soldats pour garder le tombeau.
-/tt/Ã€ Laudes
-/tra/Ant. O mort, je serai ta mort ; je serai ta morsure, Ã´ enfer !
-/com/Le premier Psaume des Laudes est le Miserere (50).
+/tra/Notre Père =(en silence)=
+/com/Au troisième Nocturne, la sainte Église continue de lire, dans l’Épître aux Hébreux, la doctrine de saint Paul sur la vertu du sang divin. L’Apôtre explique comment le Testament du Christ en notre faveur n’a pu avoir d’effet que par sa mort.
+/stt/Leçon 7[break]De l'Épître du bienheureux apôtre Paul aux Hébreux
+/ref/Hb. IX. 11-14
+/tralett/M[NJ]Ais le Christ étant venu comme pontife des biens futurs, a traversé un tabernacle plus grand et plus parfait, qui n’a pas été fait de main d’homme, c’est-à-dire, qui n’appartient point à cette création, et il est entré une fois pour toutes dans le sanctuaire, non avec le sang des boucs ou des veaux, mais avec son propre sang, ayant obtenu une rédemption éternelle. Car si le sang des boucs et des taureaux, et l’aspersion faite avec la cendre d’une génisse, sanctifient ceux qui sont souillés, de manière à procurer la pureté de la chair, combien plus le sang du Christ, qui par l’Esprit-Saint s’est offert lui-même sans tâche à Dieu, purifiera-t-il notre conscience des œuvres mortes, pour que nous servions le Dieu vivant ?
+/com/Par exception en cet office du Samedi Saint, ce répons n’a trait qu’aux complots des méchants ; la mélodie y emprunte leur violence. Tout est fort, dans un mouvement décidé, sans grandes nuances, sur les formules ordinaires du huitième mode, sans que rien soit spécialement mis en relief.
+/tra/Rep. Les rois de la terre se sont dressés et les chefs ont comploté contre le Seigneur et contre son Christ. v Pourquoi les nations ont-elles frémi ? Pourquoi les peuples ont-ils tramé de vains complots ?
+/stt/Leçon 8
+/ref/Hb. IX. 15-18
+/tralett/C[NJ]’est pourquoi il est le médiateur d’un nouveau testament, afin que, la mort étant intervenue pour le rachat des iniquités commises sous le premier testament, ceux qui sont appelés reçoivent la promesse de l’héritage éternel. Car, là où il y a un testament, il est nécessaire que la mort du testateur intervienne. En effet, un testament n’est valable que par la mort, puisqu’il n’a point de force tant que le testateur est vivant. C’est pourquoi le premier testament n’a pas été inauguré sans effusion de sang.
+/com/Le répons [Æstimátus sum] est de nouveau un quatrième mode, avec peut-être encore une nuance plus accentuée de douceur et d’intériorité. Mis sur les lèvres du Seigneur durant son séjour dans les limbes, il évoque pour la dernière fois dans les répons et de manière émouvante toute la suavité et l’inaltérable paix de son âme, qui l’accompagnèrent jusque dans la tombe.
+/tra/Rep. Déjà l’on me met au rang de ceux qui descendent dans la fosse. Je suis devenu un homme abandonné, sans secours au milieu des morts. v Ils m’ont précipité au fond de la fosse, dans les ténèbres et les ombres de la mort.
+/stt/Leçon 9
+/ref/Hb. IX, 19-22
+/tralett/E[NJ]N effet Moïse, après avoir proclamé devant tout le peuple tous les commandements de la loi, prit le sang des veaux et des boucs, avec de l’eau, de la laine écarlate et de l’hysope, et il en aspergea le livre même et tout le peuple, en disant : ceci est le sang de l’alliance que Dieu a ordonnée pour vous. Il aspergea aussi de sang le tabernacle et tous les ustensiles du culte : et, selon la loi, presque tout est purifié avec du sang, et sans effusion de sang il n’y a pas de pardon.
+/com/[Sepúlto Dómino], le dernier répons, est, il faut le reconnaître, le moins intéressant des répons de ces trois jours saints. C’est un simple rappel des derniers événements de la Passion : la fermeture du sépulcre, et la garde de soldats qui y a été mise.
+/tra/Rep. Après qu’on eut enseveli le Seigneur, le tombeau fut scellé, et l’on roula une pierre pour fermer l’entrée du sépulcre. On y plaça des soldats pour le garder. v Les chefs des prêtres allèrent trouver Pilate et lui demandèrent de placer des soldats pour garder le tombeau.
+/tt/À Laudes
+/tra/Ant. O mort, je serai ta mort ; je serai ta morsure, ô enfer !
 /sttps/Psaume 50
-/tra/Ant. O mort, je serai ta mort ; je serai ta morsure, Ã´ enfer !
-/tra/Ant. On le pleurera comme un fils unique ; car malgrÃ© son innocence le Seigneur a Ã©tÃ© mis Ã  mort.
-/com/Le deuxiÃ¨me Psaume (91), indiquÃ© par son titre au Psautier comme devant Ãªtre chantÃ© le jour du sabbat, cÃ©lÃ¨bre la magnificence du Seigneur en ses ouvrages, la vanitÃ© des desseins des pÃ©cheurs, le triomphe assurÃ© du juste par excellence, la bienheureuse espÃ©rance de ceux qui le suivent. [1]
+/pst1/Ayez pitié de moi, ô Dieu, * selon votre grande miséricorde.
+/pst/Et selon la multitude de vos bontés, * effacez mon iniquité.
+/pst/Lavez-moi de plus en plus de mon iniquité, * et purifiez-moi de mon péché.
+/pst/Car je connais mon iniquité, * et mon péché est toujours devant moi.
+/pst/J’ai péché contre vous seul, et j’ai fait ce qui est mal à vos yeux, * afin que vous soyez trouvé juste dans vos paroles, et victorieux lorsqu’on vous jugera.
+/pst/Car j’ai été conçu dans l’iniquité, * et ma mère m’a conçu dans le péché.
+/pst/Car vous avez aimé la vérité ; * vous m’avez révélé les secrets et les mystères de votre sagesse.
+/pst/Vous m’arroserez avec l’hysope, et je serai purifié ; * vous me laverez, et je deviendrai plus blanc que la neige.
+/pst/Vous me ferez entendre une parole de joie et de bonheur, * et mes os, qui sont brisés et humiliés, tressailliront d’allégresse.
+/pst/Détournez votre face de mes péchés, * et effacez toutes mes iniquités.
+/pst/Ô Dieu, créez en moi un cœur pur, * et renouvelez un esprit droit dans mon sein.
+/pst/Ne me rejetez pas de devant votre face, * et ne retirez pas de moi votre Esprit-Saint.
+/pst/Rendez-moi la joie de votre salut, * et affermissez-moi par un esprit généreux.
+/pst/J’enseignerai vos voies aux méchants, * et les impies se convertiront à vous.
+/pst/Délivrez-moi du sang que j’ai versé, ô Dieu, Dieu de mon salut, * et ma langue célébrera avec joie votre justice.
+/pst/Seigneur, vous ouvrirez mes lèvres, * et ma bouche publiera vos louanges.
+/pst/Car si vous aviez désiré un sacrifice, je vous l’aurais offert ; * mais vous ne prenez pas plaisir aux holocaustes.
+/pst/Le sacrifice digne de Dieu, c’est un esprit brisé ; * vous ne mépriserez pas, ô Dieu, un cœur contrit et humilié.
+/pst/Seigneur, traitez favorablement Sion dans votre bonté, * afin que les murs de Jérusalem soient bâtis.
+/pst/Alors vous agréerez un sacrifice de justice, les oblations et les holocaustes ; * alors on offrira de jeunes taureaux sur votre autel. 
+/tra/Ant. O mort, je serai ta mort ; je serai ta morsure, ô enfer !
+/tra/Ant. On le pleurera comme un fils unique ; car malgré son innocence le Seigneur a été mis à mort.
+/com/Le deuxième Psaume (91), indiqué par son titre au Psautier comme devant être chanté le jour du sabbat, célèbre la magnificence du Seigneur en ses ouvrages, la vanité des desseins des pécheurs, le triomphe assuré du juste par excellence, la bienheureuse espérance de ceux qui le suivent.
 /sttps/Psaume 91
-/tra/Ant. On le pleurera comme un fils unique ; car malgrÃ© son innocence le Seigneur a Ã©tÃ© mis Ã  mort.
+/pst1/Il est bon de louer le Seigneur * et de chanter votre Nom, ô Très-Haut ;
+/pst/Pour annoncer le matin votre miséricorde, * et votre vérité durant la nuit,
+/pst/Sur l’instrument à dix cordes, * joint au chant, et sur la harpe.
+/pst/Car vous m’avez réjoui, Seigneur, par vos œuvres, * et je tressaille d’allégresse au sujet des ouvrages de vos mains.
+/pst/Que vos œuvres sont magnifiques, Seigneur ! * que vos pensées sont profondes et impénétrables !
+/pst/L’homme stupide ne les connaîtra pas, * et l’insensé ne les comprendra pas.
+/pst/Lorsque les pécheurs auront germé comme l’herbe, * et que tous ceux qui commettent l’iniquité se seront manifestés,
+/pst/Ce sera pour périr à jamais, * mais vous, Seigneur, vous êtes éternellement le Très-Haut.
+/pst/Car voici, Seigneur, que vos ennemis, voici que vos ennemis vont périr, * et tous ceux qui commettent l’iniquité seront dispersés.
+/pst/Et ma corne s’élèvera comme celle de la licorne, * et ma vieillesse se renouvellera par votre abondante miséricorde.
+/pst/Et mon œil a regardé mes ennemis avec mépris, * et mon oreille entendra les cris d’angoisse des méchants qui s’élèvent contre moi.
+/pst/Le juste fleurira comme le palmier, * et il se multipliera comme le cèdre du Liban.
+/pst/Plantés dans la maison du Seigneur, * ils fleuriront dans les parvis de la maison de notre Dieu.
+/pst/Ils se multiplieront de nouveau dans une vieillesse comblée de biens, * et ils seront remplis de vigueur,
+/pst/Pour publier que le Seigneur notre Dieu est juste, * et qu’il n’y a point d’iniquité en lui.
+/tra/Ant. On le pleurera comme un fils unique ; car malgré son innocence le Seigneur a été mis à mort.
 /tra/Ant. Regardez, vous, tous les peuples, et voyez ma douleur.
-/com/Le troisiÃ¨me Psaume (63) est celui-lÃ  mÃªme dont saint Augustin nous donne au nom de lâ€™Ã‰glise le commentaire officiel dans les LeÃ§ons du deuxiÃ¨me Nocturne, en ces jours du Vendredi et du Samedi saints.
+/com/Le troisième Psaume (63) est celui-là même dont saint Augustin nous donne au nom de l’Église le commentaire officiel dans les Leçons du deuxième Nocturne, en ces jours du Vendredi et du Samedi saints.
 /sttps/Psaume 63
+/pst1/Exaucez, ô Dieu, ma prière lorsque je vous implore ; * délivrez mon âme de la crainte de l’ennemi.
+/pst/Vous m’avez protégé contre l’assemblée des méchants, * contre la multitude de ceux qui commettent l’iniquité.
+/pst/Car ils ont aiguisé leurs langues comme un glaive, * et ils ont tendu leur arc, chose amère, pour percer de flèches l’innocent dans l’obscurité.
+/pst/Ils le perceront soudain, et ils n’éprouveront aucune crainte ; * ils se sont affermis dans leur résolution perverse.
+/pst/Ils se sont concertés pour cacher des pièges ; * ils ont dit : Qui les verra ?
+/pst/Ils ont inventé des crimes ; * ils se sont épuisés dans une profonde recherche.
+/pst/L’homme pénétrera au fond de son cœur, * et Dieu sera exalté.
+/pst/Les blessures qu’ils font sont comme celles des flèches des petits enfants, * et leurs langues ont perdu leur force en se tournant contre eux-mêmes.
+/pst/Tous ceux qui les voyaient ont été remplis de trouble, * et tout homme a été saisi de frayeur.
+/pst/Et ils ont annoncé les œuvres de Dieu, * et ils ont compris ses actes.
+/pst/Le juste se réjouira dans le Seigneur, et espérera en lui ; * et tous ceux qui ont le cœur droit se féliciteront.
 /tra/Ant. Regardez, vous, tous les peuples, et voyez ma douleur.
-/tra/Ant. A la porte du tombeau, Seigneur, arrache ma vie.
-/com/Le cantique dâ€™Ã‰zÃ©chias, que lâ€™Ã‰glise emploie le Mardi Ã  Laudes, est substituÃ© aujourdâ€™hui Ã  celui du DeutÃ©ronome qui est propre au Samedi, mais qui nâ€™aurait aucune relation avec le mystÃ¨re de ce jour. Ã‰zÃ©chias implorant de Dieu, sur sa couche, le retour Ã  la vie, est le type du Christ dans le tombeau, suppliant son PÃ¨re de le rendre promptement Ã  la lumiÃ¨re du jour.
-/stt/Cantique d'Ã‰zÃ©chias
-/ref/Is. 38, 10-23
-/pst1/Jâ€™ai dit : Au milieu de mes jours, jâ€™irai aux portes du tombeau.
-/pst/Je cherche en vain le reste de mes annÃ©es. * Jâ€™ai dit : Je ne verrai plus le Seigneur Dieu dans la terre des vivants ;
-/pst/Je ne verrai plus aucun homme, * ni dâ€™habitant du repos.
-/pst/Le temps de ma vie mâ€™est enlevÃ©, et il est roulÃ© loin de moi * comme une tente de berger.
-/pst/Ma vie a Ã©tÃ© coupÃ©e comme par le tisserand ; il mâ€™a retranchÃ© tandis que jâ€™ourdissais encore. * Du matin au soir vous en finirez avec moi.
-/pst/Jâ€™espÃ©rais jusquâ€™au matin ; * comme un lion il a brisÃ© tous mes os.
-/pst/Du matin au soir vous en finirez avec moi. * Je criais comme le petit de lâ€™hirondelle, je gÃ©missais comme la colombe.
-/pst/Mes yeux se sont lassÃ©s * Ã  force de regarder en haut.
-/pst/Seigneur, je souffre violence, rÃ©pondez pour moi. * Que dirai-je, et que me rÃ©pondra-t-il, puisque câ€™est lui qui a fait cela ?
-/pst/Je repasserai devant vous toutes mes annÃ©es, * dans lâ€™amertume de mon Ã¢me.
-/pst/Seigneur, si câ€™est ainsi que lâ€™on vit, si la vie de mon esprit consiste en ces choses, vous me chÃ¢tierez, et vous me rendrez la vie. * Je trouverai la paix dans mon affliction la plus amÃ¨re.
-/pst/Mais vous, vous avez dÃ©livrÃ© mon Ã¢me, pour lâ€™empÃªcher de pÃ©rir ; * vous avez jetÃ© derriÃ¨re vous tous mes pÃ©chÃ©s.
-/pst/Car le sÃ©jour des morts ne vous bÃ©nira pas, et la mort ne vous louera point ; * ceux qui descendent dans la fosse nâ€™espÃ©reront plus en votre fidÃ©litÃ©.
-/pst/Câ€™est le vivant, câ€™est le vivant qui vous louera, comme je le fais aujourdâ€™hui ;  * le pÃ¨re fera connaÃ®tre Ã  ses fils votre vÃ©ritÃ©.
+/tra/Ant. À la porte du tombeau, Seigneur, arrachez ma vie.
+/com/Le cantique d’Ézéchias, que l’Église emploie le Mardi à Laudes, est substitué aujourd’hui à celui du Deutéronome qui est propre au Samedi, mais qui n’aurait aucune relation avec le mystère de ce jour. Ézéchias implorant de Dieu, sur sa couche, le retour à la vie, est le type du Christ dans le tombeau, suppliant son Père de le rendre promptement à la lumière du jour.
+/stt/Cantique d'Ézéchias
+/ref/Is. XXXVIII, 10-20
+/pst1/J’ai dit : au milieu de mes jours, * j’irai aux portes du tombeau.
+/pst/Je cherche en vain le reste de mes années. * J’ai dit : Je ne verrai plus le Seigneur Dieu dans la terre des vivants ;
+/pst/Je ne verrai plus aucun homme, * ni d’habitant du repos.
+/pst/Le temps de ma vie m’est enlevé, et il est roulé loin de moi * comme une tente de berger.
+/pst/Ma vie a été coupée comme par le tisserand ; il m’a retranché tandis que j’ourdissais encore. * Du matin au soir vous en finirez avec moi.
+/pst/J’espérais jusqu’au matin ; * comme un lion il a brisé tous mes os.
+/pst/Du matin au soir vous en finirez avec moi. * Je criais comme le petit de l’hirondelle, je gémissais comme la colombe.
+/pst/Mes yeux se sont lassés * à force de regarder en haut.
+/pst/Seigneur, je souffre violence, répondez pour moi. * Que dirai-je, et que me répondra-t-il, puisque c’est lui qui a fait cela ?
+/pst/Je repasserai devant vous toutes mes années, * dans l’amertume de mon âme.
+/pst/Seigneur, si c’est ainsi que l’on vit, si la vie de mon esprit consiste en ces choses, vous me châtierez, et vous me rendrez la vie. * Je trouverai la paix dans mon affliction la plus amère.
+/pst/Mais vous, vous avez délivré mon âme, pour l’empêcher de périr ; * vous avez jeté derrière vous tous mes péchés.
+/pst/Car le séjour des morts ne vous bénira pas, et la mort ne vous louera point ; * ceux qui descendent dans la fosse n’espéreront plus en votre fidélité.
+/pst/C’est le vivant, c’est le vivant qui vous louera, comme je le fais aujourd’hui ;  * le père fera connaître à ses fils votre vérité.
 /pst/Seigneur, sauvez-moi, * et nous chanterons nos cantiques tous les jours de notre vie dans la maison du Seigneur.
-/tra/Ant. A la porte du tombeau, Seigneur, arrache ma vie.
-/tra/Ant. O vous tous qui passez par le chemin, arrÃªtez-vous et voyez sâ€™il est une douleur pareille Ã  ma douleur.
-/com/Le dernier Psaume (150) des Laudes est aussi le dernier du Psautier, rÃ©sumant dans la louange le dernier mot de toutes choses.
+/tra/Ant. À la porte du tombeau, Seigneur, arrachez ma vie.
+/tra/Ant. Ô vous tous qui passez par le chemin, arrêtez-vous et voyez s’il est une douleur pareille à ma douleur.
+/com/Le dernier Psaume (150) des Laudes est aussi le dernier du Psautier, résumant dans la louange le dernier mot de toutes choses.
 /sttps/Psaume 150
-/pst1/Alleluia. Louez le Seigneur dans son sanctuaire ; * louez-le dans le firmament de sa puissance.
-/pst/Louez-le pour ses actes Ã©clatants ; * louez-le selon lâ€™immensitÃ© de sa grandeur.
+/pst1/Louez le Seigneur dans son sanctuaire ; * louez-le dans le firmament de sa puissance.
+/pst/Louez-le pour ses actes éclatants ; * louez-le selon l’immensité de sa grandeur.
 /pst/Louez-le au son de la trompette ; * louez-le sur le luth et la harpe.
-/pst/Louez-le avec le tambourin et en chÅ“ur ; * louez-le avec les instruments Ã  cordes et avec lâ€™orgue.
-/pst/Louez-le avec des cymbales retentissantes ; louez-le avec des cymables dâ€™allÃ©gresse. *
-/pst/Que tout ce qui respire loue le Seigneur. Alleluia.
-/tra/Ant. O vous tous qui passez par le chemin, arrÃªtez-vous et voyez sâ€™il est une douleur pareille Ã  ma douleur.
-/tra/v Ma chair mÃªme repose dans l'espÃ©rance.
-/tra/r Car tu n'abandonneras pas mon Ã¢me au sÃ©jour des morts.
-/tra/Ant. Les femmes assises prÃ¨s du tombeau se lamentaient, pleurant le Seigneur.
+/pst/Louez-le avec le tambourin et en chœur ; * louez-le avec les instruments à cordes et avec l’orgue.
+/pst/Louez-le avec des cymbales retentissantes ; louez-le avec des cymbales d’allégresse. * Que tout ce qui respire loue le Seigneur.
+/tra/Ant. Ô vous tous qui passez par le chemin, arrêtez-vous et voyez s’il est une douleur pareille à ma douleur.
+/tra/v Ma chair même repose dans l'espérance.
+/tra/r Car vous n'abandonnerez pas mon âme au séjour des morts.
+/tra/Ant. Les femmes assises près du tombeau se lamentaient, pleurant le Seigneur.
 /stt/Cantique de Zacharie
-/ref/Lc 1, 68-79
-/pst1/BÃ©ni soit le Seigneur, le Dieu dâ€™IsraÃ«l, de ce quâ€™il a visitÃ© et rachetÃ© son peuple,
-/pst/et nous a suscitÃ© un puissant Sauveur dans la maison de David, son serviteur,
-/pst/ainsi quâ€™il a dit par la bouche de ses saints prophÃ¨tes des temps anciens,
-/pst/quâ€™il nous dÃ©livrerait de nos ennemis et de la main de tous ceux qui nous haÃ¯ssent,
-/pst/pour exercer sa misÃ©ricorde envers nos pÃ¨res, et se souvenir de son alliance sainte,
-/pst/selon le serment quâ€™il a jurÃ© Ã  Abraham, notre pÃ¨re, de nous accorder cette grÃ¢ce,
-/pst/quâ€™Ã©tant dÃ©livrÃ©s de la main de nos ennemis, nous le servions sans crainte,
-/pst/marchant devant lui dans la saintetÃ© et la justice, tous les jours de notre vie.
-/pst/Et toi, petit enfant, tu seras appelÃ© le prophÃ¨te du TrÃ¨s-Haut : car tu marcheras devant la face du Seigneur, pour prÃ©parer ses voies,
-/pst/afin de donner Ã  son peuple la connaissance du salut, pour la rÃ©mission de leurs pÃ©chÃ©s,
-/pst/par les entrailles de la misÃ©ricorde de notre Dieu, grÃ¢ce auxquelles le soleil levant nous a visitÃ©s dâ€™en haut,
-/pst/pour Ã©clairer ceux qui sont assis dans les tÃ©nÃ¨bres et Ã  lâ€™ombre de la mort, pour diriger nos pas dans la voie de la paix.
-/tra/Ant. Les femmes assises prÃ¨s du tombeau se lamentaient, pleurant le Seigneur.
-/com/AprÃ¨s la rÃ©pÃ©tition de cette Antienne, le chÅ“ur chante, sur un mode mÃ©lodieux et touchant, les paroles suivantes que lâ€™Ã‰glise rÃ©pÃ¨te, en ces jours, Ã  la fin de tous ses Offices ; mais aujourdâ€™hui elle ne se borne plus Ã  annoncer la mort du Christ. Elle complÃ¨te le discours de lâ€™ApÃ´tre, en ajoutant le reste du texte, dans lequel est prÃ©dite la gloire de lâ€™Homme-Dieu, vainqueur des ombres du tombeau.
-/tralett/L[NJ]E Christ sâ€™est fait pour nous obÃ©issant jusquâ€™Ã  la mort, et la mort sur une croix. Câ€™est pourquoi Dieu lâ€™a exaltÃ©, et il lui a donnÃ© le nom qui est au-dessus de tout nom.
-/rub//tra/Notre PÃ¨re =(en silence)=
+/ref/Lc. 1, 68-79
+/pst1/Béni soit le Seigneur, le Dieu d’Israël, * de ce qu’il a visité et racheté son peuple,
+/pst/Et nous a suscité un puissant Sauveur * dans la maison de David, son serviteur,
+/pst/Ainsi qu’il a dit par la bouche de ses saints, * prophètes des temps anciens,
+/pst/Qu’il nous délivrerait de nos ennemis * et de la main de tous ceux qui nous haïssent,
+/pst/Pour exercer sa miséricorde envers nos pères, * et se souvenir de son alliance sainte,
+/pst/Selon le serment qu’il a juré à Abraham, notre père, * de nous accorder cette grâce,
+/pst/Qu’étant délivrés de la main de nos ennemis, * nous le servions sans crainte,
+/pst/Marchant devant lui dans la sainteté et la justice, * tous les jours de notre vie.
+/pst/Et toi, petit enfant, tu seras appelé le prophète du Très-Haut : * car tu marcheras devant la face du Seigneur, pour préparer ses voies,
+/pst/Afin de donner à son peuple la connaissance du salut, * pour la rémission de leurs péchés,
+/pst/Par les entrailles de la miséricorde de notre Dieu, * grâce auxquelles le soleil levant nous a visités d’en haut,
+/pst/Pour éclairer ceux qui sont assis dans les ténèbres et à l’ombre de la mort, * pour diriger nos pas dans la voie de la paix.
+/tra/Ant. Les femmes assises près du tombeau se lamentaient, pleurant le Seigneur.
+/com/Après la répétition de cette Antienne, le chœur chante, sur un mode mélodieux et touchant, les paroles suivantes que l’Église répète, en ces jours, à la fin de tous ses Offices ; mais aujourd’hui elle ne se borne plus à annoncer la mort du Christ. Elle complète le discours de l’Apôtre, en ajoutant le reste du texte, dans lequel est prédite la gloire de l’Homme-Dieu, vainqueur des ombres du tombeau.
+/tralett/L[NJ]E Christ s’est fait pour nous obéissant jusqu’à la mort, et la mort sur une croix. C’est pourquoi Dieu l’a exalté, et il lui a donné le nom qui est au-dessus de tout nom.
+/tra/Notre Père =(en silence).=
+/rub/En certains lieux, on récite ici le [Miserere].
 /stt/Oraison
-/tralett/F[NJ]Aites, Dieu tout-puissant qu'en devanÃ§ant par la foi de notre attente la rÃ©surrection de votre Fils, nous en obtenions la gloire.
+/tralett/F[NJ]Aites, Dieu tout-puissant qu'en devançant par la foi de notre attente la résurrection de votre Fils, nous en obtenions la gloire.
 /rub/On conclut en silence
-/tra/Par Notre Seigneur JÃ©sus-Christ votre Fils, qui Ã©tant Dieu vit et rÃ¨gne avec Vous en l'unitÃ© du Saint-Esprit, pour les siÃ¨cles des siÃ¨cles. AInsi soit-il.
+/tra/Par Notre Seigneur Jésus-Christ votre Fils, qui étant Dieu vit et règne avec Vous en l'unité du Saint-Esprit, pour les siècles des siècles. Ainsi soit-il.

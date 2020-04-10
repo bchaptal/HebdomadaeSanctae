@@ -7,7 +7,6 @@ function main(){
 }
 function mySetup(){
     myDocument = app.documents.add();
-    //Set the measurement units on mm
     with(myDocument.viewPreferences){
     	horizontalMeasurementUnits = MeasurementUnits.inches;
     	verticalMeasurementUnits = MeasurementUnits.inches;

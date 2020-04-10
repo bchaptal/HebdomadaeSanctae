@@ -1,11 +1,16 @@
-%name: 15-7c;
 initial-style: 0;
+centering-scheme: latin;
 %annotation: 7.c;
 %user-notes: Psalm 15.;
-centering-scheme: latin;
 %fontsize: 12;
 %spacing: vichi;
 %font: OFLSortsMillGoudy;
 %width: 4.84;
-%height: 2;%%
-(c3)1.( )Con(hg)sér(hi)va(i) me,(i) Dó(i)mi(i)ne,(i) quó(i)ni(i)am(i) spe(i)rá(i)vi(i) in(i) te :(h.) †()Dí(i)xi(i) Dó(i)mi(i)no :(i) Dé(i)us(i) <b>mé</b>(k jr)us(j) <b>és</b>(i jr) tu,(j.) <v>\greheightstar</v>(:)quó(i)ni(i)am(i) bo(i)nó(i)rum(i) me(i)<b>ó</b>(j)rum(ir) non(i) <b>é</b>(h hr)ges.(gh..) (::)<i>Flexa :</i>()ví(i)as(i) ví(i)tæ,(h. ) †(i i i) (::)
+%height: 2;
+%%
+(c3)
+1.( )
+Con(hg)sér(hi)va(i) me,(i) Dó(i)mi(i)ne,(i) quó(i)ni(i)am(i) spe(i)rá(k jr)vi(j) in(i jr) te :(j.) <v>\greheightstar</v>(:)
+Dí(i)xi(i) Dó(i)mi(i)no :(i) Dé(i)us(i) mé(i)us(i) es(i) tu,(i) quó(i)ni(i)am(i) bo(i)nó(i)rum(i) me(i)<b>ó</b>(j)rum(ir) non(i) <b>é</b>(h hr)ges.(gh..) (::)
+<i>Flexa :</i>()
+ví(i)as(i) ví(i)tæ,(h. ) †(i i i) (::)

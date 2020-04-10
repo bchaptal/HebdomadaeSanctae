@@ -1,297 +1,321 @@
 /tt/Al primo Notturno
-/tra/Ant. In pace * insieme io dormir√≤ e riposer√≤.
+/tra/Ant. In pace * insieme io dormirÚ e riposerÚ.
+/com/ Il primo Salmo (4) Ë uno di quelli che la Chiesa recita ogni giorno nellíUfficio della Compieta, dal momento che esprime la fiducia con la quale il cristiano si appresta al riposo notturno. Questíoggi esso rammenta il riposo del Cristo nel sepolcro, ove dorme sicuro del suo prossimo risveglio.
 /stt/Salmo 4
-/pst1/Allorch√© lo invocai, mi esaud√¨ il Dio della mia giustizia: * nella tribolazione mi traesti al largo.
-/pst/Abbi piet√† di me, * ed ascolta la mia preghiera.
-/pst/Figli degli uomini, e fino a quando avrete duro il cuore? * perch√® amate la vanit√†, e cercate la menzogna?
-/pst/Or sappiate che il Signore ha reso mirabile il suo santo; * il Signore mi esaudir√† quando io lo invocher√≤.
+/pst1/AllorchÈ lo invocai, mi esaudÏ il Dio della mia giustizia: * nella tribolazione mi traesti al largo.
+/pst/Abbi piet‡ di me, * ed ascolta la mia preghiera.
+/pst/Figli degli uomini, e fino a quando avrete duro il cuore? * perchË amate la vanit‡, e cercate la menzogna?
+/pst/Or sappiate che il Signore ha reso mirabile il suo santo; * il Signore mi esaudir‡ quando io lo invocherÚ.
 /pst/Adiratevi [pure], ma non vogliate peccare; * le cose che dite nei vostri cuori, riandatele [respingetele] con compunzione nei vostri letti.
-/pst/Sacrificate un sacrificio di giustizia, e sperate nel Signore: * molti dicono: Chi ci far√† vedere il bene?
-/pst/La luce del tuo volto √® impressa sopra di noi, o Signore, * tu infondesti nel mio cuore la gioia.
+/pst/Sacrificate un sacrificio di giustizia, e sperate nel Signore: * molti dicono: Chi ci far‡ vedere il bene?
+/pst/La luce del tuo volto Ë impressa sopra di noi, o Signore, * tu infondesti nel mio cuore la gioia.
 /pst/Si sono moltiplicati * per l'abbondanza del loro frumento del loro vino e del loro olio.
-/pst/In pace insieme * io dormir√≤, e mi riposer√≤.
-/pst/Perch√© tu solo, o Signore, nella speranza * mi hai fondato.
-/tra/Ant. In pace insieme io dormir√≤ e riposer√≤.
-/tra/Ant. Egli abiter√† * nella tua dimora, riposer√† sul tuo santo monte.
+/pst/In pace insieme * io dormirÚ, e mi riposerÚ.
+/pst/PerchÈ tu solo, o Signore, nella speranza * mi hai fondato.
+/tra/Ant. In pace insieme io dormirÚ e riposerÚ.
+/tra/Ant. Egli abiter‡ * nella tua dimora, riposer‡ sul tuo santo monte.
+/com/Il secondo Salmo (14) celebra il gaudio che Ë riservato al giusto, Ë il riposo di cui sar‡ ricompensato dopo le sue fatiche. La Chiesa lo applica a Cristo, il Giusto per eccellenza, che Ë passato facendo del bene.
 /stt/Salmo 14
-/pst1/Signore, chi abiter√† nel tuo tabernacolo * o chi riposer√† sul tuo santo monte?
+/pst1/Signore, chi abiter‡ nel tuo tabernacolo * o chi riposer‡ sul tuo santo monte?
 /pst/Colui che vive senza macchia, * e pratica la giustizia:
-/pst/Colui che dice la verit√† nel suo cuore, * e non ha ordito frode con la sua lingua:
+/pst/Colui che dice la verit‡ nel suo cuore, * e non ha ordito frode con la sua lingua:
 /pst/Non ha fatto del male al suo prossimo * e non ha accolto maldicenza contro i suoi simili.
-/pst/Ai suoi occhi il maligno √® un niente, * ma egli onora quelli che temono il Signore.
-/pst/Colui che giura al suo prossimo e non lo inganna. * Non d√† il suo denaro ad usura, e non riceve regali contro l'innocente:
-/pst/Chi fa tali cose * non sar√† smosso in eterno.
-/tra/Ant. Egli abiter√† nella tua dimora, riposer√† sul tuo santo monte.
-/tra/Ant. La mia carne * riposer√† nella speranza.
+/pst/Ai suoi occhi il maligno Ë un niente, * ma egli onora quelli che temono il Signore.
+/pst/Colui che giura al suo prossimo e non lo inganna. * Non d‡ il suo denaro ad usura, e non riceve regali contro l'innocente:
+/pst/Chi fa tali cose * non sar‡ smosso in eterno.
+/tra/Ant. Egli abiter‡ nella tua dimora, riposer‡ sul tuo santo monte.
+/tra/Ant. La mia carne * riposer‡ nella speranza.
+/com/Il terzo Salmo (15), composto da Davide durante il suo esilio ai tempi di Saul, profetizza la resurrezione del Messia; a tal proposito fu citato da S. Pietro ai Giudei il giorno della Pentecoste. Colui che parla in questo divin Cantico dice che il suo corpo riposer‡ nella speranza, e che il Signore non gli far‡ provare la corruzione del sepolcro. Queste circostanze, che certo non si verificano in Davide, non possono riferirsi che a Cristo.
 /stt/Salmo 15
-/pst1/Conservami, o Signore, perch√© ho sperato in te. * Ho detto al Signore: Tu sei il mio Dio, perch√© non hai bisogno dei miei beni.
+/pst1/Conservami, o Signore, perchÈ ho sperato in te. * Ho detto al Signore: Tu sei il mio Dio, perchÈ non hai bisogno dei miei beni.
 /pst/Verso i santi che sono nella sua terra * fece mirabili tutte le mie compiacenze per essi.
-/pst/Si sono moltiplicate le loro infermit√† * e in seguito accelerarono il corso.
-/pst/Non convocher√≤ le loro adunanze di sangue, * n√© rammenter√≤ i loro nomi con le mie labbra.
-/pst/Il Signore √® la parte della mia eredit√† e del mio calice: * sei tu che mi renderai la mia eredit√†.
-/pst/Le funi sono cadute per me in luoghi deliziosi, * poich√© la mia eredit√† √® per me bellissima.
-/pst/Benedir√≤ il Signore che mi diede consiglio * e di pi√π fin nella notte il mio cuore m'istru√¨.
-/pst/Io aveva sempre il Signore presente dinanzi a me, * perch√© egli √® alla mia destra affinch√© io non sia smosso.
-/pst/Per questo si rallegr√≤ il mio cuore, ed esult√≤ la mia lingua, * e anche la mia carne riposer√† nella speranza.
-/pst/Perch√© tu non abbandonerai l'anima mia nell'inferno, * n√® permetterai che il tuo santo veda la corruzione.
+/pst/Si sono moltiplicate le loro infermit‡ * e in seguito accelerarono il corso.
+/pst/Non convocherÚ le loro adunanze di sangue, * nÈ rammenterÚ i loro nomi con le mie labbra.
+/pst/Il Signore Ë la parte della mia eredit‡ e del mio calice: * sei tu che mi renderai la mia eredit‡.
+/pst/Le funi sono cadute per me in luoghi deliziosi, * poichÈ la mia eredit‡ Ë per me bellissima.
+/pst/BenedirÚ il Signore che mi diede consiglio * e di pi˘ fin nella notte il mio cuore m'istruÏ.
+/pst/Io aveva sempre il Signore presente dinanzi a me, * perchÈ egli Ë alla mia destra affinchÈ io non sia smosso.
+/pst/Per questo si rallegrÚ il mio cuore, ed esultÚ la mia lingua, * e anche la mia carne riposer‡ nella speranza.
+/pst/PerchÈ tu non abbandonerai l'anima mia nell'inferno, * nË permetterai che il tuo santo veda la corruzione.
 /pst/Mi facesti conoscere le vie della vita, mi ricolmerai di allegrezza con la tua faccia: * delizie eterne sono alla tua destra.
-/tra/Ant. La mia carne riposer√† nella speranza.
+/tra/Ant. La mia carne riposer‡ nella speranza.
 /tra/v In pace insieme.
-/tra/r Io dormir√≤ e riposer√≤.
-/tra/Padre nostro =(in silenzio)=
-/stt/Lettura 1
-/stt/Dalle Lamentazioni del Profeta Geremia
-/ref/Lam 3:22-30 
-/tralett/E[NJ]T. Bont√† del Signore che non fummo consunti: perch√© non son venute meno le sue misericordie. Et. Conosco ogni mattina, che grande √® la tua fedelt√†. Et. Mia porzione √® il Signore, disse l'anima mia: perci√≤ io l'aspetter√≤. Tet. Il Signore √® buono con quelli che sperano in lui, coll'anima che lo cerca. Tet. Buona cosa √® l'aspettare in silenzio la salvezza di Dio. Tet. √à bene per l'uomo l'aver portato il giogo fin dalla sua adolescenza. Jod. Egli seder√† solitario, e si tacer√†: perch√© ha preso (questo giogo) sopra di s√©. Jod. Porr√† nella polvere la sua bocca, (per vedere) se mai c'√® speranza. Jod. Porger√† la guancia a chi lo percuote, sar√† satollato di obbrobri. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
-/resp/r Fu condotto come pecora al macello, e mentre era maltrattato non apr√¨ la sua bocca: fu condannato a morte, * Per rendere la vita al suo popolo. v Sacrific√≤ alla morte l'anima sua, e fu annoverato fra gli scellerati. Per rendere la vita al suo popolo.
+/tra/r Io dormirÚ e riposerÚ.
+/tra/Padre nostro =(in silenzio)=.
+/com/Le Letture del primo Notturno continuano ad essere tratte dalle Lamentazioni di Geremia. 
+/com/La prima si riferisce a Cristo. Essa esprime la sua fedelt‡ a Dio e la sua commovente rassegnazione. In essa sono predetti gli schiaffi chíEgli ricevette durante la sua Passione.
+/stt/Lettura 1[break]Dalle Lamentazioni del Profeta Geremia
+/ref/Lam. III, 22-30 
+/tralett/E[NJ]T. Bont‡ del Signore che non fummo consunti: perchÈ non son venute meno le sue misericordie. Et. Conosco ogni mattina, che grande Ë la tua fedelt‡. Et. Mia porzione Ë il Signore, disse l'anima mia: perciÚ io l'aspetterÚ. TET. Il Signore Ë buono con quelli che sperano in lui, coll'anima che lo cerca. TET. Buona cosa Ë l'aspettare in silenzio la salvezza di Dio. TET. » bene per l'uomo l'aver portato il giogo fin dalla sua adolescenza. JOD. Egli seder‡ solitario, e si tacer‡: perchÈ ha preso (questo giogo) sopra di sÈ. JOD. Porr‡ nella polvere la sua bocca, (per vedere) se mai c'Ë speranza. JOD. Porger‡ la guancia a chi lo percuote, sar‡ satollato di obbrobri. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
+/com/Se i responsori del Sabato Santo ricordano, per la struttura generale, la delicatezza e líinfinit‡ variet‡ delle sfumature, quelli dei giorni precedenti, non sono da questi meno differenti [-] come peraltro tutto líUfficio delle Tenebre [-] per líethos particolare. I cuori non sono pi˘ oppressi; il tono si Ë sorprendentemente addolcito. » una sorta di veglia funebre attorno ad un sepolcro, ove ci si ricorda [-] in uníatmosfera di distensione e di dolcezza [-] di taluni aspetti della Passione, della sua portata, con finanche qualche allusione alla gloria che ne risulter‡. » in un clima di dolcissima ed amantissima contemplazione che si canta il [Sicut ovis], modo quarto caratterizzato da una linea semplice e da grande movimento, al di l‡ dellíascesa melodica della seconda frase [et dum male tractaretur].
+/resp/Resp. Fu condotto come pecora al macello, e mentre era maltrattato non aprÏ la sua bocca: fu condannato a morte, * Per rendere la vita al suo popolo. v SacrificÚ alla morte l'anima sua, e fu annoverato fra gli scellerati. Per rendere la vita al suo popolo.
+/com/La seconda Lettura riprende il tono dellíelegia sulle sventure di Gerusalemme. La gravit‡ dei crimini di questíingrata citt‡ vi Ë espressa nei termini pi˘ energici.
 /stt/Lettura 2
-/ref/Lam 4:1-6 
-/tralett/A[NJ]Lef. Come mai s'√® offuscato l'oro, si √® cangiato il color ottimo, son disperse le pietre del santuario per gli angoli di tutte le piazze? Bet. I figli illustri di Sion, vestiti d'oro finissimo, come mai furono pareggiati a vasi di terracotta, lavoro delle mani d'un vasaio? Ghimel. Le lamie stesse hanno scoperto le poppe e hanno allattato i loro parti: ma la figlia del mio popolo √® crudele come lo struzzo del deserto. Dalet. La lingua del poppante rest√≤ attaccata al suo palato per la sete: i bimbi domandavan del pane e non c'era chi loro lo spezzasse. E. Quelli che mangiavano lautamente perirono per le vie: quelli che erano stati allevati nella porpora, brancicarono lo sterco. Vau. L'iniquit√† della figlia del mio popolo fu pi√π grande del peccato di Sodoma, fu atterrata in un istante senza che mano d'uomo vi prendesse parte. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
-/resp/r Gerusalemme, sorgi e deponi le vesti di gioia: copriti colla cenere e col cilizio, * Perch√© in te √® stato ucciso il Salvatore d'Israele. v Versa lacrime come un torrente giorno e notte, e non quieti la pupilla del tuo occhio. Perch√© in te √® stato ucciso il Salvatore d'Israele.
+/ref/Lam. IV, 1-6 
+/tralett/A[NJ]LEF. Come mai s'Ë offuscato l'oro, si Ë cangiato il color ottimo, son disperse le pietre del santuario per gli angoli di tutte le piazze? BET. I figli illustri di Sion, vestiti d'oro finissimo, come mai furono pareggiati a vasi di terracotta, lavoro delle mani d'un vasaio? GHIMEL. Le lamie stesse hanno scoperto le poppe e hanno allattato i loro parti: ma la figlia del mio popolo Ë crudele come lo struzzo del deserto. DALET. La lingua del poppante restÚ attaccata al suo palato per la sete: i bimbi domandavan del pane e non c'era chi loro lo spezzasse. E. Quelli che mangiavano lautamente perirono per le vie: quelli che erano stati allevati nella porpora, brancicarono lo sterco. VAU. L'iniquit‡ della figlia del mio popolo fu pi˘ grande del peccato di Sodoma, fu atterrata in un istante senza che mano d'uomo vi prendesse parte. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
+/com/Il responsorio [Jerusalem surge] Ë un canto di lutto sulla morte di Cristo. Líiniziale slancio di surge, e il carattere un poí tormentato di [in te occisus], che Ë una sorta di rimprovero rivolto alla citt‡ di Gerusalemme, la citt‡ amata che ha condannato a morte il Salvatore, non sono sufficienti ad alterare la vera fisionomia di questa elegia, cosÏ angosciata e tenera, quasi silenziosa, con la moderazione delle sue curve melodiche, líavviluppamento delle sue cadenze, e fino allíapparente durezza di [in te occisus est].
+/resp/Resp. Gerusalemme, sorgi e deponi le vesti di gioia: copriti colla cenere e col cilicio, * PerchÈ in te Ë stato ucciso il Salvatore d'Israele. v Versa lacrime come un torrente giorno e notte, e non quieti la pupilla del tuo occhio. PerchÈ in te Ë stato ucciso il Salvatore d'Israele.
+/com/La terza Lettura Ë costituita da parte della preghiera che Geremia rivolge a Dio per il popolo ebraico, dopo averlo visto condurre in cattivit‡. Nulla eguaglia la desolazione del quadro che essa offre delle sventure di cui la nazione deicida Ë preda.
 /stt/Lettura 3
 /stt/Incomincia la Preghiera del Profeta Geremia
-/ref/Lam 5:1-11 
-/tralett/R[NJ]Icorda, Signore, ci√≤ che ci √® accaduto: guarda, e vedi il nostro obbrobrio. La nostra eredit√† √® passata ai forestieri: le nostre case agli estranei. Siamo restati (come) orfani senza padre, le nostre madri come vedove. Per danaro abbiam bevuto la nostr'acqua: le nostre legna abbiam comprato a prezzo. Eravamo trascinati per il collo, agli sfiniti non davasi requie. Agli Egiziani ed agli Assiri porgemmo le mani per essere sfamati. I nostri padri han peccato e non son pi√π: e noi abbiamo portato le loro iniquit√†. I servi ci han dominato: non ci fu nessuno che ci riscattasse dalle loro mani. A rischio della vita ci provvedevamo il pane, in faccia alla spada nel deserto. La nostra pelle √® riarsa come un forno per gli strazi della fame. Essi hanno disonorato le donne in Sion, e le vergini nelle citt√† di Giuda. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
-/resp/r Piangi come una vergine, popolo mio: urlate, o pastori, nella cenere e nel cilizio: * perch√© √® venuto il gran giorno del Signore, pieno d'amarezza. v Sacerdoti, copritevi di sacco e piangete: ministri dell'altare, copritevi di cenere. perch√© √® venuto il gran giorno del Signore, pieno d'amarezza. r Piangi come una vergine, popolo mio: urlate, o pastori, nella cenere e nel cilizio: * perch√© √® venuto il gran giorno del Signore, pieno d'amarezza. 
+/ref/Lam. V, 1-11 
+/tralett/R[NJ]Icorda, Signore, ciÚ che ci Ë accaduto: guarda, e vedi il nostro obbrobrio. La nostra eredit‡ Ë passata ai forestieri: le nostre case agli estranei. Siamo restati (come) orfani senza padre, le nostre madri come vedove. Per danaro abbiam bevuto la nostr'acqua: le nostre legna abbiam comprato a prezzo. Eravamo trascinati per il collo, agli sfiniti non davasi requie. Agli Egiziani ed agli Assiri porgemmo le mani per essere sfamati. I nostri padri han peccato e non son pi˘: e noi abbiamo portato le loro iniquit‡. I servi ci han dominato: non ci fu nessuno che ci riscattasse dalle loro mani. A rischio della vita ci provvedevamo il pane, in faccia alla spada nel deserto. La nostra pelle Ë riarsa come un forno per gli strazi della fame. Essi hanno disonorato le donne in Sion, e le vergini nelle citt‡ di Giuda. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
+/com/Il [Plange], anchíesso canto di lutto, Ë molto  pi˘ vivo e tormentato (salvo al principio, che ricorda lí[Ecce vidimus] del GiovedÏ Santo e che conserva la nota di tenerezza e di calma della maggior parte dei responsori). Líululate prorompe come grido commovente,  patetico appello al lutto e alla tristezza, seguito dal [quia venit], largo e forte di dolore quasi straziante, e che si ripete ancora nel vigore del magna e in tutta líangoscia cosÏ coinvolgente dellíammirabile [amara valde]. 
+/resp/Resp. Piangi come una vergine, popolo mio: urlate, o pastori, nella cenere e nel cilicio: * perchÈ Ë venuto il gran giorno del Signore, pieno d'amarezza. v Sacerdoti, copritevi di sacco e piangete: ministri dell'altare, copritevi di cenere. perchÈ Ë venuto il gran giorno del Signore, pieno d'amarezza. r Piangi come una vergine, popolo mio: urlate, o pastori, nella cenere e nel cilicio: * perchÈ Ë venuto il gran giorno del Signore, pieno d'amarezza. 
 /tt/Al secondo Notturno
-/tra/Ant. Alzatevi, * porte eterne, ed entrer√† il Re della gloria.
+/tra/Ant. Alzatevi, * porte eterne, ed entrer‡ il Re della gloria.
+/com/Il quarto Salmo (23) annuncia gi‡ il trionfale ingresso che deve fare in Cielo il Figlio di Dio, quando si sar‡ risvegliato dal sonno della morte.
 /stt/Salmo 23
-/pst1/Del Signore √® la terra e quanto essa contiene: * il mondo e tutti i suoi abitatori.
-/pst/Poich√© egli la fond√≤ sui mari, * e la stabil√¨ sui fiumi.
-/pst/Chi salir√† al monte del Signore, * o chi star√† nel suo luogo santo?
-/pst/Chi ha mani innocenti e il cuore puro, * e chi non ha ricevuta invano l'anima sua, n√© ha giurato con inganno al suo prossimo.
-/pst/Questi ricever√† benedizione dal Signore, * e misericordia da Dio, suo Salvatore.
-/pst/Tale √® la generazione di quelli che lo cercano, * di quelli che cercano la faccia del Dio di Giacobbe.
-/pst/Alzate, o principi, le vostre porte, e alzatevi voi, o porte eterne; * ed entrer√† il Re della gloria.
-/pst/Chi √® questo Re della gloria? * Il Signore forte e potente, il Signore potente nelle battaglie.
-/pst/Alzate, o pr√¨ncipi, le vostre porte, e alzatevi voi, o porte eterne; * ed entrer√† il Re della gloria.
-/pst/Chi √® questo Re della gloria? * Il Signore degli eserciti egli √® il Re della gloria.
-/tra/Ant. Alzatevi, porte eterne, ed entrer√† il Re della gloria.
-/tra/Ant. Credo che vedr√≤ * i beni del Signore nella terra dei viventi.
+/pst1/Del Signore Ë la terra e quanto essa contiene: * il mondo e tutti i suoi abitatori.
+/pst/PoichÈ egli la fondÚ sui mari, * e la stabilÏ sui fiumi.
+/pst/Chi salir‡ al monte del Signore, * o chi star‡ nel suo luogo santo?
+/pst/Chi ha mani innocenti e il cuore puro, * e chi non ha ricevuta invano l'anima sua, nÈ ha giurato con inganno al suo prossimo.
+/pst/Questi ricever‡ benedizione dal Signore, * e misericordia da Dio, suo Salvatore.
+/pst/Tale Ë la generazione di quelli che lo cercano, * di quelli che cercano la faccia del Dio di Giacobbe.
+/pst/Alzate, o principi, le vostre porte, e alzatevi voi, o porte eterne; * ed entrer‡ il Re della gloria.
+/pst/Chi Ë questo Re della gloria? * Il Signore forte e potente, il Signore potente nelle battaglie.
+/pst/Alzate, o principi, le vostre porte, e alzatevi voi, o porte eterne; * ed entrer‡ il Re della gloria.
+/pst/Chi Ë questo Re della gloria? * Il Signore degli eserciti egli Ë il Re della gloria.
+/tra/Ant. Alzatevi, porte eterne, ed entrer‡ il Re della gloria.
+/tra/Ant. Credo che vedrÚ * i beni del Signore nella terra dei viventi.
+/com/Il quinto Salmo (26), che la Chiesa ha cantato ieri per esprimere il sentimento di fiducia che giammai ha abbandonato il Messia durante le prove della sua Passione, si ripete oggi per annunciare la sua prossima liberazione. La Chiesa non sceglie pi˘ per antifona il versetto in cui Cristo si lamenta dei falsi testimoni che hanno deposto contro di lui; pone invece líaccento su quello in cui Ges˘ rivela la speranza di presto arrivare nella terra dei viventi.
 /stt/Salmo 26
-/pst1/Il Signore √® la mia luce e la mia salvezza: * di chi temer√≤?
-/pst/Il Signore √® il protettore della mia vita: * di chi avr√≤ paura?
+/pst1/Il Signore Ë la mia luce e la mia salvezza: * di chi temerÚ?
+/pst/Il Signore Ë il protettore della mia vita: * di chi avrÚ paura?
 /pst/Mentre i maligni, mi vengono sopra * per divorare le mie carni:
 /pst/Questi nemici che mi affliggono * essi stessi inciampano e cadono.
 /pst/Quand'anche un esercito si accampi contro di me, * il mio cuore non teme.
-/pst/Quando pure insorga la battaglia contro di me, * anche allora sperer√≤.
-/pst/Una sola cosa chiesi al Signore, questa io cercher√≤, * che io possa abitare nella casa del Signore tutti i giorni della mia vita,
+/pst/Quando pure insorga la battaglia contro di me, * anche allora spererÚ.
+/pst/Una sola cosa chiesi al Signore, questa io cercherÚ, * che io possa abitare nella casa del Signore tutti i giorni della mia vita,
 /pst/Per contemplare le delizie del Signore, * e visitare il suo Santuario.
-/pst/Poich√© egli mi nascose nel suo tabernacolo, * nel giorno delle sciagure mi protesse nell'intimo del suo tabernacolo.
-/pst/Mi innalz√≤ sopra di una rupe * e adesso ha innalzato la mia testa sopra dei miei nemici.
-/pst/Girai [attorno all'altare], e immolai nel suo tabernacolo sacrifici al suon delle trombe, * canter√≤ e salmegger√≤ al Signore.
-/pst/Ascolta, o Signore, la mia voce, con la quale ho gridato a te: * abbi piet√† di me, ed esaudiscimi.
-/pst/Il mio cuore ha parlato con te, ti ha cercato il mio volto; * il tuo volto Signore, io cercher√≤.
+/pst/PoichÈ egli mi nascose nel suo tabernacolo, * nel giorno delle sciagure mi protesse nell'intimo del suo tabernacolo.
+/pst/Mi innalzÚ sopra di una rupe * e adesso ha innalzato la mia testa sopra dei miei nemici.
+/pst/Girai [attorno all'altare], e immolai nel suo tabernacolo sacrifici al suon delle trombe, * canterÚ e salmeggerÚ al Signore.
+/pst/Ascolta, o Signore, la mia voce, con la quale ho gridato a te: * abbi piet‡ di me, ed esaudiscimi.
+/pst/Il mio cuore ha parlato con te, ti ha cercato il mio volto; * il tuo volto Signore, io cercherÚ.
 /pst/Non rivolgere la tua faccia da me, * non ritirarti con sdegno dal tuo servo.
 /pst/Sii tu il mio aiuto, * non mi abbandonare e non mi disprezzare, * o Dio mio Salvatore.
-/pst/Poich√© mio padre e mia madre mi hanno abbandonato: * ma il Signore si √© preso cura di me.
+/pst/PoichÈ mio padre e mia madre mi hanno abbandonato: * ma il Signore si Ë preso cura di me.
 /pst/Ponimi, o Signore, una legge nella tua via: * e guidami per diritto sentiero a motivo dei miei nemici.
-/pst/Non abbandonarmi in balia di coloro che mi perseguitano; * poich√© sono insorti contro di me falsi testimoni, e l'iniquit√† ment√¨ a se stessa.
-/pst/Credo che vedr√≤ i beni del Signore * nella terra dei vivi.
+/pst/Non abbandonarmi in balia di coloro che mi perseguitano; * poichÈ sono insorti contro di me falsi testimoni, e l'iniquit‡ mentÏ a se stessa.
+/pst/Credo che vedrÚ i beni del Signore * nella terra dei vivi.
 /pst/Aspetta il Signore, agisci con forza, * e prenda coraggio il tuo cuore, e spera nel Signore.
-/tra/Ant. Credo che vedr√≤ i beni del Signore nella terra dei viventi.
+/tra/Ant. Credo che vedrÚ i beni del Signore nella terra dei viventi.
 /tra/Ant. Signore, * hai ritratto dal sepolcro l'anima mia.
+/com/Il sesto Salmo (29) annuncia che il divin prigioniero della morte non tarder‡ a venir fuori dallíoscurit‡. Il Profeta ci svela il lutto che si prolunga fino a sera e la gioia che deve erompere al mattino.
 /stt/Salmo 29
-/pst1/Io ti esalter√≤, o Signore, perch√© tu mi hai sollevato, * e non hai rallegrati i miei nemici sopra di me.
+/pst1/Io ti esalterÚ, o Signore, perchÈ tu mi hai sollevato, * e non hai rallegrati i miei nemici sopra di me.
 /pst/Signore Dio mio, io ho gridato a te * e tu mi hai guarito.
 /pst/Signore, tu hai tratto dall'inferno l'anima mia: * mi salvasti di mezzo a quelli che scendono nella fossa.
-/pst/Cantate inni al Signore, o suoi santi; * e confessate la memoria della sua santit√†.
-/pst/Poich√© nella sua indignazione c'√® l'ira: * nella sua volont√†, la vita.
+/pst/Cantate inni al Signore, o suoi santi; * e confessate la memoria della sua santit‡.
+/pst/PoichÈ nella sua indignazione c'Ë l'ira: * nella sua volont‡, la vita.
 /pst/Alla sera dimora il pianto, * e al mattino la gioia.
-/pst/Ma io dissi nella mia abbondanza: * non sar√≤ scosso in eterno.
-/pst/Signore nella tua volont√†, * hai concesso vigoria al mio onore.
+/pst/Ma io dissi nella mia abbondanza: * non sarÚ scosso in eterno.
+/pst/Signore nella tua volont‡, * hai concesso vigoria al mio onore.
 /pst/Hai allontanato da me la tua faccia, * ed io restai confuso.
-/pst/A te, o Signore, grider√≤: * e al mio Dio supplicher√≤.
+/pst/A te, o Signore, griderÚ: * e al mio Dio supplicherÚ.
 /pst/Qual vantaggio nel mio sangue, * mentre scendo nella corruzione [della sepoltura]?
-/pst/Forse la polvere confesser√† le tue lodi, * od annunzier√† la tua verit√†?
-/pst/Il Signore mi ha ascoltato, ed ha avuto piet√† di me: * il Signore si √® fatto mio aiuto.
+/pst/Forse la polvere confesser‡ le tue lodi, * od annunzier‡ la tua verit‡?
+/pst/Il Signore mi ha ascoltato, ed ha avuto piet‡ di me: * il Signore si Ë fatto mio aiuto.
 /pst/Hai cambiato in gioia il mio pianto: * hai fatto in pezzi il mio sacco, e mi cingesti di allegrezza:
-/pst/Affinch√© la mia gloria ti canti: ed io non sia pi√π afflitto; * Signore Dio mio ti loder√≤ in eterno.
+/pst/AffinchÈ la mia gloria ti canti: ed io non sia pi˘ afflitto; * Signore Dio mio ti loderÚ in eterno.
 /tra/Ant. Signore, hai ritratto dal sepolcro l'anima mia.
-/tra/v Ma tu, Signore, abbi piet√† di me.
-/tra/r E risuscitami, e li ripagher√≤.
-/tra/Padre nostro =(in silenzio)=
-/stt/Lettura 4
-/stt/Dal Trattato di sant'Agostino Vescovo sui Salmi
+/tra/v Ma tu, Signore, abbi piet‡ di me.
+/tra/r E risuscitami, e li ripagherÚ.
+/tra/Padre nostro =(in silenzio)=.
+/com/La Chiesa continua a leggere, al secondo Notturno, le Esposizioni di S. Agostino sui Salmi che profetizzano la Passione del Salvatore.
+/stt/Lettura 4[break]Dal Trattato di sant'Agostino Vescovo sui Salmi
 /ref/Sul Salmo 63 verso 7
-/tralett/¬´L'uomo penetrer√† nel fondo del cuore, e Dio sar√† esaltato¬ª Ps. 63,7 Essi dissero Chi ci vedr√†? Gl'indagatori si logorarono nella ricerca dei loro pravi disegni. Cristo, come uomo, si mise alla portata delle loro perverse intenzioni, e come uomo soffr√¨ che s' impossessassero di lui. Difatti non l'avrebbero catturato, se non fosse stato uomo, n√© visto se non fosse stato uomo, n√© percosso se non fosse stato uomo, n√© crocifisso e messo a morte, se non fosse stato uomo. Come uomo dunque si espose a tutte queste sofferenze che nulla avrebbero potuto su di lui, se non fosse stato uomo. Ma s'egli non fosse stato uomo, l'uomo non sarebbe stato liberato. Quest'uomo ha penetrato nel fondo del cuore, cio√® i secreti del loro cuore, offrendo agli sguardi umani l'umanit√† senza far vedere la divinit√†; celando la natura divina onde √® uguale al Padre, e lasciando vedere la natura di servo onde √® inferiore al Padre.
-/resp/r S'√® ritirato il nostro pastore, la fonte di acqua viva, al cui transito si oscur√≤ il sole: * Colui che teneva schiavo il primo uomo √® stato fatto schiavo lui stesso: oggi il nostro Salvatore abbatt√© le porte insieme e le sbarre della morte. v Distrusse le prigioni dell'inferno, e rovesci√≤ la potenza del diavolo. r Colui che teneva schiavo il primo uomo √® stato fatto schiavo lui stesso: oggi il nostro Salvatore abbatt√© le porte insieme e le sbarre della morte.
+/tralett/L'uomo penetrer‡ nel fondo del cuore, e Dio sar‡ esaltato. [-] Essi dissero Chi ci vedr‡? Gl'indagatori si logorarono nella ricerca dei loro pravi disegni. Cristo, come uomo, si mise alla portata delle loro perverse intenzioni, e come uomo soffrÏ che s'impossessassero di lui. Difatti non l'avrebbero catturato, se non fosse stato uomo, nÈ visto se non fosse stato uomo, nÈ percosso se non fosse stato uomo, nÈ crocifisso e messo a morte, se non fosse stato uomo. Come uomo dunque si espose a tutte queste sofferenze che nulla avrebbero potuto su di lui, se non fosse stato uomo. Ma s'egli non fosse stato uomo, l'uomo non sarebbe stato liberato. Quest'uomo ha penetrato nel fondo del cuore, cioË i secreti del loro cuore, offrendo agli sguardi umani l'umanit‡ senza far vedere la divinit‡; celando la natura divina onde Ë uguale al Padre, e lasciando vedere la natura di servo onde Ë inferiore al Padre.
+/com/Con il [Recessit pastor], si ritorna a quella nota di serena contemplazione propria di questíUfficio. Seguono formule classiche parimenti tranquille e avviluppate, come una lunga, amantissima meditazione; annunciano gli effetti benigni e prossimi della Passione.
+/resp/Resp. S'Ë ritirato il nostro pastore, la fonte di acqua viva, al cui transito si oscurÚ il sole: * Colui che teneva schiavo il primo uomo Ë stato fatto schiavo lui stesso: oggi il nostro Salvatore abbattÈ le porte insieme e le sbarre della morte. v Distrusse le prigioni dell'inferno, e rovesciÚ la potenza del diavolo. r Colui che teneva schiavo il primo uomo Ë stato fatto schiavo lui stesso: oggi il nostro Salvatore abbattÈ le porte insieme e le sbarre della morte.
 /stt/Lettura 5
-/tralett/F[NJ]IN dove giunsero con quelle loro precauzioni, nella cui ricerca fallirono tanto da porre delle guardie al sepolcro del morto e sepolto Signore? Difatti dissero a Pilato: ¬´Quell'impostore¬ª Matth. 27,63, con tal nome venne chiamato nostro Signore Ges√π Cristo a conforto dei suoi servi quando vengono appellati impostori, quell'impostore, dicono dunque a Pilato, mentr'era ancor vivo disse: Dopo tre giorni risusciter√≤. Ordina dunque che si custodisca il sepolcro fino al terzo giorno, affinch√© non vengano forse i suoi discepoli, e lo rubino, e dicano al popolo: √à risuscitato da morte: e allora l'ultima impostura sarebbe peggiore della prima. Pilato rispose loro: Voi avete bene una guardia, andate, e custodite come vi pare. Ed essi andarono ad assicurare il sepolcro, sigillandone la pietra e mettendovi delle guardie.
-/resp/r O voi tutti che passate per la via, guardate e vedete, * Se c'√® dolore simile al mio dolore. v Mirate, popoli tutti, e vedete il mio dolore. Se c'√® dolore simile al mio dolore.
+/tralett/F[NJ]IN dove giunsero con quelle loro precauzioni, nella cui ricerca fallirono tanto da porre delle guardie al sepolcro del morto e sepolto Signore? Difatti dissero a Pilato: ìQuell'impostoreî, con tal nome venne chiamato nostro Signore Ges˘ Cristo a conforto dei suoi servi quando vengono appellati impostori, quell'impostore, dicono dunque a Pilato, mentr'era ancor vivo disse: Dopo tre giorni risusciterÚ. Ordina dunque che si custodisca il sepolcro fino al terzo giorno, affinchÈ non vengano forse i suoi discepoli, e lo rubino, e dicano al popolo: » risuscitato da morte: e allora l'ultima impostura sarebbe peggiore della prima. Pilato rispose loro: Voi avete bene una guardia, andate, e custodite come vi pare. Ed essi andarono ad assicurare il sepolcro, sigillandone la pietra e mettendovi delle guardie.
+/com/Il [O vos omnes] Ë un invito a sostare dinanzi alla Croce, e a prendere coscienza di tutto líamore che essa racchiude.
+/resp/Resp. O voi tutti che passate per la via, guardate e vedete, * Se c'Ë dolore simile al mio dolore. v Mirate, popoli tutti, e vedete il mio dolore. Se c'Ë dolore simile al mio dolore.
 /stt/Lettura 6
-/tralett/P[NJ]Osero dei soldati a guardia del sepolcro. La terra trem√≤, il Signore risuscit√≤: e si operarono tali prodigi intorno al sepolcro, che gli stessi soldati ch'erano venuti per custodirlo, ne avrebbero reso testimonianza, se avessero voluto dire il vero. Ma l'avarizia che s'era impossessata d'un discepolo compagno di Cristo, s'impossess√≤ anche del soldato custode del sepolcro. ¬´Noi vi diamo, dissero, del denaro: ma voi dite che, mentre dormivate, sono venuti i suoi discepoli e lo hanno rubato¬ª. S√¨, veramente ¬´venner meno nel cercare e scrutare¬ª Ps. 63,7. Ch'√® ci√≤ che hai detto, o infelice astuzia? E hai perduto cos√¨ il lume del consiglio che d√† la giustizia, sei caduta cos√¨ profondo nell'abisso della malizia da giungere a dire: ¬´Dite che, mentre dormivate, son venuti i suoi discepoli e l'hanno portato via¬ª? Ti servi di testimoni che dormono: veramente devi aver dormito tu che sei venuta meno cercando tali cose.
-/resp/r Ecco come muore il giusto, e nessuno ci riflette in cuor (suo): i giusti son tolti (dal mondo), e nessuno ci bada: a motivo dell'iniquit√† √® tolto il giusto: * Ma la sua memoria sar√† nella pace. v Come agnello dinanzi a chi lo tosa egli ammutol√¨ e non apr√¨ la sua bocca: in seguito all'angoscia e alla condanna egli √® stato innalzato. Ma la sua memoria sar√† nella pace. r Ecco come muore il giusto, e nessuno ci riflette in cuor (suo): i giusti son tolti (dal mondo), e nessuno ci bada: a motivo dell'iniquit√† √® tolto il giusto: * Ma la sua memoria sar√† nella pace. 
+/tralett/P[NJ]Osero dei soldati a guardia del sepolcro. La terra tremÚ, il Signore risuscitÚ: e si operarono tali prodigi intorno al sepolcro, che gli stessi soldati ch'erano venuti per custodirlo, ne avrebbero reso testimonianza, se avessero voluto dire il vero. Ma l'avarizia che s'era impossessata d'un discepolo compagno di Cristo, s'impossessÚ anche del soldato custode del sepolcro. ìNoi vi diamo, dissero, del denaro: ma voi dite che, mentre dormivate, sono venuti i suoi discepoli e lo hanno rubatoî. SÏ, veramente ìvenner meno nel cercare e scrutareî. Ch'Ë ciÚ che hai detto, o infelice astuzia? E hai perduto cosÏ il lume del consiglio che d‡ la giustizia, sei caduta cosÏ profondo nell'abisso della malizia da giungere a dire: ìDite che, mentre dormivate, son venuti i suoi discepoli e l'hanno portato viaî? Ti servi di testimoni che dormono: veramente devi aver dormito tu che sei venuta meno cercando tali cose.
+/com/Come il [O vos omnes], [Ecce quomodo] figura tra i pi˘ bei e commoventi brani del repertorio. Tenera contemplazione della morte di Cristo, dellíindifferenza di tutti dinanzi ad un amore talmente estremo e della pace che circonda il grande sonno del giusto. 
+/resp/Resp. Ecco come muore il giusto, e nessuno ci riflette in cuor (suo): i giusti son tolti (dal mondo), e nessuno ci bada: a motivo dell'iniquit‡ Ë tolto il giusto: * Ma la sua memoria sar‡ nella pace. v Come agnello dinanzi a chi lo tosa egli ammutolÏ e non aprÏ la sua bocca: in seguito all'angoscia e alla condanna egli Ë stato innalzato. Ma la sua memoria sar‡ nella pace. r Ecco come muore il giusto, e nessuno ci riflette in cuor (suo): i giusti son tolti (dal mondo), e nessuno ci bada: a motivo dell'iniquit‡ Ë tolto il giusto: * Ma la sua memoria sar‡ nella pace. 
 /tt/Al terzo Notturno
-/tra/Ant. Iddio mi aiuta, * e il Signore √® il difensore dell'anima mia.
+/tra/Ant. Iddio mi aiuta, * e il Signore Ë il difensore dell'anima mia.
+/com/Il settimo Salmo (53) che la Chiesa ha cantato ieri pensando alle persecuzioni dei Giudei contro il Messia, Ë ripetuto questíoggi per annunciare che il Trionfo del Figlio di Davide non tarder‡ a rivelarsi, giacchÈ Dio ne ha preso la causa nelle sue mani.
 /stt/Salmo 53
 /pst1/Dio, salvami per il tuo nome: * e con la tua potenza fammi giustizia.
 /pst/Dio, esaudisci la mia preghiera: * porgi orecchio alle parole della mia bocca.
-/pst/Perch√© degli stranieri si sono levati contro di me, dei potenti cercano la mia vita: * e non hanno avuto Dio dinanzi ai loro occhi.
-/pst/Ma ecco che Dio mi aiuta: * e il Signore √® il sostegno della mia vita.
-/pst/Ritorci il male sopra i miei nemici, * e disperdili secondo la tua fedelt√†.
-/pst/Ti offrir√≤ volontariamente un sacrificio, * e loder√≤ il tuo nome, o Signore; perch√© √® buono.
-/pst/Perch√© mi hai liberato da ogni tribolazione, * e il mio occhio ha guardato con disprezzo i miei nemici.
-/tra/Ant. Iddio mi aiuta, e il Signore √® il difensore dell'anima mia.
-/tra/Ant. Nella (citt√† della) pace ha fissato la sua sede, e in Sion la sua dimora.
+/pst/PerchÈ degli stranieri si sono levati contro di me, dei potenti cercano la mia vita: * e non hanno avuto Dio dinanzi ai loro occhi.
+/pst/Ma ecco che Dio mi aiuta: * e il Signore Ë il sostegno della mia vita.
+/pst/Ritorci il male sopra i miei nemici, * e disperdili secondo la tua fedelt‡.
+/pst/Ti offrirÚ volontariamente un sacrificio, * e loderÚ il tuo nome, o Signore; perchÈ Ë buono.
+/pst/PerchÈ mi hai liberato da ogni tribolazione, * e il mio occhio ha guardato con disprezzo i miei nemici.
+/tra/Ant. Iddio mi aiuta, e il Signore Ë il difensore dell'anima mia.
+/tra/Ant. Nella (citt‡ della) pace ha fissato la sua sede, e in Sion la sua dimora.
+/com/Líottavo Salmo (75) Ë stato recitato dalla Chiesa il GiovedÏ Santo; esso esprimeva il prossimo castigo di Dio sui nemici del Figlio suo. Riappare questíoggi e ci mostra il Messia che dorme del sonno della pace in Sion. Tuttía un tratto si leva dal sepolcro. Al risveglio i suoi avversari, che credevano di averlo in pugno, si ritrovano con le mani vuote. La terra tremer‡ e il Signore risorger‡ per essere il terrore dei suoi nemici e la salvezza degli umili, che ne riconosceranno la fedelt‡ alle sue parole.
 /stt/Salmo 75
-/pst1/Dio √® conosciuto nella Giudea: * il suo nome √® grande in Israele.
-/pst/Il suo luogo di soggiorno √® nella [Citt√† della] pace; * e la sua abitazione √® in Sion.
-/pst/Ivi spezz√≤ la forza degli archi, * lo scudo, la spada, e la guerra.
+/pst1/Dio Ë conosciuto nella Giudea: * il suo nome Ë grande in Israele.
+/pst/Il suo luogo di soggiorno Ë nella [Citt‡ della] pace; * e la sua abitazione Ë in Sion.
+/pst/Ivi spezzÚ la forza degli archi, * lo scudo, la spada, e la guerra.
 /pst/Tu spandi una luce meravigliosa dall'alto dei monti eterni. * Furono turbati tutti gli stolti di cuore.
 /pst/Dormirono il loro sonno: * e tutti gli uomini della ricchezza non trovarono nulla nelle loro mani.
 /pst/Alla tua minaccia, o Dio di Giacobbe, * si assopirono quelli che erano montati a cavallo.
-/pst/Tu sei terribile, e chi potr√† resistere a te * nel momento della tua ira?
-/pst/Dal cielo facesti udire la sentenza: * la terra trem√≤, e si tacque.
-/pst/Allorch√© Dio si lev√≤ per il giudizio, * per salvare tutti i mansueti della terra.
-/pst/Anche il pensiero dell'uomo ti dar√† lode: * e il ricordo del pensiero ti far√† festa.
+/pst/Tu sei terribile, e chi potr‡ resistere a te * nel momento della tua ira?
+/pst/Dal cielo facesti udire la sentenza: * la terra tremÚ, e si tacque.
+/pst/AllorchÈ Dio si levÚ per il giudizio, * per salvare tutti i mansueti della terra.
+/pst/Anche il pensiero dell'uomo ti dar‡ lode: * e il ricordo del pensiero ti far‡ festa.
 /pst/Fate voti e scioglieteli al Signore Dio vostro: * voi tutti, che, standogli intorno, presentate doni a lui,
-/pst/Il Terribile, a lui che toglie lo spirito ai principi, * che √® terribile ai re della terra.
-/tra/Ant. Nella (citt√† della) pace ha fissato la sua sede, e in Sion la sua dimora.
+/pst/Il Terribile, a lui che toglie lo spirito ai principi, * che Ë terribile ai re della terra.
+/tra/Ant. Nella (citt‡ della) pace ha fissato la sua sede, e in Sion la sua dimora.
 /tra/Ant. Son divenuto * come un uomo senza aiuto, io che tra i morti libero (scendo).
+/com/Il nono Salmo (87), che ieri era parte integrante dellíUfficio della notte Ë anchíesso recitato questíoggi. Vi si canta il Cristo che chiede al Padre suo di trarlo dai morti. Per abbastanza tempo Ë stato piombato nelle tenebre del sepolcro, Ë tempo che ritorni alla vita.
 /stt/Salmo 87
 /pst1/Signore, Dio della mia salute: * giorno e notte io grido innanzi a te.
 /pst/Giunga al tuo cospetto la mia preghiera: * porgi il tuo orecchio alla mia supplica.
-/pst/Poich√© l'anima mia √® ripiena di mali: * e la mia vita si avvicina al soggiorno dei morti.
+/pst/PoichÈ l'anima mia Ë ripiena di mali: * e la mia vita si avvicina al soggiorno dei morti.
 /pst/Sono reputato come quelli che scendono nella fossa: * sono divenuto come un uomo senza soccorso, libero tra i morti,
-/pst/Come i feriti che dormono nel sepolcro, dei quali tu non serbi pi√π memoria, * e che sono respinti dalla tua mano.
+/pst/Come i feriti che dormono nel sepolcro, dei quali tu non serbi pi˘ memoria, * e che sono respinti dalla tua mano.
 /pst/Mi posero in una fossa profonda: * in luoghi tenebrosi e nell'ombra di morte.
-/pst/Il tuo furore si aggrav√≤ sopra di me: * mi rovesciasti addosso tutti i tuoi flutti.
+/pst/Il tuo furore si aggravÚ sopra di me: * mi rovesciasti addosso tutti i tuoi flutti.
 /pst/Hai allontanato da me i miei conoscenti: * mi reputarono un oggetto di abominazione.
 /pst/Fui dato in potere altrui, e non avevo scampo: * I miei occhi languirono per l'afflizione.
 /pst/Gridai a te, o Signore, tutto il giorno: * stesi verso di te le mie mani.
-/pst/Farai tu meraviglie per i morti: * o i medici li risusciteranno, affinch√© ti diano lode?
-/pst/Narrer√† forse qualcuno nel sepolcro la tua misericordia, * e la tua verit√† nel luogo della perdizione?
+/pst/Farai tu meraviglie per i morti: * o i medici li risusciteranno, affinchÈ ti diano lode?
+/pst/Narrer‡ forse qualcuno nel sepolcro la tua misericordia, * e la tua verit‡ nel luogo della perdizione?
 /pst/Saranno forse conosciute nelle tenebre le tue meraviglie: * e la tua giustizia nella terra dell'oblio?
-/pst/Ma io, o Signore, gridai a te: * e dal mattino ti preverr√† la mia preghiera.
-/pst/Perch√©, o Signore, rigetti la mia preghiera, * e rivolgi da me la tua faccia?
+/pst/Ma io, o Signore, gridai a te: * e dal mattino ti preverr‡ la mia preghiera.
+/pst/PerchÈ, o Signore, rigetti la mia preghiera, * e rivolgi da me la tua faccia?
 /pst/Io sono povero, e in affanni fin dalla mia giovinezza: * e dopo essere stato esaltato, fui umiliato ed oppresso.
 /pst/Sopra di me sono passati i tuoi furori, * e i tuoi spaventi mi conturbarono.
 /pst/Mi circondarono come acqua, tutto il giorno; * mi circondarono tutti insieme.
 /pst/Hanno allontanato da me l'amico e il compagno: * e i miei conoscenti a causa della mia miseria.
 /tra/Ant. Son divenuto come un uomo senza aiuto, io che tra i morti libero (scendo).
-/tra/v Nella (citt√† della) pace ha fissato la sua sede.
+/tra/v Nella (citt‡ della) pace ha fissato la sua sede.
 /tra/r Ed in Sion la sua dimora.
-/tra/Padre nostro =(in silenzio)=
-/stt/Lettura 7
-/stt/Dalla Lettera dell'Apostolo san Paolo agli Ebrei
-/ref/Ebr9:11-14 
-/tralett/
-/tralett/C[NJ]Risto, venuto qual Pontefice dei beni futuri, col passar per un tabernacolo pi√π grande e pi√π perfetto, non costruito da mano d'uomo, cio√® non appartenente a questa creazione: E non col sangue di capri o di tori, ma col proprio sangue entr√≤ una sola volta per sempre nel Santo dei santi, dopo aver acquistata una redenzione eterna. Infatti se il sangue di capri e di tori e la cenere d'una giovenca che si asperge su quelli che sono immondi, li santificano in modo da procurar loro la purezza del corpo: Quanto pi√π il sangue di Cristo, che mediante lo Spirito Santo ha offerto se stesso, ch'era senza macchia, a Dio, purificher√† la nostra coscienza dalle opere di morte, perch√© serviamo a Dio vivente.
-/resp/r Sono insorti i re della terra, e i principi han cospirato insieme, * Contro il Signore e contro il suo Cristo. v Perch√© han tumultuato le Genti, e i popoli han macchinato vani disegni? Contro il Signore e contro il suo Cristo.
+/tra/Padre nostro =(in silenzio)=.
+/com/Al terzo Notturno la santa Chiesa continua a leggere, nella Lettera agli Ebrei, la dottrina di S. Paolo sulla virt˘ del divin Sangue. Líapostolo spiega come il Testamento di Cristo in  nostro favore non abbia potuto produrre effetti se non per mezzo della sua morte.
+/stt/Lettura 7[break]Dalla Lettera dell'Apostolo san Paolo agli Ebrei
+/ref/Ebr. IX, 11-14 
+/tralett/C[NJ]Risto, venuto qual Pontefice dei beni futuri, col passar per un tabernacolo pi˘ grande e pi˘ perfetto, non costruito da mano d'uomo, cioË non appartenente a questa creazione: E non col sangue di capri o di tori, ma col proprio sangue entrÚ una sola volta per sempre nel Santo dei santi, dopo aver acquistata una redenzione eterna. Infatti se il sangue di capri e di tori e la cenere d'una giovenca che si asperge su quelli che sono immondi, li santificano in modo da procurar loro la purezza del corpo: Quanto pi˘ il sangue di Cristo, che mediante lo Spirito Santo ha offerto se stesso, ch'era senza macchia, a Dio, purificher‡ la nostra coscienza dalle opere di morte, perchÈ serviamo a Dio vivente.
+/com/In questíUfficio del Sabato Santo, in via eccezionale, questo responsorio fa riferimento ai soli complotti dei malvagi; la melodia ne riflette la violenza. Tutto Ë forte in un movimento deciso, senza grandi sfumature, con le formule proprie del modo ottavo, senza che nulla vi sia messo in particolare rilievo.
+/resp/Resp. Sono insorti i re della terra, e i principi han cospirato insieme, * Contro il Signore e contro il suo Cristo. v PerchÈ han tumultuato le Genti, e i popoli han macchinato vani disegni? Contro il Signore e contro il suo Cristo.
 /stt/Lettura 8
-/ref/Ebr9:15-18 
-/tralett/E[NJ] perci√≤ egli √® mediatore di una nuova alleanza: appunto perch√©, essendo la (sua) morte avvenuta per il riscatto delle trasgressioni commesse sotto la prima alleanza, quelli che sono stati chiamati, ricevano la promessa dell'eterna eredit√†. Infatti dove c'√® un testamento, √® necessario che intervenga la morte del testatore. Perch√© il testamento √® ratificato mediante la morte: diversamente non ha valore finch√© vive il testatore. Ond'√® che neppure il primo fu consacrato senza sangue.
-/resp/r Sono annoverato tra quelli che scendono nella fossa: * Son divenuto come un uomo senza aiuto, io che tra i morti libero (scendo). v Mi han posto in una fossa profonda, nelle tenebre e nell'ombra della morte. Son divenuto come un uomo senza aiuto, io che tra i morti libero (scendo).
+/ref/Ebr. IX, 15-18 
+/tralett/E[NJ] perciÚ egli Ë mediatore di una nuova alleanza: appunto perchÈ, essendo la (sua) morte avvenuta per il riscatto delle trasgressioni commesse sotto la prima alleanza, quelli che sono stati chiamati, ricevano la promessa dell'eterna eredit‡. Infatti dove c'Ë un testamento, Ë necessario che intervenga la morte del testatore. PerchÈ il testamento Ë ratificato mediante la morte: diversamente non ha valore finchÈ vive il testatore. Ond'Ë che neppure il primo fu consacrato senza sangue.
+/com/Il responsorio [∆stimatus sum] Ë anchíesso un modo quarto con una sfumatura forse ancora pi˘ accentuata di dolcezza e di interiorit‡. Messo sulla bocca del Signore durante il suo soggiorno nel Limbo, evoca per líultima volta nei responsori, e in maniera commovente, tutta la soavit‡ e líinalterabile pace della sua anima, caratteristiche che lo accompagnarono fin nel sepolcro.
+/resp/Resp. Sono annoverato tra quelli che scendono nella fossa: * Son divenuto come un uomo senza aiuto, io che tra i morti libero (scendo). v Mi han posto in una fossa profonda, nelle tenebre e nell'ombra della morte. Son divenuto come un uomo senza aiuto, io che tra i morti libero (scendo).
 /stt/Lettura 9
-/ref/Ebr9:19-22 
-/tralett/D[NJ]Ifatti letto ch'ebbe Mos√® a tutto il popolo tutti i precetti della legge: preso il sangue di tori e di capri con acqua, lana scarlatta e l'issopo, asperse insieme e il libro stesso e tutto il popolo, Dicendo: Questo √® il sangue dell'alleanza che Dio ha stretto con voi. Inoltre asperse col sangue anche il tabernacolo, e tutti gli oggetti del culto: Perch√©, secondo la legge, quasi tutto si purifica col sangue: e senza spargimento di sangue non c'√® remissione.
-/resp/r Sepolto il Signore, fu sigillato il sepolcro e messa una pietra all'ingresso del sepolcro: * E posero dei soldati che lo custodissero. v I capi sacerdoti andarono da Pilato per chiedergli delle guardie. E posero dei soldati che lo custodissero. r Sepolto il Signore, fu sigillato il sepolcro e messa una pietra all'ingresso del sepolcro: * E posero dei soldati che lo custodissero. 
+/ref/Ebr. IX, 19-22 
+/tralett/D[NJ]Ifatti letto ch'ebbe MosË a tutto il popolo tutti i precetti della legge: preso il sangue di tori e di capri con acqua, lana scarlatta e l'issopo, asperse insieme e il libro stesso e tutto il popolo, Dicendo: Questo Ë il sangue dell'alleanza che Dio ha stretto con voi. Inoltre asperse col sangue anche il tabernacolo, e tutti gli oggetti del culto: PerchÈ, secondo la legge, quasi tutto si purifica col sangue: e senza spargimento di sangue non c'Ë remissione.
+/com/[Sepulto Domino], líultimo responsorio Ë [-] bisogna ammetterlo [-] il meno interessante dei responsori di questo triduo. Si tratta di un semplice ripasso degli ultimi avvenimenti della Passione: la chiusura del Sepolcro e il posto di guardia che vi fu approntato.
+/resp/Resp. Sepolto il Signore, fu sigillato il sepolcro e messa una pietra all'ingresso del sepolcro: * E posero dei soldati che lo custodissero. v I capi sacerdoti andarono da Pilato per chiedergli delle guardie. E posero dei soldati che lo custodissero. r Sepolto il Signore, fu sigillato il sepolcro e messa una pietra all'ingresso del sepolcro: * E posero dei soldati che lo custodissero. 
 /tt/Lodi
-/tra/Ant. O morte, * io sar√≤ la tua morte, sar√≤ il tuo strazio, o inferno.
+/tra/Ant. O morte, * io sarÚ la tua morte, sarÚ il tuo strazio, o inferno.
 /stt/Salmo 50
-/pst1/Abbi piet√† di me, o Dio, * secondo la tua grande misericordia;
-/pst/E secondo la moltitudine delle tue bont√† * cancella la mia iniquit√†.
-/pst/Lavami ancor pi√π dalla mia iniquit√†, * e mondami dal mio peccato.
-/pst/Poich√© io conosco la mia iniquit√†, * e il mio peccato mi sta sempre davanti.
-/pst/Ho peccato contro di te solo, ed ho fatto ci√≤ che √® male dinanzi a te * affinch√© tu sii giustificato nelle tue parole, e riporti vittoria quando sei giudicato.
-/pst/Ecco infatti, io fui concepito nelle iniquit√†: * e mia madre mi concep√¨ nei peccati.
-/pst/Ecco infatti, tu hai amato la verit√†: * mi hai manifestato i segreti e occulti misteri della tua sapienza.
-/pst/Tu mi aspergerai coll'issopo, e sar√≤ mondato: * mi laverai, e diverr√≤ bianco pi√π che la neve.
+/pst1/Abbi piet‡ di me, o Dio, * secondo la tua grande misericordia;
+/pst/E secondo la moltitudine delle tue bont‡ * cancella la mia iniquit‡.
+/pst/Lavami ancor pi˘ dalla mia iniquit‡, * e mondami dal mio peccato.
+/pst/PoichÈ io conosco la mia iniquit‡, * e il mio peccato mi sta sempre davanti.
+/pst/Ho peccato contro di te solo, ed ho fatto ciÚ che Ë male dinanzi a te * affinchÈ tu sii giustificato nelle tue parole, e riporti vittoria quando sei giudicato.
+/pst/Ecco infatti, io fui concepito nelle iniquit‡: * e mia madre mi concepÏ nei peccati.
+/pst/Ecco infatti, tu hai amato la verit‡: * mi hai manifestato i segreti e occulti misteri della tua sapienza.
+/pst/Tu mi aspergerai coll'issopo, e sarÚ mondato: * mi laverai, e diverrÚ bianco pi˘ che la neve.
 /pst/Mi farai sentire una parola di gaudio e di letizia: * e le [mie] ossa umiliate esulteranno.
-/pst/Rivolgi la tua faccia dai miei peccati: * e cancella tutte le mie iniquit√†.
+/pst/Rivolgi la tua faccia dai miei peccati: * e cancella tutte le mie iniquit‡.
 /pst/Dio, crea in me un cuore mondo: * e rinnova nelle mie viscere uno spirito retto.
 /pst/Non mi scacciare dalla tua presenza: * e non togliere da me il tuo santo spirito.
 /pst/Ridonami la gioia della tua salute: * e sostienimi con uno spirito generoso.
-/pst/Insegner√≤ agli iniqui le tue vie: * e gli empi si convertiranno a te.
-/pst/Liberami dal reato del sangue, o Dio, Dio della mia salute: * e la mia lingua celebrer√† con giubilo la tua giustizia.
-/pst/Signore, tu aprirai le mie labbra: * e la mia bocca annunzier√† le tue lodi.
-/pst/Poich√© se tu avessi voluto un sacrificio, lo avrei offerto; * ma tu non ti compiaci degli olocausti.
-/pst/Sacrificio a Dio √® uno spirito contrito: * tu, o Dio, non disprezzerai un cuore contrito e umiliato.
-/pst/Nel tuo buon volere, o Signore, fa del bene a Sion: * affinch√© siano edificate le mura di Gerusalemme.
+/pst/InsegnerÚ agli iniqui le tue vie: * e gli empi si convertiranno a te.
+/pst/Liberami dal reato del sangue, o Dio, Dio della mia salute: * e la mia lingua celebrer‡ con giubilo la tua giustizia.
+/pst/Signore, tu aprirai le mie labbra: * e la mia bocca annunzier‡ le tue lodi.
+/pst/PoichÈ se tu avessi voluto un sacrificio, lo avrei offerto; * ma tu non ti compiaci degli olocausti.
+/pst/Sacrificio a Dio Ë uno spirito contrito: * tu, o Dio, non disprezzerai un cuore contrito e umiliato.
+/pst/Nel tuo buon volere, o Signore, fa del bene a Sion: * affinchÈ siano edificate le mura di Gerusalemme.
 /pst/Allora gradirai il sacrificio di giustizia, le oblazioni e gli olocausti: * allora si porranno dei vitelli sul tuo altare.
-/tra/Ant. O morte, io sar√≤ la tua morte, sar√≤ il tuo strazio, o inferno.
-/tra/Ant. Lo piangeranno * come un figlio unico, perch√© il Signore innocente √® stato ucciso.
+/tra/Ant. O morte, io sarÚ la tua morte, sarÚ il tuo strazio, o inferno.
+/tra/Ant. Lo piangeranno * come un figlio unico, perchÈ il Signore innocente Ë stato ucciso.
+/com/Il secondo Salmo (91), che il suo titolo nel Salterio indica dover essere cantato nel giorno di sabato, celebra la magnificenza del Signore nelle sue opere, la vanit‡ dei disegni dei peccatori, il sicuro trionfo del Giusto per líeccellenza, la beata speranza di coloro che lo seguono.
 /stt/Salmo 91
-/pst1/√à bene dar lode al Signore: * e inneggiare al tuo nome, o Altissimo;
-/pst/Per celebrare al mattino la tua misericordia: * e la tua verit√† nella notte
+/pst1/» bene dar lode al Signore: * e inneggiare al tuo nome, o Altissimo;
+/pst/Per celebrare al mattino la tua misericordia: * e la tua verit‡ nella notte
 /pst/Sul salterio a dieci corde, * e sulla cetra, col canto.
-/pst/Perch√© tu mi hai allietato, o Signore, con quello che hai fatto: * e io esulto per le opere delle tue mani.
+/pst/PerchÈ tu mi hai allietato, o Signore, con quello che hai fatto: * e io esulto per le opere delle tue mani.
 /pst/Quanto sono magnifiche, o Signore, le tue opere! * sommamente profondi sono i tuoi disegni!
-/pst/L'insensato non intender√†, * e lo stolto non capir√† tali cose.
-/pst/Allorch√© i peccatori saranno venuti su come l'erba: * e avran fatto la loro comparsa tutti quelli che operano l'iniquit√†;
+/pst/L'insensato non intender‡, * e lo stolto non capir‡ tali cose.
+/pst/AllorchÈ i peccatori saranno venuti su come l'erba: * e avran fatto la loro comparsa tutti quelli che operano l'iniquit‡;
 /pst/Essi periranno per tutti i secoli. * Ma tu, o Signore, tu sei l'Altissimo in eterno.
-/pst/Poich√©, ecco i tuoi nemici, o Signore, ecco, i tuoi nemici periranno: * e tutti quelli che operano l'iniquit√† saranno dispersi.
-/pst/E il mio corno sar√† esaltato come quello del liocorno: * e la mia vecchiezza [sar√† colma] di abbondante misericordia.
-/pst/E il mio occhio guarder√† con disprezzo i miei nemici: * e le mie orecchie udiranno le strida dei maligni, che insorgono contro di me.
-/pst/Il giusto fiorir√† come la palma: * crescer√† come il cedro del Libano.
+/pst/PoichÈ, ecco i tuoi nemici, o Signore, ecco, i tuoi nemici periranno: * e tutti quelli che operano l'iniquit‡ saranno dispersi.
+/pst/E il mio corno sar‡ esaltato come quello del liocorno: * e la mia vecchiezza [sar‡ colma] di abbondante misericordia.
+/pst/E il mio occhio guarder‡ con disprezzo i miei nemici: * e le mie orecchie udiranno le strida dei maligni, che insorgono contro di me.
+/pst/Il giusto fiorir‡ come la palma: * crescer‡ come il cedro del Libano.
 /pst/Piantati nella casa del Signore, * fioriranno negli atrii della casa del nostro Dio.
 /pst/Si moltiplicheranno anche nella prospera vecchiezza * e saranno pieni di vigore, per annunziare
-/pst/Che il Signore Dio nostro √® giusto; * e non √® in lui alcuna iniquit√†.
-/tra/Ant. Lo piangeranno come un figlio unico, perch√© il Signore innocente √® stato ucciso.
+/pst/Che il Signore Dio nostro Ë giusto; * e non Ë in lui alcuna iniquit‡.
+/tra/Ant. Lo piangeranno come un figlio unico, perchÈ il Signore innocente Ë stato ucciso.
 /tra/Ant. Guardate, * popoli tutti, e vedete il mio dolore.
+/com/Il terzo Salmo (63) Ë quello del quale S. Agostino ci offre in nome della Chiesa il commentario ufficiale nelle Letture del secondo Notturno in questi giorni del VenerdÏ e del Sabato Santo.
 /stt/Salmo 63
 /pst1/Esaudisci, o Dio, la mia preghiera, quando t'invoco; * dal timore del nemico libera l'anima mia.
-/pst/Tu mi hai protetto dalla cospirazione dei maligni: * dalla moltitudine di quelli che operano l'iniquit√†.
-/pst/Perch√© affilarono come spade le loro lingue: * tesero il loro arco, [amara cosa] per saettare nell'oscurit√† l'innocente.
+/pst/Tu mi hai protetto dalla cospirazione dei maligni: * dalla moltitudine di quelli che operano l'iniquit‡.
+/pst/PerchÈ affilarono come spade le loro lingue: * tesero il loro arco, [amara cosa] per saettare nell'oscurit‡ l'innocente.
 /pst/Lo saetteranno all'improvviso, e non temeranno: * si sono confermati nel perverso disegno.
-/pst/Presero consiglio per nascondere i loro lacci; e dissero: * Chi li scoprir√†?
-/pst/Escogitarono iniquit√†; * gli indagatori vennero meno nelle ricerche.
-/pst/L'uomo scender√† nel fondo del suo cuore: * ma Dio sar√† esaltato.
+/pst/Presero consiglio per nascondere i loro lacci; e dissero: * Chi li scoprir‡?
+/pst/Escogitarono iniquit‡; * gli indagatori vennero meno nelle ricerche.
+/pst/L'uomo scender‡ nel fondo del suo cuore: * ma Dio sar‡ esaltato.
 /pst/Le ferite, che essi fanno, sono frecce di fanciulli: * e le loro lingue sono rimaste senza forza, voltatesi a loro danno.
 /pst/Tutti quelli che li vedevano furono turbati, * ed ogni uomo fu preso da timore.
 /pst/E annunziarono le opere di Dio, * e compresero le cose da lui fatte.
-/pst/Il giusto si rallegrer√† nel Signore, e sperer√† in lui; * e tutti i retti di cuore saranno lodati.
+/pst/Il giusto si rallegrer‡ nel Signore, e sperer‡ in lui; * e tutti i retti di cuore saranno lodati.
 /tra/Ant. Guardate, popoli tutti, e vedete il mio dolore.
 /tra/Ant. Dalla porta del sepolcro, * libera, o Signore, l'anima mia.
+/com/Il Cantico di Ezechia che la Chiesa recita il martedÏ alle Lodi, sostituisce oggi quello del Deuteronomio che Ë proprio del Sabato ma che non avrebbe alcuna relazione con il mistero di questo giorno. Ezechia che implora a Dio, sul letto di morte, il ritorno alla vita, Ë figura di Cristo nel sepolcro che supplica il Padre suo di volerlo rendere prontamente alla luce del giorno.
 /stt/Cantico di Ezechia
-/ref/Is. 38:10-23
+/ref/Is. XXXVIII, 10-23
 /pst1/Mi dicevo: Nel mezzo della vita, * debbo partire per le porte della tomba.
-/pst/Mi vedo rapito il resto dei miei anni! * E dicevo: Non vedr√≤ pi√π il Signore Iddio sulla terra dei vivi;
-/pst/E non vedr√≤ pi√π uomo, * pi√π nessuno in questa terra di pace!
-/pst/La dimora m'√® tolta, m'√® portata via * come la tenda dei pastori.
-/pst/La mia vita √® tagliata come dalle forbici del tessitore; ne stavo ordendo la trama, ed eccola tagliata; * dal mattino alla sera sar√† finita per me!
+/pst/Mi vedo rapito il resto dei miei anni! * E dicevo: Non vedrÚ pi˘ il Signore Iddio sulla terra dei vivi;
+/pst/E non vedrÚ pi˘ uomo, * pi˘ nessuno in questa terra di pace!
+/pst/La dimora m'Ë tolta, m'Ë portata via * come la tenda dei pastori.
+/pst/La mia vita Ë tagliata come dalle forbici del tessitore; ne stavo ordendo la trama, ed eccola tagliata; * dal mattino alla sera sar‡ finita per me!
 /pst/Gemo tutta la notte; * come un leone il male mi spezza le ossa.
-/pst/Dal mattino alla sera √® finita per me. * Io strido come un rondinino, gemo come una colomba.
+/pst/Dal mattino alla sera Ë finita per me. * Io strido come un rondinino, gemo come una colomba.
 /pst/Si sono illanguiditi i miei occhi * nel guardare verso il cielo.
-/pst/Signore, soffro violenza; rispondi per me. * Ma cosa dir√≤? Perch√© dovrebbe rispondermi se ha gi√† soddisfatto le mie domande?
-/pst/Riprender√≤ dunque il corso degli anni, * dopo l'angoscia dell'anima mia.
-/pst/Signore, cos√¨ √® la vita! Queste, sono le vicissitudini della mia esistenza; mi castighi, poi mi ridai la vita; * e subito la mia desolazione pi√π amara si cambia in pace.
+/pst/Signore, soffro violenza; rispondi per me. * Ma cosa dirÚ? PerchÈ dovrebbe rispondermi se ha gi‡ soddisfatto le mie domande?
+/pst/RiprenderÚ dunque il corso degli anni, * dopo l'angoscia dell'anima mia.
+/pst/Signore, cosÏ Ë la vita! Queste, sono le vicissitudini della mia esistenza; mi castighi, poi mi ridai la vita; * e subito la mia desolazione pi˘ amara si cambia in pace.
 /pst/Infatti hai ritirato l'anima mia dalla tomba; * hai gettato dietro le spalle tutti i miei peccati.
-/pst/La tomba infatti non ti loder√†; la morte non ti glorificher√† mai; * quelli che scendono nella tomba non sperano pi√π nella tua fedelt√†.
-/pst/Chi vive, solo chi vive ti loder√†, come anch'io oggi; * il padre far√† conoscere ai figli la tua fedelt√†.
+/pst/La tomba infatti non ti loder‡; la morte non ti glorificher‡ mai; * quelli che scendono nella tomba non sperano pi˘ nella tua fedelt‡.
+/pst/Chi vive, solo chi vive ti loder‡, come anch'io oggi; * il padre far‡ conoscere ai figli la tua fedelt‡.
 /pst/Signore, salvami; * e tutti i giorni della vita canteremo i nostri salmi nella casa del Signore.
 /tra/Ant. Dalla porta del sepolcro, libera, o Signore, l'anima mia.
-/tra/Ant. O voi tutti, * che passate per la via, guardate e vedete se c'√® dolore simile al mio dolore.
+/tra/Ant. O voi tutti, * che passate per la via, guardate e vedete se c'Ë dolore simile al mio dolore.
+/com/Líultimo Salmo (150) delle Lodi Ë anche líultimo del Salterio, facendo della lode líultima parola di tutte le cose.
 /stt/Salmo 150
 /pst1/Lodate il Signore nel suo santuario, * lodatelo nel firmamento della sua potenza.
-/pst/Lodatelo per le prodigiose opere sue; * lodatelo secondo la immensit√† della sua grandezza.
+/pst/Lodatelo per le prodigiose opere sue; * lodatelo secondo la immensit‡ della sua grandezza.
 /pst/Lodatelo al suon della tromba: * lodatelo col salterio e con la cetra.
 /pst/Lodatelo col timpano e in coro: * lodatelo sugli strumenti a corda e a fiato.
 /pst/Lodatelo con cembali sonori; lodatelo con cembali di giubilo: * ogni spirito lodi il Signore.
-/tra/Ant. O voi tutti, che passate per la via, guardate e vedete se c'√® dolore simile al mio dolore.
-/tra/v La mia carne riposer√† nella speranza.
+/tra/Ant. O voi tutti, che passate per la via, guardate e vedete se c'Ë dolore simile al mio dolore.
+/tra/v La mia carne riposer‡ nella speranza.
 /tra/r E non lascerai che il tuo Santo veda la corruzione.
 /stt/Cantico Benedictus
 /tra/Ant. Le donne * sedute presso il sepolcro si lamentavano, piangendo il Signore.
-/ref/Lc. 1, 68-79
-/pst/Benedetto ‚ú† il Signore Dio d'Israele, * perch√© ha visitato e redento il suo popolo:
-/pst/ed ha innalzato per noi un un corno [segno] di salvezza * nella casa di David suo servo.
-/pst/Come annunzi√≤ per bocca dei santi, * dei suoi profeti, che furono fin da principio:
+/ref/Lc. I, 68-79
+/pst/Benedetto il Signore Dio d'Israele, * perchÈ ha visitato e redento il suo popolo:
+/pst/ed ha innalzato per noi un un corno di salvezza * nella casa di Davide suo servo.
+/pst/Come annunziÚ per bocca dei santi, * dei suoi profeti, che furono fin da principio:
 /pst/liberazione dai nostri nemici, * e dalle mani di tutti coloro che ci odiano:
 /pst/per fare misericordia con i padri nostri: * e mostrarsi memore dell'alleanza sua santa:
-/pst/conforme al giuramento, col quale Egli giur√≤ ad Abramo padre nostro * di concedere a noi:
+/pst/conforme al giuramento, col quale Egli giurÚ ad Abramo padre nostro * di concedere a noi:
 /pst/che liberi dalle mani dei nostri nemici, e scevri di timore * serviamo a Lui
-/pst/con santit√† e giustizia nel cospetto di Lui * per tutti i nostri giorni.
-/pst/E tu, bambino, sarai detto profeta dell'Altissimo: * perch√© precederai davanti alla faccia del Signore a preparare le sue vie:
+/pst/con santit‡ e giustizia nel cospetto di Lui * per tutti i nostri giorni.
+/pst/E tu, bambino, sarai detto profeta dell'Altissimo: * perchÈ precederai davanti alla faccia del Signore a preparare le sue vie:
 /pst/Per dare al suo popolo la scienza della salute * per la remissione dei loro peccati,
 /pst/per le viscere della misericordia del nostro Dio, * per le quali ci ha visitato dall'alto l'Oriente,
 /pst/per illuminare coloro che giacciono nelle tenebre e nell'ombra della morte: * per guidare i nostri passi nella via della pace.
-/tra/Ant. Le donne sedute presso il sepolcro si lamentavano, piangendo il Signore./rub/
-/tralett/C[NJ]Risto s'√® fatto obbediente per noi sino a morire e morire in croce: per questo anche Dio l'ha esaltato e gli ha dato un nome che √® al disopra di ogni nome./rub/
-/tra/Padre nostro =(in silenzio)=
+/tra/Ant. Le donne sedute presso il sepolcro si lamentavano, piangendo il Signore.
+/com/Dopo la ripetizione di questíantifona, il coro canta, su un modo melodioso e commovente, le parole seguenti che la Chiesa ripete in questi giorni al termine di tutti i suoi Uffici. Ma oggi essa non si limita pi˘ ad annunciare la morte di Cristo: completa bensÏ il discorso dellíApostolo, aggiungendovi la parte restante del testo nel quale si predice la gloria dellíUomo-Dio, vincitore delle tenebre della morte.
+/tralett/C[NJ]Risto s'Ë fatto obbediente per noi sino a morire e morire in croce: per questo anche Dio l'ha esaltato e gli ha dato un nome che Ë al disopra di ogni nome.
+/tra/Padre nostro =(in silenzio)=.
 /stt/Orazione
 /tralett/C[NJ]Oncedici, o Dio onnipotente, che preparandoci con devota attesa alla risurrezione del tuo Figlio, conseguiamo la gloria della stessa risurrezione.
 /rub/E si conclude in silenzio
-/tra/Per il medesimo nostro Signore Ges√π Cristo, tuo Figlio, che √® Dio, e vive e regna con te, in unit√† con lo Spirito Santo, per tutti i secoli dei secoli.
-/tra/r Amen.
+/tra/Per il medesimo nostro Signore Ges˘ Cristo, tuo Figlio, che Ë Dio, e vive e regna con te, in unit‡ con lo Spirito Santo, per tutti i secoli dei secoli. Amen.

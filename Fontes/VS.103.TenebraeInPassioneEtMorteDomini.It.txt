@@ -1,142 +1,151 @@
 /tt/Al primo Notturno
 /tra/Ant. Son insorti i re della terra * e i principi han cospirato insieme contro il Signore e contro il suo Cristo.
+/com/Il primo Salmo (2) annuncia in maniera profetica la generazione eterna del Figlio di Dio, la sua regalità sulle nazioni, e la giustizia ch’Egli farà, nell’ultimo giorno, contro i suoi nemici. Giacché questo magnifico Cantico parla anche della rivolta dei potenti del mondo contro Cristo, la Chiesa lo recita in questo giorno in cui i complotti della sinagoga hanno causato la morte del Redentore.
 /stt/Salmo 2
-/pst1/PerchÃ© fremono le genti, * e i popoli tramano vani disegni?
+/pst1/Perché fremono le genti, * e i popoli tramano vani disegni?
 /pst/I re della terra si levano e i principi si collegano insieme * contro il Signore e contro il suo Cristo.
 /pst/Rompiamo i loro legami, * e scrolliamo da noi il loro giogo.
 /pst/Colui che abita nei cieli ne ride * e il Signore si beffa di loro.
 /pst/Poi parla loro nella sua ira, * e li atterrisce nel suo furore.
 /pst/Ma io sono stato da lui costituito re sopra Sion, il suo santo monte, * e promulgo il suo decreto.
 /pst/Il Signore mi ha detto: * Tu sei il mio Figlio; Io oggi ti ho generato.
-/pst/Chiedimi, e io ti darÃ² in tua ereditÃ  le genti, * e in tuo dominio i confini della terra.
+/pst/Chiedimi, e io ti darò in tua eredità le genti, * e in tuo dominio i confini della terra.
 /pst/Li governerai con uno scettro di ferro, * e li stritolerai come un vaso di creta.
 /pst/Or dunque, o re, fate senno, * ravvedetevi, o giudici della terra.
 /pst/Servite al Signore con timore, * ed esultate in lui con tremore.
-/pst/Abbracciate la dottrina, affinchÃ© il Signore non si adiri, * e voi non periate fuori della retta via.
-/pst/AllorchÃ© quando avvamperÃ  la sua ira, * beati tutti coloro che confidano in lui.
+/pst/Abbracciate la dottrina, affinché il Signore non si adiri, * e voi non periate fuori della retta via.
+/pst/Allorché quando avvamperà la sua ira, * beati tutti coloro che confidano in lui.
 /tra/Ant. Son insorti i re della terra e i principi han cospirato insieme contro il Signore e contro il suo Cristo.
 /tra/Ant. Si divisero * i miei panni, e sulla mia tunica tiraron la sorte.
+/com/Il secondo Salmo (21) è a tutti gli effetti il Salmo della Passione. Il primo versetto riproduce una delle ultime parole di Gesù Cristo in croce. I suoi piedi e le sue mani trafitte, il violento stiramento delle sue membra, i suoi vestiti spartiti, la sua tunica tirata a sorte, i lamenti della sua agonia, gli insulti di coloro che lo hanno crocifisso, sono altrettanti aspetti che fanno di questo divin Cantico quasi una narrazione anticipata degli avvenimenti del Vangelo.
 /stt/Salmo 21
-/pst1/Dio, Dio mio, volgiti a me: * perchÃ© tu mi hai abbandonato? Mi allontana dalla salvezza, la voce dei miei delitti.
+/pst1/Dio, Dio mio, volgiti a me: * perché tu mi hai abbandonato? Mi allontana dalla salvezza, la voce dei miei delitti.
 /pst/Mio Dio, grido di giorno, e non mi esaudisci: * [grido] la notte, e non per mia follia.
 /pst/Eppure tu abiti nel santuario, * o gloria d'Israele.
 /pst/In te sperarono i padri nostri: * sperarono e tu li liberasti.
 /pst/Gridarono a te e furono salvati: * in te sperarono, e non restarono confusi.
 /pst/Ma io sono un verme, e non un uomo: * l'obbrobrio degli uomini, e il rifiuto della plebe.
 /pst/Quanti mi vedono mi scherniscono, * parlottano [sogghignano] con le labbra e scuotono la testa.
-/pst/Ha sperato nel Signore: egli lo liberi. * Lo salvi, giacchÃ© lo ama.
-/pst/SÃ¬, sei tu, che mi traesti dal seno, * mia speranza fin dalle poppe materne.
+/pst/Ha sperato nel Signore: egli lo liberi. * Lo salvi, giacché lo ama.
+/pst/Sì, sei tu, che mi traesti dal seno, * mia speranza fin dalle poppe materne.
 /pst/Su te fui gettato dal grembo materno: dal seno di mia madre tu sei il mio Dio. * Non ti allontanare da me,
-/pst/PoichÃ© la tribolazione Ã¨ vicina, * poichÃ© non c'Ã¨ chi soccorra.
+/pst/Poiché la tribolazione è vicina, * poiché non c'è chi soccorra.
 /pst/Mi hanno circondato molti giovenchi: * mi hanno accerchiato grassi tori.
 /pst/Hanno spalancato contro di me la loro bocca, * come un leone che sbrana, e ruggisce.
 /pst/Mi sono disciolto come acqua, * e si sono slogate le mie ossa.
-/pst/Il mio cuore Ã¨ diventato come cera, che si liquefa * in mezzo alle mie viscere.
-/pst/Il mio vigore Ã¨ inaridito come un coccio, e la mia lingua si Ã¨ attaccata al mio palato, * e mi hai condotto nella polvere della morte.
-/pst/PoichÃ© numerosi cani mi hanno circondato: * un concilio di maligni mi ha accerchiato.
+/pst/Il mio cuore è diventato come cera, che si liquefa * in mezzo alle mie viscere.
+/pst/Il mio vigore è inaridito come un coccio, e la mia lingua si è attaccata al mio palato, * e mi hai condotto nella polvere della morte.
+/pst/Poiché numerosi cani mi hanno circondato: * un concilio di maligni mi ha accerchiato.
 /pst/Hanno forato le mie mani e i miei piedi: * hanno contato tutte le mie ossa.
 /pst/Essi poi mi hanno guardato e osservato attentamente. * Si sono divise tra loro le mie vesti, e sulla mia veste [tunica] hanno gettato la sorte.
 /pst/Ma tu, o Signore, non allontanare da me il tuo soccorso: * accorri in mia difesa.
-/pst/Libera dalla spada, o Dio, la mia anima: * e dalla violenza del cane [poichÃ© Ã¨] la mia unica.
+/pst/Libera dalla spada, o Dio, la mia anima: * e dalla violenza del cane [poiché è] la mia unica.
 /pst/Salvami dalle fauci del leone, * e la mia debolezza dalle corna degli unicorni.
-/pst/AnnunzierÃ² il tuo nome ai miei fratelli, * in mezzo alla Chiesa ti loderÃ².
+/pst/Annunzierò il tuo nome ai miei fratelli, * in mezzo alla Chiesa ti loderò.
 /pst/O voi, che temete il Signore, lodatelo: * o intera discendenza di Giacobbe, glorificatelo.
-/pst/Lo tema tutta la stirpe d'Israele, * perchÃ© non disdegnÃ², nÃ© disprezzÃ² la supplica del povero:
-/pst/NÃ© rivolse da me la sua faccia * e quando alzai a lui le mie grida mi esaudÃ¬.
-/pst/Da te la mia lode nella grande Chiesa, * scioglierÃ² i miei voti in presenza di coloro che lo temono.
+/pst/Lo tema tutta la stirpe d'Israele, * perché non disdegnò, né disprezzò la supplica del povero:
+/pst/Né rivolse da me la sua faccia * e quando alzai a lui le mie grida mi esaudì.
+/pst/Da te la mia lode nella grande Chiesa, * scioglierò i miei voti in presenza di coloro che lo temono.
 /pst/I poveri mangeranno, e saranno saziati e loderanno il Signore quelli che lo cercano: * vivranno i loro cuori in eterno.
 /pst/Si ricorderanno e si convertiranno al Signore * tutti i confini della terra:
 /pst/E adoranti al suo cospetto, * tutte quante le famiglie delle genti.
-/pst/PoichÃ© del Signore Ã¨ il regno, * ed egli dominerÃ  sulle genti.
+/pst/Poiché del Signore è il regno, * ed egli dominerà sulle genti.
 /pst/Tutti i potenti della terra hanno mangiato e hanno adorato; * dinanzi a lui si prostreranno tutti quelli che scendono nella terra.
-/pst/E l'anima mia vivrÃ  per lui, * e la mia stirpe a lui servirÃ .
-/pst/SarÃ  annunziata al Signore la generazione avvenire, * e i cieli annunzieranno la giustizia di lui al popolo che nascerÃ , e che il Signore ha creato.
+/pst/E l'anima mia vivrà per lui, * e la mia stirpe a lui servirà.
+/pst/Sarà annunziata al Signore la generazione avvenire, * e i cieli annunzieranno la giustizia di lui al popolo che nascerà, e che il Signore ha creato.
 /tra/Ant. Si divisero i miei panni, e sulla mia tunica tiraron la sorte.
-/tra/Ant. Sono sorti contro di me testimoni iniqui, e l'iniquitÃ  ha mentito contro se stessa.
+/tra/Ant. Sono sorti contro di me testimoni iniqui, e l'iniquità ha mentito contro se stessa.
+/com/Il terzo Salmo (26) fu composto da Davide, quando fuggiva dalla persecuzione di Saul. Esso offre un contrasto sorprendente fra i pericoli che circondano il servo di Dio, e l’inalterabile fiducia ch’egli ripone nel Signore. Davide è qui figura di Cristo nel mezzo delle prove della sua Passione.
 /stt/Salmo 26
-/pst1/Il Signore Ã¨ la mia luce e la mia salvezza: * di chi temerÃ²?
-/pst/Il Signore Ã¨ il protettore della mia vita: * di chi avrÃ² paura?
+/pst1/Il Signore è la mia luce e la mia salvezza: * di chi temerò?
+/pst/Il Signore è il protettore della mia vita: * di chi avrò paura?
 /pst/Mentre i maligni, mi vengono sopra * per divorare le mie carni:
 /pst/Questi nemici che mi affliggono * essi stessi inciampano e cadono.
 /pst/Quand'anche un esercito si accampi contro di me, * il mio cuore non teme.
-/pst/Quando pure insorga la battaglia contro di me, * anche allora spererÃ².
-/pst/Una sola cosa chiesi al Signore, questa io cercherÃ², * che io possa abitare nella casa del Signore tutti i giorni della mia vita,
+/pst/Quando pure insorga la battaglia contro di me, * anche allora spererò.
+/pst/Una sola cosa chiesi al Signore, questa io cercherò, * che io possa abitare nella casa del Signore tutti i giorni della mia vita,
 /pst/Per contemplare le delizie del Signore, * e visitare il suo Santuario.
-/pst/PoichÃ© egli mi nascose nel suo tabernacolo, * nel giorno delle sciagure mi protesse nell'intimo del suo tabernacolo.
-/pst/Mi innalzÃ² sopra di una rupe * e adesso ha innalzato la mia testa sopra dei miei nemici.
-/pst/Girai [attorno all'altare], e immolai nel suo tabernacolo sacrifici al suon delle trombe, * canterÃ² e salmeggerÃ² al Signore.
-/pst/Ascolta, o Signore, la mia voce, con la quale ho gridato a te: * abbi pietÃ  di me, ed esaudiscimi.
-/pst/Il mio cuore ha parlato con te, ti ha cercato il mio volto; * il tuo volto Signore, io cercherÃ².
+/pst/Poiché egli mi nascose nel suo tabernacolo, * nel giorno delle sciagure mi protesse nell'intimo del suo tabernacolo.
+/pst/Mi innalzò sopra di una rupe * e adesso ha innalzato la mia testa sopra dei miei nemici.
+/pst/Girai [attorno all'altare], e immolai nel suo tabernacolo sacrifici al suon delle trombe, * canterò e salmeggerò al Signore.
+/pst/Ascolta, o Signore, la mia voce, con la quale ho gridato a te: * abbi pietà di me, ed esaudiscimi.
+/pst/Il mio cuore ha parlato con te, ti ha cercato il mio volto; * il tuo volto Signore, io cercherò.
 /pst/Non rivolgere la tua faccia da me, * non ritirarti con sdegno dal tuo servo.
 /pst/Sii tu il mio aiuto, * non mi abbandonare e non mi disprezzare, * o Dio mio Salvatore.
-/pst/PoichÃ© mio padre e mia madre mi hanno abbandonato: * ma il Signore si Ã© preso cura di me.
+/pst/Poiché mio padre e mia madre mi hanno abbandonato: * ma il Signore si è preso cura di me.
 /pst/Ponimi, o Signore, una legge nella tua via: * e guidami per diritto sentiero a motivo dei miei nemici.
-/pst/Non abbandonarmi in balia di coloro che mi perseguitano; * poichÃ© sono insorti contro di me falsi testimoni, e l'iniquitÃ  mentÃ¬ a se stessa.
-/pst/Credo che vedrÃ² i beni del Signore * nella terra dei vivi.
+/pst/Non abbandonarmi in balia di coloro che mi perseguitano; * poiché sono insorti contro di me falsi testimoni, e l'iniquità mentì a se stessa.
+/pst/Credo che vedrò i beni del Signore * nella terra dei vivi.
 /pst/Aspetta il Signore, agisci con forza, * e prenda coraggio il tuo cuore, e spera nel Signore.
-/tra/Ant. Sono sorti contro di me testimoni iniqui, e l'iniquitÃ  ha mentito contro se stessa.
+/tra/Ant. Sono sorti contro di me testimoni iniqui, e l'iniquità ha mentito contro se stessa.
 /tra/v Si divisero i miei panni.
 /tra/r E sulla mia tunica tirarono la sorte.
-/tra/Padre nostro =(in silenzio)=
+/tra/Padre nostro =(in silenzio)=.
+/com/Le Letture del primo Notturno continuano ad esser tratte dalle Lamentazioni di Geremia. Abbiamo illustrato, il Giovedì Santo, i motivi che hanno spinto la Chiesa a leggere, in questi tre giorni, questa triste elegia. Le due prime Letture fanno riferimento alla rovina di Gerusalemme. 
 /stt/Lettura 1
 /stt//stt/Dalle Lamentazioni del Profeta Geremia
-/ref/Lam 2:8-11 
-/tralett/E[NJ]T. Il Signore ha deciso di distruggere il muro della figlia di Sion: ha tesa la sua corda e non ha ritratto la sua mano dalla distruzione: l'antemurale ha dato un gemito e col muro insieme Ã¨ stato atterrato. Tet. Sono confitte in terra le sue porte: egli sfondÃ² e spezzÃ² le sue sbarre: il suo re e i suoi principi son (dispersi) fra le Genti: non c'Ã¨ piÃ¹ legge, e i suoi profeti non hanno avuto piÃ¹ visione dal Signore. Jod. Son seduti per terra taciturni gli anziani della figlia di Sion: si son cosparsi di cenere le loro teste, si sono vestiti di sacco, si sono abbandonate col corpo per terra le vergini di Gerusalemme. Caf. I miei occhi si son consumati per le lacrime, le mie viscere sono conturbate: mi si Ã¨ riversato in terra il fegato per lo scempio della figlia del mio popolo, allorchÃ© veniva meno il bambino e il lattante per le piazze della cittÃ . Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
-/resp/Rep. Tutti i miei amici mi abbandonarono, e prevalsero quelli che m'insidiavano: colui che io amavo mi tradÃ¬: * E con occhi terribili, dopo avermi piagato crudelmente, m'abbeverarono di aceto. v Mi gettarono tra gli scellerati, e non ebbero riguardo alla mia vita. r E con occhi terribili, dopo avermi piagato crudelmente, m'abbeverarono di aceto.
+/ref/Lam. II, 8-11 
+/tralett/E[NJ]T. Il Signore ha deciso di distruggere il muro della figlia di Sion: ha tesa la sua corda e non ha ritratto la sua mano dalla distruzione: l'antemurale ha dato un gemito e col muro insieme è stato atterrato. Tet. Sono confitte in terra le sue porte: egli sfondò e spezzò le sue sbarre: il suo re e i suoi principi son (dispersi) fra le Genti: non c'è più legge, e i suoi profeti non hanno avuto più visione dal Signore. Jod. Son seduti per terra taciturni gli anziani della figlia di Sion: si son cosparsi di cenere le loro teste, si sono vestiti di sacco, si sono abbandonate col corpo per terra le vergini di Gerusalemme. Caf. I miei occhi si son consumati per le lacrime, le mie viscere sono conturbate: mi si è riversato in terra il fegato per lo scempio della figlia del mio popolo, allorché veniva meno il bambino e il lattante per le piazze della città. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
+/com/Unico modo terzo di tutti questi giorni, ma caratteristico per l’inalterabile dolcezza che conferisce a questa dolorosa meditazione del Signore sull’atteggiamento di coloro che lo circondano: l’abbandono dei suoi amici- il trionfo dei suoi nemici - poi, il tradimento da parte di un amatissimo discepolo, di questa cosa sacra che è l’amicizia - poi, l’evocazione degli ultimi momenti prima della morte: le piaghe, l’aceto. Meraviglioso Responsorio di ispirazione  di linea, di espressione, di souplesse; è un essere vivente che soffre, e nel cui animo tutto è  dolore.
+/resp/Resp. Tutti i miei amici mi abbandonarono, e prevalsero quelli che m'insidiavano: colui che io amavo mi tradì: * E con occhi terribili, dopo avermi piagato crudelmente, m'abbeverarono di aceto. v Mi gettarono tra gli scellerati, e non ebbero riguardo alla mia vita. r E con occhi terribili, dopo avermi piagato crudelmente, m'abbeverarono di aceto.
 /stt/Lettura 2
-/ref/Lam 2:12-15 
-/tralett/L[NJ]Amed. Essi dicevano alle loro madri: Dov'Ã¨ il grano ed il vino? allorchÃ© stramazzavano come feriti nelle piazze della cittÃ : allorchÃ© esalavano lo spirito in seno alle loro madri. Mem. A che ti paragonerÃ²? o a che t'assomiglierÃ², o figlia di Gerusalemme? a chi ti uguaglierÃ² per consolarti, o vergine figlia di Sion? PerchÃ© grande come il mare Ã¨ il tuo dolore: chi t'appresterÃ  rimedio? Nun. I tuoi profeti t'han profetizzato cose false e stolte, nÃ© ti svelavano la tua iniquitÃ  per eccitarti a penitenza: t'han profetizzato cose false, ed espulsioni. Samech. Han battuto le mani su di te tutti quelli che passavano per la via: fischiarono e scrollarono il capo sulla figlia di Gerusalemme dicendo: Ãˆ questa la cittÃ  di perfetta bellezza, la delizia di tutta quanta la terra? Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
-/resp/Rep. Il velo del tempio si squarciÃ², * E tutta la terra tremÃ²: il ladrone dalla croce gridava dicendo: Ricordati di me, o Signore, quando giungerai nel tuo regno. v Le pietre si spezzarono, e le tombe si aprirono, e molti corpi di santi, che vi dormivano, risuscitarono. r E tutta la terra tremÃ²: il ladrone dalla croce gridava dicendo: Ricordati di me, o Signore, quando giungerai nel tuo regno.
+/ref/Lam. II, 12-15 
+/tralett/L[NJ]Amed. Essi dicevano alle loro madri: Dov'è il grano ed il vino? allorché stramazzavano come feriti nelle piazze della città: allorché esalavano lo spirito in seno alle loro madri. Mem. A che ti paragonerò? o a che t'assomiglierò, o figlia di Gerusalemme? a chi ti uguaglierò per consolarti, o vergine figlia di Sion? Perché grande come il mare è il tuo dolore: chi t'appresterà rimedio? Nun. I tuoi profeti t'han profetizzato cose false e stolte, né ti svelavano la tua iniquità per eccitarti a penitenza: t'han profetizzato cose false, ed espulsioni. Samech. Han battuto le mani su di te tutti quelli che passavano per la via: fischiarono e scrollarono il capo sulla figlia di Gerusalemme dicendo: È questa la città di perfetta bellezza, la delizia di tutta quanta la terra? Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
+/com/Semplice narrazione di alcune circostanze della Passione, prende in prestito le formule proprie del  modo secondo, il meno variegato di tutti i modi dei responsori. Degna di nota, nella seconda parte, la preghiera semplice, ma umile e fiduciosa del buon ladrone, che si esprime inizialmente in maniera spoglia: [Memento mei Domine], per poi procedere ([dum veneris]) e sfociare nel climax in [regnum tuum].
+/resp/Resp. Il velo del tempio si squarciò, * E tutta la terra tremò: il ladrone dalla croce gridava dicendo: Ricordati di me, o Signore, quando giungerai nel tuo regno. v Le pietre si spezzarono, e le tombe si aprirono, e molti corpi di santi, che vi dormivano, risuscitarono. r E tutta la terra tremò: il ladrone dalla croce gridava dicendo: Ricordati di me, o Signore, quando giungerai nel tuo regno.
+/com/Nella terza Lettura Geremia cambia soggetto. Come usano i Profeti si interrompe per parlare del Messia, la grande preoccupazione di Israele. Ma non si tratta qui del Messia trionfatore: è il Figlio dell’uomo, oggetto dell’ira di Dio perché porta su di sé i peccati di tutto il mondo che Geremia offre ai nostri sguardi.
 /stt/Lettura 3
-/ref/Lam 3:1-9 
-/tralett/A[NJ]Lef. Io son un uomo che conosco la mia miseria sotto la verga del suo sdegno. Alef. Egli m'ha trascinato e condotto nelle tenebre, e non nella luce. Alef. Solo contro di me egli mena e rimena la sua mano tutto il giorno. Bet. Egli ha fatto invecchiare la mia pelle e la mia carne, e ha stritolato le mie ossa. Bet. Egli ha fabbricato in giro a me, e m'ha circondato di fiele e di affanno. Bet. Mi ha collocato in luoghi tenebrosi, come i morti per sempre. Ghimel. Ha costruito intorno a me perchÃ© io non esca: ha aggravato i miei ceppi. Ghimel. Ma anche quando grido e supplico, egli respinge la mia preghiera. Ghimel. M'ha chiuso le strade con pietre riquadrate, ha distrutto i miei sentieri. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
-/resp/Rep. Vigna mia eletta, io stesso t'ho piantata: * Come sei divenuta cosÃ¬ amara, da crocifiggermi e liberare Barabba? v Ti feci una siepe, rimossi da te le pietre, e ti edificai una torre. r Come sei divenuta cosÃ¬ amara, da crocifiggermi e liberare Barabba? r Vigna mia eletta, io stesso t'ho piantata: * Come sei divenuta cosÃ¬ amara, da crocifiggermi e liberare Barabba?
-/tt/Al secondo Notturno
+/ref/Lam. III, 1-9 
+/tralett/A[NJ]Lef. Io son un uomo che conosco la mia miseria sotto la verga del suo sdegno. Alef. Egli m'ha trascinato e condotto nelle tenebre, e non nella luce. Alef. Solo contro di me egli mena e rimena la sua mano tutto il giorno. Bet. Egli ha fatto invecchiare la mia pelle e la mia carne, e ha stritolato le mie ossa. Bet. Egli ha fabbricato in giro a me, e m'ha circondato di fiele e di affanno. Bet. Mi ha collocato in luoghi tenebrosi, come i morti per sempre. Ghimel. Ha costruito intorno a me perché io non esca: ha aggravato i miei ceppi. Ghimel. Ma anche quando grido e supplico, egli respinge la mia preghiera. Ghimel. M'ha chiuso le strade con pietre riquadrate, ha distrutto i miei sentieri. Gerusalemme, Gerusalemme, convertiti al Signore Dio tuo.
+/com/Ecco di nuovo il lamento del Signore, sulla sua vigna prediletta, questo popolo d’Israele, che ha tanto amato e dal quale sarà trattato in modo così terribile (un po’ il tema degli Improperi dell’Ufficio del giorno: [Ego propter te… et tu…]). Il lamento, sempre di una incomparabile dolcezza e al principio di una infinita tenerezza si volge in seguito in una sorta di rimprovero ([Quomodo…] “Come hai tu potuto essere tanto infelice…”). La melodia tende sempre più all’acuto per poi reclinare in maniera bellamente avviluppata e colma di dolorosa fatica, e riprendere infine la stessa formula, un po’ più tormentata al pensiero della preferenza accordata a Barabba. 
+/resp/Resp. Vigna mia eletta, io stesso t'ho piantata: * Come sei divenuta così amara, da crocifiggermi e liberare Barabba? v Ti feci una siepe, rimossi da te le pietre, e ti edificai una torre. r Come sei divenuta così amara, da crocifiggermi e liberare Barabba? r Vigna mia eletta, io stesso t'ho piantata: * Come sei divenuta così amara, da crocifiggermi e liberare Barabba?
 /tra/Ant. Mi facevano violenza * quelli che attentavano all'anima mia.
+/com/Nel quarto Salmo (37) Davide, dopo aver peccato,in balia della rivolta di Absalon, si pente delle colpe che hanno scatenato su di lui le ire celesti. È la figura del Messia, che nella sua agonia, confessa anche che le iniquità di cui si è caricato lo abbattono, che il suo cuore è turbato e che le sue forze lo hanno abbandonato.
 /stt/Salmo 37
 /pst1/Signore, non mi riprendere nel tuo furore, * e non mi correggere nella tua ira.
-/pst/PerchÃ© le tue saette si sono conficcate in me, * ed hai aggravato sopra di me la tua mano.
-/pst/Non v'Ã¨ parte sana nella mia carne a cagione dell'ira tua: * non hanno pace le mie ossa a cagione dei miei peccati.
-/pst/PerchÃ© le mie iniquitÃ  sorpassano la mia testa: * e come un grave peso gravano sopra di me.
+/pst/Perché le tue saette si sono conficcate in me, * ed hai aggravato sopra di me la tua mano.
+/pst/Non v'è parte sana nella mia carne a cagione dell'ira tua: * non hanno pace le mie ossa a cagione dei miei peccati.
+/pst/Perché le mie iniquità sorpassano la mia testa: * e come un grave peso gravano sopra di me.
 /pst/Le mie piaghe si sono imputridite e corrotte, * a cagione della mia stoltezza.
 /pst/Sono divenuto miserabile, e sono incurvato oltre misura; * tutto il giorno camminavo in tristezza.
-/pst/PerchÃ© i miei reni sono pieni d'illusioni, * e nella mia carne non v'Ã¨ parte sana.
+/pst/Perché i miei reni sono pieni d'illusioni, * e nella mia carne non v'è parte sana.
 /pst/Sono afflitto ed umiliato oltre modo * mando ruggiti per il gemito del mio cuore.
-/pst/Signore, Ã¨ dinanzi a te ogni mio desiderio: * a te non Ã¨ nascosto il mio gemito.
-/pst/Il mio cuore Ã¨ turbato, la mia forza mi ha abbandonato: * e lo stesso lume dei miei occhi non Ã¨ piÃ¹ con me.
+/pst/Signore, è dinanzi a te ogni mio desiderio: * a te non è nascosto il mio gemito.
+/pst/Il mio cuore è turbato, la mia forza mi ha abbandonato: * e lo stesso lume dei miei occhi non è più con me.
 /pst/I miei amici e i miei congiunti * si sono avvicinati di contro a me, e si fermarono.
 /pst/E quelli che mi erano vicini si sono fermati a distanza. * Quelli che cercavano la mia vita, facevano violenza.
 /pst/E quelli che si studiavano di farmi del male, dissero cose vane: * e tutto il giorno meditavano inganni.
 /pst/Ma io come sordo non udivo: * e fui come un muto che non apre la bocca.
 /pst/E sono divenuto come un uomo che non ode: * e non ha nella sua bocca alcuna risposta.
-/pst/PerchÃ© in te, o Signore, io posi la mia speranza: * tu mi esaudirai, o Signore, Dio mio.
-/pst/PerchÃ© io dissi: Non abbiano i miei nemici a rallegrarsi di me: essi, * che quando i miei piedi vacillano, parlano con superbia contro di me.
-/pst/PerchÃ© io sono preparato ai flagelli: * e il mio dolore sta sempre dinanzi a me.
-/pst/PerchÃ© io confesserÃ² la mia iniquitÃ , * e penserÃ² al mio peccato.
-/pst/Ma i miei nemici vivono, e sono piÃ¹ forti di me: * e quelli che mi odiano ingiustamente sono cresciuti di numero.
-/pst/Quelli che rendono male per bene, parlavano male di me: * perchÃ© io seguivo il bene.
+/pst/Perché in te, o Signore, io posi la mia speranza: * tu mi esaudirai, o Signore, Dio mio.
+/pst/Perché io dissi: Non abbiano i miei nemici a rallegrarsi di me: essi, * che quando i miei piedi vacillano, parlano con superbia contro di me.
+/pst/Perché io sono preparato ai flagelli: * e il mio dolore sta sempre dinanzi a me.
+/pst/Perché io confesserò la mia iniquità, * e penserò al mio peccato.
+/pst/Ma i miei nemici vivono, e sono più forti di me: * e quelli che mi odiano ingiustamente sono cresciuti di numero.
+/pst/Quelli che rendono male per bene, parlavano male di me: * perché io seguivo il bene.
 /pst/Non abbandonarmi, o Signore Dio mio: * non ti allontanare da me.
 /pst/Accorri in mio aiuto, * o Signore, Dio della mia salvezza.
 /tra/Ant. Mi facevano violenza quelli che attentavano all'anima mia.
 /tra/Ant. Siano confusi * e arrossiscano quelli che cercano l'anima mia per togliermela.
+/com/Nel quinto Salmo (39) Davide perseguitato è di nuovo figura del Messia; ma questo divin Cantico contiene un passaggio applicabile soltanto a Cristo: è il momento in cui colui che parla dice a Dio: “Non avete gradito né vittime né offerte; allora io ho detto: Ecco io vengo per compiere la vostra volontà”.
 /stt/Salmo 39
-/pst1/Aspettai con ansia il Signore, * ed egli si chinÃ² a me.
-/pst/Ed esaudÃ¬ le mie preghiere, * e mi trasse dall'abisso della miseria, da un pantano fangoso.
-/pst/E fermÃ² i miei piedi sopra la pietra: * e assicurÃ² i miei passi.
+/pst1/Aspettai con ansia il Signore, * ed egli si chinò a me.
+/pst/Ed esaudì le mie preghiere, * e mi trasse dall'abisso della miseria, da un pantano fangoso.
+/pst/E fermò i miei piedi sopra la pietra: * e assicurò i miei passi.
 /pst/E mi pose in bocca un cantico nuovo, * un inno al nostro Dio.
 /pst/Molti vedranno e temeranno: * e spereranno nel Signore.
-/pst/Beato l'uomo di cui la speranza Ã¨ il nome del Signore: * e non rivolse gli occhi a vanitÃ  e a follie menzognere.
-/pst/Tu, o Signore, mio Dio, hai fatto molte cose meravigliose: * e non vi Ã¨ chi sia simile a te nei tuoi pensieri.
+/pst/Beato l'uomo di cui la speranza è il nome del Signore: * e non rivolse gli occhi a vanità e a follie menzognere.
+/pst/Tu, o Signore, mio Dio, hai fatto molte cose meravigliose: * e non vi è chi sia simile a te nei tuoi pensieri.
 /pst/Li annunziai e li raccontai: * si sono moltiplicati oltre ogni numero.
-/pst/Non hai voluto sacrificio, nÃ© oblazione: * ma tu mi formasti le orecchie.
+/pst/Non hai voluto sacrificio, né oblazione: * ma tu mi formasti le orecchie.
 /pst/Non hai richiesto olocausto e sacrificio per il peccato. * Allora io dissi: Ecco che io vengo.
-/pst/In testa del libro sta scritto di me; ch'io faccia la tua volontÃ : * mio Dio, io volli, e la tua legge Ã¨ in mezzo al mio cuore.
-/pst/Ho annunziato la tua giustizia in una grande Chiesa; * ecco, non terrÃ² chiuse le mie labbra: tu lo sai, o Signore.
-/pst/Non nascosi dentro il mio cuore la tua giustizia; * mostrai la tua veritÃ  e la tua salute.
-/pst/Non nascosi, la tua misericordia e la tua veritÃ  * al numeroso concilio.
-/pst/E tu, o Signore, non allontanare da me le tue misericordie: * la tua bontÃ  e la tua veritÃ  mi sostennero in ogni tempo.
-/pst/PerchÃ© mali senza numero mi hanno circondato: * mi hanno investito le mie iniquitÃ  e non posso sostenerne la vista.
-/pst/Sono piÃ¹ numerose che i capelli della mia testa: * e il cuore mi Ã¨ mancato.
+/pst/In testa del libro sta scritto di me; ch'io faccia la tua volontà: * mio Dio, io volli, e la tua legge è in mezzo al mio cuore.
+/pst/Ho annunziato la tua giustizia in una grande Chiesa; * ecco, non terrò chiuse le mie labbra: tu lo sai, o Signore.
+/pst/Non nascosi dentro il mio cuore la tua giustizia; * mostrai la tua verità e la tua salute.
+/pst/Non nascosi, la tua misericordia e la tua verità * al numeroso concilio.
+/pst/E tu, o Signore, non allontanare da me le tue misericordie: * la tua bontà e la tua verità mi sostennero in ogni tempo.
+/pst/Perché mali senza numero mi hanno circondato: * mi hanno investito le mie iniquità e non posso sostenerne la vista.
+/pst/Sono più numerose che i capelli della mia testa: * e il cuore mi è mancato.
 /pst/Ti piaccia, o Signore, di liberarmi: * Signore, volgiti a darmi aiuto.
 /pst/Siano insieme confusi e svergognati, quelli che cercano la mia vita * per rapirmela.
 /pst/Siano messi in fuga e svergognati * quelli che mi bramano il male.
@@ -146,191 +155,205 @@
 /pst/Tu sei il mio aiuto e il mio protettore; * Dio mio, non tardare.
 /tra/Ant. Siano confusi e arrossiscano quelli che cercano l'anima mia per togliermela.
 /tra/Ant. Degli stranieri * sono insorti contro di me, e dei prepotenti han cercato l'anima mia.
+/com/Nel sesto Salmo (53) Davide, perseguitato dalle insidie di Saul, rappresenta Cristo alla mercé della Sinagoga.
 /stt/Salmo 53
 /pst1/Dio, salvami per il tuo nome: * e con la tua potenza fammi giustizia.
 /pst/Dio, esaudisci la mia preghiera: * porgi orecchio alle parole della mia bocca.
-/pst/PerchÃ© degli stranieri si sono levati contro di me, dei potenti cercano la mia vita: * e non hanno avuto Dio dinanzi ai loro occhi.
-/pst/Ma ecco che Dio mi aiuta: * e il Signore Ã¨ il sostegno della mia vita.
-/pst/Ritorci il male sopra i miei nemici, * e disperdili secondo la tua fedeltÃ .
-/pst/Ti offrirÃ² volontariamente un sacrificio, * e loderÃ² il tuo nome, o Signore; perchÃ© Ã¨ buono.
-/pst/PerchÃ© mi hai liberato da ogni tribolazione, * e il mio occhio ha guardato con disprezzo i miei nemici.
+/pst/Perché degli stranieri si sono levati contro di me, dei potenti cercano la mia vita: * e non hanno avuto Dio dinanzi ai loro occhi.
+/pst/Ma ecco che Dio mi aiuta: * e il Signore è il sostegno della mia vita.
+/pst/Ritorci il male sopra i miei nemici, * e disperdili secondo la tua fedeltà.
+/pst/Ti offrirò volontariamente un sacrificio, * e loderò il tuo nome, o Signore; perché è buono.
+/pst/Perché mi hai liberato da ogni tribolazione, * e il mio occhio ha guardato con disprezzo i miei nemici.
 /tra/Ant. Degli stranieri sono insorti contro di me, e dei prepotenti han cercato l'anima mia.
 /tra/v Sono insorti contro di me testimoni iniqui.
-/tra/r E l'iniquitÃ  ha mentito contro se stessa.
-/tra/Padre nostro =(in silenzio)=
+/tra/r E l'iniquità ha mentito contro se stessa.
+/tra/Padre nostro =(in silenzio)=.
+/com/La Chiesa continua a leggere, nel secondo Notturno, le [Esposizioni] di S. Agostino sui Salmi che profetizzano la Passione del Salvatore. 
 /stt/Lettura 4
 /stt/Dal Trattato di sant'Agostino Vescovo sui Salmi
 /ref/Sul Salmo 63 al verso 2
-/tralett/Â«Mi hai protetto, o Dio. dalla congiura dei malvagi, da una ciurma di operatori d'iniquitÃ Â» Ps. 63,3. Miriamo ora il nostro stesso capo. Molti Martiri hanno sofferto simili cose, ma nessuno risplende tanto come il capo dei Martiri: in lui comprendiamo meglio ciÃ² ch'essi han sofferto. Egli fu protetto da una ciurma di malvagi, per la protezione di Dio, per la protezione che lo stesso Figlio accordÃ² alla sua carne e umanitÃ  che portava: essendo egli figlio dell'uomo e Figlio di Dio. Figlio di Dio per la natura divina: figlio dell'uomo per la natura di servo, avendo potere di lasciar la sua vita e di riprenderla. Che cosa gli poterono fare i nemici? Uccisero sÃ¬ il suo corpo, ma non ne uccisero l'anima. Notatelo bene. Sarebbe stato poco per il Signore esortare i Martiri colla parola, se non li avesse incoraggiati coll'esempio.
-/resp/Rep. Quasi io fossi un assassino siete venuti a prendermi con spade e bastoni: * Tutto il giorno sedevo tra voi nel tempio a insegnare, e non m'avete preso: ed ecco, dopo avermi flagellato, mi conducete ad essere crocifisso. v Mentr'essi mettevano le mani sopra GesÃ¹ e lo prendevano, egli disse loro. r Tutto il giorno sedevo tra voi nel tempio a insegnare, e non m'avete preso: ed ecco, dopo avermi flagellato, mi conducete ad essere crocifisso.
+/tralett/Mi hai protetto, o Dio, dalla congiura dei malvagi, da una ciurma di operatori d'iniquità. [-] Miriamo ora il nostro stesso capo. Molti Martiri hanno sofferto simili cose, ma nessuno risplende tanto come il capo dei Martiri: in lui comprendiamo meglio ciò ch'essi han sofferto. Egli fu protetto da una ciurma di malvagi, per la protezione di Dio, per la protezione che lo stesso Figlio accordò alla sua carne e umanità che portava: essendo egli figlio dell'uomo e Figlio di Dio. Figlio di Dio per la natura divina: figlio dell'uomo per la natura di servo, avendo potere di lasciar la sua vita e di riprenderla. Che cosa gli poterono fare i nemici? Uccisero sì il suo corpo, ma non ne uccisero l'anima. Notatelo bene. Sarebbe stato poco per il Signore esortare i Martiri colla parola, se non li avesse incoraggiati coll'esempio.
+/com/Ancora il lamento di Cristo, ma rivolto ai suoi nemici. La dolce ascesa di [et ecce flagellatum] rivela a sua volta l’angoscia del Signore al pensiero dei crudeli tormenti che gli sono riservati e soprattutto dell’ingratitudine e della malvagità dei Giudei.
+/resp/Resp. Quasi io fossi un assassino siete venuti a prendermi con spade e bastoni: * Tutto il giorno sedevo tra voi nel tempio a insegnare, e non m'avete preso: ed ecco, dopo avermi flagellato, mi conducete ad essere crocifisso. v Mentr'essi mettevano le mani sopra Gesù e lo prendevano, egli disse loro. r Tutto il giorno sedevo tra voi nel tempio a insegnare, e non m'avete preso: ed ecco, dopo avermi flagellato, mi conducete ad essere crocifisso.
 /stt/Lettura 5
-/tralett/S[NJ]Apete quale fosse la cospirazione dei perfidi Giudei, e quale la ciurma degli operatori d'iniquitÃ ? Quale iniquitÃ ? CioÃ¨ che vollero uccidere il Signore GesÃ¹ Cristo. Â«Tante opere buone, disse, vi ho fatto vedere: per quale di queste mi volete uccidere?Â» Joann. 10,32. Egli accolse con bontÃ  tutti i loro infermi, guarÃ¬ tutti i loro malati, predicÃ² il regno dei cieli, non lasciÃ² di riprendere i loro vizi, affin d'ispirar loro l'orrore di questi, e non del medico che li guariva. Ma essi, ingrati a tutte queste sue cure, simili a frenetici che una febbre ardente irrita contro il medico ch'era venuto per guarirli, formarono disegno di perderlo, quasi volessero provare con ciÃ² s'egli era veramente uomo soggetto alla morte o un essere superiore agli uomini che non si lasciasse cogliere dalla morte. Noi riconosciamo il loro linguaggio nel libro della Sapienza di Salomone: Â«Condanniamolo, essi dicono, alla morte piÃ¹ obbrobriosa. Interroghiamolo: perchÃ© ci sarÃ  chi si curerÃ  di lui giusta le sue paroleÂ» Sap. 2,20. Â«S'egli Ã¨ veramente Figlio di Dio, lo liberiÂ» Matth. 27,43.
-/resp/Rep. Si fece buio allorchÃ© i Giudei ebbero crocifisso GesÃ¹: e verso le quindici, GesÃ¹ con gran voce gridÃ²: Dio mio, perchÃ© mi hai abbandonato? * E chinato il capo, rese lo spirito. v E GesÃ¹, gridando con gran voce, disse: Padre, nelle tue mani raccomando lo spirito mio. r E chinato il capo, rese lo spirito.
+/tralett/S[NJ]Apete quale fosse la cospirazione dei perfidi Giudei, e quale la ciurma degli operatori d'iniquità? Quale iniquità? Cioè che vollero uccidere il Signore Gesù Cristo. “Tante opere buone, disse, vi ho fatto vedere: per quale di queste mi volete uccidere?” Egli accolse con bontà tutti i loro infermi, guarì tutti i loro malati, predicò il regno dei cieli, non lasciò di riprendere i loro vizi, affin d'ispirar loro l'orrore di questi, e non del medico che li guariva. Ma essi, ingrati a tutte queste sue cure, simili a frenetici che una febbre ardente irrita contro il medico ch'era venuto per guarirli, formarono disegno di perderlo, quasi volessero provare con ciò s'egli era veramente uomo soggetto alla morte o un essere superiore agli uomini che non si lasciasse cogliere dalla morte. Noi riconosciamo il loro linguaggio nel libro della Sapienza di Salomone: “Condanniamolo, essi dicono, alla morte più obbrobriosa. Interroghiamolo: perché ci sarà chi si curerà di lui giusta le sue parole.” “S'egli è veramente Figlio di Dio, lo liberi.”
+/com/Celebre Responsorio. Vivida narrazione della morte di Cristo ma che, col grido sulla croce, s’innalza ad una reale drammaticità. È questo forte grido che sorge dal costato del Signore, che si sente abbandonato da tutti, persino dal Padre suo; appello, quasi doloroso e commovente rimprovero, di così ardente ed amante accento … si passa poi al sublime ripiegamento di inclinato capite e la dolce ascesa dell’[emisit spiritum], che così bene esprimono, e l’uno e l’altro, il grande sonno della morte. 
+/resp/Resp. Si fece buio allorché i Giudei ebbero crocifisso Gesù: e verso le quindici, Gesù con gran voce gridò: Dio mio, perché mi hai abbandonato? * E chinato il capo, rese lo spirito. v E Gesù, gridando con gran voce, disse: Padre, nelle tue mani raccomando lo spirito mio. r E chinato il capo, rese lo spirito.
 /stt/Lettura 6
-/tralett/Â«Essi affilarono come spada le loro lingueÂ» Ps. 63,3. Non dicano i Giudei: Noi non abbiamo ucciso il Cristo. PerchÃ© essi lo diedero in mano del giudice Pilato per far vedere d' essere quasi immuni della sua morte. Infatti avendo loro detto Pilato: Â«Uccidetelo voiÂ», essi risposero: Â«A noi non Ã¨ permesso di uccidere alcunoÂ» Joann. 18,31. Volevano rigettare l'enormitÃ  del loro misfatto sulla persona del giudice: ma potevano forse ingannare Dio giudice? Pilato fu partecipe del loro delitto nella misura di ciÃ² che fece. Ma in confronto di loro Ã¨ assai meno reo. PoichÃ© egli insistÃ© quanto potÃ© per liberarlo dalle loro mani: e perciÃ², flagellatolo, lo mostrÃ² loro. Egli flagellÃ² il Signore non per farlo perire, ma per soddisfare al loro furore: sperando che almeno nel vederlo cosÃ¬ flagellato, si ammansassero, e desistessero dal volerlo uccidere. Ecco ciÃ² che fece. Ma essi ostinandosi, voi sapete ch'egli si lavÃ² le mani, e dichiarÃ² ch'egli non l'avrebbe fatto mai, ed era mondo della morte di lui. Tuttavia lo fece. Ma s'egli Ã¨ reo per averlo fatto ancorchÃ© nolente: saranno forse innocenti quelli che lo forzarono a ciÃ² fare ? In nessun modo. Egli pronunziÃ² la sentenza contro di lui, e ordinÃ² che fosse ucciso, e cosÃ¬ quasi l'uccise lui stesso: ma siete voi, o Giudei, che realmente l'uccideste. E come l'uccideste? Colla spada della lingua: perchÃ© affilaste le vostre lingue. E quando lo colpiste se non quando gridaste: Â«crocifiggilo, crocifiggilo?Â» Matt. 27,23.
-/resp/Rep. Ho dato l'anima mia diletta nelle mani degli iniqui, e la mia ereditÃ  Ã¨ diventata per me come un leone nella foresta: l'avversario ha alzato la voce contro di me, dicendo: Radunatevi, ed affrettatevi a divorarlo: mi hanno lasciato in un'orribile solitudine, e tutta la terra piange sopra di me: * PerchÃ© non si trovÃ² nessuno che mi riconoscesse, e mi facesse del bene. v Insorsero contro di me uomini senza pietÃ , e non la perdonarono all'anima mia. r PerchÃ© non si trovÃ² nessuno che mi riconoscesse, e mi facesse del bene. r Ho dato l'anima mia diletta nelle mani degli iniqui, e la mia ereditÃ  Ã¨ diventata per me come un leone nella foresta: l'avversario ha alzato la voce contro di me, dicendo: Radunatevi, ed affrettatevi a divorarlo: mi hanno lasciato in un'orribile solitudine, e tutta la terra piange sopra di me: * PerchÃ© non si trovÃ² nessuno che mi riconoscesse, e mi facesse del bene.
-/tt/Al terzo Notturno
-/tra/Ant. Da quelli che insorgono contro di me * liberami, o Signore, perchÃ© si sono impadroniti della mia vita.
+/tralett/Essi affilarono come spada le loro lingue. [-] Non dicano i Giudei: Noi non abbiamo ucciso il Cristo. Perché essi lo diedero in mano del giudice Pilato per far vedere d' essere quasi immuni della sua morte. Infatti avendo loro detto Pilato: “Uccidetelo voi”, essi risposero: “A noi non è permesso di uccidere alcuno”. Volevano rigettare l'enormità del loro misfatto sulla persona del giudice: ma potevano forse ingannare Dio giudice? Pilato fu partecipe del loro delitto nella misura di ciò che fece. Ma in confronto di loro è assai meno reo. Poiché egli insisté quanto poté per liberarlo dalle loro mani: e perciò, flagellatolo, lo mostrò loro. Egli flagellò il Signore non per farlo perire, ma per soddisfare al loro furore: sperando che almeno nel vederlo così flagellato, si ammansassero, e desistessero dal volerlo uccidere. Ecco ciò che fece. Ma essi ostinandosi, voi sapete ch'egli si lavò le mani, e dichiarò ch'egli non l'avrebbe fatto mai, ed era mondo della morte di lui. Tuttavia lo fece. Ma s'egli è reo per averlo fatto ancorché nolente: saranno forse innocenti quelli che lo forzarono a ciò fare ? In nessun modo. Egli pronunziò la sentenza contro di lui, e ordinò che fosse ucciso, e così quasi l'uccise lui stesso: ma siete voi, o Giudei, che realmente l'uccideste. E come l'uccideste? Colla spada della lingua: perché affilaste le vostre lingue. E quando lo colpiste se non quando gridaste: “crocifiggilo, crocifiggilo?”.
+/com/La melodia, dapprima tutta interiore, ricolma di soavità e tristezza, passa all’acuto senza passare per il grave, dalla calma all’agitazione, dalla dolcezza all’asprezza, per poi giungere al progressivo acquietamento nel personale lamento di Cristo, così commovente, e impregnato di un’immensa tristezza alla vista della solitudine nella quale la sua angoscia lo piomba.
+/resp/Resp. Ho dato l'anima mia diletta nelle mani degli iniqui, e la mia eredità è diventata per me come un leone nella foresta: l'avversario ha alzato la voce contro di me, dicendo: Radunatevi, ed affrettatevi a divorarlo: mi hanno lasciato in un'orribile solitudine, e tutta la terra piange sopra di me: * Perché non si trovò nessuno che mi riconoscesse, e mi facesse del bene. v Insorsero contro di me uomini senza pietà, e non la perdonarono all'anima mia. r Perché non si trovò nessuno che mi riconoscesse, e mi facesse del bene. r Ho dato l'anima mia diletta nelle mani degli iniqui, e la mia eredità è diventata per me come un leone nella foresta: l'avversario ha alzato la voce contro di me, dicendo: Radunatevi, ed affrettatevi a divorarlo: mi hanno lasciato in un'orribile solitudine, e tutta la terra piange sopra di me: * Perché non si trovò nessuno che mi riconoscesse, e mi facesse del bene.
+/tra/Ant. Da quelli che insorgono contro di me * liberami, o Signore, perché si sono impadroniti della mia vita.
+/com/Il settimo Salmo (58) fu parimenti composto da Davide, nel tempo in cui era oggetto delle persecuzioni di Saul. Il Profeta descrive la rabbia dei persecutori, e fa allo stesso tempo il ritratto dei nemici del Messia.
 /stt/Salmo 58
 /pst1/Salvami dai miei nemici, o Dio: * e liberami da quelli che insorgono contro di me.
-/pst/Salvami da quelli che operano l'iniquitÃ , * e dammi scampo dagli uomini sanguinari.
-/pst/PerchÃ©, ecco, insidiano alla mia vita: * uomini forti mi assalgono.
-/pst/Non v'Ã¨ iniquitÃ , non vi Ã¨ colpa da parte mia, o Signore: * io corsi e regolai i miei passi senza iniquitÃ .
+/pst/Salvami da quelli che operano l'iniquità, * e dammi scampo dagli uomini sanguinari.
+/pst/Perché, ecco, insidiano alla mia vita: * uomini forti mi assalgono.
+/pst/Non v'è iniquità, non vi è colpa da parte mia, o Signore: * io corsi e regolai i miei passi senza iniquità.
 /pst/Levati, vienimi incontro, e guarda: * e tu, o Signore, Dio degli eserciti. Dio d'Israele,
-/pst/Destati a visitare tutte le genti: * non far misericordia con nessun di quelli che operano l'iniquitÃ .
-/pst/Torneranno alla sera; * e patiranno la fame come cani, e si aggireranno per la cittÃ .
-/pst/Ecco, apriranno la loro bocca, e una spada Ã¨ sulle loro labbra: * [dicendo] Chi ci sente?
+/pst/Destati a visitare tutte le genti: * non far misericordia con nessun di quelli che operano l'iniquità.
+/pst/Torneranno alla sera; * e patiranno la fame come cani, e si aggireranno per la città.
+/pst/Ecco, apriranno la loro bocca, e una spada è sulle loro labbra: * [dicendo] Chi ci sente?
 /pst/Ma tu, o Signore, ti burlerai di loro: * ridurrai al nulla tutte le genti.
-/pst/Io riporrÃ² in te la mia forza; perchÃ© tu, o Dio, sei il mio sostegno. * Dio mio, la sua misericordia mi preverrÃ .
-/pst/Dio mi farÃ  vedere la sorte dei miei nemici: non li uccidere, * affinchÃ© il mio popolo non se ne scordi.
+/pst/Io riporrò in te la mia forza; perché tu, o Dio, sei il mio sostegno. * Dio mio, la sua misericordia mi preverrà.
+/pst/Dio mi farà vedere la sorte dei miei nemici: non li uccidere, * affinché il mio popolo non se ne scordi.
 /pst/Disperdili con la tua potenza * e falli cadere, o Signore, mio protettore,
 /pst/A motivo del delitto della loro bocca, e per le parole delle loro labbra: * e siano presi nella loro superbia.
-/pst/E saranno smascherati per le loro maledizioni e le loro menzogne nella consumazione, * nell'ira della consumazione: e non saranno piÃ¹.
-/pst/E conosceranno che Dio dominerÃ  in Giacobbe, * e sino alla estremitÃ  della terra.
-/pst/Torneranno alla sera, e patiranno la fame come cani, * e si aggireranno per la cittÃ .
+/pst/E saranno smascherati per le loro maledizioni e le loro menzogne nella consumazione, * nell'ira della consumazione: e non saranno più.
+/pst/E conosceranno che Dio dominerà in Giacobbe, * e sino alla estremità della terra.
+/pst/Torneranno alla sera, e patiranno la fame come cani, * e si aggireranno per la città.
 /pst/Andran vagabondi cercando cibo: * e se non saranno satollati, ancora mormoreranno.
-/pst/Ma io canterÃ² la tua fortezza, * e al mattino celebrerÃ² con gioia la tua misericordia.
-/pst/PerchÃ© tu sei stato il mio sostegno, * e il mio rifugio nel giorno della mia tribolazione.
-/pst/Mio aiuto, io inneggerÃ² a te, perchÃ© tu, o Dio, sei il mio sostegno: * Dio mio, mia misericordia.
-/tra/Ant. Da quelli che insorgono contro di me liberami, o Signore, perchÃ© si sono impadroniti della mia vita.
+/pst/Ma io canterò la tua fortezza, * e al mattino celebrerò con gioia la tua misericordia.
+/pst/Perché tu sei stato il mio sostegno, * e il mio rifugio nel giorno della mia tribolazione.
+/pst/Mio aiuto, io inneggerò a te, perché tu, o Dio, sei il mio sostegno: * Dio mio, mia misericordia.
+/tra/Ant. Da quelli che insorgono contro di me liberami, o Signore, perché si sono impadroniti della mia vita.
 /tra/Ant. Hai allontanato * da me i miei conoscenti: fui tradito, e non c'era scampo
+/com/Nell’ottavo Salmo (87), il Messia è di fronte alla morte che sta per divorarlo; fa sentire i suoi lamenti e si strugge per l’abbandono dei suoi discepoli.
 /stt/Salmo 87
 /pst1/Signore, Dio della mia salute: * giorno e notte io grido innanzi a te.
 /pst/Giunga al tuo cospetto la mia preghiera: * porgi il tuo orecchio alla mia supplica.
-/pst/PoichÃ© l'anima mia Ã¨ ripiena di mali: * e la mia vita si avvicina al soggiorno dei morti.
+/pst/Poiché l'anima mia è ripiena di mali: * e la mia vita si avvicina al soggiorno dei morti.
 /pst/Sono reputato come quelli che scendono nella fossa: * sono divenuto come un uomo senza soccorso, libero tra i morti,
-/pst/Come i feriti che dormono nel sepolcro, dei quali tu non serbi piÃ¹ memoria, * e che sono respinti dalla tua mano.
+/pst/Come i feriti che dormono nel sepolcro, dei quali tu non serbi più memoria, * e che sono respinti dalla tua mano.
 /pst/Mi posero in una fossa profonda: * in luoghi tenebrosi e nell'ombra di morte.
-/pst/Il tuo furore si aggravÃ² sopra di me: * mi rovesciasti addosso tutti i tuoi flutti.
+/pst/Il tuo furore si aggravò sopra di me: * mi rovesciasti addosso tutti i tuoi flutti.
 /pst/Hai allontanato da me i miei conoscenti: * mi reputarono un oggetto di abominazione.
 /pst/Fui dato in potere altrui, e non avevo scampo: * I miei occhi languirono per l'afflizione.
 /pst/Gridai a te, o Signore, tutto il giorno: * stesi verso di te le mie mani.
-/pst/Farai tu meraviglie per i morti: * o i medici li risusciteranno, affinchÃ© ti diano lode?
-/pst/NarrerÃ  forse qualcuno nel sepolcro la tua misericordia, * e la tua veritÃ  nel luogo della perdizione?
+/pst/Farai tu meraviglie per i morti: * o i medici li risusciteranno, affinché ti diano lode?
+/pst/Narrerà forse qualcuno nel sepolcro la tua misericordia, * e la tua verità nel luogo della perdizione?
 /pst/Saranno forse conosciute nelle tenebre le tue meraviglie: * e la tua giustizia nella terra dell'oblio?
-/pst/Ma io, o Signore, gridai a te: * e dal mattino ti preverrÃ  la mia preghiera.
-/pst/PerchÃ©, o Signore, rigetti la mia preghiera, * e rivolgi da me la tua faccia?
+/pst/Ma io, o Signore, gridai a te: * e dal mattino ti preverrà la mia preghiera.
+/pst/Perché, o Signore, rigetti la mia preghiera, * e rivolgi da me la tua faccia?
 /pst/Io sono povero, e in affanni fin dalla mia giovinezza: * e dopo essere stato esaltato, fui umiliato ed oppresso.
 /pst/Sopra di me sono passati i tuoi furori, * e i tuoi spaventi mi conturbarono.
 /pst/Mi circondarono come acqua, tutto il giorno; * mi circondarono tutti insieme.
 /pst/Hanno allontanato da me l'amico e il compagno: * e i miei conoscenti a causa della mia miseria.
 /tra/Ant. Hai allontanato da me i miei conoscenti: fui tradito, e non c'era scampo
 /tra/Ant. Insidieranno * all'anima del giusto, e il sangue innocente condanneranno.
+/com/Il nono Salmo (93) invoca la vendetta di Dio su questi perversi giudici che versano sangue innocente, come se il giusto non avesse, in Cielo, un testimone della sua immolazione. I principi dei sacerdoti, i dottori della legge, il vile Ponzio Pilato vi sono tutti raffigurati sotto le spoglie dei giudici iniqui che il Salmista destina alla collera celeste.
 /stt/Salmo 93
-/pst1/Il Signore Ã¨ il Dio delle vendette; * il Dio delle vendette ha agito con libertÃ .
+/pst1/Il Signore è il Dio delle vendette; * il Dio delle vendette ha agito con libertà.
 /pst/Levati su, o tu, che giudichi la terra: * rendi ai superbi la loro retribuzione.
 /pst/Fino a quando, o Signore, i peccatori, * fino a quando i peccatori si glorieranno?
 /pst/Apriranno la bocca, e parleranno iniquamente: * parleranno tutti quelli che operano l'ingiustizia?
-/pst/Signore, essi hanno umiliato il tuo popolo: * e hanno malmenato la tua ereditÃ .
+/pst/Signore, essi hanno umiliato il tuo popolo: * e hanno malmenato la tua eredità.
 /pst/Hanno ucciso la vedova e lo straniero; * e messo a morte i pupilli.
-/pst/E hanno detto: il Signore non vedrÃ , * e il Dio di Giacobbe non lo saprÃ .
+/pst/E hanno detto: il Signore non vedrà, * e il Dio di Giacobbe non lo saprà.
 /pst/Intendete, o insensati del popolo: * e voi stolti, alfine mettete senno.
-/pst/Chi ha piantato l'orecchio, non udirÃ ? * chi ha formato l'occhio, non ci vedrÃ ?
-/pst/Chi castiga le genti, non condannerÃ ? * Egli che insegna all'uomo la scienza?
+/pst/Chi ha piantato l'orecchio, non udirà? * chi ha formato l'occhio, non ci vedrà?
+/pst/Chi castiga le genti, non condannerà? * Egli che insegna all'uomo la scienza?
 /pst/Il Signore conosce i pensieri degli uomini: * e sa che sono vani.
 /pst/Beato l'uomo, che tu, o Signore, avrai istruito, * e a cui avrai insegnata la tua legge,
-/pst/Per rendergli meno duri i giorni cattivi: * finchÃ© si scavi la fossa per il peccatore.
-/pst/PoichÃ© il Signore non rigetterÃ  il suo popolo, * e non abbandonerÃ  la sua ereditÃ ;
+/pst/Per rendergli meno duri i giorni cattivi: * finché si scavi la fossa per il peccatore.
+/pst/Poiché il Signore non rigetterà il suo popolo, * e non abbandonerà la sua eredità;
 /pst/Sino a che la giustizia torni nel giudizio, * e presso di lei stiano tutti i retti di cuore.
-/pst/Chi si leverÃ  per me contro i maligni? * o chi starÃ  con me contro gli operatori di iniquitÃ ?
+/pst/Chi si leverà per me contro i maligni? * o chi starà con me contro gli operatori di iniquità?
 /pst/Se il Signore non mi avesse aiutato, * per poco l'anima mia non avrebbe abitato nell'inferno.
 /pst/Se io dicevo: Il mio piede vacilla: * la tua misericordia, o Signore, veniva in mio soccorso.
 /pst/Secondo la moltitudine dei dolori del mio cuore: * le tue consolazioni hanno rallegrata l'anima mia.
-/pst/Il seggio dell'iniquitÃ  Ã¨ forse alleato con te: * che hai messo travaglio nei tuoi precetti?
+/pst/Il seggio dell'iniquità è forse alleato con te: * che hai messo travaglio nei tuoi precetti?
 /pst/Tenderanno lacci all'anima del giusto; * e condanneranno il sangue innocente.
-/pst/Ma il Signore Ã¨ divenuto mio rifugio: * e il mio Dio il sostegno della mia speranza.
-/pst/E farÃ  ricadere sopra di essi la loro iniquitÃ , e per la loro malizia li disperderÃ : * li disperderÃ  il Signore Dio nostro.
+/pst/Ma il Signore è divenuto mio rifugio: * e il mio Dio il sostegno della mia speranza.
+/pst/E farà ricadere sopra di essi la loro iniquità, e per la loro malizia li disperderà: * li disperderà il Signore Dio nostro.
 /tra/Ant. Insidieranno all'anima del giusto, e il sangue innocente condanneranno.
 /tra/v Han parlato contro di me con lingua bugiarda.
 /tra/r E con discorsi di odio m'han circondato, e m'han combattuto senza motivo.
-/tra/Padre nostro =(in silenzio)=
+/tra/Padre nostro =(in silenzio)=.
+/com/Al terzo Notturno, la santa Chiesa legge un passaggio della Lettera agli Ebrei, nel quale S. Paolo ci mostra il Figlio di Dio divenuto Sommo Sacerdote e intercessore per gli uomini presso il Padre suo, per mezzo dell’effusione del suo Sangue, col quale cancella i nostri peccati e ci apre il Cielo che la prevaricazione di Adamo ci aveva chiuso.
 /stt/Lettura 7
 /stt/Dalla Lettera dell'Apostolo san Paolo agli Ebrei
-/ref/Ebr 4:11-15 
-/tralett/A[NJ]Ffrettiamoci d'entrare in quel riposo: affinchÃ© nessuno cada in simile esempio d'incredulitÃ . PerchÃ© la parola di Dio Ã¨ viva ed efficace e piÃ¹ penetrante di qualunque spada a due tagli: e s'interna fino a dividere l'anima e lo spirito, le giunture e le midolle, e discerne i pensieri e le intenzioni del cuore. Non c'Ã¨ cosa creata (che rimanga) invisibile dinanzi a lui: ma tutto Ã¨ nudo e palese agli occhi di colui del quale parliamo. Avendo dunque un Pontefice grande che penetrÃ² nei cieli, GesÃ¹ figlio di Dio, rimaniam saldi nella professione della fede. PerchÃ© noi non abbiamo un Pontefice che non possa compatire alle nostre debolezze: egli Ã¨ stato tentato in tutto, a somiglianza di noi, salvo il peccato.
-/resp/Rep. Mi consegnarono nelle mani degli empi e mi confusero cogl'iniqui, e non ebber riguardo all' anima mia: si unirono contro di me dei prepotenti: * E come giganti mi si scagliarono contro. v Degli stranieri insorsero contro di me, e dei prepotenti cercarono l'anima mia. r E come giganti mi si scagliarono contro.
+/ref/Ebr. IV, 11-15 
+/tralett/A[NJ]Ffrettiamoci d'entrare in quel riposo: affinché nessuno cada in simile esempio d'incredulità. Perché la parola di Dio è viva ed efficace e più penetrante di qualunque spada a due tagli: e s'interna fino a dividere l'anima e lo spirito, le giunture e le midolle, e discerne i pensieri e le intenzioni del cuore. Non c'è cosa creata (che rimanga) invisibile dinanzi a lui: ma tutto è nudo e palese agli occhi di colui del quale parliamo. Avendo dunque un Pontefice grande che penetrò nei cieli, Gesù figlio di Dio, rimaniam saldi nella professione della fede. Perché noi non abbiamo un Pontefice che non possa compatire alle nostre debolezze: egli è stato tentato in tutto, a somiglianza di noi, salvo il peccato.
+/com/Sempre il lamento del Signore, ma molto dolce, quasi silenzioso, quasi non si trattasse di lui, e malgrado tutti gli oltraggi ricevuti. Esso si accresce soltanto al ricordo degli assassini e delle loro iniquità ([congregati sunt…]). Sono queste iniquità, e non già il suo personale lamento, che la melodia ha espresso.
+/resp/Resp. Mi consegnarono nelle mani degli empi e mi confusero cogl'iniqui, e non ebber riguardo all' anima mia: si unirono contro di me dei prepotenti: * E come giganti mi si scagliarono contro. v Degli stranieri insorsero contro di me, e dei prepotenti cercarono l'anima mia. r E come giganti mi si scagliarono contro.
 /stt/Lettura 8
-/ref/Ebr 4:16; 5:1-3
-/tralett/A[NJ]Ccostiamoci dunque con fiducia al trono della grazia, per ottenere misericordia e trovar grazia per soccorso opportuno. Infatti ogni Pontefice preso di tra gli uomini Ã¨ costituito per gli uomini in ciÃ² che riguarda il culto di Dio, perchÃ© offra doni e sacrifizi per i peccati, Che possa aver compassione degl'ignoranti e dei traviati, perchÃ© egli stesso Ã¨ circondato di debolezza: E appunto per questo Ã¨ obbligato ad offrire come per il popolo, cosÃ¬ anche per se stesso, dei sacrifizi per i peccati.
-/resp/Rep. L'empio consegnÃ² GesÃ¹ ai capi dei sacerdoti e agli anziani del popolo: * Pietro poi lo seguiva alla lontana per vedere la fine. v E lo condussero da Caifa, sommo sacerdote, dove s'eran radunati gli scribi e i farisei. r Pietro poi lo seguiva alla lontana per vedere la fine.
+/ref/Ebr. IV, 16; V, 1-3
+/tralett/A[NJ]Ccostiamoci dunque con fiducia al trono della grazia, per ottenere misericordia e trovar grazia per soccorso opportuno. Infatti ogni Pontefice preso di tra gli uomini è costituito per gli uomini in ciò che riguarda il culto di Dio, perché offra doni e sacrifizi per i peccati, Che possa aver compassione degl'ignoranti e dei traviati, perché egli stesso è circondato di debolezza: E appunto per questo è obbligato ad offrire come per il popolo, così anche per se stesso, dei sacrifizi per i peccati.
+/com/Narrazione vivida ed agitata dell’arresto. Dopo il [Jesum] dell’incipit, assai messo in luce, il ritmo un po’ tormentato di [principibus sacerdotum] e di [senioribus] pare sottolineare l’odiosità del ruolo svolto, in questa storia, dai capi religiosi del popolo ebraico. Con l’evocazione di san Pietro, invece, il tono si distende, e tutto termina in una bella ed inaspettata modulazione dal modo sesto al modo ottavo. 
+/resp/Resp. L'empio consegnò Gesù ai capi dei sacerdoti e agli anziani del popolo: * Pietro poi lo seguiva alla lontana per vedere la fine. v E lo condussero da Caifa, sommo sacerdote, dove s'eran radunati gli scribi e i farisei. r Pietro poi lo seguiva alla lontana per vedere la fine.
 /stt/Lettura 9
-/ref/Ebr 5:4-10 
-/tralett/E[NJ] nessuno puÃ² pretendere questa dignitÃ , ma chi Ã¨ chiamato da Dio, come Aronne. CosÃ¬ anche Cristo non s'arrogÃ² da sÃ¨ la gloria d'esser Pontefice: ma gliela diede colui che gli disse: Â«Tu sei mio Figlio, io oggi ti ho generatoÂ» Ps. 2,7. Come anche altrove dice: Â«Tu sei sacerdote in eterno, secondo l'ordine di MelchisedechÂ» Ps. 109,4. Egli nei giorni della sua vita mortale avendo con forti grida e con lacrime offerto preghiere e suppliche a colui che poteva salvarlo dalla morte, fu esaudito per la sua riverenza. E benchÃ© fosse Figlio di Dio, imparÃ² l'ubbidienza da ciÃ² che patÃ¬: E, colla sua immolazione, divenne per tutti quelli che gli obbediscono causa di eterna salute, Essendo stato proclamato da Dio Pontefice, secondo l'ordine di Melchisedech.
-/resp/Rep. Gli occhi mi si sono offuscati a forza di piangere: perchÃ© si Ã¨ allontanato da me chi mi consolava: Vedete, o popoli tutti, * Se c'Ã¨ dolore simile al mio dolore. v O voi tutti, che passate per la via, badate e vedete. r Se c'Ã¨ dolore simile al mio dolore. r Gli occhi mi si sono offuscati a forza di piangere: perchÃ© si Ã¨ allontanato da me chi mi consolava: Vedete, o popoli tutti, * Se c'Ã¨ dolore simile al mio dolore.
+/ref/Ebr. V, 4-10 
+/tralett/E[NJ] nessuno può pretendere questa dignità, ma chi è chiamato da Dio, come Aronne. Così anche Cristo non s'arrogò da sè la gloria d'esser Pontefice: ma gliela diede colui che gli disse: “Tu sei mio Figlio, io oggi ti ho generato”. Come anche altrove dice: “Tu sei sacerdote in eterno, secondo l'ordine di Melchisedech”. Egli nei giorni della sua vita mortale avendo con forti grida e con lacrime offerto preghiere e suppliche a colui che poteva salvarlo dalla morte, fu esaudito per la sua riverenza. E benché fosse Figlio di Dio, imparò l'ubbidienza da ciò che patì: E, colla sua immolazione, divenne per tutti quelli che gli obbediscono causa di eterna salute, Essendo stato proclamato da Dio Pontefice, secondo l'ordine di Melchisedech.
+/com/Sempre il lamento del Signore su se stesso, sulla propria solitudine. Ma sempre pure la stessa dolcezza, la stessa tenerezza, senza neppure un rimprovero: “i miei occhi si sono oscurati a forza di piangere”. Vogliate notare l’angoscia dell’[elongatus est a me], e l’avviluppamento di [consolabatur me]. E allora, è per noi tutti, nel bell’andamento di [si est dolor similis sicut dolor meus], l’invito a rimirare, a considerare il suo infinito dolore,e a considerare se davvero possa essere paragonato ad un altro.
+/resp/Resp. Gli occhi mi si sono offuscati a forza di piangere: perché si è allontanato da me chi mi consolava: Vedete, o popoli tutti, * Se c'è dolore simile al mio dolore. v O voi tutti, che passate per la via, badate e vedete. r Se c'è dolore simile al mio dolore. r Gli occhi mi si sono offuscati a forza di piangere: perché si è allontanato da me chi mi consolava: Vedete, o popoli tutti, * Se c'è dolore simile al mio dolore.
 /tra/Ant. Il suo proprio * Figlio non ha risparmiato Iddio, ma l'ha sacrificato per tutti noi.
 /stt/Salmo 50
-/pst1/Abbi pietÃ  di me, o Dio, * secondo la tua grande misericordia;
-/pst/E secondo la moltitudine delle tue bontÃ  * cancella la mia iniquitÃ .
-/pst/Lavami ancor piÃ¹ dalla mia iniquitÃ , * e mondami dal mio peccato.
-/pst/PoichÃ© io conosco la mia iniquitÃ , * e il mio peccato mi sta sempre davanti.
-/pst/Ho peccato contro di te solo, ed ho fatto ciÃ² che Ã¨ male dinanzi a te * affinchÃ© tu sii giustificato nelle tue parole, e riporti vittoria quando sei giudicato.
-/pst/Ecco infatti, io fui concepito nelle iniquitÃ : * e mia madre mi concepÃ¬ nei peccati.
-/pst/Ecco infatti, tu hai amato la veritÃ : * mi hai manifestato i segreti e occulti misteri della tua sapienza.
-/pst/Tu mi aspergerai coll'issopo, e sarÃ² mondato: * mi laverai, e diverrÃ² bianco piÃ¹ che la neve.
+/pst1/Abbi pietà di me, o Dio, * secondo la tua grande misericordia;
+/pst/E secondo la moltitudine delle tue bontà * cancella la mia iniquità.
+/pst/Lavami ancor più dalla mia iniquità, * e mondami dal mio peccato.
+/pst/Poiché io conosco la mia iniquità, * e il mio peccato mi sta sempre davanti.
+/pst/Ho peccato contro di te solo, ed ho fatto ciò che è male dinanzi a te * affinché tu sii giustificato nelle tue parole, e riporti vittoria quando sei giudicato.
+/pst/Ecco infatti, io fui concepito nelle iniquità: * e mia madre mi concepì nei peccati.
+/pst/Ecco infatti, tu hai amato la verità: * mi hai manifestato i segreti e occulti misteri della tua sapienza.
+/pst/Tu mi aspergerai coll'issopo, e sarò mondato: * mi laverai, e diverrò bianco più che la neve.
 /pst/Mi farai sentire una parola di gaudio e di letizia: * e le [mie] ossa umiliate esulteranno.
-/pst/Rivolgi la tua faccia dai miei peccati: * e cancella tutte le mie iniquitÃ .
+/pst/Rivolgi la tua faccia dai miei peccati: * e cancella tutte le mie iniquità.
 /pst/Dio, crea in me un cuore mondo: * e rinnova nelle mie viscere uno spirito retto.
 /pst/Non mi scacciare dalla tua presenza: * e non togliere da me il tuo santo spirito.
 /pst/Ridonami la gioia della tua salute: * e sostienimi con uno spirito generoso.
-/pst/InsegnerÃ² agli iniqui le tue vie: * e gli empi si convertiranno a te.
-/pst/Liberami dal reato del sangue, o Dio, Dio della mia salute: * e la mia lingua celebrerÃ  con giubilo la tua giustizia.
-/pst/Signore, tu aprirai le mie labbra: * e la mia bocca annunzierÃ  le tue lodi.
-/pst/PoichÃ© se tu avessi voluto un sacrificio, lo avrei offerto; * ma tu non ti compiaci degli olocausti.
-/pst/Sacrificio a Dio Ã¨ uno spirito contrito: * tu, o Dio, non disprezzerai un cuore contrito e umiliato.
-/pst/Nel tuo buon volere, o Signore, fa del bene a Sion: * affinchÃ© siano edificate le mura di Gerusalemme.
+/pst/Insegnerò agli iniqui le tue vie: * e gli empi si convertiranno a te.
+/pst/Liberami dal reato del sangue, o Dio, Dio della mia salute: * e la mia lingua celebrerà con giubilo la tua giustizia.
+/pst/Signore, tu aprirai le mie labbra: * e la mia bocca annunzierà le tue lodi.
+/pst/Poiché se tu avessi voluto un sacrificio, lo avrei offerto; * ma tu non ti compiaci degli olocausti.
+/pst/Sacrificio a Dio è uno spirito contrito: * tu, o Dio, non disprezzerai un cuore contrito e umiliato.
+/pst/Nel tuo buon volere, o Signore, fa del bene a Sion: * affinché siano edificate le mura di Gerusalemme.
 /pst/Allora gradirai il sacrificio di giustizia, le oblazioni e gli olocausti: * allora si porranno dei vitelli sul tuo altare.
 /tra/Ant. Il suo proprio Figlio non ha risparmiato Iddio, ma l'ha sacrificato per tutti noi.
-/tra/Ant. Abbattuto Ã¨ in me * il mio spirito: turbato Ã¨ in me il mio cuore.
+/tra/Ant. Abbattuto è in me * il mio spirito: turbato è in me il mio cuore.
+/com/Il secondo Salmo(142) fa anch’esso parte del novero di quelli che Davide compose al tempo della rivolta di Absalon. Durante l’anno è recitato nell’Ufficio delle Lodi del venerdì, e si addice perfettamente al mistero di questo giorno, dal momento che esprime l’abbandono da parte degli uomini e la fiducia in Dio, sentimenti che il Messia provò sulla croce. 
 /stt/Salmo 142
-/pst1/Signore, ascolta la mia preghiera: porgi orecchio alla mia supplica per la tua veritÃ : * esaudiscimi per la tua giustizia.
-/pst/E non entrare in giudizio col tuo servo: * perchÃ© nessun vivente sarÃ  riconosciuto giusto al tuo cospetto.
-/pst/PerchÃ© il nemico ha perseguitato l'anima mia: * ha umiliato fino a terra la mia vita.
-/pst/Mi ha confinato in luoghi tenebrosi, come i morti da secoli, * e il mio spirito entro di me Ã¨ nell'ansietÃ ; e il mio cuore entro di me Ã¨ conturbato.
+/pst1/Signore, ascolta la mia preghiera: porgi orecchio alla mia supplica per la tua verità: * esaudiscimi per la tua giustizia.
+/pst/E non entrare in giudizio col tuo servo: * perché nessun vivente sarà riconosciuto giusto al tuo cospetto.
+/pst/Perché il nemico ha perseguitato l'anima mia: * ha umiliato fino a terra la mia vita.
+/pst/Mi ha confinato in luoghi tenebrosi, come i morti da secoli, * e il mio spirito entro di me è nell'ansietà; e il mio cuore entro di me è conturbato.
 /pst/Mi sono ricordato dei giorni antichi; ho meditato tutte le tue opere: * meditavo le cose fatte dalle tue mani.
-/pst/Stesi verso di te le mie mani; * l'anima mia Ã¨ dinanzi a te come una terra priva di acqua.
-/pst/Esaudiscimi presto, o Signore; * il mio spirito Ã¨ venuto meno.
-/pst/Non rivolgere da me la tua faccia: * perchÃ© sarei simile a quelli che scendono nella fossa.
-/pst/Fa che io senta fin dal mattino la tua misericordia: * perchÃ© ho sperato in te.
-/pst/Fammi conoscere la via che ho da battere: * perchÃ© a te ho sollevata l'anima mia.
-/pst/Liberami, o Signore, dai miei nemici; presso di te cercai rifugio. * Insegnami a far la tua volontÃ , perchÃ© tu sei il mio Dio.
-/pst/Il tuo spirito buono mi condurrÃ  per terra piana: * Per amor del tuo nome, o Signore, mi darai vita secondo la tua equitÃ .
+/pst/Stesi verso di te le mie mani; * l'anima mia è dinanzi a te come una terra priva di acqua.
+/pst/Esaudiscimi presto, o Signore; * il mio spirito è venuto meno.
+/pst/Non rivolgere da me la tua faccia: * perché sarei simile a quelli che scendono nella fossa.
+/pst/Fa che io senta fin dal mattino la tua misericordia: * perché ho sperato in te.
+/pst/Fammi conoscere la via che ho da battere: * perché a te ho sollevata l'anima mia.
+/pst/Liberami, o Signore, dai miei nemici; presso di te cercai rifugio. * Insegnami a far la tua volontà, perché tu sei il mio Dio.
+/pst/Il tuo spirito buono mi condurrà per terra piana: * Per amor del tuo nome, o Signore, mi darai vita secondo la tua equità.
 /pst/Trarrai l'anima mia dalla tribolazione: * E nella tua misericordia manderai dispersi i miei nemici.
-/pst/E disperderai tutti coloro che affliggono l'anima mia, * perchÃ© io sono il tuo servo.
-/tra/Ant. Abbattuto Ã¨ in me il mio spirito: turbato Ã¨ in me il mio cuore.
+/pst/E disperderai tutti coloro che affliggono l'anima mia, * perché io sono il tuo servo.
+/tra/Ant. Abbattuto è in me il mio spirito: turbato è in me il mio cuore.
 /tra/Ant. Disse il ladro al ladrone: * Noi giustamente paghiamo la pena dei nostri misfatti, ma questi che ha fatto? Signore, ricordati di me quando giungerai nel tuo regno.
+/com/Il terzo Salmo (84), anch’esso proprio delle Lodi del venerdì, celebra il gran mistero della Redenzione che si compie in questo giorno, la fine del peccato, la collera divina soddisfatta. Lo si canta con l’Antifona seguente:
 /stt/Salmo 84
-/pst1/Signore, hai benedetto la tua terra: * hai tolta la cattivitÃ  di Giacobbe.
-/pst/Hai rimesso l'iniquitÃ  del tuo popolo; * hai coperti tutti i loro peccati.
+/pst1/Signore, hai benedetto la tua terra: * hai tolta la cattività di Giacobbe.
+/pst/Hai rimesso l'iniquità del tuo popolo; * hai coperti tutti i loro peccati.
 /pst/Hai raddolcito tutto il tuo sdegno: * hai sedato l'ardore della tua ira.
 /pst/Convertici, o Dio nostro salvatore: * e rimuovi da noi la tua ira.
 /pst/Sarai tu in eterno sdegnato contro di noi? * o prolungherai la tua ira di generazione in generazione?
-/pst/Dio, tu volgendoti a noi ci renderai la vita: * e il tuo popolo si rallegrerÃ  in te.
+/pst/Dio, tu volgendoti a noi ci renderai la vita: * e il tuo popolo si rallegrerà in te.
 /pst/Mostraci, o Signore, la tua misericordia * e donaci la tua salute.
-/pst/AscolterÃ² quel che dentro di me dirÃ  il Signore Dio: * perchÃ© egli parlerÃ  di pace per il suo popolo;
+/pst/Ascolterò quel che dentro di me dirà il Signore Dio: * perché egli parlerà di pace per il suo popolo;
 /pst/E per i suoi santi; * e per quelli che tornano di cuore [a lui].
-/pst/Certo la sua salute Ã¨ vicina a quelli che lo temono, * onde la gloria abiterÃ  nella nostra terra.
-/pst/La misericordia e la veritÃ  si sono incontrate: * la giustizia e la pace si sono baciate.
-/pst/La veritÃ  germoglia dalla terra: * e la giustizia si mostra dal cielo.
-/pst/PerchÃ© il Signore darÃ  la sua benignitÃ ; * e la nostra terra produrrÃ  il suo frutto.
-/pst/La giustizia camminerÃ  dinanzi a lui: * metterÃ  i suoi passi sulla retta via.
+/pst/Certo la sua salute è vicina a quelli che lo temono, * onde la gloria abiterà nella nostra terra.
+/pst/La misericordia e la verità si sono incontrate: * la giustizia e la pace si sono baciate.
+/pst/La verità germoglia dalla terra: * e la giustizia si mostra dal cielo.
+/pst/Perché il Signore darà la sua benignità; * e la nostra terra produrrà il suo frutto.
+/pst/La giustizia camminerà dinanzi a lui: * metterà i suoi passi sulla retta via.
 /tra/Ant. Disse il ladro al ladrone: Noi giustamente paghiamo la pena dei nostri misfatti, ma questi che ha fatto? Signore, ricordati di me quando giungerai nel tuo regno.
-/tra/Ant. Quando â€˜anima mia * sarÃ  conturbata, Signore, ricordati della tua misericordia.
-/stt/Cantico di Habacuc
-/ref/Habac. 3:2-33
+/tra/Ant. Quando ‘anima mia * sarà conturbata, Signore, ricordati della tua misericordia.
+/com/Il Cantico del Profeta Abacuc fa pure esso parte dell’Ufficio delle Lodi per il venerdì. Celebra con magnificenza la vittoria di Cristo sui suoi nemici, nel giorno in cui verrà a giudicare il mondo, e forma un contrasto sublime con le umiliazioni delle quali l’Uomo-Dio è in balia quest’oggi.
+/stt/Cantico di Abacuc
+/ref/Abac. III, 2-33
 /pst1/Signore, ho inteso il tuo oracolo * e ne sono atterrito!
 /pst/Signore, la tua opera * fa rivivere nel corso degli anni!
 /pst/Nel corso degli anni, rendila manifesta: * quando sarai adirato, ricordati della tua misericordia!
 /pst/Dio viene dall'Austro, * il Santo dalla montagna di Faran.
-/pst/La sua gloria riveste i cieli; * la sua maestÃ  riempie la terra.
-/pst/Il suo splendore Ã¨ come quello del sole, * e le sue mani irradiano raggi,
+/pst/La sua gloria riveste i cieli; * la sua maestà riempie la terra.
+/pst/Il suo splendore è come quello del sole, * e le sue mani irradiano raggi,
 /pst/Con cui nasconde la sua potenza. * Dinanzi a lui cammina la morte,
 /pst/E il diavolo precede i suoi passi. * Il Signore si ferma e misura la terra.
 /pst/Guarda e scuote le nazioni; * e le montagne eterne si squarciano,
 /pst/E le colline, antiche si avvallano, * sotto i suoi passi eterni.
 /pst/Vedo l'angoscia sotto le tende d'Etiopia * e lo sconvolgimento nei padiglioni di Madian.
-/pst/Ãˆ forse contro i fiumi che sei sdegnato Signore? * Contro i fiumi che Ã¨ rivolta la tua collera? Contro il mare si scatena la tua ira?
+/pst/È forse contro i fiumi che sei sdegnato Signore? * Contro i fiumi che è rivolta la tua collera? Contro il mare si scatena la tua ira?
 /pst/Tu che sali sui tuoi cavalli, * sulle tue quadrighe invitte.
-/pst/Brandisci il tuo arco, * secondo i giuramenti fatti alle tribÃ¹:
+/pst/Brandisci il tuo arco, * secondo i giuramenti fatti alle tribù:
 /pst/Tu solchi la terra con i tuoi torrenti. Alla tua vista, * le montagne gemono; passa un rovescio d'acqua.
 /pst/L'abisso fa sentire la sua voce; * l'alto mare solleva le sue onde.
 /pst/Il sole e la luna restano immobili nella loro tenda * davanti al lampeggiar delle tue frecce, davanti allo sfolgorio della tua lancia.
@@ -343,47 +366,48 @@
 /pst/Ho inteso quest'oracolo e ne hanno fremuto le mie viscere; * alla tua voce, le mie labbra hanno tremato.
 /pst/La carie mi entri nelle ossa, * e i piedi vacillino sotto i miei passi;
 /pst/Piaccia al Signore che sia morto nel giorno della tribolazione, * quando i nostri oppressori assaliranno il nostro popolo.
-/pst/Allora il fico non fiorirÃ  piÃ¹; * la vigna non produrrÃ  piÃ¹ germe.
-/pst/Il frutto dell'olivo mancherÃ ; * i campi non daranno piÃ¹ pane.
-/pst/Le pecore mancheranno nell'ovile; * e non vi sarÃ  piÃ¹ bestiame nelle stalle.
-/pst/Ma io esulterÃ² nel Signore; * mi rallegrerÃ² in Dio mio Salvatore.
-/pst/Il Signore Dio Ã¨ la mia forza; * Egli mi rende i piedi agili come quelli del cervo;
-/pst/Mi mette al sicuro sulle piÃ¹ alte cime. * Al maestro di canto, sulle arpe.
-/tra/Ant. Quando â€˜anima mia sarÃ  conturbata, Signore, ricordati della tua misericordia.
+/pst/Allora il fico non fiorirà più; * la vigna non produrrà più germe.
+/pst/Il frutto dell'olivo mancherà; * i campi non daranno più pane.
+/pst/Le pecore mancheranno nell'ovile; * e non vi sarà più bestiame nelle stalle.
+/pst/Ma io esulterò nel Signore; * mi rallegrerò in Dio mio Salvatore.
+/pst/Il Signore Dio è la mia forza; * Egli mi rende i piedi agili come quelli del cervo;
+/pst/Mi mette al sicuro sulle più alte cime. * Al maestro di canto, sulle arpe.
+/tra/Ant. Quando ‘anima mia sarà conturbata, Signore, ricordati della tua misericordia.
 /tra/Ant. Ricordati di me, * o Signore, quando giungerai nel tuo regno.
+/com/L’ultimo Salmo (147) è quello abituale delle Lodi del venerdì. 
 /stt/Salmo 147
 /pst1/Loda, o Gerusalemme, il Signore: * loda il tuo Dio, o Sion.
-/pst/PerchÃ© ha rinforzato le sbarre delle tue porte: * ha benedetto i tuoi figli dentro di te.
+/pst/Perché ha rinforzato le sbarre delle tue porte: * ha benedetto i tuoi figli dentro di te.
 /pst/Egli ha messo pace nei tuoi confini, * e ti sazia col fior di frumento.
 /pst/Egli manda la sua parola alla terra: * il suo detto corre veloce.
-/pst/DÃ  la neve come fiocchi di lana: * sparge la nebbia come cenere.
-/pst/Manda giÃ¹ il suo ghiaccio come briciole: * chi puÃ² reggere al suo freddo?
-/pst/ManderÃ  i suoi ordini, e le fonderÃ : * soffierÃ  il suo vento, e scorreranno le acque.
+/pst/Dà la neve come fiocchi di lana: * sparge la nebbia come cenere.
+/pst/Manda giù il suo ghiaccio come briciole: * chi può reggere al suo freddo?
+/pst/Manderà i suoi ordini, e le fonderà: * soffierà il suo vento, e scorreranno le acque.
 /pst/Egli annunzia la sua parola a Giacobbe, * e le sue giustizie e i suoi giudizi ad Israele.
 /pst/Non ha fatto cosi a tutte le nazioni, * e non ha loro manifestato i suoi giudizi.
 /tra/Ant. Ricordati di me, o Signore, quando giungerai nel tuo regno.
 /tra/v M'ha confinato nelle tenebre.
 /tra/r Come i morti da secoli.
-/tra/Ant. E gli posero * sopra la testa il titolo della condanna: GesÃ¹ di Nazaret, Re dei Giudei.
+/tra/Ant. E gli posero * sopra la testa il titolo della condanna: Gesù di Nazaret, Re dei Giudei.
 /stt/Cantico di Zaccaria
 /ref/Lc. 1, 68-79
-/pst1/Benedetto il Signore Dio d'Israele, * perchÃ© ha visitato e redento il suo popolo:
-/pst/ed ha innalzato per noi un un corno [segno] di salvezza * nella casa di David suo servo.
-/pst/Come annunziÃ² per bocca dei santi, * dei suoi profeti, che furono fin da principio:
+/pst1/Benedetto il Signore Dio d'Israele, * perché ha visitato e redento il suo popolo:
+/pst/ed ha innalzato per noi un un corno [segno] di salvezza * nella casa di Davide suo servo.
+/pst/Come annunziò per bocca dei santi, * dei suoi profeti, che furono fin da principio:
 /pst/liberazione dai nostri nemici, * e dalle mani di tutti coloro che ci odiano:
 /pst/per fare misericordia con i padri nostri: * e mostrarsi memore dell'alleanza sua santa:
-/pst/conforme al giuramento, col quale Egli giurÃ² ad Abramo padre nostro * di concedere a noi:
+/pst/conforme al giuramento, col quale Egli giurò ad Abramo padre nostro * di concedere a noi:
 /pst/che liberi dalle mani dei nostri nemici, e scevri di timore * serviamo a Lui
-/pst/con santitÃ  e giustizia nel cospetto di Lui * per tutti i nostri giorni.
-/pst/E tu, bambino, sarai detto profeta dell'Altissimo: * perchÃ© precederai davanti alla faccia del Signore a preparare le sue vie:
+/pst/con santità e giustizia nel cospetto di Lui * per tutti i nostri giorni.
+/pst/E tu, bambino, sarai detto profeta dell'Altissimo: * perché precederai davanti alla faccia del Signore a preparare le sue vie:
 /pst/Per dare al suo popolo la scienza della salute * per la remissione dei loro peccati,
 /pst/per le viscere della misericordia del nostro Dio, * per le quali ci ha visitato dall'alto l'Oriente,
 /pst/per illuminare coloro che giacciono nelle tenebre e nell'ombra della morte: * per guidare i nostri passi nella via della pace.
-/tra/Ant. E gli posero sopra la testa il titolo della condanna: GesÃ¹ di Nazaret, Re dei Giudei./rub/
-/tralett/C[NJ]Risto s'Ã¨ fatto obbediente per noi sino a morire e morire in croce./rub/
-/tra/Padre nostro =(in silenzio)=
+/tra/Ant. E gli posero sopra la testa il titolo della condanna: Gesù di Nazaret, Re dei Giudei
+/com/Il graduale [Christus factus est] (modo quinto) costituisce il leitmotiv della Settimana santa, giacché ne termina ogni giorno l’Ufficio delle Tenebre, e anche, senza esser cantato, ciascuna delle Ore. Mero adattamento, senza’alcun dubbio, di un tipo melodico anteriore, ma meravigliosamente riuscito, tanto essa mette in risalto l’opposizione tra l’umiliazione della croce (prima parte) e la trionfale esaltazione di cui la croce fu la condizione ed il riscatto (versetto).
+/tralett/C[NJ]Risto s'è fatto obbediente per noi sino a morire e morire in croce.
+/tra/Padre nostro =(in silenzio)=.
 /stt/Orazione
-/tralett/S[NJ]Ignore, riguarda su questa tua famiglia, per la quale nostro Signore GesÃ¹ Cristo non esitÃ² di darsi nelle mani dei carnefici, e subire il supplizio della croce:
-/rub/E si conclude in silenzio
-/tra/Lui che Ã¨ Dio, e vive e regna con te, in unitÃ  con lo Spirito Santo, per tutti i secoli dei secoli.
-/tra/r Amen
+/tralett/S[NJ]Ignore, riguarda su questa tua famiglia, per la quale nostro Signore Gesù Cristo non esitò di darsi nelle mani dei carnefici, e subire il supplizio della croce:
+/rub/E si conclude in silenzio.
+/tra/Lui che è Dio, e vive e regna con te, in unità con lo Spirito Santo, per tutti i secoli dei secoli. Amen.
